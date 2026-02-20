@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "surah_number": 113,
+  "arabic_name": "سُورَةُ الفَلَقِ",
+  "english_name": "Al-Falaq",
+  "verses_count": 5,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "english": "SAY: \"I seek refuge with the Sustainer of the rising dawn,",
+      "urdu": "کہو، میں پناہ مانگتا ہوں صبح کے رب کی"
+    },
+    {
+      "number": 2,
+      "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "english": "\"from the evil of aught that He has created,",
+      "urdu": "ہر اُس چیز کے شر سے جو اُس نے پیدا کی ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "english": "\"and from the evil of the black darkness whenever it descends,",
+      "urdu": "اور رات کی تاریکی کے شر سے جب کہ وہ چھا جائے"
+    },
+    {
+      "number": 4,
+      "arabic": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "english": "\"and from the evil of all human beings bent on occult endeavours,",
+      "urdu": "اور گرہوں میں پھونکنے والوں (یا والیوں) کے شر سے"
+    },
+    {
+      "number": 5,
+      "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "english": "\"and from the evil of the envious when he envies.\"",
+      "urdu": "اور حاسد کے شر سے جب کہ وہ حسد کرے"
+    }
+  ]
+}

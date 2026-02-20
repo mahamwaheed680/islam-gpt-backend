@@ -1,0 +1,478 @@
+{
+  "success": true,
+  "surah_number": 55,
+  "arabic_name": "سُورَةُ الرَّحۡمَٰن",
+  "english_name": "Ar-Rahmaan",
+  "verses_count": 78,
+  "revelation_type": "Medinan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ",
+      "english": "THE MOST GRACIOUS",
+      "urdu": "رحمٰن نے"
+    },
+    {
+      "number": 2,
+      "arabic": "عَلَّمَ ٱلْقُرْءَانَ",
+      "english": "has imparted this Qur’an [unto man].",
+      "urdu": "اِس قرآن کی تعلیم دی ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "خَلَقَ ٱلْإِنسَٰنَ",
+      "english": "He has created man:",
+      "urdu": "اُسی نے انسان کو پیدا کیا"
+    },
+    {
+      "number": 4,
+      "arabic": "عَلَّمَهُ ٱلْبَيَانَ",
+      "english": "He has imparted unto him articulate thought and speech.",
+      "urdu": "اور اسے بولنا سکھایا"
+    },
+    {
+      "number": 5,
+      "arabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ",
+      "english": "[At His behest] the sun and the moon run their appointed courses;",
+      "urdu": "سورج اور چاند ایک حساب کے پابند ہیں"
+    },
+    {
+      "number": 6,
+      "arabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "english": "[before Him] prostrate them­selves the stars and the trees.",
+      "urdu": "اور تارے اور درخت سب سجدہ ریز ہیں"
+    },
+    {
+      "number": 7,
+      "arabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "english": "And the skies has He raised high, and has devised [for all things] a measure,",
+      "urdu": "آسمان کو اُس نے بلند کیا اور میزان قائم کر دی"
+    },
+    {
+      "number": 8,
+      "arabic": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "english": "so that you [too, O men,] might never transgress the measure [of what is right]:",
+      "urdu": "اِس کا تقاضا یہ ہے کہ تم میزان میں خلل نہ ڈالو"
+    },
+    {
+      "number": 9,
+      "arabic": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "english": "weigh, therefore, [your deeds] with equity, and cut not the measure short!",
+      "urdu": "انصاف کے ساتھ ٹھیک ٹھیک تولو اور ترازو میں ڈنڈی نہ مارو"
+    },
+    {
+      "number": 10,
+      "arabic": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "english": "And the earth has He spread out for all living beings,",
+      "urdu": "زمین کو اس نے سب مخلوقات کے لیے بنایا"
+    },
+    {
+      "number": 11,
+      "arabic": "فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "english": "with fruit thereon, and palm trees with sheathed clusters [of dates],",
+      "urdu": "اس میں ہر طرح کے بکثرت لذیذ پھل ہیں کھجور کے درخت ہیں جن کے پھل غلافوں میں لپٹے ہوئے ہیں"
+    },
+    {
+      "number": 12,
+      "arabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "english": "and grain growing tall on its stalks, and sweet-smelling plants.",
+      "urdu": "طرح طرح کے غلے ہیں جن میں بھوسا بھی ہوتا ہے اور دانہ بھی"
+    },
+    {
+      "number": 13,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 14,
+      "arabic": "خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ",
+      "english": "He has created man out of sounding clay, like pottery,",
+      "urdu": "انسان کو اُس نے ٹھیکری جیسے سوکھے سڑے ہوئے گارے سے بنایا"
+    },
+    {
+      "number": 15,
+      "arabic": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ",
+      "english": "whereas the invisible beings He has created out of a confusing flame of fire.",
+      "urdu": "اور جن کو آگ کی لپٹ سے پیدا کیا"
+    },
+    {
+      "number": 16,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کے کن کن عجائب قدرت کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 17,
+      "arabic": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "english": "[He is] the Sustainer of the two farthest points of sunrise, and the Sustainer of the two farthest points of sunset.",
+      "urdu": "دونوں مشرق اور دونوں مغرب، سب کا مالک و پروردگار وہی ہے"
+    },
+    {
+      "number": 18,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustain­er’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کی کن کن قدرتوں کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 19,
+      "arabic": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "english": "He has given freedom to the two great bodies of water, so that they might meet:",
+      "urdu": "دو سمندروں کو اس نے چھوڑ دیا کہ باہم مل جائیں"
+    },
+    {
+      "number": 20,
+      "arabic": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ",
+      "english": "[yet] between them is a barrier which they may not transgress.",
+      "urdu": "پھر بھی اُن کے درمیان ایک پردہ حائل ہے جس سے وہ تجاوز نہیں کرتے"
+    },
+    {
+      "number": 21,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کی قدرت کے کن کن کرشموں کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 22,
+      "arabic": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "english": "Out of these two [bodies of water] come forth pearls, both great and small.",
+      "urdu": "اِن سمندروں سے موتی اور مونگے نکلتے ہیں"
+    },
+    {
+      "number": 23,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کی قدرت کے کن کن کمالات کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 24,
+      "arabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+      "english": "And His are the lofty ships that sail like [floating] mountains through the seas.",
+      "urdu": "اور یہ جہاز اُسی کے ہیں جو سمندر میں پہاڑوں کی طرح اونچے اٹھے ہوئے ہیں"
+    },
+    {
+      "number": 25,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کے کن کن احسانات کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 26,
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ",
+      "english": "All that lives on earth or in the heavens is bound to pass away:",
+      "urdu": "ہر چیز جو اس زمین پر ہے فنا ہو جانے والی ہے"
+    },
+    {
+      "number": 27,
+      "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+      "english": "but forever will abide thy Sustainer’s Self, full of majesty and glory.",
+      "urdu": "اور صرف تیرے رب کی جلیل و کریم ذات ہی باقی رہنے والی ہے"
+    },
+    {
+      "number": 28,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کے کن کن کمالات کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 29,
+      "arabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ",
+      "english": "On Him depends all creatures in the heavens and on earth; [and] every day He manifests Himself in yet another [wondrous] way.",
+      "urdu": "زمین اور آسمانوں میں جو بھی ہیں سب اپنی حاجتیں اُسی سے مانگ رہے ہیں ہر آن وہ نئی شان میں ہے"
+    },
+    {
+      "number": 30,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پس اے جن و انس، تم اپنے رب کی کن کن صفات حمیدہ کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 31,
+      "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "english": "[ONE DAY] We shall take you to task, O you sin-laden two!",
+      "urdu": "اے زمین کے بوجھو، عنقریب ہم تم سے باز پرس کرنے کے لیے فارغ ہوئے جاتے ہیں"
+    },
+    {
+      "number": 32,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "(پھر دیکھ لیں گے کہ) تم اپنے رب کے کن کن احسانات کو جھٹلاتے ہو"
+    },
+    {
+      "number": 33,
+      "arabic": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ",
+      "english": "O you who live in close communion with [evil] invisible beings and humans! If you [think that you] can pass beyond the regions of the heavens and the earth, pass beyond them! [But] you cannot pass beyond them, save by a sanction [from God]!",
+      "urdu": "اے گروہ جن و انس، گر تم زمین اور آسمانوں کی سرحدوں سے نکل کر بھاگ سکتے ہو تو بھاگ دیکھو نہیں بھاگ سکتے اِس کے لیے بڑا زور چاہیے"
+    },
+    {
+      "number": 34,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کی کن کن قدرتوں کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 35,
+      "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ",
+      "english": "A flash of fire will be let loose upon you, and smoke, and you will be left without succour!",
+      "urdu": "(بھاگنے کی کوشش کرو گے تو) تم پر آگ کا شعلہ اور دھواں چھوڑ دیا جائے گا جس کا تم مقابلہ نہ کر سکو گے"
+    },
+    {
+      "number": 36,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اے جن و انس، تم اپنے رب کی کن کن قدرتوں کا انکار کرو گے؟"
+    },
+    {
+      "number": 37,
+      "arabic": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+      "english": "And when the sky is rent asunder and becomes red like [burning] oil",
+      "urdu": "پھر (کیا بنے گی اُس وقت) جب آسمان پھٹے گا اور لال چمڑے کی طرح سرخ ہو جائے گا؟"
+    },
+    {
+      "number": 38,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اے جن و انس (اُس وقت) تم اپنے رب کی کن کن قدرتوں کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 39,
+      "arabic": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ",
+      "english": "For on that Day neither man nor invisible being will be asked about his sins.",
+      "urdu": "اُس روز کسی انسان اور کسی جن سے اُس کا گناہ پوچھنے کی ضرورت نہ ہوگی"
+    },
+    {
+      "number": 40,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پھر (دیکھ لیا جائے گا کہ) تم دونوں گروہ اپنے رب کے کن کن احسانات کا انکار کرتے ہو"
+    },
+    {
+      "number": 41,
+      "arabic": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "english": "All who were lost in sin shall by their marks be known, and shall by their forelocks and their feet be seized!",
+      "urdu": "مجرم وہاں اپنے چہروں سے پہچان لیے جائیں گے اور انہیں پیشانی کے بال اور پاؤں پکڑ پکڑ کر گھسیٹا جائے گا"
+    },
+    {
+      "number": 42,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اُس وقت تم اپنے رب کی کن کن قدرتوں کو جھٹلاؤ گے؟"
+    },
+    {
+      "number": 43,
+      "arabic": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "english": "This will be the hell which those who are lost in sin [now] call a lie:",
+      "urdu": "(اُس وقت کہا جائے گا) یہ وہی جہنم ہے جس کو مجرمین جھوٹ قرار دیا کرتے تھے"
+    },
+    {
+      "number": 44,
+      "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ",
+      "english": "between it and [their own] burning-hot despair will they wander to and fro!",
+      "urdu": "اُسی جہنم اور کھولتے ہوئے پانی کے درمیان وہ گردش کرتے رہیں گے"
+    },
+    {
+      "number": 45,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پھر اپنے رب کی کن کن قدرتوں کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 46,
+      "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "english": "BUT FOR THOSE who of their Sustainer’s Presence stand in fear, two gardens [of paradise are readied] -",
+      "urdu": "اور ہر اُس شخص کے لیے جو اپنے رب کے حضور پیش ہونے کا خوف رکھتا ہو، دو باغ ہیں"
+    },
+    {
+      "number": 47,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "which, then, of your Sustainer’s powers can you disavow? –",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 48,
+      "arabic": "ذَوَاتَآ أَفْنَانٍۢ",
+      "english": "[two gardens] of many wondrous hues.",
+      "urdu": "ہری بھری ڈالیوں سے بھرپور"
+    },
+    {
+      "number": 49,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 50,
+      "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "english": "In [each of] these two [gardens] two springs will flow.",
+      "urdu": "دونوں باغوں میں دو چشمے رواں"
+    },
+    {
+      "number": 51,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 52,
+      "arabic": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ",
+      "english": "In [each of] these two will two kinds of every fruit be [found].",
+      "urdu": "دونوں باغوں میں ہر پھل کی دو قسمیں"
+    },
+    {
+      "number": 53,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 54,
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ",
+      "english": "[In such a paradise the blest will dwell,] reclin­ing upon carpets lined with rich brocade; and the fruit of both these gardens will be within easy reach.",
+      "urdu": "جنتی لوگ ایسے فرشوں پر تکیے لگا کے بیٹھیں گے جن کے استر دبیز ریشم کے ہوں گے، اور باغوں کی ڈالیاں پھلوں سے جھکی پڑ رہی ہوں گی"
+    },
+    {
+      "number": 55,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 56,
+      "arabic": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+      "english": "In these [gardens] will be mates of modest gaze, whom neither man nor invisible being will have touched ere then.",
+      "urdu": "اِن نعمتوں کے درمیان شرمیلی نگاہوں والیاں ہوں گی جنہیں اِن جنتیوں سے پہلے کسی انسان یا جن نے چھوا نہ ہوگا"
+    },
+    {
+      "number": 57,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sus­tainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 58,
+      "arabic": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "english": "[When you are promised splendours] as though [of] rubies and [of] pearls –",
+      "urdu": "ایسی خوبصورت جیسے ہیرے اور موتی"
+    },
+    {
+      "number": 59,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 60,
+      "arabic": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+      "english": "Could the reward of good be aught but good?",
+      "urdu": "نیکی کا بدلہ نیکی کے سوا اور کیا ہو سکتا ہے"
+    },
+    {
+      "number": 61,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "پھر اے جن و انس، اپنے رب کے کن کن اوصاف حمیدہ کا تم انکار کرو گے؟"
+    },
+    {
+      "number": 62,
+      "arabic": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "english": "And besides those two will be yet two [other] gardens -",
+      "urdu": "اور اُن دو باغوں کے علاوہ دو باغ اور ہوں گے"
+    },
+    {
+      "number": 63,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "which, then, of your Sustainer’s powers can you disavow? –",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 64,
+      "arabic": "مُدْهَآمَّتَانِ",
+      "english": "two [gardens] of the deepest green.",
+      "urdu": "گھنے سرسبز و شاداب باغ"
+    },
+    {
+      "number": 65,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 66,
+      "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "english": "In [each of] these two [gardens] will two springs gush forth.",
+      "urdu": "دونوں باغوں میں دو چشمے فواروں کی طرح ابلتے ہوئے"
+    },
+    {
+      "number": 67,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sus­tainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 68,
+      "arabic": "فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ",
+      "english": "In both of them will be [all kinds of] fruit, and date-palms and pomegranates.",
+      "urdu": "اُن میں بکثرت پھل اور کھجوریں اور انار"
+    },
+    {
+      "number": 69,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 70,
+      "arabic": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ",
+      "english": "In these [gardens] will be [all] things most excellent and beautiful.",
+      "urdu": "اِن نعمتوں کے درمیان خوب سیرت اور خوبصورت بیویاں"
+    },
+    {
+      "number": 71,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 72,
+      "arabic": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ",
+      "english": "[There the blest will live with their] companions pure and modest, in pavilions [splendid] -",
+      "urdu": "خیموں میں ٹھیرائی ہوئی حوریں"
+    },
+    {
+      "number": 73,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "which, then, of your Sustainer’s powers can you disavow? –",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 74,
+      "arabic": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+      "english": "[companions] whom neither man nor invisible being will have touched ere then.",
+      "urdu": "اِن جنتیوں سے پہلے کبھی انسان یا جن نے اُن کو نہ چھوا ہوگا"
+    },
+    {
+      "number": 75,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 76,
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
+      "english": "[In such a paradise will they dwell,] reclining upon meadows green and carpets rich in beauty.",
+      "urdu": "وہ جنتی سبز قالینوں اور نفیس و نادر فرشوں پر تکیے لگا کے بیٹھیں گے"
+    },
+    {
+      "number": 77,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Which, then, of your Sustainer’s powers can you disavow?",
+      "urdu": "اپنے رب کے کن کن انعامات کو تم جھٹلاؤ گے؟"
+    },
+    {
+      "number": 78,
+      "arabic": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+      "english": "HALLOWED be thy Sustainer’s name, full of majesty and glory!",
+      "urdu": "بڑی برکت والا ہے تیرے رب جلیل و کریم کا نام"
+    }
+  ]
+}

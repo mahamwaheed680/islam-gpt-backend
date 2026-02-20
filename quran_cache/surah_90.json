@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "surah_number": 90,
+  "arabic_name": "سُورَةُ البَلَدِ",
+  "english_name": "Al-Balad",
+  "verses_count": 20,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+      "english": "NAY! I call to witness this land –",
+      "urdu": "نہیں، میں قسم کھاتا ہوں اِس شہر کی"
+    },
+    {
+      "number": 2,
+      "arabic": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+      "english": "this land in which thou art free to dwell -",
+      "urdu": "اور حال یہ ہے کہ (اے نبیؐ) اِس شہر میں تم کو حلال کر لیا گیا ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "وَوَالِدٍۢ وَمَا وَلَدَ",
+      "english": "and [I call to witness] parent and offspring:",
+      "urdu": "اور قسم کھاتا ہوں باپ کی اور اس اولاد کی جو اس سے پیدا ہوئی"
+    },
+    {
+      "number": 4,
+      "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+      "english": "Verily, We have created man into [a life of] pain, toil and trial.",
+      "urdu": "درحقیقت ہم نے انسان کو مشقت میں پیدا کیا ہے"
+    },
+    {
+      "number": 5,
+      "arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+      "english": "Does he, then, think that no one has power over him?",
+      "urdu": "کیا اُس نے یہ سمجھ رکھا ہے کہ اُس پر کوئی قابو نہ پا سکے گا؟"
+    },
+    {
+      "number": 6,
+      "arabic": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا",
+      "english": "He boasts, \"I have spent wealth abundant!\"",
+      "urdu": "کہتا ہے کہ میں نے ڈھیروں مال اڑا دیا"
+    },
+    {
+      "number": 7,
+      "arabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "english": "Does he, then, think that no one sees him?",
+      "urdu": "کیا وہ سمجھتا ہے کہ کسی نے اُس کو نہیں دیکھا؟"
+    },
+    {
+      "number": 8,
+      "arabic": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "english": "Have We not given him two eyes,",
+      "urdu": "کیا ہم نے اُسے دو آنکھیں"
+    },
+    {
+      "number": 9,
+      "arabic": "وَلِسَانًۭا وَشَفَتَيْنِ",
+      "english": "and a tongue, and a pair of lips,",
+      "urdu": "اور ایک زبان اور دو ہونٹ نہیں دیے؟"
+    },
+    {
+      "number": 10,
+      "arabic": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+      "english": "and shown him the two highways [of good and evil]?",
+      "urdu": "اور دونوں نمایاں راستے اُسے (نہیں) دکھا دیے؟"
+    },
+    {
+      "number": 11,
+      "arabic": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "english": "But he would not try to ascend the steep uphill road...",
+      "urdu": "مگر اس نے دشوار گزار گھاٹی سے گزرنے کی ہمت نہ کی"
+    },
+    {
+      "number": 12,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "english": "And what could make thee conceive what it is, that steep uphill road?",
+      "urdu": "اور تم کیا جانو کہ کیا ہے وہ دشوار گزار گھاٹی؟"
+    },
+    {
+      "number": 13,
+      "arabic": "فَكُّ رَقَبَةٍ",
+      "english": "[It is] the freeing of one's neck [from the burden of sin],",
+      "urdu": "کسی گردن کو غلامی سے چھڑانا"
+    },
+    {
+      "number": 14,
+      "arabic": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+      "english": "or the feeding, upon a day of [one's own] hunger,",
+      "urdu": "یا فاقے کے دن"
+    },
+    {
+      "number": 15,
+      "arabic": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+      "english": "of an orphan near of kin,",
+      "urdu": "کسی قریبی یتیم"
+    },
+    {
+      "number": 16,
+      "arabic": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+      "english": "or of a needy [stranger] lying in the dust –",
+      "urdu": "یا خاک نشین مسکین کو کھانا کھلانا"
+    },
+    {
+      "number": 17,
+      "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "english": "and being, withal, of those who have attained to faith, and who enjoin upon one another patience in adversity, and enjoin upon one another compassion.",
+      "urdu": "پھر (اس کے ساتھ یہ کہ) آدمی اُن لوگوں میں شامل ہو جو ایمان لائے اور جنہوں نے ایک دوسرے کو صبر اور (خلق خدا پر) رحم کی تلقین کی"
+    },
+    {
+      "number": 18,
+      "arabic": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "english": "Such are they that have attained to righteousness;",
+      "urdu": "یہ لوگ ہیں دائیں بازو والے"
+    },
+    {
+      "number": 19,
+      "arabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "english": "whereas those who are bent on denying the truth of Our messages – they are such as have lost themselves in evil,",
+      "urdu": "اور جنہوں نے ہماری آیات کو ماننے سے انکار کیا وہ بائیں بازو والے ہیں"
+    },
+    {
+      "number": 20,
+      "arabic": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+      "english": "[with] fire closing in upon them.",
+      "urdu": "ان پر آگ چھائی ہوئی ہوگی"
+    }
+  ]
+}

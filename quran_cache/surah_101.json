@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "surah_number": 101,
+  "arabic_name": "سُورَةُ القَارِعَةِ",
+  "english_name": "Al-Qaari'a",
+  "verses_count": 11,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "english": "OH, the sudden calamity!",
+      "urdu": "عظیم حادثہ!"
+    },
+    {
+      "number": 2,
+      "arabic": "مَا ٱلْقَارِعَةُ",
+      "english": "How awesome the sudden calamity!",
+      "urdu": "کیا ہے وہ عظیم حادثہ؟"
+    },
+    {
+      "number": 3,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "english": "And what could make thee conceive what that sudden calamity will be?",
+      "urdu": "تم کیا جانو کہ وہ عظیم حادثہ کیا ہے؟"
+    },
+    {
+      "number": 4,
+      "arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "english": "[It will occur] on the Day when men will be like moths swarming in confusion,",
+      "urdu": "وہ دن جب لوگ بکھرے ہوئے پروانوں کی طرح"
+    },
+    {
+      "number": 5,
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "english": "and the mountains will be like fluffy tufts of wool....",
+      "urdu": "اور پہاڑ رنگ برنگ کے دھنکے ہوئے اون کی طرح ہوں گے"
+    },
+    {
+      "number": 6,
+      "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "english": "And then, he whose weight [of good deeds] is heavy in the balance",
+      "urdu": "پھر جس کے پلڑے بھاری ہوں گے"
+    },
+    {
+      "number": 7,
+      "arabic": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "english": "shall find himself in a happy' state of life;",
+      "urdu": "وہ دل پسند عیش میں ہوگا"
+    },
+    {
+      "number": 8,
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "english": "whereas he whose weight is light in the balance",
+      "urdu": "اور جس کے پلڑے ہلکے ہوں گے"
+    },
+    {
+      "number": 9,
+      "arabic": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+      "english": "shall be engulfed by an abyss.",
+      "urdu": "اس کی جائے قرار گہری کھائی ہوگی"
+    },
+    {
+      "number": 10,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "english": "And what could make thee conceive what that [abyss] will be?",
+      "urdu": "اور تمہیں کیا خبر کہ وہ کیا چیز ہے؟"
+    },
+    {
+      "number": 11,
+      "arabic": "نَارٌ حَامِيَةٌۢ",
+      "english": "A fire hotly burning!",
+      "urdu": "بھڑکتی ہوئی آگ"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "success": true,
+  "surah_number": 69,
+  "arabic_name": "سُورَةُ الحَاقَّةِ",
+  "english_name": "Al-Haaqqa",
+  "verses_count": 52,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَآقَّةُ",
+      "english": "OH, THE LAYING-BARE of the truth!",
+      "urdu": "ہونی شدنی!"
+    },
+    {
+      "number": 2,
+      "arabic": "مَا ٱلْحَآقَّةُ",
+      "english": "How awesome that laying-bare of the truth!",
+      "urdu": "کیا ہے وہ ہونی شدنی؟"
+    },
+    {
+      "number": 3,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+      "english": "And what could make thee conceive what that laying-bare of the truth will be?",
+      "urdu": "اور تم کیا جانو کہ وہ کیا ہے ہونی شدنی؟"
+    },
+    {
+      "number": 4,
+      "arabic": "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ",
+      "english": "THE LIE gave [the tribes of] Thamud and ‘Ad to [all tidings of] that sudden calamity!",
+      "urdu": "ثمود اور عاد نے اُس اچانک ٹوٹ پڑنے والی آفت کو جھٹلایا"
+    },
+    {
+      "number": 5,
+      "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+      "english": "Now as for the Thamud - they were destroyed by a violent upheaval [of the earth];",
+      "urdu": "تو ثمود ایک سخت حادثہ میں ہلاک کیے گئے"
+    },
+    {
+      "number": 6,
+      "arabic": "وَأَمَّا عَادٌۭ فَأُهْلِكُوا۟ بِرِيحٍۢ صَرْصَرٍ عَاتِيَةٍۢ",
+      "english": "and as for the ‘Ad - they were destroyed by a storm wind furiously raging,",
+      "urdu": "اور عاد ایک بڑی شدید طوفانی آندھی سے تباہ کر دیے گئے"
+    },
+    {
+      "number": 7,
+      "arabic": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًۭا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍۢ",
+      "english": "which He willed against them for seven nights and eight days without cease, so that in the end thou couldst see those people laid low [in death], as though they were so many [uprooted] trunks of hollow palm trees:",
+      "urdu": "اللہ تعالیٰ نے اُس کو مسلسل سات رات اور آٹھ دن اُن پر مسلط رکھا (تم وہاں ہوتے تو) دیکھتے کہ وہ وہاں اِس طرح پچھڑے پڑے ہیں جیسے وہ کھجور کے بوسیدہ تنے ہوں"
+    },
+    {
+      "number": 8,
+      "arabic": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍۢ",
+      "english": "and dost thou now see any remnant of them?",
+      "urdu": "اب کیا اُن میں سے کوئی تمہیں باقی بچا نظر آتا ہے؟"
+    },
+    {
+      "number": 9,
+      "arabic": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَٰتُ بِٱلْخَاطِئَةِ",
+      "english": "And there was Pharaoh, too, and [many of] those who lived before him, and the cities that were overthrown - [all of them] indulged in sin upon sin",
+      "urdu": "اور اِسی خطائے عظیم کا ارتکاب فرعون اور اُس سے پہلے کے لوگوں نے اور تل پٹ ہو جانے والی بستیوں نے کیا"
+    },
+    {
+      "number": 10,
+      "arabic": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةًۭ رَّابِيَةً",
+      "english": "and rebelled against their Sustainer's apostles: and so He took them to task with a punishing grasp exceedingly severe!",
+      "urdu": "ان سب نے اپنے رب کے رسول کی بات نہ مانی تو اُس نے اُن کو بڑی سختی کے ساتھ پکڑا"
+    },
+    {
+      "number": 11,
+      "arabic": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَٰكُمْ فِى ٱلْجَارِيَةِ",
+      "english": "[And] behold: when the waters [of Noah's flood] burst beyond all limits, it was We who caused you to be borne [to safety] in that floating ark,",
+      "urdu": "جب پانی کا طوفان حد سے گزر گیا تو ہم نے تم کو کشتی میں سوار کر دیا تھا"
+    },
+    {
+      "number": 12,
+      "arabic": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ أُذُنٌۭ وَٰعِيَةٌۭ",
+      "english": "so that We might make all this a [lasting] reminder to you all, and that every wide-awake ear might consciously take it in.",
+      "urdu": "تاکہ اِس واقعہ کو تمہارے لیے ایک سبق آموز یادگار بنا دیں اور یاد رکھنے والے کان اس کی یاد محفوظ رکھیں"
+    },
+    {
+      "number": 13,
+      "arabic": "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌۭ وَٰحِدَةٌۭ",
+      "english": "Hence, [bethink yourselves of the Last Hour,] when the trumpet [of judgment] shall be sounded with a single blast,",
+      "urdu": "پھر جب ایک دفعہ صور میں پھونک مار دی جائے گی"
+    },
+    {
+      "number": 14,
+      "arabic": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةًۭ وَٰحِدَةًۭ",
+      "english": "and the earth and the mountains shall be lifted up and crushed with a single stroke!",
+      "urdu": "اور زمین اور پہاڑوں کو اٹھا کر ایک ہی چوٹ میں ریزہ ریزہ کر دیا جائے گا"
+    },
+    {
+      "number": 15,
+      "arabic": "فَيَوْمَئِذٍۢ وَقَعَتِ ٱلْوَاقِعَةُ",
+      "english": "And so, that which must come to pass will on that day have come to pass;",
+      "urdu": "اُس روز وہ ہونے والا واقعہ پیش آ جائے گا"
+    },
+    {
+      "number": 16,
+      "arabic": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍۢ وَاهِيَةٌۭ",
+      "english": "and the sky will be rent asunder - for, frail will it have become on that Day -;",
+      "urdu": "اُس دن آسمان پھٹے گا اور اس کی بندش ڈھیلی پڑ جائے گی"
+    },
+    {
+      "number": 17,
+      "arabic": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍۢ ثَمَٰنِيَةٌۭ",
+      "english": "and the angels [will appear] at its ends, and, above them, eight will bear aloft on that Day the throne of thy Sustainer’s almightiness…",
+      "urdu": "فرشتے اس کے اطراف و جوانب میں ہوں گے اور آٹھ فرشتے اُس روز تیرے رب کا عرش اپنے اوپر اٹھائے ہوئے ہوں گے"
+    },
+    {
+      "number": 18,
+      "arabic": "يَوْمَئِذٍۢ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌۭ",
+      "english": "On that Day you shall be brought to judgment: not [even] the most hidden of your deeds will remain hidden.",
+      "urdu": "وہ دن ہوگا جب تم لوگ پیش کیے جاؤ گے، تمہارا کوئی راز بھی چھپا نہ رہ جائے گا"
+    },
+    {
+      "number": 19,
+      "arabic": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ",
+      "english": "Now as for him whose record shall be placed in his right hand, he will exclaim: \"Come you all!\" Read this my record!",
+      "urdu": "اُس وقت جس کا نامہ اعمال اُس کے سیدھے ہاتھ میں دیا جائے گا وہ کہے گا \"لو دیکھو، پڑھو میرا نامہ اعمال"
+    },
+    {
+      "number": 20,
+      "arabic": "إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ",
+      "english": "Behold, I did know that [one day] I would have to face my account!",
+      "urdu": "میں سمجھتا تھا کہ مجھے ضرور اپنا حساب ملنے والا ہے\""
+    },
+    {
+      "number": 21,
+      "arabic": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "english": "And so he will find himself in a happy state of life,",
+      "urdu": "پس وہ دل پسند عیش میں ہوگا"
+    },
+    {
+      "number": 22,
+      "arabic": "فِى جَنَّةٍ عَالِيَةٍۢ",
+      "english": "in a lofty paradise,",
+      "urdu": "عالی مقام جنت میں"
+    },
+    {
+      "number": 23,
+      "arabic": "قُطُوفُهَا دَانِيَةٌۭ",
+      "english": "with its fruits within easy reach.",
+      "urdu": "جس کے پھلوں کے گچھے جھکے پڑ رہے ہوں گے"
+    },
+    {
+      "number": 24,
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+      "english": "[And all who are thus blest will be told:] \"Eat and drink with good cheer in return for all [the good deeds] that you have sent ahead in days gone by!\"",
+      "urdu": "(ایسے لوگوں سے کہا جائے گا) مزے سے کھاؤ اور پیو اپنے اُن اعمال کے بدلے جو تم نے گزرے ہوئے دنوں میں کیے ہیں"
+    },
+    {
+      "number": 25,
+      "arabic": "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ",
+      "english": "But as for him whose record shall be placed in his left hand, he will exclaim: \"Oh, would that I had never been shown this my record,",
+      "urdu": "اور جس کا نامہ اعمال اُس کے بائیں ہاتھ میں دیا جائے گا وہ کہے گا \"کاش میرا اعمال نامہ مجھے نہ دیا گیا ہوتا"
+    },
+    {
+      "number": 26,
+      "arabic": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "english": "and neither known this my account!",
+      "urdu": "اور میں نہ جانتا کہ میرا حساب کیا ہے"
+    },
+    {
+      "number": 27,
+      "arabic": "يَٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "english": "Oh, would that this [death of mine] had been the end of me!",
+      "urdu": "کاش میری وہی موت (جو دنیا میں آئی تھی) فیصلہ کن ہوتی"
+    },
+    {
+      "number": 28,
+      "arabic": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+      "english": "Of no avail to me is all that I have [ever] possessed,",
+      "urdu": "آج میرا مال میرے کچھ کام نہ آیا"
+    },
+    {
+      "number": 29,
+      "arabic": "هَلَكَ عَنِّى سُلْطَٰنِيَهْ",
+      "english": "[and] all my power of argument has died away from me!\"",
+      "urdu": "میرا سارا اقتدار ختم ہو گیا\""
+    },
+    {
+      "number": 30,
+      "arabic": "خُذُوهُ فَغُلُّوهُ",
+      "english": "Thereupon the command will go forth:] \"Lay hold of him, and shackle him,",
+      "urdu": "(حکم ہو گا) پکڑو اِسے اور اِس کی گردن میں طوق ڈال دو"
+    },
+    {
+      "number": 31,
+      "arabic": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+      "english": "and then let him enter hell,",
+      "urdu": "پھر اِسے جہنم میں جھونک دو"
+    },
+    {
+      "number": 32,
+      "arabic": "ثُمَّ فِى سِلْسِلَةٍۢ ذَرْعُهَا سَبْعُونَ ذِرَاعًۭا فَٱسْلُكُوهُ",
+      "english": "and then thrust him into a chain [of other sinners like him - a chain] the length whereof is seventy cubits:",
+      "urdu": "پھر اِس کو ستر ہاتھ لمبی زنجیر میں جکڑ دو"
+    },
+    {
+      "number": 33,
+      "arabic": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "english": "for, behold, he did not believe in God, the Tremendous,",
+      "urdu": "یہ نہ اللہ بزرگ و برتر پر ایمان لاتا تھا"
+    },
+    {
+      "number": 34,
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "english": "and did not feel any urge to feed the needy:",
+      "urdu": "اور نہ مسکین کو کھانا کھلانے کی ترغیب دیتا تھا"
+    },
+    {
+      "number": 35,
+      "arabic": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَٰهُنَا حَمِيمٌۭ",
+      "english": "and so, no friend has here today,",
+      "urdu": "لہٰذا آج نہ یہاں اِس کا کوئی یار غم خوار ہے"
+    },
+    {
+      "number": 36,
+      "arabic": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍۢ",
+      "english": "nor any food save the filth",
+      "urdu": "اور نہ زخموں کے دھوون کے سوا اِس کے لیے کوئی کھانا"
+    },
+    {
+      "number": 37,
+      "arabic": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ",
+      "english": "which none but the sinners eat!\"",
+      "urdu": "جسے خطا کاروں کے سوا کوئی نہیں کھاتا"
+    },
+    {
+      "number": 38,
+      "arabic": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+      "english": "BUT NAY! I call to witness an that you can see,",
+      "urdu": "پس نہیں، میں قسم کھاتا ہوں اُن چیزوں کی بھی جو تم دیکھتے ہو"
+    },
+    {
+      "number": 39,
+      "arabic": "وَمَا لَا تُبْصِرُونَ",
+      "english": "as well as all that you cannot see!",
+      "urdu": "اور اُن کی بھی جنہیں تم نہیں دیکھتے"
+    },
+    {
+      "number": 40,
+      "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+      "english": "Behold, this [Qur’an] is indeed the [inspired] word of a noble apostle,",
+      "urdu": "یہ ایک رسول کریم کا قول ہے"
+    },
+    {
+      "number": 41,
+      "arabic": "وَمَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًۭا مَّا تُؤْمِنُونَ",
+      "english": "and is not – however little you may [be prepared to] believe it - the word of a poet;",
+      "urdu": "کسی شاعر کا قول نہیں ہے، تم لوگ کم ہی ایمان لاتے ہو"
+    },
+    {
+      "number": 42,
+      "arabic": "وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ",
+      "english": "and neither is it - however little you may [be prepared to] take it to heart - the word of a soothsayer:",
+      "urdu": "اور نہ یہ کسی کاہن کا قول ہے، تم لوگ کم ہی غور کرتے ہو"
+    },
+    {
+      "number": 43,
+      "arabic": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+      "english": "[it is] a revelation from the Sustainer of all the worlds.",
+      "urdu": "یہ رب العالمین کی طرف سے نازل ہوا ہے"
+    },
+    {
+      "number": 44,
+      "arabic": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+      "english": "Now if he [whom We have entrusted with it] had dared to attribute some [of his own] sayings unto Us,",
+      "urdu": "اور اگر اس (نبی) نے خود گھڑ کر کوئی بات ہماری طرف منسوب کی ہوتی"
+    },
+    {
+      "number": 45,
+      "arabic": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+      "english": "We would indeed have seized him by his right hand,",
+      "urdu": "تو ہم اِس کا دایاں ہاتھ پکڑ لیتے"
+    },
+    {
+      "number": 46,
+      "arabic": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+      "english": "and would indeed have cut his life-vein.",
+      "urdu": "اور اِس کی رگ گردن کاٹ ڈالتے"
+    },
+    {
+      "number": 47,
+      "arabic": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ",
+      "english": "and none of you could have saved him!",
+      "urdu": "پھر تم میں سے کوئی (ہمیں) اس کام سے روکنے والا نہ ہوتا"
+    },
+    {
+      "number": 48,
+      "arabic": "وَإِنَّهُۥ لَتَذْكِرَةٌۭ لِّلْمُتَّقِينَ",
+      "english": "And, verily, this [Qur’an] is a reminder to all the God-conscious!",
+      "urdu": "درحقیقت یہ پرہیزگار لوگوں کے لیے ایک نصیحت ہے"
+    },
+    {
+      "number": 49,
+      "arabic": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "english": "And, behold, well do We know that among you are such as will give the lie to it:",
+      "urdu": "اور ہم جانتے ہیں کہ تم میں سے کچھ لوگ جھٹلانے والے ہیں"
+    },
+    {
+      "number": 50,
+      "arabic": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَٰفِرِينَ",
+      "english": "yet, behold, this [rejection] will indeed become a source of bitter regret for all who deny the truth [of God's revelation] –",
+      "urdu": "ایسے کافروں کے لیے یقیناً یہ موجب حسرت ہے"
+    },
+    {
+      "number": 51,
+      "arabic": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+      "english": "for, verily, it is truth absolute!",
+      "urdu": "اور یہ بالکل یقینی حق ہے"
+    },
+    {
+      "number": 52,
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "english": "Extol, then the limitless glory of thy Sustainer's mighty name!",
+      "urdu": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو"
+    }
+  ]
+}

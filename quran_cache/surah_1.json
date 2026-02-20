@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "surah_number": 1,
+  "arabic_name": "سُورَةُ ٱلْفَاتِحَةِ",
+  "english_name": "Al-Faatiha",
+  "verses_count": 7,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "english": "In the name of God, The Most Gracious, The Dispenser of Grace:",
+      "urdu": "اللہ کے نام سے جو رحمان و رحیم ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "english": "All praise is due to God alone, the Sustainer of all the worlds,",
+      "urdu": "تعریف اللہ ہی کے لیے ہے جو تمام کائنات کا رب ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "english": "The Most Gracious, the Dispenser of Grace,",
+      "urdu": "رحمان اور رحیم ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+      "english": "Lord of the Day of Judgment!",
+      "urdu": "روز جزا کا مالک ہے"
+    },
+    {
+      "number": 5,
+      "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "english": "Thee alone do we worship; and unto Thee alone do we turn for aid.",
+      "urdu": "ہم تیری ہی عبادت کرتے ہیں اور تجھی سے مدد مانگتے ہیں"
+    },
+    {
+      "number": 6,
+      "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "english": "Guide us the straight way.",
+      "urdu": "ہمیں سیدھا راستہ دکھا"
+    },
+    {
+      "number": 7,
+      "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+      "english": "The way of those upon whom Thou hast bestowed Thy blessings, not of those who have been condemned [by Thee], nor of those who go astray!",
+      "urdu": "اُن لوگوں کا راستہ جن پر تو نے انعام فرمایا، جو معتوب نہیں ہوئے، جو بھٹکے ہوئے نہیں ہیں"
+    }
+  ]
+}

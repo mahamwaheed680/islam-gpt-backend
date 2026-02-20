@@ -1,0 +1,598 @@
+{
+  "success": true,
+  "surah_number": 19,
+  "arabic_name": "سُورَةُ مَرۡيَمَ",
+  "english_name": "Maryam",
+  "verses_count": 98,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ كٓهيعٓصٓ",
+      "english": "Kaf. Ha. Ya. `Ayn. Sad.",
+      "urdu": "ک، ہ، ی، ع، ص"
+    },
+    {
+      "number": 2,
+      "arabic": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+      "english": "AN ACCOUNT of the grace which thy Sustainer bestowed upon His servant Zachariah:",
+      "urdu": "ذکر ہے اُس رحمت کا جو تیرے رب نے اپنے بندے زکریاؑ پر کی تھی"
+    },
+    {
+      "number": 3,
+      "arabic": "إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّۭا",
+      "english": "When he called out to his Sustainer in the secrecy of his heart,",
+      "urdu": "جبکہ اُس نے اپنے رب کو چپکے چپکے پکارا"
+    },
+    {
+      "number": 4,
+      "arabic": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًۭا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّۭا",
+      "english": "he prayed: \"O my Sustainer! Feeble have become my bones, and my head glistens with grey hair. But never yet, O my Lord, has my prayer unto Thee remained unanswered.",
+      "urdu": "اُس نے عرض کیا \"اے پروردگار، میری ہڈیاں تک گھل گئی ہیں اور سر بڑھاپے سے بھڑک اٹھا ہے اے پروردگار، میں کبھی تجھ سے دعا مانگ کر نامراد نہیں رہا"
+    },
+    {
+      "number": 5,
+      "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+      "english": "\"Now, behold, I am afraid of [what] my kinsfolk [will do] after I am gone, for my wife has always been barren. Bestow, then, upon me, out of Thy grace, the gift of a successor",
+      "urdu": "مجھے اپنے پیچھے اپنے بھائی بندوں کی برائیوں کا خوف ہے، اور میری بیوی بانجھ ہے تو مجھے اپنے فضلِ خاص سے ایک وارث عطا کر دے"
+    },
+    {
+      "number": 6,
+      "arabic": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّۭا",
+      "english": "who will be my heir as well as an heir [to the dignity] of the House of Jacob; and make him, O my Sustainer, well-pleasing to Thee!\"",
+      "urdu": "جو میرا وارث بھی ہو اور آلِ یعقوب کی میراث بھی پائے، اور اے پروردگار، اُس کو ایک پسندیدہ انسان بنا\""
+    },
+    {
+      "number": 7,
+      "arabic": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّۭا",
+      "english": "[Thereupon the angels called out unto him: \"O Zachariah! We bring thee the glad tiding of [the birth of] a son whose name shall be John. [And God says,] `Never have We given this name to anyone before him.\"",
+      "urdu": "(جواب دیا گیا) \"اے زکریاؑ، ہم تجھے ایک لڑکے کی بشارت دیتے ہیں جس کا نام یحییٰؑ ہو گا ہم نے اِس نام کا کوئی آدمی اس سے پہلے پیدا نہیں کیا\""
+    },
+    {
+      "number": 8,
+      "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا",
+      "english": "[Zachariah] exclaimed: \"O my Sustainer! How can I have a son when my wife has always been barren and I have become utterly infirm through old age?\"",
+      "urdu": "عرض کیا، \"پروردگار، بھلا میرے ہاں کیسے بیٹا ہوگا جبکہ میری بیوی بانجھ ہے اور میں بوڑھا ہو کر سوکھ چکا ہوں؟\""
+    },
+    {
+      "number": 9,
+      "arabic": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌۭ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا",
+      "english": "Answered [the angel]: \"Thus. it is; [but] thy 'Sustainer says, `This is easy for Me -even as I have created thee aforetime out of nothing.",
+      "urdu": "جواب ملا \"ایسا ہی ہو گا تیرا رب فرماتا ہے کہ یہ تو میرے لیے ایک ذرا سی بات ہے، آخر اس سے پہلے میں تجھے پیدا کر چکا ہوں جب کہ تو کوئی چیز نہ تھا\""
+    },
+    {
+      "number": 10,
+      "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةًۭ ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍۢ سَوِيًّۭا",
+      "english": "[Zachariah] prayed: \"O my Sustainer! Appoint a sign for me!\" Said [the angel]: \"Thy sign shall be that for full three nights [and days] thou wilt not speak unto men.",
+      "urdu": "زکریاؑ نے کہا، \"پروردگار، میرے لیے کوئی نشانی مقرر کر دے\" فرمایا \"تیرے لیے نشانی یہ ہے کہ تو پیہم تین دن لوگوں سے بات نہ کر سکے\""
+    },
+    {
+      "number": 11,
+      "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةًۭ وَعَشِيًّۭا",
+      "english": "Thereupon he came out of the sanctuary unto his people and signified to them [by gestures]: \"Extol His limitless glory by day and by night!\"",
+      "urdu": "چنانچہ وہ محراب سے نکل کر اپنی قوم کے سامنے آیا اور اس نے اشارے سے ان کو ہدایت کی کہ صبح و شام تسبیح کرو"
+    },
+    {
+      "number": 12,
+      "arabic": "يَٰيَحْيَىٰ خُذِ ٱلْكِتَٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَٰهُ ٱلْحُكْمَ صَبِيًّۭا",
+      "english": "[And when the son was born and grew up, he was told,] \"O John! Hold fast unto the divine writ with [all thy] strength!\" - for We granted him wisdom \"while he was yet a little boy,",
+      "urdu": "\"اے یحییٰؑ! کتاب الٰہی کو مضبوط تھام لے\" ہم نے اُسے بچپن ہی میں \"حکم\" سے نوازا"
+    },
+    {
+      "number": 13,
+      "arabic": "وَحَنَانًۭا مِّن لَّدُنَّا وَزَكَوٰةًۭ ۖ وَكَانَ تَقِيًّۭا",
+      "english": "as well as, by Our grace, [the gift of] compassion and purity; and he was [always] conscious of Us",
+      "urdu": "اور اپنی طرف سے اس کو نرم دلی اور پاکیزگی عطا کی اور وہ بڑا پرہیزگار"
+    },
+    {
+      "number": 14,
+      "arabic": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّۭا",
+      "english": "and full of piety towards his parents; and never was he haughty or rebellious.",
+      "urdu": "اور اپنے والدین کا حق شناس تھا وہ جبّار نہ تھا اور نہ نافرمان"
+    },
+    {
+      "number": 15,
+      "arabic": "وَسَلَٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّۭا",
+      "english": "Hence, [God's] peace was upon him on the day when he was born, and on the day of his death, and. will be [upon him] on the day when he shall be raised to life [again].",
+      "urdu": "سلام اُس پر جس روز کہ وہ پیدا ہوا اور جس دن وہ مرے اور جس روز وہ زندہ کر کے اٹھایا جائے"
+    },
+    {
+      "number": 16,
+      "arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+      "english": "AND CALL to mind, through this divine writ, Mary. Lo! She withdrew from her family to an eastern place",
+      "urdu": "اور اے محمدؐ، اس کتاب میں مریم کا حال بیان کرو، جبکہ وہ اپنے لوگوں سے الگ ہو کر شرقی جانب گوشہ نشین ہو گئی تھی"
+    },
+    {
+      "number": 17,
+      "arabic": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا",
+      "english": "and kept herself in seclusion from them, whereupon We sent unto her Our angel of revelation, who appeared to her in the shape of a well-made human being.",
+      "urdu": "اور پردہ ڈال کر اُن سے چھپ بیٹھی تھی اس حالت میں ہم نے اس کے پاس اپنی روح کو (یعنی فرشتے کو) بھیجا اور وہ اس کے سامنے ایک پورے انسان کی شکل میں نمودار ہو گیا"
+    },
+    {
+      "number": 18,
+      "arabic": "قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّۭا",
+      "english": "She exclaimed: \"Verily, 'I seek refuge from thee with the Most Gracious! [Approach me not] if thou art conscious of Him!\"",
+      "urdu": "مریم یکایک بول اٹھی کہ\"اگر تو کوئی خدا ترس آدمی ہے تو میں تجھ سے رحمٰن کی پناہ مانگتی ہوں\""
+    },
+    {
+      "number": 19,
+      "arabic": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًۭا زَكِيًّۭا",
+      "english": "[The angel] answered: \"I' am but a messenger of thy Sustainer, [who says,] `I shall bestow upon thee the gift of a son endowed with purity.'\"",
+      "urdu": "اُس نے کہا \"میں تو تیرے رب کا فرستادہ ہوں اور اس لیے بھیجا گیا ہوں کہ تجھے ایک پاکیزہ لڑکا دوں\""
+    },
+    {
+      "number": 20,
+      "arabic": "قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ وَلَمْ أَكُ بَغِيًّۭا",
+      "english": "Said she: \"How can I have a son when no man has ever touched me? - for, never have I been a loose woman!\"",
+      "urdu": "مریم نے کہا \"میرے ہاں کیسے لڑکا ہوگا جبکہ مجھے کسی بشر نے چھوا تک نہیں ہے اور میں کوئی بدکار عورت نہیں ہوں\""
+    },
+    {
+      "number": 21,
+      "arabic": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ أَمْرًۭا مَّقْضِيًّۭا",
+      "english": "[The angel] answered: \"Thus it is; [but] thy Sustainer says, `This is easy for Me; and [thou shalt have a son,] so that We might make him a symbol unto mankind and an act of grace from US. And it was a thing decreed [by God]:",
+      "urdu": "فرشتے نے کہا \"ایسا ہی ہوگا، تیرا رب فرماتا ہے کہ ایسا کرنا میرے لیے بہت آسان ہے اور ہم یہ اس لیے کریں گے کہ اُس لڑکے کو لوگوں کے لیے ایک نشانی بنائیں اور اپنی طرف سے ایک رحمت اور یہ کام ہو کر رہنا ہے\""
+    },
+    {
+      "number": 22,
+      "arabic": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًۭا قَصِيًّۭا",
+      "english": "and in time she conceived him, and then she withdrew with him to a far-off place.",
+      "urdu": "مریم کو اس بچے کا حمل رہ گیا اور وہ اس حمل کو لیے ہوئے ایک دُور کے مقام پر چلی گئی"
+    },
+    {
+      "number": 23,
+      "arabic": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا",
+      "english": "And [when] the throes of childbirth drove her to the trunk of a palm-tree, she exclaimed: \"Oh, would that I had died ere this, and had become a thing forgotten, utterly forgotten!\"",
+      "urdu": "پھر زچگی کی تکلیف نے اُسے ایک کھُجور کے درخت کے نیچے پہنچا دیا وہ کہنے لگی \" کاش میں اس سے پہلے ہی مر جاتی اور میرا نام و نشان نہ رہتا\""
+    },
+    {
+      "number": 24,
+      "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+      "english": "Thereupon [a voice] called out to her from beneath that [palm-tree]: \"Grieve not! Thy Sustainer has provided a rivulet [running] beneath thee;",
+      "urdu": "فرشتے نے پائنتی سے اس کو پکار کر کہا \"غم نے کر تیرے رب نے تیرے نیچے ایک چشمہ رواں کر دیا ہے"
+    },
+    {
+      "number": 25,
+      "arabic": "وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًۭا جَنِيًّۭا",
+      "english": "and shake the trunk of the palm-tree towards thee: it will drop fresh, ripe dates upon thee.",
+      "urdu": "اور تو ذرا اِس درخت کے تنے کو ہلا، تیرے اوپر تر و تازہ کھجوریں ٹپک پڑیں گی"
+    },
+    {
+      "number": 26,
+      "arabic": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا",
+      "english": "Eat, then, and drink, and let thine eye be gladdened! And if thou shouldst see any human being, convey this unto him: `Behold, abstinence from speech have I vowed unto the Most Gracious; hence, I may not speak today to any mortal.",
+      "urdu": "پس تو کھا اور پی اور اپنی آنکھیں ٹھنڈی کر پھر اگر کوئی آدمی تجھے نظر آئے تو اس سے کہہ دے کہ میں نے رحمان کے لیے روزے کی نذر مانی ہے، اس لیے آج میں کسی سے نہ بولوں گی\""
+    },
+    {
+      "number": 27,
+      "arabic": "فَأَتَتْ بِهِۦ قَوْمَهَا تَحْمِلُهُۥ ۖ قَالُوا۟ يَٰمَرْيَمُ لَقَدْ جِئْتِ شَيْـًۭٔا فَرِيًّۭا",
+      "english": "And in time she returned to her people, carrying the child with her. They said: \"O Mary! Thou hast indeed done an amazing thing!",
+      "urdu": "پھر وہ اس بچے کو لیے ہوئے اپنی قوم میں آئی لوگ کہنے لگے \" اے مریم، یہ تو تُو نے بڑا پاپ کر ڈالا"
+    },
+    {
+      "number": 28,
+      "arabic": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍۢ وَمَا كَانَتْ أُمُّكِ بَغِيًّۭا",
+      "english": "O sister of Aaron! Thy father was not a wicked man, nor was thy mother a loose woman!\"",
+      "urdu": "اے ہارون کی بہن، نہ تیرا باپ کوئی برا آدمی تھا اور نہ تیری ماں ہی کوئی بدکار عورت تھی\""
+    },
+    {
+      "number": 29,
+      "arabic": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا",
+      "english": "Thereupon she pointed to him. They exclaimed: \"How can we talk to one who [as yet] is a little boy in the cradle?\"",
+      "urdu": "مریم نے بچے کی طرف اشارہ کر دیا لوگوں نے کہا \" ہم اِس سے کیا بات کریں جو گہوارے میں پڑا ہوا ایک بچہ ہے؟\""
+    },
+    {
+      "number": 30,
+      "arabic": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَٰبَ وَجَعَلَنِى نَبِيًّۭا",
+      "english": "[But] he said: \"Behold, I am a servant of God. He has vouchsafed unto me revelation and made me a prophet,",
+      "urdu": "بچہ بول اٹھا \"میں اللہ کا بندہ ہوں اُس نے مجھے کتاب دی، اور نبی بنایا"
+    },
+    {
+      "number": 31,
+      "arabic": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّۭا",
+      "english": "and made me blessed wherever I may be; and He has enjoined upon me prayer and charity as long as I live,",
+      "urdu": "اور بابرکت کیا جہاں بھی میں رہوں، اور نماز اور زکوٰۃ کی پابندی کا حکم دیا جب تک میں زندہ رہوں"
+    },
+    {
+      "number": 32,
+      "arabic": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا",
+      "english": "and [has endowed me with] piety towards my mother; and He has not made me haughty or bereft of grace.",
+      "urdu": "اور اپنی والدہ کا حق ادا کرنے والا بنایا، اور مجھ کو جبّار اور شقی نہیں بنایا"
+    },
+    {
+      "number": 33,
+      "arabic": "وَٱلسَّلَٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا",
+      "english": "\"Hence, peace was upon me on the day when I was born, and [will be upon me] on the day of my death, and on the day when I shall be raised to life [again]!\"",
+      "urdu": "سلام ہے مجھ پر جبکہ میں پیدا ہوا اور جبکہ میں مروں اور جبکہ زندہ کر کے اٹھایا جاؤں\""
+    },
+    {
+      "number": 34,
+      "arabic": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+      "english": "SUCH WAS, in the words of truth, Jesus the son of Mary, about whose nature they so deeply disagree.",
+      "urdu": "یہ ہے عیسٰی ابن مریم اور یہ ہے اُس کے بارے میں وہ سچی بات جس میں لوگ شک کر رہے ہیں"
+    },
+    {
+      "number": 35,
+      "arabic": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "english": "It is not conceivable that God should have taken unto Himself a son: limitless is He in His glory! When He wills a thing to be, He but says unto it \"Be\" -and it is!",
+      "urdu": "اللہ کا یہ کام نہیں ہے کہ وہ کسی کو بیٹا بنائے وہ پاک ذات ہے وہ جب کسی بات کا فیصلہ کرتا ہے تو کہتا ہے کہ ہو جا، اور بس وہ ہو جاتی ہے"
+    },
+    {
+      "number": 36,
+      "arabic": "وَإِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ",
+      "english": "And [thus it was that Jesus always said]: \"Verily, God is my Sustainer as well as your Sustainer; so worship [none but] Him: this (alone] is a straight way.\"",
+      "urdu": "(اور عیسٰیؑ نے کہا تھا کہ) \"اللہ میرا رب بھی ہے اور تمہارا رب بھی، پس تم اُسی کی بندگی کرو، یہی سیدھی راہ ہے\""
+    },
+    {
+      "number": 37,
+      "arabic": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ ۖ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُوا۟ مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+      "english": "And yet, the sects [that follow the Bible] are at variance among themselves [about the nature of Jesus Woe, then, unto all who deny the truth when that awesome Day will appear!",
+      "urdu": "مگر پھر مختلف گروہ باہم اختلاف کرنے لگے سو جن لوگوں نے کفر کیا ان کے لیے وہ وقت بڑی تباہی کا ہوگا"
+    },
+    {
+      "number": 38,
+      "arabic": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَٰكِنِ ٱلظَّٰلِمُونَ ٱلْيَوْمَ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+      "english": "How well will they hear and see [the truth] on the Day when they come before Us! Today, however, these evildoers are obviously lost in error:",
+      "urdu": "جب کہ وہ ایک بڑا دن دیکھیں گے جب وہ ہمارے سامنے حاضر ہوں گے اُس روز تو اُن کے کان بھی خوب سُن رہے ہوں گے اور اُن کی آنکھیں بھی خوب دیکھتی ہوں گی، مگر آج یہ ظالم کھلی گمراہی میں مبتلا ہیں"
+    },
+    {
+      "number": 39,
+      "arabic": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍۢ وَهُمْ لَا يُؤْمِنُونَ",
+      "english": "hence, warn them of [the coming of] the Day of Regrets, when everything will have been decided-for as yet they are heedless, and they do not believe [in it].",
+      "urdu": "اے نبیؐ، اِس حالت میں جبکہ یہ لوگ غافل ہیں اور ایمان نہیں لا رہے ہیں، اِنہیں اس دن سے ڈرا دو جبکہ فیصلہ کر دیا جائے گا اور پچھتاوے کے سوا کوئی چارہ کار نہ ہوگا"
+    },
+    {
+      "number": 40,
+      "arabic": "إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+      "english": "Behold, We alone shall remain after the earth and all who live on it have passed away, and (when] unto Us all will have been brought back.",
+      "urdu": "آخرکار ہم ہی زمین اور اس کی ساری چیزوں کے وارث ہوں گے اور سب ہماری طرف ہی پلٹائے جائیں گے"
+    },
+    {
+      "number": 41,
+      "arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِبْرَٰهِيمَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّا",
+      "english": "AND CALL to mind, through this divine writ, Abraham. Behold, he was a man of truth, [already] a prophet",
+      "urdu": "اور اس کتاب میں ابراہیمؑ کا قصہ بیان کرو، بے شک وہ ایک راست باز انسان اور ایک نبی تھا"
+    },
+    {
+      "number": 42,
+      "arabic": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًۭٔا",
+      "english": "when he spoke [thus] unto his father: \"O my father! Why dost thou worship something that neither hears nor sees and can be of no avail whatever to thee?",
+      "urdu": "(انہیں ذرا اُس موقع کی یاد دلاؤ) جبکہ اُس نے اپنے باپ سے کہا کہ \"ابّا جان، آپ کیوں اُن چیزوں کی عبادت کرتے ہیں جو نہ سنتی ہیں نہ دیکھتی ہیں اور نہ آپ کا کوئی کام بنا سکتی ہیں؟"
+    },
+    {
+      "number": 43,
+      "arabic": "يَٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًۭا سَوِيًّۭا",
+      "english": "\"O my father! Behold, there has indeed come to me [a ray] of knowledge such as has never yet come unto thee: follow me, then; I shall guide thee onto a perfect way.",
+      "urdu": "ابّا جان، میرے پاس ایک ایسا عِلم آیا ہے جو آپ کے پاس نہیں آیا، آپ میرے پیچھے چلیں، میں آپ کو سیدھا راستہ بتاؤں گا"
+    },
+    {
+      "number": 44,
+      "arabic": "يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ ۖ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّۭا",
+      "english": "\"O my father! Do not worship Satan-for, verily, Satan is a rebel against the Most Gracious!",
+      "urdu": "ابّا جان! آپ شیطان کی بندگی نہ کریں، شیطان تو رحمٰن کا نافرمان ہے"
+    },
+    {
+      "number": 45,
+      "arabic": "يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌۭ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّۭا",
+      "english": "O my father! I dread lest a chastisement from the Most Gracious befall thee, and then thou wilt become [aware of having been] close unto Satan!\"",
+      "urdu": "ابّا جان، مجھے ڈر ہے کہ کہیں آپ رحمان کے عذاب میں مُبتلا نہ ہو جائیں اور شیطان کے ساتھی بن کر رہیں\""
+    },
+    {
+      "number": 46,
+      "arabic": "قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ ۖ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ ۖ وَٱهْجُرْنِى مَلِيًّۭا",
+      "english": "He answered: \"Dost thou dislike my gods, O Abraham? Indeed, if thou desist not, I shall most certainly cause thee to be stoned to death! Now begone from me for good!\"",
+      "urdu": "باپ نے کہا \"ابراہیمؑ، کیا تو میرے معبُودوں سے پھر گیا ہے؟ اگر تو باز نہ آیا تو میں تجھے سنگسار کر دوں گا بس تو ہمیشہ کے لیے مجھ سے الگ ہو جا\""
+    },
+    {
+      "number": 47,
+      "arabic": "قَالَ سَلَٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّۭا",
+      "english": "[Abraham] replied: \"Peace be upon thee! I shall ask my Sustainer to forgive thee: for, behold, He has always been kind unto me.",
+      "urdu": "ابراہیمؑ نے کہا \"سلام ہے آپ کو میں اپنے رب سے دُعا کروں گا کہ آپ کو معاف کر دے، میرا رب مجھ پر بڑا ہی مہربان ہے"
+    },
+    {
+      "number": 48,
+      "arabic": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّۭا",
+      "english": "But I shall withdraw from you all and from whatever you invoke instead of God, and shall invoke my Sustainer [alone]: it may well be that my prayer [for thee] will not remain unanswered by my Sustainer.\"",
+      "urdu": "میں آپ لوگوں کو بھی چھوڑتا ہوں اور اُن ہستیوں کو بھی جنہیں آپ لوگ خدا کو چھوڑ کر پکارا کرتے ہیں میں تو اپنے رب ہی کو پکاروں گا، امید ہے کہ میں اپنے رب کو پکار کے نامراد نہ رہوں گا\""
+    },
+    {
+      "number": 49,
+      "arabic": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ ۖ وَكُلًّۭا جَعَلْنَا نَبِيًّۭا",
+      "english": "And after he had withdrawn from them and from all that they were worshipping instead of God, We bestowed upon him Isaac and Jacob, and made each of them a prophet;",
+      "urdu": "پس جب وہ اُن لوگوں سے اور اُن کے معبُودانِ غیر اللہ سے جُدا ہو گیا تو ہم نے اُس کو اسحاقؑ اور یعقوبؑ جیسی اولاد دی اور ہر ایک کو نبی بنایا"
+    },
+    {
+      "number": 50,
+      "arabic": "وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّۭا",
+      "english": "and We bestowed upon them [manifold] gifts out of Our grace, and granted them a lofty power to convey the truth [unto others].",
+      "urdu": "اور ان کو اپنی رحمت سے نوازا اور ان کو سچی ناموری عطا کی"
+    },
+    {
+      "number": 51,
+      "arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًۭا وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+      "english": "AND CALL to mind, through this divine writ, Moses. Behold, he was a chosen one, and was an apostle [of God], a prophet.",
+      "urdu": "اور ذکر کرو اس کتاب میں موسیٰؑ کا وہ ایک چیدہ شخص تھا اور رسول نبی تھا"
+    },
+    {
+      "number": 52,
+      "arabic": "وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّۭا",
+      "english": "And [remember how] We called upon him from the right-hand slope of Mount Sinai and drew him near [unto Us] in mystic communion,",
+      "urdu": "ہم نے اُس کو طُور کے داہنی جانب سے پکارا اور راز کی گفتگو سے اس کو تقرب عطا کیا"
+    },
+    {
+      "number": 53,
+      "arabic": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّۭا",
+      "english": "and [how], out of Our grace, We granted unto him his brother Aaron, to be a prophet [by his side].",
+      "urdu": "اور اپنی مہربانی سے اس کے بھائی ہارونؑ کو نبی بنا کر اُسے (مدد گار کے طور پر) دیا"
+    },
+    {
+      "number": 54,
+      "arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِسْمَٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+      "english": "AND CALL to mind, through this divine writ, Ishmael. Behold, he was always true to his promise, and was an apostle [of God], a prophet,",
+      "urdu": "اور اس کتاب میں اسماعیلؑ کا ذکر کرو وہ وعدے کا سچا تھا اور رسُول نبی تھا"
+    },
+    {
+      "number": 55,
+      "arabic": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّۭا",
+      "english": "who used to enjoin upon his people prayer and charity, and found favour in his Sustainer's sight.",
+      "urdu": "وہ اپنے گھر والوں کو نماز اور زکوٰۃ کا حکم دیتا تھا اور اپنے رب کے نزدیک ایک پسندیدہ انسان تھا"
+    },
+    {
+      "number": 56,
+      "arabic": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًۭا نَّبِيًّۭا",
+      "english": "AND CALL to mind, through this divine writ, Idris. Behold, he was a man of truth, a prophet,",
+      "urdu": "اور اس کتاب میں ادریسؑ کا ذکر کرو وہ ایک راستباز انسان اور ایک نبی تھا"
+    },
+    {
+      "number": 57,
+      "arabic": "وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا",
+      "english": "whom We exalted onto a lofty station.",
+      "urdu": "اور اسے ہم نے بلند مقام پر اٹھایا تھا"
+    },
+    {
+      "number": 58,
+      "arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًۭا وَبُكِيًّۭا ۩",
+      "english": "THESE WERE some of the prophets upon whom God bestowed His blessings - [prophets] of the seed of Adam and of those whom We caused to be borne [in the ark] with Noah, and of the seed of Abraham and Israel and [all of them were] among those whom We had guided and elected; [and] whenever the messages of the Most Gracious were conveyed unto them, they would fall down [before Him], prostrating themselves and weeping.",
+      "urdu": "یہ وہ پیغمبر ہیں جن پر اللہ نے انعام فرمایا آدمؑ کی اولاد میں سے، اور اُن لوگوں کی نسل سے جنہیں ہم نے نوحؑ کے ساتھ کشتی پر سوار کیا تھا، ا ور ابراہیمؑ کی نسل سے اور اسرائیلؑ کی نسل سے اور یہ ان لوگوں میں سے تھے جن کو ہم نے ہدایت بخشی اور برگزیدہ کیا ان کا حال یہ تھا کہ جب رحمان کی آیات ان کو سنائی جاتیں تو روتے ہوئے سجدے میں گر جاتے تھے"
+    },
+    {
+      "number": 59,
+      "arabic": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "english": "Yet they were succeeded by generations [of people] who lost all [thought of] prayer and followed [but] their own lusts; and these will, in time, meet with utter disillusion.",
+      "urdu": "پھر ان کے بعد وہ ناخلف لوگ ان کے جانشین ہوئے جنہوں نے نماز کو ضائع کیا اور خواہشاتِ نفس کی پیروی کی، پس قریب ہے کہ وہ گمراہی کے انجام سے دوچار ہوں"
+    },
+    {
+      "number": 60,
+      "arabic": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًۭا فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًۭٔا",
+      "english": "Excepted, however, shall be those who repent and attain to faith and do righteous deeds: for it is they who will enter paradise and will not be wronged in any way:",
+      "urdu": "البتہ جو توبہ کر لیں اور ایمان لے آئیں اور نیک عملی اختیار کر لیں وہ جنّت میں داخل ہوں گے اور ان کی ذرّہ برابر حق تلفی نہ ہو گی"
+    },
+    {
+      "number": 61,
+      "arabic": "جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدَ ٱلرَّحْمَٰنُ عِبَادَهُۥ بِٱلْغَيْبِ ۚ إِنَّهُۥ كَانَ وَعْدُهُۥ مَأْتِيًّۭا",
+      "english": "[theirs will be the] gardens of perpetual bliss which the Most Gracious has promised unto His servants, in a realm which is beyond the reach of human perception: [and,] verily, His promise is ever sure of fulfilment!",
+      "urdu": "ان کے لیے ہمیشہ رہنے والی جنتیں ہیں جن کا رحمان نے اپنے بندوں سے در پردہ وعدہ کر رکھا ہے اور یقیناً یہ وعدہ پُورا ہو کر رہنا ہے"
+    },
+    {
+      "number": 62,
+      "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَٰمًۭا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةًۭ وَعَشِيًّۭا",
+      "english": "No empty talk will they hear there-nothing but [tidings of] inner soundness and peace; and there will they have their sustenance by day and by night:",
+      "urdu": "وہاں وہ کوئی بے ہودہ بات نہ سُنیں گے، جو کچھ بھی سُنیں گے ٹھیک ہی سنیں گے اور ان کا رزق انہیں پیہم صبح و شام ملتا رہے گا"
+    },
+    {
+      "number": 63,
+      "arabic": "تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّۭا",
+      "english": "this is the paradise which We grant as a heritage unto such of Our servants as are conscious of Us.",
+      "urdu": "یہ ہے وہ جنت جس کا وارث ہم اپنے بندوں میں سے اُس کو بنائیں گے جو پرہیزگار رہا ہے"
+    },
+    {
+      "number": 64,
+      "arabic": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّۭا",
+      "english": "AND [the angels say]: \"We do not descend [with revelation], again and again, other than by thy Sustainer's command: unto Him belongs all that lies open before us and all that is hidden-from us and all that is in-between. And never does thy Sustainer forget [anything] –",
+      "urdu": "اے محمدؐ، ہم تمہارے رب کے حکم کے بغیر نہیں اُترا کرتے جو کچھ ہمارے آگے ہے اور جو کچھ پیچھے ہے اور جو کچھ اس کے درمیان ہے ہر چیز کا مالک وہی ہے اور تمہارا رب بھولنے والا نہیں ہے"
+    },
+    {
+      "number": 65,
+      "arabic": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ ۚ هَلْ تَعْلَمُ لَهُۥ سَمِيًّۭا",
+      "english": "the Sustainer of the heavens and the earth and all that is between them! Worship, then, Him alone, and remain steadfast in His worship! Dost thou know any whose name is worthy to be mentioned side by side with His?\"",
+      "urdu": "وہ رب ہے آسمانوں کا اور زمین کا اور اُن ساری چیزوں کا جو آسمان و زمین کے درمیان ہیں پس تم اُس کے بندگی کرو اور اُسی کی بندگی پر ثابت قدم رہو کیا ہے کوئی ہستی تمہارے علم میں اس کی ہم پایہ؟"
+    },
+    {
+      "number": 66,
+      "arabic": "وَيَقُولُ ٱلْإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا",
+      "english": "WITH ALL THIS, man [often] says, \"What! Once I am dead, shall I again be brought forth alive?\"",
+      "urdu": "انسان کہتا ہے کیا واقعی جب میں مر چکوں گا تو پھر زندہ کر کے نکال لایا جاؤں گا؟"
+    },
+    {
+      "number": 67,
+      "arabic": "أَوَلَا يَذْكُرُ ٱلْإِنسَٰنُ أَنَّا خَلَقْنَٰهُ مِن قَبْلُ وَلَمْ يَكُ شَيْـًۭٔا",
+      "english": "But does man not bear in mind that We have created him aforetime out of nothing?",
+      "urdu": "کیا انسان کو یاد نہیں آتا کہ ہم پہلے اس کو پیدا کر چکے ہیں جبکہ وہ کچھ بھی نہ تھا؟"
+    },
+    {
+      "number": 68,
+      "arabic": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّۭا",
+      "english": "And so, by thy Sustainer, [on Judgment Day] We shall most certainly bring them forth together with the satanic forces [which impelled them in life] and then We shall most certainly gather them, on their knees, around hell;",
+      "urdu": "تیرے رب کی قسم، ہم ضرور ان سب کو اور ان کے ساتھ شیاطین کو بھی گھیر لائیں گے، پھر جہنم کے گرد لا کر انہیں گھٹنوں کے بل گرا دیں گے"
+    },
+    {
+      "number": 69,
+      "arabic": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى ٱلرَّحْمَٰنِ عِتِيًّۭا",
+      "english": "and thereupon We shall, indeed, draw forth from every group [of sinners] the ones that had been most determined in their disdainful rebellion against the Most Gracious:",
+      "urdu": "پھر ہر گروہ میں سے ہر اُس شخص کو چھانٹ لیں گے جو رحمان کے مقابلے میں زیادہ سرکش بنا ہُوا تھا"
+    },
+    {
+      "number": 70,
+      "arabic": "ثُمَّ لَنَحْنُ أَعْلَمُ بِٱلَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّۭا",
+      "english": "for, indeed, We know best as to which of them is most deserving of the fires of hell.",
+      "urdu": "پھر یہ ہم جانتے ہیں کہ ان میں سے کون سب سے بڑھ کر جہنم میں جھونکے جانے کا مستحق ہے"
+    },
+    {
+      "number": 71,
+      "arabic": "وَإِن مِّنكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًۭا مَّقْضِيًّۭا",
+      "english": "And every one of you will come within sight of it: this is, with thy Sustainer, a decree that must be fulfilled.",
+      "urdu": "تم میں سے کوئی ایسا نہیں ہے جو جہنم پر وارد نہ ہو، یہ تو ایک طے شدہ بات ہے جسے پُورا کرنا تیرے رب کا ذمہ ہے"
+    },
+    {
+      "number": 72,
+      "arabic": "ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّۭا",
+      "english": "And once again: We shall save [from hell] those who have been conscious of Us; but We shall leave in it the evildoers, on their knees.",
+      "urdu": "پھر ہم اُن لوگوں کو بچا لیں گے جو (دنیا میں) متقی تھے اور ظالموں کو اُسی میں گرا ہُوا چھوڑ دیں گے"
+    },
+    {
+      "number": 73,
+      "arabic": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌۭ مَّقَامًۭا وَأَحْسَنُ نَدِيًّۭا",
+      "english": "AS IT IS, whenever Our messages are conveyed to them in all their clarity, those who are bent on denying the truth are wont to say unto those who have attained to faith: \"Which of the two kinds of man is in a stronger position and superior as a community?\"",
+      "urdu": "اِن لوگوں کو جب ہماری کھُلی کھُلی آیات سنائی جاتی ہیں تو انکار کرنے والے ایمان لانے والوں سے کہتے ہیں \"بتاؤ ہم دونوں گروہوں میں سے کون بہتر حالت میں ہے اور کس کی مجلسیں زیادہ شاندار ہیں؟\""
+    },
+    {
+      "number": 74,
+      "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَٰثًۭا وَرِءْيًۭا",
+      "english": "And yet, how many a generation have We destroyed before their time-[people] who surpassed them in material power and in outward show!",
+      "urdu": "حالانکہ ان سے پہلے ہم کتنی ہی ایسی قوموں کو ہلاک کر چکے ہیں جو اِن سے زیادہ سر و سامان رکھتی تھیں اور ظاہری شان و شوکت میں اِن سے بڑھی ہوئی تھیں"
+    },
+    {
+      "number": 75,
+      "arabic": "قُلْ مَن كَانَ فِى ٱلضَّلَٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّۭ مَّكَانًۭا وَأَضْعَفُ جُندًۭا",
+      "english": "Say: \"As for him who lives in error, may the Most Gracious lengthen the span of his life! [And let them say whatever they say until the time when they behold that [doom] of which they were forewarned-whether it be suffering [in this world] or [at the coming of] the Last Hour -: for then they will understand which [of the two kinds of man] was worse in station and weaker in resources!",
+      "urdu": "اِن سے کہو، جو شخص گمراہی میں مُبتلا ہوتا ہے اُسے رحمان ڈھیل دیا کرتا ہے یہاں تک کہ جب ایسے لوگ وہ چیز دیکھ لیتے ہیں جس کا اُن سے وعدہ کیا گیا ہے خواہ وہ عذاب الٰہی ہو یا قیامت کی گھڑی تب انہیں معلوم ہو جاتا ہے کہ کس کا حال خراب ہے اور کس کا جتھا کمزور!"
+    },
+    {
+      "number": 76,
+      "arabic": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًۭى ۗ وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌۭ مَّرَدًّا",
+      "english": "And God endows those who avail themselves of [His] guidance with an ever-deeper consciousness of the right way; and good deeds, the fruit whereof endures forever, are, in thy Sustainer's sight, of far greater merit [than any worldly goods], and yield far better returns.",
+      "urdu": "اس کے برعکس جو لوگ راہِ راست اختیار کرتے ہیں اللہ ان کو راست روی میں ترقی عطا فرماتا ہے اور باقی رہ جانے والی نیکیاں ہی تیرے رب کے نزدیک جزا اور انجام کے اعتبار سے بہتر ہیں"
+    },
+    {
+      "number": 77,
+      "arabic": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا",
+      "english": "And hast thou ever considered [the kind of man] who is bent on denying the truth of Our messages and says, \"I will surely be given wealth and children\"?",
+      "urdu": "پھر تو نے دیکھا اُس شخص کو جو ہماری آیات کو ماننے سے انکار کرتا ہے اور کہتا ہے کہ میں تو مال اور اولاد سے نوازا ہی جاتا رہوں گا؟"
+    },
+    {
+      "number": 78,
+      "arabic": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا",
+      "english": "Has he, perchance, attained to a realm which is beyond the reach of a created being's perception? or has he concluded a covenant with the Most Gracious?",
+      "urdu": "کیا اسے غیب کا پتہ چل گیا ہے یا اس نے رحمان سے کوئی عہد لے رکھا ہے؟"
+    },
+    {
+      "number": 79,
+      "arabic": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّۭا",
+      "english": "Nay! We shall record what he says, and We shall lengthen the length of his suffering [in the hereafter],",
+      "urdu": "ہرگز نہیں، جو کچھ یہ بکتا ہے اسے ہم لکھ لیں گے اور اس کے لیے سزا میں اور زیادہ اضافہ کریں گے"
+    },
+    {
+      "number": 80,
+      "arabic": "وَنَرِثُهُۥ مَا يَقُولُ وَيَأْتِينَا فَرْدًۭا",
+      "english": "and divest him of all that he is [now] speaking of: for [on Judgment Day] he will appear before Us in a lonely state.",
+      "urdu": "جس سر و سامان اور لاؤ لشکر کا یہ ذکر کر رہا ہے وہ سب ہمارے پاس رہ جائے گا اور یہ اکیلا ہمارے سامنے حاضر ہوگا"
+    },
+    {
+      "number": 81,
+      "arabic": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةًۭ لِّيَكُونُوا۟ لَهُمْ عِزًّۭا",
+      "english": "For [such as] these have taken to worshipping deities other than God, hoping that they would be a [source of] strength for them.",
+      "urdu": "اِن لوگوں نے اللہ کو چھوڑ کر اپنے کچھ خدا بنا رکھے ہیں تاکہ وہ اِن کے پشتیبان ہوں"
+    },
+    {
+      "number": 82,
+      "arabic": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+      "english": "But nay! [On Judgment Day] these [very objects of adoration] will disavow the worship that was paid to them, and will turn against those [who had worshipped them]!",
+      "urdu": "کوئی پشتیبان نہ ہوگا وہ سب ان کی عبادت کا انکار کریں گے اور الٹے اِن کے مخالف بن جائیں گے"
+    },
+    {
+      "number": 83,
+      "arabic": "أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا ٱلشَّيَٰطِينَ عَلَى ٱلْكَٰفِرِينَ تَؤُزُّهُمْ أَزًّۭا",
+      "english": "ART THOU NOT aware that We have let loose all [manner of] satanic forces upon those who deny the truth - [forces] that impel them [towards sin] with strong impulsion?",
+      "urdu": "کیا تم دیکھتے نہیں ہو کہ ہم نے اِن منکرین حق پر شیاطین چھوڑ رکھے ہیں جو اِنہیں خُوب خُوب (مخالفتِ حق پر) اکسا رہے ہیں؟"
+    },
+    {
+      "number": 84,
+      "arabic": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّۭا",
+      "english": "Hence, be not in haste [to call down God's punishment] upon them: for We but number the number of their days.",
+      "urdu": "اچھا، تو اب اِن پر نزول عذاب کے لیے بیتاب نہ ہو ہم اِن کے دن گن رہے ہیں"
+    },
+    {
+      "number": 85,
+      "arabic": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَٰنِ وَفْدًۭا",
+      "english": "On the Day when We shall gather the Godconscious unto [Us,] the Most Gracious, as honoured guests,",
+      "urdu": "وہ دن آنے والا ہے جب متقی لوگوں کو ہم مہمانوں کی طرح رحمان کے حضور پیش کریں گے"
+    },
+    {
+      "number": 86,
+      "arabic": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًۭا",
+      "english": "and drive those who were lost in sin unto hell as a thirsty herd is driven to a well –",
+      "urdu": "اور مجرموں کو پیاسے جانوروں کی طرح جہنم کی طرف ہانک لے جائیں گے"
+    },
+    {
+      "number": 87,
+      "arabic": "لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا",
+      "english": "[on that Day] none will have [the benefit of] intercession unless he has [in his lifetime] entered into a bond with the Most Gracious.",
+      "urdu": "اُس وقت لوگ کوئی سفارش لانے پر قادر نہ ہوں گے بجز اُس کے جس نے رحمان کے حضور سے پروانہ حاصل کر لیا ہو"
+    },
+    {
+      "number": 88,
+      "arabic": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا",
+      "english": "As it is, some assert, \"The Most Gracious has taken unto Himself a son„!",
+      "urdu": "وہ کہتے ہیں کہ رحمان نے کسی کو بیٹا بنایا ہے"
+    },
+    {
+      "number": 89,
+      "arabic": "لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّۭا",
+      "english": "Indeed, [by this assertion] you have brought forth something monstrous,",
+      "urdu": "سخت بیہودہ بات ہے جوتم لوگ گھڑ لائے ہو"
+    },
+    {
+      "number": 90,
+      "arabic": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+      "english": "whereat the heavens might well-nigh be rent into fragments, and the earth be split asunder, and the mountains fall down in ruins!",
+      "urdu": "قریب ہے کہ آسمان پھٹ پڑیں، زمین شق ہو جائے اور پہاڑ گر جائیں"
+    },
+    {
+      "number": 91,
+      "arabic": "أَن دَعَوْا۟ لِلرَّحْمَٰنِ وَلَدًۭا",
+      "english": "That men. should ascribe a son to the Most Gracious,",
+      "urdu": "اس بات پر کہ لوگوں نے رحمان کے لیے اولاد ہونے کا دعویٰ کیا!"
+    },
+    {
+      "number": 92,
+      "arabic": "وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا",
+      "english": "although it is inconceivable that the Most Gracious should take unto Himself a son!",
+      "urdu": "رحمان کی یہ شان نہیں ہے کہ وہ کسی کو بیٹا بنائے"
+    },
+    {
+      "number": 93,
+      "arabic": "إِن كُلُّ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَٰنِ عَبْدًۭا",
+      "english": "Not one of all [the beings] that are in the heavens or on earth appears before the Most Gracious other than as a servant:",
+      "urdu": "زمین اور آسمان کے اندر جو بھی ہیں سب اس کے حضور بندوں کی حیثیت سے پیش ہونے والے ہیں"
+    },
+    {
+      "number": 94,
+      "arabic": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّۭا",
+      "english": "indeed, He has full cognizance of them, and has numbered them with [unfailing] numbering;",
+      "urdu": "سب پر وہ محیط ہے اور اس نے اُن کو شمار کر رکھا ہے"
+    },
+    {
+      "number": 95,
+      "arabic": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَٰمَةِ فَرْدًا",
+      "english": "and every one of them will appear before Him on Resurrection Day in a lonely state.",
+      "urdu": "سب قیامت کے روز فرداً فرداً اس کے سامنے حاضر ہوں گے"
+    },
+    {
+      "number": 96,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَٰنُ وُدًّۭا",
+      "english": "VERILY, those who attain to faith and do righteous deeds will the Most Gracious endow with love:",
+      "urdu": "یقیناً جو لوگ ایمان لے آئے ہیں اور عمل صالح کر رہے ہیں عنقریب رحمان اُن کے لیے دلوں میں محبت پیدا کر دے گا"
+    },
+    {
+      "number": 97,
+      "arabic": "فَإِنَّمَا يَسَّرْنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلْمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوْمًۭا لُّدًّۭا",
+      "english": "and only to this end have We made this [divine writ] easy to understand, in thine own tongue, [O Prophet,] so that thou might convey thereby a glad tiding to the God-conscious, and warn thereby those who are given to [futile] contention:",
+      "urdu": "پس اے محمدؐ، اِس کلام کو ہم نے آسان کر کے تمہاری زبان میں اسی لیے نازل کیا ہے کہ تم پرہیز گاروں کو خوشخبری دے دو اور ہٹ دھرم لوگوں کو ڈرا دو"
+    },
+    {
+      "number": 98,
+      "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًۢا",
+      "english": "for, how many a generation have We destroyed before their time - [and] canst thou perceive any one of them [now], or hear any whisper of them?",
+      "urdu": "ان سے پہلے ہم کتنی ہی قوموں کو ہلاک کر چکے ہیں، پھر آج کہیں تم ان کا نشان پاتے ہو یا اُن کی بھنک بھی کہیں سنائی دیتی ہے؟"
+    }
+  ]
+}

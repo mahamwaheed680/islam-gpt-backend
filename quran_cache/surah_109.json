@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "surah_number": 109,
+  "arabic_name": "سُورَةُ الكَافِرُونَ",
+  "english_name": "Al-Kaafiroon",
+  "verses_count": 6,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+      "english": "SAY: \"O you who deny the truth!",
+      "urdu": "کہہ دو کہ اے کافرو"
+    },
+    {
+      "number": 2,
+      "arabic": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "english": "\"I do not worship that which you worship,",
+      "urdu": "میں اُن کی عبادت نہیں کرتا جن کی عبادت تم کرتے ہو"
+    },
+    {
+      "number": 3,
+      "arabic": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "english": "and neither do you worship that which I worship!",
+      "urdu": "اور نہ تم اُس کی عبادت کرنے والے ہو جس کی عبادت میں کرتا ہوں"
+    },
+    {
+      "number": 4,
+      "arabic": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
+      "english": "\"And I will not worship ~hat which you have [ever] worshipped,",
+      "urdu": "اور نہ میں اُن کی عبادت کرنے والا ہوں جن کی عبادت تم نے کی ہے"
+    },
+    {
+      "number": 5,
+      "arabic": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "english": "and neither will you [ever] worship that which I worship.",
+      "urdu": "اور نہ تم اُس کی عبادت کرنے والے ہو جس کی عبادت میں کرتا ہوں"
+    },
+    {
+      "number": 6,
+      "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "english": "Unto you, your moral law, and unto me, mine!\"",
+      "urdu": "تمہارے لیے تمہارا دین ہے اور میرے لیے میرا دین"
+    }
+  ]
+}

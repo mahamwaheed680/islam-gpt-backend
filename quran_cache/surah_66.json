@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "surah_number": 66,
+  "arabic_name": "سُورَةُ التَّحۡرِيمِ",
+  "english_name": "At-Tahrim",
+  "verses_count": 12,
+  "revelation_type": "Medinan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+      "english": "O PROPHET! Why dost thou, out of a desire to please [one or another of] thy wives, impose [on thyself] a prohibition of something that God has made lawful to thee? But God is much-forgiving, a dispenser of grace:",
+      "urdu": "اے نبیؐ، تم کیوں اُس چیز کو حرام کرتے ہو جو اللہ نے تمہارے لیے حلال کی ہے؟ (کیا اس لیے کہ) تم اپنی بیویوں کی خوشی چاہتے ہو؟ اللہ معاف کرنے والا اور رحم فرمانے والا ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ ۚ وَٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "english": "God has already enjoined upon you [O believers] the breaking and expiation of [such of] your oaths [as may run counter to what is right and just]: for, God is your Lord Supreme, and He alone is all-knowing, truly wise.",
+      "urdu": "اللہ نے تم لوگوں کے لیے اپنی قسموں کی پابندی سے نکلنے کا طریقہ مقرر کر دیا ہے اللہ تمہارا مولیٰ ہے، اور وہی علیم و حکیم ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًۭا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ",
+      "english": "And lo! [It so happened that] the Prophet told something in confidence to one of his wives; and when she thereupon divulged it, and God made this known to him, he acquainted [others] with some of it and passed over some of it. And as soon as he let her know it, she asked, \"Who has told thee this?\" - [to which] he replied, \"The All-Knowing, the All-Aware has told me.\"",
+      "urdu": "(اور یہ معاملہ بھی قابل توجہ ہے کہ) نبیؐ نے ایک بات اپنی ایک بیوی سے راز میں کہی تھی پھر جب اُس بیوی نے (کسی اور پر) وہ راز ظاہر کر دیا، اور اللہ نے نبیؐ کو اِس (افشائے راز) کی اطلاع دے دی، تو نبیؐ نے اس پر کسی حد تک (اُس بیوی کو) خبردار کیا اور کسی حد تک اس سے درگزر کیا پھر جب نبیؐ نے اُسے (افشائے راز کی) یہ بات بتائی تو اُس نے پوچھا آپ کو اِس کی کس نے خبر دی؟ نبیؐ نے کہا، \"مجھے اُس نے خبر دی جو سب کچھ جانتا ہے اور خوب باخبر ہے\""
+    },
+    {
+      "number": 4,
+      "arabic": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَٰلِحُ ٱلْمُؤْمِنِينَ ۖ وَٱلْمَلَٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+      "english": "[Say, O Prophet:] \"Would that you two turn unto God in repentance, for the hearts of both of you have swerved [from what is right]! And if you uphold each other against him [who is God's message-bearer, know that] God Himself is his Protector, and [that,] therefore, Gabriel, and all the righteous among the believers and all the [other] angels will come to his aid.\"",
+      "urdu": "اگر تم دونوں اللہ سے توبہ کرتی ہو (تو یہ تمہارے لیے بہتر ہے) کیونکہ تمہارے دل سیدھی راہ سے ہٹ گئے ہیں، اور اگر نبی کے مقابلہ میں تم نے باہم جتھہ بندی کی تو جان رکھو کہ اللہ اُس کا مولیٰ ہے اور اُس کے بعد جبریل اور تمام صالح اہل ایمان اور سب ملائکہ اس کے ساتھی اور مددگار ہیں"
+    },
+    {
+      "number": 5,
+      "arabic": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًۭا مِّنكُنَّ مُسْلِمَٰتٍۢ مُّؤْمِنَٰتٍۢ قَٰنِتَٰتٍۢ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍۢ سَٰٓئِحَٰتٍۢ ثَيِّبَٰتٍۢ وَأَبْكَارًۭا",
+      "english": "[O wives of the Prophet!] Were he to divorce [any of] you, God might well give him in your stead spouses better than you - women who surrender themselves unto God, who truly believe, devoutly obey His will, turn [unto Him] in repentance [whenever they have sinned] worship [Him alone] and go on and on [seeking His goodly acceptance] - be they women previously married or virgins.",
+      "urdu": "بعید نہیں کہ اگر نبیؐ تم سب بیویوں کو طلاق دیدے تو اللہ اسے ایسی بیویاں تمہارے بدلے میں عطا فرما دے جو تم سے بہتر ہوں، سچی مسلمان، با ایمان، اطاعت گزار، توبہ گزار، عبادت گزار، اور روزہ دار، خواہ شوہر دیدہ ہوں یا باکرہ"
+    },
+    {
+      "number": 6,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "english": "O YOU who have attained to faith! Ward off from yourselves and those who are close to you that fire [of the hereafter] whose fuel is human beings and stones: [lording] over it are angelic powers awesome [and] severe, who do not disobey God in whatever He has commanded them, but [always] do what they are bidden to do.",
+      "urdu": "اے لوگو جو ایمان لائے ہو، بچاؤ اپنے آپ کو اور اپنے اہل و عیال کو اُس آگ سے جس کا ایندھن انسان اور پتھر ہوں گے جس پر نہایت تند خو اور سخت گیر فرشتے مقرر ہوں گے جو کبھی اللہ کے حکم کی نافرمانی نہیں کرتے اور جو حکم بھی انہیں دیا جاتا ہے اسے بجا لاتے ہیں"
+    },
+    {
+      "number": 7,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "english": "[Hence,] O you who are bent on denying the truth, make no [empty] excuses today: [in the life to come] you shall be but recompensed for what you were doing [in this world].",
+      "urdu": "(اُس وقت کہا جائے گا کہ) اے کافرو، آج معذرتیں پیش نہ کرو، تہیں تو ویسا ہی بدلہ دیا جا رہا ہے جیسے تم عمل کر رہے تھے"
+    },
+    {
+      "number": 8,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةًۭ نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+      "english": "O you who have attained to faith! Turn unto God in sincere repentance: it may well be that your Sustainer will efface from you your bad deeds, and will admit you into gardens through which running waters flow, on a Day on which God will not shame the Prophet and those who share his faith: their light will spread rapidly before them, and on their right; [and] they will pray: \"O our Sustainer! Cause this our light to shine for us forever, and forgive us our sins: for, verily, Thou hast the power to will anything!\"",
+      "urdu": "اے لوگو جو ایمان لائے ہو، اللہ سے توبہ کرو، خالص توبہ، بعید نہیں کہ اللہ تمہاری برائیاں تم سے دور کر دے اور تمہیں ایسی جنتوں میں داخل فرما دے جن کے نیچے نہریں بہہ رہی ہوں گی یہ وہ دن ہوگا جب اللہ اپنے نبی کو اور اُن لوگوں جو اس کے ساتھ ایمان لائے ہیں رسوا نہ کرے گا اُن کا نور اُن کے آگے آگے اور ان کے دائیں جانب دوڑ رہا ہوگا اور وہ کہہ رہے ہوں گے کہ اے ہمارے رب، ہمارا نور ہمارے لیے مکمل کر دے اور ہم سے درگزر فرما، تو ہر چیز پر قدرت رکھتا ہے"
+    },
+    {
+      "number": 9,
+      "arabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "english": "O PROPHET! Strive hard against the deniers of the truth and the hypocrites, and be adamant with them. And [if they do not repent,] their goal shall be hell - and how vile a journey’s end!",
+      "urdu": "اے نبیؐ، کفار اور منافقین سے جہاد کرو اور ان کے ساتھ سختی سے پیش آؤ ان کا ٹھکانا جہنم ہے اور وہ بہت برا ٹھکانا ہے"
+    },
+    {
+      "number": 10,
+      "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+      "english": "For those who are bent on denying the truth God has propounded a parable in [the stories of] Noah's wife and Lot's wife: they were wedded to two of Our righteous servants, and each one betrayed her husband; and neither of the two [husbands] will be of any avail to these two women when they are told [on Judgment Day], \"Enter the fire with all those [other sinners] who enter it!\"",
+      "urdu": "اللہ کافروں کے معاملے میں نوحؑ اور لوطؑ کی بیویوں کو بطور مثال پیش کرتا ہے وہ ہمارے دو صالح بندوں کی زوجیت میں تھیں، مگر انہوں نے اپنے ان شوہروں سے خیانت کی اور وہ اللہ کے مقابلہ میں ان کے کچھ بھی نہ کام آ سکے دونوں سے کہہ دیا گیا کہ جاؤ آگ میں جانے والوں کے ساتھ تم بھی چلی جاؤ"
+    },
+    {
+      "number": 11,
+      "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "english": "And for those who have attained to faith God has propounded a parable in [the story of] Pharaoh's wife as she prayed \"O my Sustainer! Build Thou for me a mansion in the paradise [that is] with Thee, and save me from Pharaoh and his doings, and save me, from all evildoing folk!",
+      "urdu": "اور اہل ایمان کے معاملہ میں اللہ فرعون کی بیوی کی مثال پیش کرتا ہے جبکہ اس نے دعا کی \"اے میرے رب، میرے لیے اپنے ہاں جنت میں ایک گھر بنا دے اور مجھے فرعون اور اس کے عمل سے بچا لے اور ظالم قوم سے مجھ کو نجات دے\""
+    },
+    {
+      "number": 12,
+      "arabic": "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ",
+      "english": "And [We have propounded yet another parable of God-consciousness in the story of] Mary, the daughter of Imran, who guarded her chastity, whereupon We breathed of Our spirit into that [which was in her womb], and who accepted the truth of her Sustainer’s words - and [thus,] of His revelations - and was one of the truly devout.",
+      "urdu": "اور عمران کی بیٹی مریمؑ کی مثال دیتا ہے جس نے اپنی شرمگاہ کی حفاظت کی تھی، پھر ہم نے اس کے اندر اپنی طرف سے روح پھونک دی، اور اس نے اپنے رب کے ارشادات اور اس کی کتابوں کی تصدیق کی اور وہ اطاعت گزار لوگوں میں سے تھی"
+    }
+  ]
+}

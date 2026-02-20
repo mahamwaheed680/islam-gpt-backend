@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "surah_number": 105,
+  "arabic_name": "سُورَةُ الفِيلِ",
+  "english_name": "Al-Fil",
+  "verses_count": 5,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "english": "ART THOU NOT aware of how thy Sustainer dealt with the Army of the Elephant?",
+      "urdu": "تم نے دیکھا نہیں کہ تمہارے رب نے ہاتھی والوں کے ساتھ کیا کیا؟"
+    },
+    {
+      "number": 2,
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+      "english": "Did He not utterly confound their artful planning?",
+      "urdu": "کیا اُس نے اُن کی تدبیر کو اکارت نہیں کر دیا؟"
+    },
+    {
+      "number": 3,
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "english": "Thus, He let loose upon them great swarms of flying creatures",
+      "urdu": "اور اُن پر پرندوں کے جھنڈ کے جھنڈ بھیج دیے"
+    },
+    {
+      "number": 4,
+      "arabic": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+      "english": "which smote them with stone-hard blows of chastisement pre-ordained,",
+      "urdu": "جو اُن پر پکی ہوئی مٹی کے پتھر پھینک رہے تھے"
+    },
+    {
+      "number": 5,
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+      "english": "and caused them to become like a field of grain that has been eaten down to stubble",
+      "urdu": "پھر اُن کا یہ حال کر دیا جیسے جانوروں کا کھایا ہوا بھوسا"
+    }
+  ]
+}

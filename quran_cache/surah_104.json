@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "surah_number": 104,
+  "arabic_name": "سُورَةُ الهُمَزَةِ",
+  "english_name": "Al-Humaza",
+  "verses_count": 9,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌۭ لِّكُلِّ هُمَزَةٍۢ لُّمَزَةٍ",
+      "english": "WOE unto every slanderer, fault-finder!",
+      "urdu": "تباہی ہے ہر اُس شخص کے لیے جو (منہ در منہ) لوگوں پر طعن اور (پیٹھ پیچھے) برائیاں کرنے کا خوگر ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ",
+      "english": "[Woe unto him who amasses wealth and counts it a safeguard,",
+      "urdu": "جس نے مال جمع کیا اور اُسے گن گن کر رکھا"
+    },
+    {
+      "number": 3,
+      "arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "english": "thinking that his wealth will make him live forever!",
+      "urdu": "وہ سمجھتا ہے کہ اُس کا مال ہمیشہ اُس کے پاس رہے گا"
+    },
+    {
+      "number": 4,
+      "arabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "english": "Nay, but [in the life to come such as] he shall indeed be abandoned to crushing torment!",
+      "urdu": "ہرگز نہیں، وہ شخص تو چکنا چور کر دینے والی جگہ میں پھینک دیا جائے گا"
+    },
+    {
+      "number": 5,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "english": "And what could make thee conceive what that crushing torment will be?",
+      "urdu": "اور تم کیا جانو کہ کیا ہے وہ چکنا چور کر دینے والی جگہ؟"
+    },
+    {
+      "number": 6,
+      "arabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "english": "A fire kindled by God,",
+      "urdu": "اللہ کی آگ، خوب بھڑکائی ہوئی"
+    },
+    {
+      "number": 7,
+      "arabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "english": "which will rise over the [guilty] hearts:",
+      "urdu": "جو دلوں تک پہنچے گی"
+    },
+    {
+      "number": 8,
+      "arabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌۭ",
+      "english": "verily, it will close in upon them",
+      "urdu": "وہ اُن پر ڈھانک کر بند کر دی جائے گی"
+    },
+    {
+      "number": 9,
+      "arabic": "فِى عَمَدٍۢ مُّمَدَّدَةٍۭ",
+      "english": "in endless columns!",
+      "urdu": "(اِس حالت میں کہ وہ) اونچے اونچے ستونوں میں (گھرے ہوئے ہوں گے)"
+    }
+  ]
+}

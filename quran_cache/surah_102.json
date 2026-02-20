@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "surah_number": 102,
+  "arabic_name": "سُورَةُ التَّكَاثُرِ",
+  "english_name": "At-Takaathur",
+  "verses_count": 8,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "english": "YOU ARE OBSESSED by greed for more and more",
+      "urdu": "تم لوگوں کو زیادہ سے زیادہ اور ایک دوسرے سے بڑھ کر دنیا حاصل کرنے کی دھن نے غفلت میں ڈال رکھا ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "english": "until you go down to your graves.",
+      "urdu": "یہاں تک کہ (اسی فکر میں) تم لب گور تک پہنچ جاتے ہو"
+    },
+    {
+      "number": 3,
+      "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "english": "Nay, in time you will come to understand!",
+      "urdu": "ہرگز نہیں، عنقریب تم کو معلوم ہو جائے گا"
+    },
+    {
+      "number": 4,
+      "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "english": "And once again: Nay, in time you will come to understand!",
+      "urdu": "پھر (سن لو کہ) ہرگز نہیں، عنقریب تم کو معلوم ہو جائے گا"
+    },
+    {
+      "number": 5,
+      "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "english": "Nay, if you could but understand [it] with an understanding [born] of certainty,",
+      "urdu": "ہرگز نہیں، اگر تم یقینی علم کی حیثیت سے (اِس روش کے انجام کو) جانتے ہوتے (تو تمہارا یہ طرز عمل نہ ہوتا)"
+    },
+    {
+      "number": 6,
+      "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "english": "you would indeed, most surely, behold the blazing fire [of hell]!",
+      "urdu": "تم دوزخ دیکھ کر رہو گے"
+    },
+    {
+      "number": 7,
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "english": "In the end you will indeed, most surely, behold it with the eye of certainty:",
+      "urdu": "پھر (سن لو کہ) تم بالکل یقین کے ساتھ اُسے دیکھ لو گے"
+    },
+    {
+      "number": 8,
+      "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "english": "and on that Day you will most surely be called to account for [what you did with] the boon of life!",
+      "urdu": "پھر ضرور اُس روز تم سے اِن نعمتوں کے بارے میں جواب طلبی کی جائے گی"
+    }
+  ]
+}

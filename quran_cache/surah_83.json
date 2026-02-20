@@ -1,0 +1,226 @@
+{
+  "success": true,
+  "surah_number": 83,
+  "arabic_name": "سُورَةُ المُطَفِّفِينَ",
+  "english_name": "Al-Mutaffifin",
+  "verses_count": 36,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌۭ لِّلْمُطَفِّفِينَ",
+      "english": "WOE UNTO THOSE who give short measure:",
+      "urdu": "تباہی ہے ڈنڈی مارنے والوں کے لیے"
+    },
+    {
+      "number": 2,
+      "arabic": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+      "english": "those who, when they are to receive their due from [other] people, demand that it be given in full –",
+      "urdu": "جن کا حال یہ ہے کہ جب لوگوں سے لیتے ہیں تو پورا پورا لیتے ہیں"
+    },
+    {
+      "number": 3,
+      "arabic": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+      "english": "but when they have to measure or weigh whatever they owe to others, give less than what is due!",
+      "urdu": "اور جب ان کو ناپ کر یا تول کر دیتے ہیں تو انہیں گھاٹا دیتے ہیں"
+    },
+    {
+      "number": 4,
+      "arabic": "أَلَا يَظُنُّ أُو۟لَٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "english": "Do they not know that they are bound to be raised from the dead",
+      "urdu": "کیا یہ لوگ نہیں سمجھتے کہ ایک بڑے دن،"
+    },
+    {
+      "number": 5,
+      "arabic": "لِيَوْمٍ عَظِيمٍۢ",
+      "english": "[and called to account] on an awesome Day –",
+      "urdu": "یہ اٹھا کر لائے جانے والے ہیں؟"
+    },
+    {
+      "number": 6,
+      "arabic": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَٰلَمِينَ",
+      "english": "the Day when all men shall stand before the Sustainer of all the worlds?",
+      "urdu": "اُس دن جبکہ سب لوگ رب العالمین کے سامنے کھڑے ہوں گے"
+    },
+    {
+      "number": 7,
+      "arabic": "كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍۢ",
+      "english": "NAY, VERILY, the record of the wicked is indeed [set down] in a mode inescapable!",
+      "urdu": "ہرگز نہیں، یقیناً بد کاروں کا نامہ اعمال قید خانے کے دفتر میں ہے"
+    },
+    {
+      "number": 8,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌۭ",
+      "english": "And what could make thee conceive what that that mode inescapable will be?",
+      "urdu": "اور تمہیں کیا معلوم کہ وہ قید خانے کا دفتر کیا ہے؟"
+    },
+    {
+      "number": 9,
+      "arabic": "كِتَٰبٌۭ مَّرْقُومٌۭ",
+      "english": "A record [indelibly] inscribed!",
+      "urdu": "ایک کتاب ہے لکھی ہوئی"
+    },
+    {
+      "number": 10,
+      "arabic": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day unto those who give the lie to the truth –",
+      "urdu": "تباہی ہے اُس روز جھٹلانے والوں کے لیے"
+    },
+    {
+      "number": 11,
+      "arabic": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+      "english": "those who give the lie to the [coming of] Judgment Day:",
+      "urdu": "جو روز جزا کو جھٹلاتے ہیں"
+    },
+    {
+      "number": 12,
+      "arabic": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "english": "for, none gives the lie to it but such as are wont to transgress against all that is [and are] immersed in sin:",
+      "urdu": "اور اُسے نہیں جھٹلاتا مگر ہر وہ شخص جو حد سے گزر جانے والا بد عمل ہے"
+    },
+    {
+      "number": 13,
+      "arabic": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "english": "[and so,] whenever Our messages are conveyed to them, they but say, \"Fables of ancient times!\"",
+      "urdu": "اُسے جب ہماری آیات سنائی جاتی ہیں تو کہتا ہے یہ تو اگلے وقتوں کی کہانیاں ہیں"
+    },
+    {
+      "number": 14,
+      "arabic": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "english": "Nay, but their hearts are corroded by all [the evil] that they were wont to do!",
+      "urdu": "ہرگز نہیں، بلکہ دراصل اِن لوگوں کے دلوں پر اِن کے برے اعمال کا زنگ چڑھ گیا ہے"
+    },
+    {
+      "number": 15,
+      "arabic": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍۢ لَّمَحْجُوبُونَ",
+      "english": "Nay, verily, from [the grace of] their Sustainer shall they on that Day be debarred;",
+      "urdu": "ہرگز نہیں، بالیقین اُس روز یہ اپنے رب کی دید سے محروم رکھے جائیں گے"
+    },
+    {
+      "number": 16,
+      "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+      "english": "and then, behold, they shall enter the blazing fire",
+      "urdu": "پھر یہ جہنم میں جا پڑیں گے"
+    },
+    {
+      "number": 17,
+      "arabic": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "english": "and be told: \"This is the [very thing] to which you were wont to give the lie!\"",
+      "urdu": "پھر اِن سے کہا جائے گا کہ یہ وہی چیز ہے جسے تم جھٹلایا کرتے تھے"
+    },
+    {
+      "number": 18,
+      "arabic": "كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+      "english": "NAY, VERILY - the record of the truly virtuous is [set down] in a mode most lofty!",
+      "urdu": "ہرگز نہیں، بے شک نیک آدمیوں کا نامہ اعمال بلند پایہ لوگوں کے دفتر میں ہے"
+    },
+    {
+      "number": 19,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+      "english": "And what could make thee conceive what that mode most lofty will be?",
+      "urdu": "اور تمہیں کیا خبر کہ کیا ہے وہ بلند پایہ لوگوں کا دفتر؟"
+    },
+    {
+      "number": 20,
+      "arabic": "كِتَٰبٌۭ مَّرْقُومٌۭ",
+      "english": "A record [indelibly] inscribed,",
+      "urdu": "ایک لکھی ہوئی کتاب ہے"
+    },
+    {
+      "number": 21,
+      "arabic": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "english": "witnessed~ by all who have [ever] been drawn close unto God.",
+      "urdu": "جس کی نگہداشت مقرب فرشتے کرتے ہیں"
+    },
+    {
+      "number": 22,
+      "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "english": "Behold, [in the life to come] the truly virtuous will indeed be in bliss:",
+      "urdu": "بے شک نیک لوگ بڑے مزے میں ہوں گے"
+    },
+    {
+      "number": 23,
+      "arabic": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "english": "[resting on couches, they will look up [to God]:",
+      "urdu": "اونچی مسندوں پر بیٹھے نظارے کر رہے ہوں گے"
+    },
+    {
+      "number": 24,
+      "arabic": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+      "english": "upon their faces thou wilt see the brightness of bliss.",
+      "urdu": "ان کے چہروں پر تم خوشحالی کی رونق محسوس کرو گے"
+    },
+    {
+      "number": 25,
+      "arabic": "يُسْقَوْنَ مِن رَّحِيقٍۢ مَّخْتُومٍ",
+      "english": "They will be given a drink of pure wine whereon the seal [of God] will have been set,",
+      "urdu": "ان کو نفیس ترین سر بند شراب پلائی جائے گی جس پر مشک کی مہر لگی ہوگی"
+    },
+    {
+      "number": 26,
+      "arabic": "خِتَٰمُهُۥ مِسْكٌۭ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَٰفِسُونَ",
+      "english": "pouring forth with a fragrance of musk. To that [wine of paradise], then, let all such aspire as [are willing to] aspire to things of high account:",
+      "urdu": "جو لوگ دوسروں پر بازی لے جانا چاہتے ہوں وہ اِس چیز کو حاصل کرنے میں بازی لے جانے کی کوشش کریں"
+    },
+    {
+      "number": 27,
+      "arabic": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+      "english": "for it is composed of all that is most exalting",
+      "urdu": "اُس شراب میں تسنیم کی آمیزش ہوگی"
+    },
+    {
+      "number": 28,
+      "arabic": "عَيْنًۭا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "english": "a source [of bliss] whereof those who are drawn close unto God shall drink.",
+      "urdu": "یہ ایک چشمہ ہے جس کے پانی کے ساتھ مقرب لوگ شراب پئیں گے"
+    },
+    {
+      "number": 29,
+      "arabic": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+      "english": "BEHOLD, those who have abandoned themselves to sin are wont to laugh at such as have attained to faith",
+      "urdu": "مجرم لوگ دنیا میں ایمان لانے والوں کا مذاق اڑاتے تھے"
+    },
+    {
+      "number": 30,
+      "arabic": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+      "english": "and whenever they pass by them, they wink at one another [derisively];",
+      "urdu": "جب اُن کے پاس سے گزرتے تو آنکھیں مار مار کر اُن کی طرف اشارے کرتے تھے"
+    },
+    {
+      "number": 31,
+      "arabic": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+      "english": "and whenever they return to people of their own kind, they return full of jests;",
+      "urdu": "اپنے گھروں کی طرف پلٹتے تو مزے لیتے ہوئے پلٹتے تھے"
+    },
+    {
+      "number": 32,
+      "arabic": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ",
+      "english": "and whenever they see those [who believe,] they say, \"Behold, these [people] have indeed gone astray!\"",
+      "urdu": "اور جب انہیں دیکھتے تو کہتے تھے کہ یہ بہکے ہوئے لوگ ہیں"
+    },
+    {
+      "number": 33,
+      "arabic": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَٰفِظِينَ",
+      "english": "And, withal, they have no call to watch over [the beliefs of] others...",
+      "urdu": "حالانکہ وہ اُن پر نگراں بنا کر نہیں بھیجے گئے تھے"
+    },
+    {
+      "number": 34,
+      "arabic": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+      "english": "But on the Day [of Judgment], they who had attained to faith will [be able to] laugh at the [erstwhile] deniers of the truth:",
+      "urdu": "آج ایمان لانے والے کفار پر ہنس رہے ہیں"
+    },
+    {
+      "number": 35,
+      "arabic": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "english": "[for, resting in paradise] on couches, they will look on [and say to themselves]:",
+      "urdu": "مسندوں پر بیٹھے ہوئے ان کا حال دیکھ رہے ہیں"
+    },
+    {
+      "number": 36,
+      "arabic": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "english": "\"Are these deniers of the truth being [thus] requited for [aught but] what they were wont to do?\"",
+      "urdu": "مل گیا نا کافروں کو اُن حرکتوں کا ثواب جو وہ کیا کرتے تھے"
+    }
+  ]
+}

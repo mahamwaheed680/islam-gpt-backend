@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "surah_number": 97,
+  "arabic_name": "سُورَةُ القَدۡرِ",
+  "english_name": "Al-Qadr",
+  "verses_count": 5,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "english": "BEHOLD, from on high have We bestowed this [divine writ] on Night of Destiny.",
+      "urdu": "ہم نے اِس (قرآن) کو شب قدر میں نازل کیا ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "english": "And what could make thee conceive what it is, that Night of Destiny?",
+      "urdu": "اور تم کیا جانو کہ شب قدر کیا ہے؟"
+    },
+    {
+      "number": 3,
+      "arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+      "english": "The Night of Destiny is better than a thousand months:",
+      "urdu": "شب قدر ہزار مہینوں سے زیادہ بہتر ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
+      "english": "in hosts descend in it the angels, bearing divine inspiration by their Sustainer's leave; from all [evil] that may happen",
+      "urdu": "فرشتے اور روح اُس میں اپنے رب کے اذن سے ہر حکم لے کر اترتے ہیں"
+    },
+    {
+      "number": 5,
+      "arabic": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "english": "does it make secure, until the rise of dawn.",
+      "urdu": "وہ رات سراسر سلامتی ہے طلوع فجر تک"
+    }
+  ]
+}

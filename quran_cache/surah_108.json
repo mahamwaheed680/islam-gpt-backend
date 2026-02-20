@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "surah_number": 108,
+  "arabic_name": "سُورَةُ الكَوۡثَرِ",
+  "english_name": "Al-Kawthar",
+  "verses_count": 3,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "english": "BEHOLD, We have bestowed upon thee good in abundance:",
+      "urdu": "(اے نبیؐ) ہم نے تمہیں کوثر عطا کر دیا"
+    },
+    {
+      "number": 2,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "english": "hence, pray unto thy Sustainer [alone], and sacrifice [unto Him alone].",
+      "urdu": "پس تم اپنے رب ہی کے لیے نماز پڑھو اور قربانی کرو"
+    },
+    {
+      "number": 3,
+      "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "english": "Verily, he that hates thee has indeed been cut off [from all that is good]!",
+      "urdu": "تمہارا دشمن ہی جڑ کٹا ہے"
+    }
+  ]
+}

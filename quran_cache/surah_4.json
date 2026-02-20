@@ -1,0 +1,1066 @@
+{
+  "success": true,
+  "surah_number": 4,
+  "arabic_name": "سُورَةُ النِّسَاءِ",
+  "english_name": "An-Nisaa",
+  "verses_count": 176,
+  "revelation_type": "Medinan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًۭا كَثِيرًۭا وَنِسَآءًۭ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًۭا",
+      "english": "O MANKIND! Be conscious of your Sustainer, who has created you out of one living entity, and out of it created its mate, and out of the two spread abroad a multitude of men and women. And remain conscious of God, in whose name you demand [your rights] from one another, and of these ties of kinship. Verily, God is ever watchful over you!",
+      "urdu": "لوگو! اپنے رب سے ڈرو جس نے تم کو ایک جان سے پیدا کیا اور اُسی جان سے اس کا جوڑا بنایا اور ان دونوں سے بہت مرد و عورت دنیا میں پھیلا دیے اُس خدا سے ڈرو جس کا واسطہ دے کر تم ایک دوسرے سے اپنے حق مانگتے ہو، اور رشتہ و قرابت کے تعلقات کو بگاڑنے سے پرہیز کرو یقین جانو کہ اللہ تم پر نگرانی کر رہا ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ ۖ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ ۖ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ ۚ إِنَّهُۥ كَانَ حُوبًۭا كَبِيرًۭا",
+      "english": "Hence, render unto the orphans their posses­sions, and do not substitute bad things [of your own] for the good things [that belong to them], and do not consume their possessions together with your own: this, verily, is a great crime.",
+      "urdu": "یتیموں کے مال اُن کو واپس دو، اچھے مال کو برے مال سے نہ بدل لو، اور اُن کے مال اپنے مال کے ساتھ ملا کر نہ کھا جاؤ، یہ بہت بڑا گناہ ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+      "english": "And if you have reason to fear that you might not act equitably towards orphans, then marry from among [other] women such as are lawful to you - [even] two, or three, or four: but if you have reason to fear that you might not be able to treat them with equal fairness, then [only] one - or [from among] those whom you rightfully possess. This will make it more likely that you will not deviate from the right course.",
+      "urdu": "اور اگر تم یتیموں کے ساتھ بے انصافی کرنے سے ڈرتے ہو تو جو عورتیں تم کو پسند آئیں اُن میں سے دو دو، تین تین، چار چار سے نکاح کرلو لیکن اگر تمہیں اندیشہ ہو کہ اُن کے ساتھ عدل نہ کر سکو گے تو پھر ایک ہی بیوی کرو یا اُن عورتوں کو زوجیت میں لاؤ جو تمہارے قبضہ میں آئی ہیں، بے انصافی سے بچنے کے لیے یہ زیادہ قرین صواب ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةًۭ ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍۢ مِّنْهُ نَفْسًۭا فَكُلُوهُ هَنِيٓـًۭٔا مَّرِيٓـًۭٔا",
+      "english": "And give unto women their marriage portions in the spirit of a gift; but if they, of their own accord, give up unto you aught thereof, then enjoy it with pleasure and good cheer.",
+      "urdu": "اور عورتوں کے مہر خوش دلی کے ساتھ (فرض جانتے ہوئے) ادا کرو، البتہ اگر وہ خود اپنی خوشی سے مہر کا کوئی حصہ تمہیں معاف کر دیں تو اُسے تم مزے سے کھا سکتے ہو"
+    },
+    {
+      "number": 5,
+      "arabic": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًۭا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا",
+      "english": "And do not entrust to those who are weak of judgment the possessions which God has placed in your charge for [their] support; but let them have their sustenance therefrom, and clothe them, and speak unto them in a kindly way.",
+      "urdu": "اور اپنے وہ مال جنہیں اللہ نے تمہارے لیے قیام زندگی کا ذریعہ بنایا ہے، نادان لوگوں کے حوالہ نہ کرو، البتہ انہیں کھانے اور پہننے کے لیے دو اور انہیں نیک ہدایت کرو"
+    },
+    {
+      "number": 6,
+      "arabic": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًۭا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّۭا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًۭا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا",
+      "english": "And test the orphans [in your charge] until they reach a marriage­able age; then, if you find them to be mature of mind, hand over to them their possessions; and do not consume them by wasteful spending, and in haste, ere they grow up. And let him who is rich abstain entirely [from his ward's property]; and let him who is poor partake thereof in a fair manner. And when you hand over to them their possessions, let there be witnesses on their behalf - although none can take count as God does.",
+      "urdu": "اور یتیموں کی آزمائش کرتے رہو یہاں تک کہ وہ نکاح کے قابل عمر کو پہنچ جائیں پھر اگر تم اُن کے اندر اہلیت پاؤ تو اُن کے مال اُن کے حوالے کر دو ایسا کبھی نہ کرنا کہ حد انصاف سے تجاوز کر کے اِس خوف سے اُن کے مال جلدی جلدی کھا جاؤ کہ وہ بڑے ہو کر اپنے حق کا مطالبہ کریں گے یتیم کا جو سرپرست مال دار ہو وہ پرہیز گاری سے کام لے اور جو غریب ہو وہ معروف طریقہ سے کھائے پھر جب اُن کے مال اُن کے حوالے کرنے لگو تو لوگوں کو اس پر گواہ بنا لو، اور حساب لینے کے لیے اللہ کافی ہے"
+    },
+    {
+      "number": 7,
+      "arabic": "لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًۭا مَّفْرُوضًۭا",
+      "english": "MEN SHALL have a share in what parents and kinsfolk leave behind, and women shall have a share in what parents and kinsfolk leave behind, whether it be little or much - a share ordained [by God].",
+      "urdu": "مردوں کے لیے اُس مال میں حصہ ہے جو ماں باپ اور رشتہ داروں نے چھوڑا ہو، اور عورتوں کے لیے بھی اُس مال میں حصہ ہے جو ماں باپ اور رشتہ داروں نے چھوڑا ہو، خواہ تھوڑا ہو یا بہت، اور یہ حصہ (اللہ کی طرف سے) مقرر ہے"
+    },
+    {
+      "number": 8,
+      "arabic": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا",
+      "english": "And when [other] near of kin and orphans and needy persons are present at the distribution [of inheritance], give them something thereof for their sustenance, and speak unto them in a kindly way.",
+      "urdu": "اور جب تقسیم کے موقع پر کنبہ کے لوگ اور یتیم اور مسکین آئیں تو اس مال میں سے ان کو بھی کچھ دو اور اُن کے ساتھ بھلے مانسوں کی سی بات کرو"
+    },
+    {
+      "number": 9,
+      "arabic": "وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةًۭ ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًۭا سَدِيدًا",
+      "english": "And let them stand in awe [of God], those [legal heirs] - who, if they [themselves] had to leave behind weak offspring, would feel fear on their account - and let them remain conscious of God, and let them speak [to the poor] in a just manner.",
+      "urdu": "لوگوں کو اس بات کا خیال کر کے ڈرنا چاہیے کہ اگر وہ خود اپنے پیچھے بے بس اولاد چھوڑتے تو مرتے وقت انہیں اپنے بچوں کے حق میں کیسے کچھ اندیشے لاحق ہوتے پس چاہیے کہ وہ خدا کا خوف کریں اور راستی کی بات کریں"
+    },
+    {
+      "number": 10,
+      "arabic": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًۭا ۖ وَسَيَصْلَوْنَ سَعِيرًۭا",
+      "english": "Behold, those who sinfully devour the posses­sions of orphans but fill their bellies with fire: for [in the life to come] they will have to endure a blazing flame!",
+      "urdu": "جو لوگ ظلم کے ساتھ یتیموں کے مال کھاتے ہیں در حقیقت وہ اپنے پیٹ آگ سے بھرتے ہیں اور وہ ضرور جہنم کی بھڑکتی ہوئی آگ میں جھونکے جائیں گے"
+    },
+    {
+      "number": 11,
+      "arabic": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءًۭ فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةًۭ فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍۢ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌۭ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌۭ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌۭ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًۭا ۚ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا",
+      "english": "CONCERNING [the inheritance of] your children, God enjoins [this] upon you: The male shall have the equal of two females’ share; but if there are more than two females, they shall have two-thirds of what [their parents] leave behind; and if there is only one daughter, she shall have one-half thereof. And as for the parents [of the deceased], each of them shall have one-sixth of what he leaves behind, in the event of his having [left] a child; but if he has left no child and his parents are his [only] heirs, then his mother shall have one-third; and if he has brothers and sisters, then his mother shall have one-sixth after [the deduction of] any bequest he may have made, or any debt [he may have incurred]. As for your parents and your children - you know not which of them is more deserving of benefit from you: [therefore this] ordinance from God. Verily, God is all-knowing, wise.",
+      "urdu": "تمہاری اولاد کے بارے میں اللہ تمہیں ہدایت کرتا ہے کہ: مرد کا حصہ دو عورتوں کے برابر ہے، اگر (میت کی وارث) دو سے زائد لڑکیاں ہوں تو انہیں ترکے کا دو تہائی دیا جائے، اور اگر ایک ہی لڑکی وارث ہو تو آدھا ترکہ اس کا ہے اگر میت صاحب اولاد ہو تواس کے والدین میں سے ہر ایک کو ترکے کا چھٹا حصہ ملنا چاہیے اور اگر وہ صاحب اولاد نہ ہو اور والدین ہی اس کے وارث ہو ں تو ماں کو تیسرا حصہ دیا جائے اور اگر میت کے بھائی بہن بھی ہوں تو ماں چھٹے حصہ کی حق دار ہوگی (یہ سب حصے اُس وقت نکالے جائیں) جبکہ وصیت جو میت نے کی ہو پوری کر دی جائے اور قرض جو اُس پر ہو ادا کر دیا جائے تم نہیں جانتے کہ تمہارے ماں باپ اور تمہاری اولاد میں سے کون بلحاظ نفع تم سے قریب تر ہے یہ حصے اللہ نے مقرر کر دیے ہیں، اور اللہ یقیناً سب حقیقتوں سے واقف اور ساری مصلحتوں کا جاننے والا ہے"
+    },
+    {
+      "number": 12,
+      "arabic": "۞ وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌۭ ۚ فَإِن كَانَ لَهُنَّ وَلَدٌۭ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصِينَ بِهَآ أَوْ دَيْنٍۢ ۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌۭ ۚ فَإِن كَانَ لَكُمْ وَلَدٌۭ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم ۚ مِّنۢ بَعْدِ وَصِيَّةٍۢ تُوصُونَ بِهَآ أَوْ دَيْنٍۢ ۗ وَإِن كَانَ رَجُلٌۭ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌۭ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌۭ فَلِكُلِّ وَٰحِدٍۢ مِّنْهُمَا ٱلسُّدُسُ ۚ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّۢ ۚ وَصِيَّةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَلِيمٌۭ",
+      "english": "And you shall inherit one-half of what your wives leave behind, provided they have left no child; but if they have left a child, then you shall have one-quarter of what they leave behind, after [the deduction of] any bequest they may have made, or any debt [they may have incurred]. And your widows shall have one-quarter of what you leave behind, provided you have left no child; but if you have left a child, then they shall have one-eighth of what you leave behind, after [the deduction of] any bequest you may have made, or any debt [you may have incurred]. And if a man or a woman has no heir in the direct line, but has a brother or a sister, then each of these two shall inherit one-sixth; but if there are more than two, then they shall share in one-third [of the inheritance], after [the deduction of] any bequest that may have been made, or any debt [that may have been incurred], neither of which having been intended to harm [the heirs]. [This is] an injunction from God: and God is all-knowing, forbearing.",
+      "urdu": "اور تمہاری بیویوں نے جو کچھ چھوڑا ہو اس کا آدھا حصہ تمہیں ملے گا اگر وہ بے اولاد ہوں، ورنہ اولاد ہونے کی صورت میں ترکہ کا ایک چوتھائی حصہ تمہارا ہے جبکہ وصیت جو انہوں ں نے کی ہو پوری کر دی جائے، اور قرض جو اُنہوں نے چھوڑا ہو ادا کر دیا جائے اور وہ تمہارے ترکہ میں سے چوتھائی کی حق دار ہوں گی اگر تم بے اولاد ہو، ورنہ صاحب اولاد ہونے کی صورت میں اُن کا حصہ آٹھواں ہوگا، بعد اس کے کہ جو وصیت تم نے کی ہو وہ پوری کر دی جائے اور جو قرض تم نے چھوڑا ہو وہ ادا کر دیا جائے اور اگر وہ مرد یا عورت (جس کی میراث تقسیم طلب ہے) بے اولاد بھی ہو اور اس کے ماں باپ بھی زندہ نہ ہوں، مگر اس کا ایک بھائی یا ایک بہن موجود ہو تو بھائی اور بہن ہر ایک کو چھٹا حصہ ملے گا، اور بھائی بہن ایک سے زیادہ ہوں تو کل ترکہ کے ایک تہائی میں وہ سب شریک ہوں گے، جبکہ وصیت جو کی گئی ہو پوری کر دی جائے، اور قرض جو میت نے چھوڑا ہو ادا کر دیا جائے، بشر طیکہ وہ ضرر رساں نہ ہو یہ حکم ہے اللہ کی طرف سے اور اللہ دانا و بینا اور نرم خو ہے"
+    },
+    {
+      "number": 13,
+      "arabic": "تِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "english": "These are the bounds set by God. And whoever pays heed unto God and His Apostle, him will He bring into gardens through which running waters flow, therein to abide: and this is a triumph supreme.",
+      "urdu": "یہ اللہ کی مقرر کی ہوئی حدیں ہیں جو اللہ اور اُس کے رسول کی اطاعت کرے گا اُسے اللہ ایسے باغوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی اور ان باغوں میں وہ ہمیشہ رہے گا اور یہی بڑی کامیابی ہے"
+    },
+    {
+      "number": 14,
+      "arabic": "وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَٰلِدًۭا فِيهَا وَلَهُۥ عَذَابٌۭ مُّهِينٌۭ",
+      "english": "And whoever rebels against God and His Apostle and transgresses His bounds, him will He commit unto fire, therein to abide; and shameful suffering awaits him.",
+      "urdu": "اور جو اللہ اور اُس کے رسول کی نافرمانی کرے گا اور اس کی مقرر کی ہوئی حدوں سے تجاوز کر جائے گا اُسے اللہ آگ میں ڈالے گا جس میں وہ ہمیشہ رہے گا اور اس کے لیے رسوا کن سزا ہے"
+    },
+    {
+      "number": 15,
+      "arabic": "وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةًۭ مِّنكُمْ ۖ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًۭا",
+      "english": "AND AS FOR those of your women who become guilty of immoral conduct, call upon four from among you who have witnessed their guilt; and if these bear witness thereto, confine the guilty women to their houses until death takes them away or God opens for them a way [through repentance].",
+      "urdu": "تمہاری عورتوں میں سے جو بد کاری کی مرتکب ہوں اُن پر اپنے میں سے چار آدمیوں کی گواہی لو، اور اگر چار آدمی گواہی دے دیں تو ان کو گھروں میں بند رکھو یہاں تک کہ انہیں موت آ جائے یا اللہ اُن کے لیے کوئی راستہ نکال دے"
+    },
+    {
+      "number": 16,
+      "arabic": "وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا ۖ فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ تَوَّابًۭا رَّحِيمًا",
+      "english": "And punish [thus] both of the guilty parties; but if they both repent and mend their ways, leave them alone: for, behold, God is an acceptor of repentance, a dispenser of grace.",
+      "urdu": "اور تم میں سے جو اس فعل کا ارتکاب کریں اُن دونوں کو تکلیف دو، پھر اگر وہ توبہ کریں اور اپنی اصلاح کر لیں تو انہیں چھوڑ دو کہ اللہ بہت توبہ قبول کرنے والا اور رحم فرمانے والا ہے"
+    },
+    {
+      "number": 17,
+      "arabic": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ يَتُوبُونَ مِن قَرِيبٍۢ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+      "english": "Verily, God's acceptance of repentance relates only to those who do evil out of ignorance and then repent before their time runs out: and it is they unto whom God will turn again in His mercy - for God is all-knowing, wise;",
+      "urdu": "ہاں یہ جان لو کہ اللہ پر توبہ کی قبولیت کا حق اُنہی لوگوں کے لیے ہے جو نادانی کی وجہ سے کوئی برا فعل کر گزرتے ہیں اور اس کے بعد جلدی ہی توبہ کر لیتے ہیں ایسے لوگوں پر اللہ اپنی نظر عنایت سے پھر متوجہ ہو جاتا ہے اور اللہ ساری باتوں کی خبر رکھنے والا اور حکیم و دانا ہے"
+    },
+    {
+      "number": 18,
+      "arabic": "وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًۭا",
+      "english": "whereas repentance shall not be accepted from those who do evil deeds until their dying hour and then say, \"Behold, I now repent\"; nor from those who die as deniers of the truth: it is these for whom We have readied grievous suffering.",
+      "urdu": "مگر توبہ اُن لوگوں کے لیے نہیں ہے جو برے کام کیے چلے جاتے ہیں یہاں تک کہ جب ان میں سے کسی کی موت وقت آ جاتا ہے اُس وقت وہ کہتا ہے کہ اب میں نے توبہ کی، اور اسی طرح توبہ اُن کے لیے بھی نہیں ہے جو مرتے دم تک کافر رہیں ا یسے لوگوں کے لیے تو ہم نے درد ناک سزا تیار کر رکھی ہے"
+    },
+    {
+      "number": 19,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًۭا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًۭٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًۭا كَثِيرًۭا",
+      "english": "O YOU who have attained to faith! It is not lawful for you to [try to] become heirs to your wives [by holding onto them] against their will; and neither shall you keep them under constraint with a view to taking away anything of what you may have given them, unless it be that they have become guilty, in an obvious man­ner, of immoral conduct. And consort with your wives in a goodly manner; for if you dislike them, it may well be that you dislike something which God might yet make a source of abundant good.",
+      "urdu": "اے لوگو جو ایمان لائے ہو، تمہارے لیے یہ حلال نہیں ہے کہ زبردستی عورتوں کے وارث بن بیٹھو اور نہ یہ حلال ہے کہ انہیں تنگ کر کے اُس مہر کا کچھ حصہ اڑا لینے کی کوشش کرو جو تم انہیں دے چکے ہو ہاں اگر وہ کسی صریح بد چلنی کی مرتکب ہو ں (تو ضرور تمہیں تنگ کرنے کا حق ہے) ان کے ساتھ بھلے طریقہ سے زندگی بسر کرو اگر وہ تمہیں ناپسند ہوں تو ہو سکتا ہے کہ ایک چیز تمہیں پسند نہ ہو مگر اللہ نے اُسی میں بہت کچھ بھلائی رکھ دی ہو"
+    },
+    {
+      "number": 20,
+      "arabic": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍۢ مَّكَانَ زَوْجٍۢ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًۭا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا ۚ أَتَأْخُذُونَهُۥ بُهْتَٰنًۭا وَإِثْمًۭا مُّبِينًۭا",
+      "english": "But if you desire to give up a wife and to take another in her stead, do not take away anything of what you have given the first one, however much it may have been. Would you, perchance, take it away by slandering her and thus committing a manifest sin?",
+      "urdu": "اور اگر تم ایک بیوی کی جگہ دوسری بیوی لے آنے کا ارادہ ہی کر لو تو خواہ تم نے اُسے ڈھیر سا مال ہی کیوں نہ دیا ہو، اس میں سے کچھ واپس نہ لینا کیا تم اُسے بہتان لگا کر اور صریح ظلم کر کے واپس لو گے؟"
+    },
+    {
+      "number": 21,
+      "arabic": "وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍۢ وَأَخَذْنَ مِنكُم مِّيثَٰقًا غَلِيظًۭا",
+      "english": "And how could you take it away after you have given yourselves to one another, and she has received a most solemn pledge from you?",
+      "urdu": "اور آخر تم اُسے کس طرح لے لو گے جب کہ تم ایک دوسرے سے لطف اندو ز ہو چکے ہو اور وہ تم سے پختہ عہد لے چکی ہیں؟"
+    },
+    {
+      "number": 22,
+      "arabic": "وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُۥ كَانَ فَٰحِشَةًۭ وَمَقْتًۭا وَسَآءَ سَبِيلًا",
+      "english": "AND DO NOT marry women whom your fathers have previously married - although what is past is past: this, verily, is a shameful deed, and a hateful thing, and an evil way.",
+      "urdu": "اور جن عورتوں سے تمہارے باپ نکاح کر چکے ہوں اُن سے ہرگز نکاح نہ کرو، مگر جو پہلے ہو چکا سو ہو چکا در حقیقت یہ ایک بے حیائی کا فعل ہے، ناپسندیدہ ہے اور برا چلن ہے"
+    },
+    {
+      "number": 23,
+      "arabic": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا",
+      "english": "Forbidden to you are your mothers, and your daughters, and your sisters, and your aunts paternal and maternal, and a brother's daughters, and a sister's daughters; and your milk-mothers, and your milk-sisters; and the mothers of your wives; and your step-daughters - who are your foster children - born of your wives with whom you have consummated your marriage; but if you have not consummated your marriage, you will incur no sin [by marrying their daughters]; and [forbidden to you are] the spouses of the sons who have sprung from your loins; and [you are forbidden] to have two sisters [as your wives] at one and the same time - but what is past is past: for, behold, God is indeed much-forgiving, a dispenser of grace.",
+      "urdu": "تم پر حرام کی گئیں تمہاری مائیں، بیٹیاں، بہنیں، پھوپھیاں، خالائیں، بھتیجیاں، بھانجیاں، اور تمہاری وہ مائیں جنہوں نے تم کو دودھ پلایا ہو، اور تمہاری دودھ شریک بہنیں، اور تمہاری بیویوں کی مائیں، اور تمہاری بیویوں کی لڑکیاں جنہوں نے تمہاری گودوں میں پرورش پائی ہے اُن بیویوں کی لڑکیاں جن سے تمہارا تعلق زن و شو ہو چکا ہو ورنہ اگر (صرف نکاح ہوا ہو اور) تعلق زن و شو نہ ہوا ہو تو (ا نہیں چھوڑ کر ان کی لڑکیوں سے نکاح کر لینے میں) تم پر کوئی مواخذہ نہیں ہے اور تمہارے اُن بیٹوں کی بیویاں جو تمہاری صلب سے ہوں اور یہ بھی تم پر حرام کیا گیا ہے کہ ایک نکاح میں دو بہنوں کو جمع کرو، مگر جو پہلے ہو گیا سو ہو گیا، اللہ بخشنے والا اور رحم کرنے والا ہے"
+    },
+    {
+      "number": 24,
+      "arabic": "۞ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ ۖ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ ۚ فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةًۭ ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا",
+      "english": "And [forbidden to you are] all married women other than those whom you rightfully possess [through wedlock]: this is God's ordinance, binding upon you. But lawful to you are all [women] beyond these, for you to seek out, offering them of your possessions, taking them in honest wedlock, and not in fornication. And unto those with whom you desire to enjoy marriage, you shall give the dowers due to them; but you will incur no sin if, after [having agreed upon] this lawful due, you freely agree with one another upon anything [else]: behold, God is indeed all-knowing, wise.",
+      "urdu": "اور وہ عورتیں بھی تم پر حرام ہیں جو کسی دوسرے کے نکاح میں ہوں (محصنات) البتہ ایسی عورتیں اس سے مستثنیٰ ہیں جو (جنگ میں) تمہارے ہاتھ آئیں یہ اللہ کا قانون ہے جس کی پابندی تم پر لازم کر دی گئی ہے اِن کے ماسوا جتنی عورتیں ہیں انہیں اپنے اموال کے ذریعہ سے حاصل کرنا تمہارے لیے حلال کر دیا گیا ہے، بشر طیکہ حصار نکاح میں اُن کو محفوظ کرو، نہ یہ کہ آزاد شہوت رانی کرنے لگو پھر جو ازدواجی زندگی کا لطف تم ان سے اٹھاؤ اس کے بدلے اُن کے مہر بطور فرض ادا کرو، البتہ مہر کی قرارداد ہو جانے کے بعد آپس کی رضامندی سے تمہارے درمیان اگر کوئی سمجھوتہ ہو جائے تو اس میں کوئی حرج نہیں، اللہ علیم اور دانا ہے"
+    },
+    {
+      "number": 25,
+      "arabic": "وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ ۚ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم ۚ بَعْضُكُم مِّنۢ بَعْضٍۢ ۚ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍۢ وَلَا مُتَّخِذَٰتِ أَخْدَانٍۢ ۚ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍۢ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ ۚ وَأَن تَصْبِرُوا۟ خَيْرٌۭ لَّكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+      "english": "And as for those of you who, owing to cir­cumstances, are not in a position to marry free believing women, [let them marry] believing maidens from among those whom you rightfully possess. And God knows all about your faith; each one of you is an issue of the other. Marry them, then, with their people's leave, and give them their dowers in an equitable manner - they being women who give themselves in honest wedlock, not in fornication, nor as secret love-companions. And when they are married, and thereafter become guilty of immoral conduct, they shall be liable to half the penalty to which free married women are liable. This [permission to marry slave-girls applies] to those of you who fear lest they stumble into evil. But it is for your own good to persevere in patience [and to abstain from such marriages]: and God is much-forgiving, a dispenser of grace.",
+      "urdu": "اور جو شخص تم میں سے اتنی مقدرت نہ رکھتا ہو کہ خاندانی مسلمان عورتوں (محصنات) سے نکاح کر سکے اسے چاہیے کہ تمہاری اُن لونڈیوں میں سے کسی کے ساتھ نکاح کر لے جو تمہارے قبضہ میں ہوں اور مومنہ ہوں اللہ تمہارے ایمانوں کا حال خوب جانتا ہے، تم سب ایک ہی گروہ کے لوگ ہو، لہٰذا اُن کے سرپرستوں کی اجازت سے اُن کے ساتھ نکاح کر لو اور معروف طریقہ سے اُن کے مہر ادا کر دو، تاکہ وہ حصار نکاح میں محفوظ (محصنات) ہو کر رہیں، آزاد شہوت رانی کرتی پھریں اور نہ چوری چھپے آشنائیاں کریں پھر جب وہ حصار نکاح میں محفوظ ہو جائیں اور اس کے بعد کسی بد چلنی کی مرتکب ہوں تو ان پر اُس سز ا کی بہ نسبت آدھی سزا ہے جو خاندانی عورتوں (محصنات) کے لیے مقرر ہے یہ سہولت تم میں سے اُن لوگوں کے لیے پیدا کی گئی ہے جن کو شادی نہ کرنے سے بند تقویٰ کے ٹوٹ جانے کا اندیشہ ہو لیکن اگر تم صبر کرو تو یہ تمہارے لیے بہتر ہے، اور اللہ بخشنے والا اور رحم فرمانے والا ہے"
+    },
+    {
+      "number": 26,
+      "arabic": "يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+      "english": "God wants to make [all this] clear unto you, and to guide you onto the [righteous] ways of life of those who preceded you, and to turn unto you in His mercy: for God is all-knowing, wise.",
+      "urdu": "اللہ چاہتا ہے کہ تم پر اُن طریقوں کو واضح کرے اور اُنہی طریقوں پر تمہیں چلائے جن کی پیروی تم سے پہلے گزرے ہوئے صلحا٫ کرتے تھے وہ اپنی رحمت کے ساتھ تمہاری طرف متوجہ ہونے کا ارادہ رکھتا ہے، اور وہ علیم بھی ہے اور دانا بھی"
+    },
+    {
+      "number": 27,
+      "arabic": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًۭا",
+      "english": "And God wants to turn unto you in His mercy, whereas those who follow [only] their own lusts want you to drift far away from the right path.",
+      "urdu": "ہاں، اللہ تو تم پر رحمت کے ساتھ توجہ کرنا چاہتا ہے مگر جو لوگ خود اپنی خواہشات نفس کی پیروی کر رہے ہیں وہ چاہتے ہیں کہ تم راہ راست سے ہٹ کر دور نکل جاؤ"
+    },
+    {
+      "number": 28,
+      "arabic": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًۭا",
+      "english": "God wants to lighten your burdens: for man has been created weak.",
+      "urdu": "اللہ تم پر سے پابندیوں کو ہلکا کرنا چاہتا ہے کیونکہ انسان کمزور پیدا کیا گیا ہے"
+    },
+    {
+      "number": 29,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍۢ مِّنكُمْ ۚ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ ۚ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًۭا",
+      "english": "O YOU who have attained to faith! Do not devour one another's possessions wrongfully - not even by way of trade based on mutual agreement - and do not destroy one another: for, behold, God is indeed a dispenser of grace unto you!",
+      "urdu": "اے لوگو جو ایمان لائے ہو، آپس میں ایک دوسرے کے مال باطل طریقوں سے نہ کھاؤ، لین دین ہونا چاہیے آپس کی رضامندی سے اور اپنے آپ کو قتل نہ کرو یقین مانو کہ اللہ تمہارے اوپر مہربان ہے"
+    },
+    {
+      "number": 30,
+      "arabic": "وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًۭا وَظُلْمًۭا فَسَوْفَ نُصْلِيهِ نَارًۭا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "english": "And as for him who does this with malicious intent and a will to do wrong - him shall We, in time, cause to endure [suffering through] fire: for this is indeed easy for God.",
+      "urdu": "جو شخص ظلم و زیادتی کے ساتھ ایسا کرے گا اُس کو ہم ضرور آگ میں جھونکیں گے اور یہ اللہ کے لیے کوئی مشکل کام نہیں ہے"
+    },
+    {
+      "number": 31,
+      "arabic": "إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًۭا كَرِيمًۭا",
+      "english": "If you avoid the great sins, which you have been enjoined to shun, We shall efface your [minor] bad deeds, and shall cause you to enter an abode of glory.",
+      "urdu": "اگر تم اُن بڑے بڑے گناہوں سے پرہیز کرتے رہو جن سے تمہیں منع کیا جا رہا ہے تو تمہاری چھوٹی موٹی برائیوں کو ہم تمہارے حساب سے ساقط کر دیں گے اور تم کو عزت کی جگہ داخل کریں گے"
+    },
+    {
+      "number": 32,
+      "arabic": "وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍۢ ۚ لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا ٱكْتَسَبُوا۟ ۖ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا ٱكْتَسَبْنَ ۚ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًۭا",
+      "english": "Hence, do not covet the bounties which God has bestowed more abundantly on some of you than on others. Men shall have a benefit from what they earn, and women shall have a benefit from what they earn. Ask, therefore, God [to give you] out of His bounty: behold, God has indeed full knowledge of everything.",
+      "urdu": "اور جو کچھ اللہ نے تم میں سے کسی کو دوسروں کے مقابلہ میں زیادہ دیا ہے اس کی تمنا نہ کرو جو کچھ مَردوں نے کمایا ہے اُس کے مطابق ان کا حصہ ہے اور جو کچھ عورتوں نے کمایا ہے اس کے مطابق اُن کا حصہ ہاں اللہ سے اس کے فضل کی دعا مانگتے رہو، یقیناً اللہ ہر چیز کا علم رکھتا ہے"
+    },
+    {
+      "number": 33,
+      "arabic": "وَلِكُلٍّۢ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ ۚ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدًا",
+      "english": "And unto everyone have We appointed heirs to what he may leave behind: parents, and near kinsfolk, and those to whom you have pledged your troth give them, therefore, their share. Behold, God is indeed a witness unto everything.",
+      "urdu": "اور ہم نے ہر اُس ترکے کے حق دار مقرر کر دیے ہیں جو والدین اور رشتہ دار چھوڑیں اب رہے وہ لوگ جن سے تمہارے عہد و پیمان ہوں تو ان کا حصہ انہیں دو، یقیناً اللہ ہر چیز پر نگراں ہے"
+    },
+    {
+      "number": 34,
+      "arabic": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍۢ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌۭ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا",
+      "english": "MEN SHALL take full care of women with the bounties which God has bestowed more abundantly on the former than on the latter, and with what they may spend out of their possessions. And the right­eous women are the truly devout ones, who guard the intimacy which God has [ordained to be] guar­ded. And as for those women whose ill-will you have reason to fear, admonish them [first]; then leave them alone in bed; then beat them; and if thereupon they pay you heed, do not seek to harm them. Behold, God is indeed most high, great!",
+      "urdu": "مرد عورتوں پر قوام ہیں، اس بنا پر کہ اللہ نے اُن میں سے ایک کو دوسرے پر فضیلت دی ہے، اور اس بنا پر کہ مرد اپنے مال خرچ کرتے ہیں پس جو صالح عورتیں ہیں وہ اطاعت شعار ہوتی ہیں اور مردوں کے پیچھے اللہ کی حفاظت و نگرانی میں اُن کے حقوق کی حفاظت کرتی ہیں اور جن عورتوں سے تمہیں سرکشی کا اندیشہ ہو انہیں سمجھاؤ، خواب گاہوں میں اُن سے علیحدہ رہو اور مارو، پھر اگر تم وہ تمہاری مطیع ہو جائیں تو خواہ مخواہ ان پر دست درازی کے لیے بہانے تلاش نہ کرو، یقین رکھو کہ اوپر اللہ موجود ہے جو بڑا اور بالا تر ہے"
+    },
+    {
+      "number": 35,
+      "arabic": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًۭا مِّنْ أَهْلِهِۦ وَحَكَمًۭا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًۭا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًۭا",
+      "english": "And if you have reason to fear that a breach might occur between a [married] couple, appoint an arbiter from among his people and an arbiter from among her people; if they both want to set things aright, God may bring about their reconciliation. Be­hold, God is indeed all-knowing, aware.",
+      "urdu": "اور اگر تم لوگوں کو کہیں میاں اور بیوی کے تعلقات بگڑ جانے کا اندیشہ ہو تو ایک حَکم مرد کے رشتہ داروں میں سے اور ایک عورت کے رشتہ داروں میں سے مقرر کرو، وہ دونوں اصلاح کرنا چاہیں گے تو اللہ اُن کے درمیان موافقت کی صورت نکال دے گا، اللہ سب کچھ جانتا ہے اور باخبر ہے"
+    },
+    {
+      "number": 36,
+      "arabic": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًۭا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًۭا فَخُورًا",
+      "english": "AND WORSHIP God [alone], and do not ascribe divinity, in any way, to aught beside Him. And do good unto your parents, and near of kin, and unto orphans, and the needy, and the neighbour from among your own people, and the neighbour who is a stranger, and the friend by your side, and the wayfarer, and those whom you rightfully possess. Verily, God does not love any of those who, full of self-conceit, act in a boastful manner;",
+      "urdu": "اور تم سب اللہ کی بندگی کرو، اُس کے ساتھ کسی کو شریک نہ بناؤ، ماں باپ کے ساتھ نیک برتاؤ کرو، قرابت داروں اور یتیموں اور مسکینوں کے ساتھ حسن سلوک سے پیش آؤ، اور پڑوسی رشتہ دار سے، اجنبی ہمسایہ سے، پہلو کے ساتھی اور مسافر سے، اور اُن لونڈی غلاموں سے جو تمہارے قبضہ میں ہوں، احسان کا معاملہ رکھو، یقین جانو اللہ کسی ایسے شخص کو پسند نہیں کرتا جو اپنے پندار میں مغرور ہو اور اپنی بڑائی پر فخر کر ے"
+    },
+    {
+      "number": 37,
+      "arabic": "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًۭا مُّهِينًۭا",
+      "english": "[nor] those who are niggardly, and bid others to be niggardly, and conceal whatever God has bestowed upon them out of His bounty; and so We have readied shameful suffering for all who thus deny the truth.",
+      "urdu": "اور ایسے لوگ بھی اللہ کو پسند نہیں ہیں جو کنجوسی کرتے ہیں اور دوسروں کو بھی کنجوسی کی ہدایت کرتے ہیں اور جو کچھ اللہ نے اپنے فضل سے انہیں دیا ہے اسے چھپاتے ہیں ایسے کافر نعمت لوگوں کے لیے ہم نے رسوا کن عذاب مہیا کر رکھا ہے"
+    },
+    {
+      "number": 38,
+      "arabic": "وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ ۗ وَمَن يَكُنِ ٱلشَّيْطَٰنُ لَهُۥ قَرِينًۭا فَسَآءَ قَرِينًۭا",
+      "english": "And [God does not love] those who spend their possessions on others [only] to be seen and praised by men, the while they believe neither in God nor in the Last Day; and he who has Satan for a soul-mate, how evil a soul-mate has he!",
+      "urdu": "اور وہ لوگ بھی اللہ کو ناپسند ہیں جو اپنے مال محض لوگوں کو دکھانے کیلیے خرچ کرتے ہیں اور در حقیقت نہ اللہ پر ایمان رکھتے ہیں نہ روز آخر پر سچ یہ ہے کہ شیطان جس کا رفیق ہوا اُسے بہت ہی بری رفاقت میسر آئی"
+    },
+    {
+      "number": 39,
+      "arabic": "وَمَاذَا عَلَيْهِمْ لَوْ ءَامَنُوا۟ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ ۚ وَكَانَ ٱللَّهُ بِهِمْ عَلِيمًا",
+      "english": "And what would they have to fear if they would but believe in God and the Last Day, and spend [in His way] out of what God has granted them as sustenance - since God has indeed full knowledge of them?",
+      "urdu": "آخر اِن لوگوں پر کیا آفت آ جاتی اگر یہ اللہ اور روز آخر پر ایمان رکھتے اور جو کچھ اللہ نے دیا ہے اس میں سے خرچ کرتے اگر یہ ایسا کرتے تو اللہ سے ان کی نیکی کا حال چھپا نہ رہ جاتا"
+    },
+    {
+      "number": 40,
+      "arabic": "إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍۢ ۖ وَإِن تَكُ حَسَنَةًۭ يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًۭا",
+      "english": "Verily, God does not wrong [anyone] by as much as an atom's weight; and if there be a good deed, He will multiply it, and will bestow out of His grace a mighty reward.",
+      "urdu": "اللہ کسی پر ذرہ برابر بھی ظلم نہیں کرتا اگر کوئی ایک نیکی کرے تو اللہ اُسے دو چند کرتا ہے اور پھر اپنی طرف سے بڑا اجر عطا فرماتا ہے"
+    },
+    {
+      "number": 41,
+      "arabic": "فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍۢ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًۭا",
+      "english": "How, then, [will the sinners fare on Judgment Day,] when We shall bring forward witnesses from within every community, and bring thee [O Prophet] as witness against them?",
+      "urdu": "پھر سوچو کہ اُس وقت یہ کیا کریں گے جب ہم ہر امت میں سے ایک گواہ لائیں گے اور اِن لوگوں پر تمہیں (یعنی محمد ﷺ کو) گواہ کی حیثیت سے کھڑا کریں گے"
+    },
+    {
+      "number": 42,
+      "arabic": "يَوْمَئِذٍۢ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًۭا",
+      "english": "Those who were bent on denying the truth and paid no heed to the Apostle will on that Day wish that the earth would swallow them: but they shall not [be able to] conceal from God anything that has happened.",
+      "urdu": "اُس وقت وہ سب لوگ جنہوں نے رسولؐ کی بات نہ مانی اور اس کی نافرمانی کرتے رہے، تمنا کریں گے کہ کاش زمین پھٹ جائے اور وہ اس میں سما جائیں وہاں یہ اپنی کوئی بات اللہ سے نہ چھپا سکیں گے"
+    },
+    {
+      "number": 43,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "english": "O YOU who have attained to faith! Do not attempt to pray while you are in a state of drunkenness, [but wait] until you know what you are saying; nor yet [while you are] in a state requiring total ablution, until you have bathed - except if you are travelling [and are unable to do so]. But if you are ill, or are travelling, or have just satisfied a want of nature, or have cohabited with a woman, and can find no water - then take resort to pure dust, passing [there­with] lightly over your face and your hands. Behold, God is indeed an absolver of sins, much-forgiving.",
+      "urdu": "اے لوگو جو ایمان لائے ہو، جب تم نشے کی حالت میں ہو تو نماز کے قریب نہ جاؤ نماز اُس وقت پڑھنی چاہیے، جب تم جانو کہ کیا کہہ رہے ہو اور اسی طرح جنابت کی حالت میں بھی نماز کے قریب نہ جاؤ جب تک کہ غسل نہ کر لو، الا یہ کہ راستہ سے گزرتے ہو اور اگر کبھی ایسا ہو کہ تم بیمار ہو، یا سفر میں ہو، یا تم میں سے کوئی شخص رفع حاجت کر کے آئے، یا تم نے عورتوں سے لمس کیا ہو، اور پھر پانی نہ ملے تو پاک مٹی سے کام لو اور اس سے اپنے چہروں اور ہاتھوں پر مسح کر لو، بے شک اللہ نرمی سے کام لینے والا اور بخشش فرمانے والا ہے"
+    },
+    {
+      "number": 44,
+      "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يَشْتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ",
+      "english": "ART THOU NOT aware of those who, having been granted their share of the divine writ, now barter it away for error, and want you [too] to lose your way?",
+      "urdu": "تم نے اُن لوگوں کو بھی دیکھا جنہیں کتاب کے علم کا کچھ حصہ دیا گیا ہے؟ وہ خود ضلالت کے خریدار بنے ہوئے ہیں اور چاہتے ہیں کہ تم بھی راہ گم کر دو"
+    },
+    {
+      "number": 45,
+      "arabic": "وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّۭا وَكَفَىٰ بِٱللَّهِ نَصِيرًۭا",
+      "english": "But God knows best who are your enemies: and none can befriend as God does, and none can give succour as God does.",
+      "urdu": "اللہ تمہارے دشمنوں کو خوب جانتا ہے اور تمہاری حمایت و مدد گاری کے لیے اللہ ہی کافی ہے"
+    },
+    {
+      "number": 46,
+      "arabic": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا",
+      "english": "Among those of the Jewish faith there are some who distort the meaning of the [revealed] words, taking them out of their context and saying, [as it were,] \"We have heard, but we disobey,\" and, \"Hear without hearkening,” and, “Hearken thou unto us, (O Muhammad)” - thus making a play with their tongues, and implying that the [true] Faith is false. And had they but said, \"We have heard, and we pay heed,\" and \"Hear [us], and have patience with us,\" it would indeed have been for their own good, and more upright: but God has rejected them because of their refusal to acknowledge the truth - for it is in but few things that they believe.",
+      "urdu": "جو لوگ یہودی بن گئے ہیں اُن میں کچھ لوگ ہیں جو الفاظ کو اُن کے محل سے پھیر دیتے ہیں اور دین حق کے خلاف نیش زنی کرنے کے لیے اپنی زبانوں کو توڑ موڑ کر کہتے ہیں سَمِعنَا وَ عَصَینَا اور اِسمَع غَیر مُسمَع اور رَاعِنَا حالانکہ اگر وہ کہتے سَمِعنَا وَ اَطَعنَا، اور اِسمَع اور اُنظُرنَا تو یہ انہی کے لیے بہتر تھا اور زیادہ راستبازی کا طریقہ تھا مگر ان پر تو ان کی باطل پرستی کی بدولت اللہ کی پھٹکار پڑی ہوئی ہے اس لیے وہ کم ہی ایمان لاتے ہیں"
+    },
+    {
+      "number": 47,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًۭا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًۭا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "english": "O you who have been granted revelation [aforetime]! Believe in what We have [now] bestowed from on high in confirmation of whatever [of the truth] you already possess, lest We efface your hopes and bring them to an end - just as We rejected those people who broke the Sabbath: for God's will is always done.",
+      "urdu": "اے وہ لوگو جنہیں کتاب دی گئی تھی! مان لو اُس کتاب کو جو ہم نے اب نازل کی ہے اور جو اُس کتاب کی تصدیق و تائید کرتی ہے جو تمہارے پاس پہلے سے موجود تھی اس پر ایمان لے آؤ قبل اس کے کہ ہم چہر ے بگاڑ کر پیچھے پھیر دیں یا ان کو اسی طرح لعنت زدہ کر دیں جس طرح سبت والوں کے ساتھ ہم نے کیا تھا، اور یاد رکھو کہ اللہ کا حکم نافذ ہو کر رہتا ہے"
+    },
+    {
+      "number": 48,
+      "arabic": "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا",
+      "english": "VERILY, God does not forgive the ascribing of divinity to aught beside Him, although He forgives any lesser sin unto whomever He wills: for he who ascribes divinity to aught beside God has indeed contrived an awesome sin.",
+      "urdu": "اللہ بس شرک ہی کو معاف نہیں کرتا، اِس کے ماسوا دوسرے جس قدر گناہ ہیں وہ جس کے لیے چاہتا ہے معاف کر دیتا ہے اللہ کے ساتھ جس نے کسی اور کو شریک ٹھیرایا اُس نے تو بہت ہی بڑا جھوٹ تصنیف کیا اور بڑے سخت گناہ کی بات کی"
+    },
+    {
+      "number": 49,
+      "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم ۚ بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ فَتِيلًا",
+      "english": "Art thou not aware of those who consider themselves pure? Nay, but it is God who causes whomever He wills to grow in purity; and none shall be wronged by as much as a hair's breadth.",
+      "urdu": "تم نے اُن لوگوں کو بھی دیکھا جو بہت اپنی پاکیز گی نفس کا دم بھرتے ہیں؟ حالانکہ پاکیزگی تو اللہ ہی جسے چاہتا ہے عطا کرتا ہے، اور (انہیں جو پاکیزگی نہیں ملتی تو در حقیقت) ان پر ذرہ برابر بھی ظلم نہیں کیا جاتا"
+    },
+    {
+      "number": 50,
+      "arabic": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًۭا مُّبِينًا",
+      "english": "Behold how they attribute their own lying inventions to God - than which there is no sin more obvious.",
+      "urdu": "دیکھو تو سہی، یہ اللہ پر بھی جھوٹے افترا گھڑنے سے نہیں چوکتے اور ان کے صریحاً گناہ گا ر ہونے کے لیے یہی ایک گناہ کافی ہے"
+    },
+    {
+      "number": 51,
+      "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًۭا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا۟ هَٰٓؤُلَآءِ أَهْدَىٰ مِنَ ٱلَّذِينَ ءَامَنُوا۟ سَبِيلًا",
+      "english": "Art thou not aware of those who, having been granted their share of the divine writ, [now] believe in baseless mysteries and in the powers of evil, and maintain that those who are bent on denying the truth are more surely guided than those who have attained to faith?",
+      "urdu": "کیا تم نے اُن لوگوں کو نہیں دیکھا جنہیں کتاب کے علم میں سے کچھ حصہ دیا گیا ہے اور اُن کا حال یہ ہے کہ جِبت اور طاغوت کو مانتے ہیں اور کافروں کے متعلق کہتے ہیں کہ ایمان لانے والوں سے تو یہی زیادہ صحیح راستے پر ہیں"
+    },
+    {
+      "number": 52,
+      "arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ ۖ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+      "english": "It is they whom God has rejected: and he whom God rejects shall find none to succour him.",
+      "urdu": "ایسے ہی لوگ ہیں جن پر اللہ نے لعنت کی ہے اور جس پر اللہ لعنت کر دے پھر تم اُس کا کوئی مدد گار نہیں پاؤ گے"
+    },
+    {
+      "number": 53,
+      "arabic": "أَمْ لَهُمْ نَصِيبٌۭ مِّنَ ٱلْمُلْكِ فَإِذًۭا لَّا يُؤْتُونَ ٱلنَّاسَ نَقِيرًا",
+      "english": "Have they, perchance, a share in [God's] dominion? But [if they had], lo, they would not give to other people as much as [would fill] the groove of a date-stone!",
+      "urdu": "کیا حکومت میں اُن کا کوئی حصہ ہے؟ اگر ایسا ہوتا تو یہ دوسروں کو ایک پھوٹی کوڑی تک نہ دیتے"
+    },
+    {
+      "number": 54,
+      "arabic": "أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۖ فَقَدْ ءَاتَيْنَآ ءَالَ إِبْرَٰهِيمَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًۭا",
+      "english": "Do they, perchance, envy other people for what God has granted them out of His bounty? But then, We did grant revelation and wisdom unto the House of Abraham, and We did bestow on them a mighty dominion:",
+      "urdu": "پھر کیا یہ دوسروں سے اس لیے حسد کرتے ہیں کہ اللہ نے انہیں اپنے فضل سے نواز دیا؟ اگر یہ بات ہے تو انہیں معلوم ہو کہ ہم نے تو ابراہیمؑ کی اولاد کو کتاب اور حکمت عطا کی اور ملک عظیم بخش دیا"
+    },
+    {
+      "number": 55,
+      "arabic": "فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+      "english": "and among them are such as [truly] believe in him, and among them are such as have turned away from him. And nothing could be as burning as [the fire of] hell:",
+      "urdu": "مگر ان میں سے کوئی اس پر ایمان لایا اور کوئی اس سے منہ موڑ گیا، اور منہ موڑ نے والوں کے لیے تو بس جہنم کی بھڑکتی ہوئی آگ ہی کافی ہے"
+    },
+    {
+      "number": 56,
+      "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًۭا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ ۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمًۭا",
+      "english": "for, verily, those who are bent on denying the truth of Our messages We shall, in time, cause to endure fire: [and] every time their skins are burnt off, We shall replace them with new skins, so that they may taste suffering [in full] Verily, God is almighty, wise.",
+      "urdu": "جن لوگوں نے ہماری آیات کو ماننے سے انکار کر دیا ہے انہیں بالیقین ہم آگ میں جھونکیں گے اور جب ان کے بدن کی کھال گل جائے گی تو اس کی جگہ دوسری کھال پیدا کر دیں گے تاکہ وہ خوب عذاب کا مزہ چکھیں، اللہ بڑی قدرت رکھتا ہے اور اپنے فیصلوں کو عمل میں لانے کی حکمت خوب جانتا ہے"
+    },
+    {
+      "number": 57,
+      "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ لَّهُمْ فِيهَآ أَزْوَٰجٌۭ مُّطَهَّرَةٌۭ ۖ وَنُدْخِلُهُمْ ظِلًّۭا ظَلِيلًا",
+      "english": "But those who attain to faith and do righteous deeds We shall bring into gardens through which running waters flow, therein to abide beyond the count of time; there shall they have spouses pure: and [thus] We shall bring them unto happiness abounding.",
+      "urdu": "اور جن لوگوں نے ہماری آیات کو مان لیا اور نیک عمل کیے اُن کو ہم ایسے باغوں میں داخل کریں گے جن کے نیچے نہریں بہتی ہوں گی، جہاں وہ ہمیشہ ہمیشہ رہیں گے اور اُن کو پاکیزہ بیویاں ملیں گی اور انہیں ہم گھنی چھاؤں میں رکھیں گے"
+    },
+    {
+      "number": 58,
+      "arabic": "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًۭا",
+      "english": "BEHOLD, God bids you to deliver all that you have been entrusted with unto those who are entitled thereto, and whenever you judge between people, to judge with justice. Verily, most excellent is what God exhorts you to do: verily, God is all-hearing, all-seeing!",
+      "urdu": "مسلمانو! اللہ تمہیں حکم دیتا ہے کہ امانتیں اہل امانت کے سپرد کرو، اور جب لوگوں کے درمیان فیصلہ کرو تو عدل کے ساتھ کرو، اللہ تم کو نہایت عمدہ نصیحت کرتا ہے اور یقیناً اللہ سب کچھ سنتا اور دیکھتا ہے"
+    },
+    {
+      "number": 59,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍۢ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ ذَٰلِكَ خَيْرٌۭ وَأَحْسَنُ تَأْوِيلًا",
+      "english": "O you who have attained to faith! Pay heed unto God, and pay heed unto the Apostle and unto those from among you who have been entrusted with authority; and if you are at variance over any matter, refer it unto God and the Apostle, if you [truly] believe in God and the Last Day. This is the best [for you], and best in the end.",
+      "urdu": "اے لوگو جو ایمان لائے ہوئے، اطاعت کرو اللہ کی اور اطاعت کرو رسول کی اور اُن لوگوں کی جو تم میں سے صاحب امر ہوں، پھر اگر تمہارے درمیان کسی معاملہ میں نزاع ہو جائے تو اسے اللہ اور رسول کی طرف پھیر دو اگر تم واقعی اللہ اور روز آخر پر ایمان رکھتے ہو یہی ایک صحیح طریق کار ہے اور انجام کے اعتبار سے بھی بہتر ہے"
+    },
+    {
+      "number": 60,
+      "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا",
+      "english": "ART THOU NOT aware of those who claim that they believe in what has been bestowed from on high upon thee, [O Prophet,] as well as in what was bestowed from on high before thee, [and yet] are willing to defer to the rule of the powers of evil - although they were bidden to deny it, seeing that Satan but wants to lead them far astray?",
+      "urdu": "اے نبیؐ! تم نے دیکھا نہیں اُن لوگوں کو جو دعویٰ تو کرتے ہیں کہ ہم ایمان لائے ہیں اُس کتاب پر جو تمہاری طرف نازل کی گئی ہے اور ان کتابوں پر جو تم سے پہلے نازل کی گئی تھیں، مگر چاہتے یہ ہیں کہ اپنے معاملات کا فیصلہ کرانے کے لیے طاغوت کی طرف رجوع کریں، حالانکہ انہیں طاغوت سے کفر کرنے کا حکم دیا گیا تھا شیطان انہیں بھٹکا کر راہ راست سے بہت دور لے جانا چاہتا ہے"
+    },
+    {
+      "number": 61,
+      "arabic": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا",
+      "english": "And so, whenever they are told, \"Come unto that which God has be­stowed from on high, and unto the Apostle,\" thou canst see these hypocrites turn away from thee with aversion.",
+      "urdu": "اور جب ان سے کہا جاتا ہے کہ آؤ اُس چیز کی طرف جو اللہ نے نازل کی ہے اور آؤ رسول کی طرف تو ان منافقوں کو تم دیکھتے ہو کہ یہ تمہاری طرف آنے سے کتراتے ہیں"
+    },
+    {
+      "number": 62,
+      "arabic": "فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا",
+      "english": "But how [will they fare] when calamity befalls them [on the Day of Judgment] because of what they have wrought in this world - whereupon they will come to thee, swearing by God, \"Our aim was but to do good, and to bring about harmony\"?",
+      "urdu": "پھر اس وقت کیا ہوتا ہے جب اِن کے اپنے ہاتھوں کی لائی ہوئی مصیبت ان پر آ پڑتی ہے؟ اُس وقت یہ تمہارے پاس قسمیں کھاتے ہوئے آتے ہیں اور کہتے ہیں کہ خدا کی قسم ہم تو صرف بھلائی چاہتے تھے اور ہماری نیت تو یہ تھی کہ فریقین میں کسی طرح موافقت ہو جائے"
+    },
+    {
+      "number": 63,
+      "arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًۭا",
+      "english": "As for them - God knows all that is in their hearts; so leave them alone, and admonish them, and speak unto them about themselves in a gravely search­ing manner:",
+      "urdu": "اللہ جانتا ہے جو کچھ ان کے دلوں میں ہے، ان سے تعرض مت کرو، انہیں سمجھاؤ اور ایسی نصیحت کرو جو ان کے دلوں میں اتر جائے"
+    },
+    {
+      "number": 64,
+      "arabic": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًۭا رَّحِيمًۭا",
+      "english": "for We have never sent any apostle save that he should be heeded by God's leave. If, then, after having sinned against themselves, they would but come round to thee and ask God to forgive them - with the Apostle, too, praying that they be forgiven - they would assuredly find that God is an acceptor of repentance, a dispenser of grace.",
+      "urdu": "(انہیں بتاؤ کہ) ہم نے جو رسول بھی بھیجا ہے اس لیے بھیجا ہے کہ اذن خداوندی کی بنا پر اس کی اطاعت کی جائے اگر انہوں نے یہ طریقہ اختیار کیا ہوتا کہ جب یہ اپنے نفس پر ظلم کر بیٹھے تھے تو تمہارے پاس آ جاتے اور اللہ سے معافی مانگتے، اور رسول بھی ان کے لیے معافی کی درخواست کرتا، تو یقیناً اللہ کو بخشنے والا اور رحم کرنے والا پاتے"
+    },
+    {
+      "number": 65,
+      "arabic": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا",
+      "english": "But nay, by thy Sustainer! They do not [really] believe unless they make thee [O Prophet] a judge of all on which they disagree among themselves, and then find in their hearts no bar to an acceptance of thy decision and give themselves up [to it] in utter self-surrender.",
+      "urdu": "نہیں، اے محمدؐ، تمہارے رب کی قسم یہ کبھی مومن نہیں ہوسکتے جب تک کہ اپنے باہمی اختلافات میں یہ تم کو فیصلہ کرنے والا نہ مان لیں، پھر جو کچھ تم فیصلہ کرو اس پر اپنے دلوں میں بھی کوئی تنگی نہ محسوس کریں، بلکہ سر بسر تسلیم کر لیں"
+    },
+    {
+      "number": 66,
+      "arabic": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌۭ مِّنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًۭا لَّهُمْ وَأَشَدَّ تَثْبِيتًۭا",
+      "english": "Yet if We were to ordain for them, \"Lay down your lives,\" or, \"Forsake your homelands,\" only a very few of them would do it - although, if they did what they are admonished to do, it would indeed be for their own good and apt to strengthen them greatly [in faith],",
+      "urdu": "اگر ہم نے انہیں حکم دیا ہوتا کہ اپنے آپ کو ہلاک کر دو یا اپنے گھروں سے نکل جاؤ تو ان میں سے کم ہی آدمی اس پر عمل کرتے حالانکہ جو نصیحت انہیں کی جاتی ہے، اگر یہ اس پر عمل کرتے تو یہ ان کے لیے زیادہ بہتری اور زیادہ ثابت قدمی کا موجب ہوتا"
+    },
+    {
+      "number": 67,
+      "arabic": "وَإِذًۭا لَّءَاتَيْنَٰهُم مِّن لَّدُنَّآ أَجْرًا عَظِيمًۭا",
+      "english": "whereupon We should indeed grant them, out of Our grace, a mighty reward,",
+      "urdu": "اور جب یہ ایسا کرتے تو ہم انہیں اپنی طرف سے بہت بڑا اجر دیتے"
+    },
+    {
+      "number": 68,
+      "arabic": "وَلَهَدَيْنَٰهُمْ صِرَٰطًۭا مُّسْتَقِيمًۭا",
+      "english": "and indeed guide them onto a straight way.",
+      "urdu": "اور انہیں سیدھا راستہ دکھا دیتے"
+    },
+    {
+      "number": 69,
+      "arabic": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ ۚ وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًۭا",
+      "english": "For, all who pay heed unto God and the Apostle shall be among those upon whom God has bestowed His blessings: the prophets, and those who never deviated from the truth, and those who [with their lives] bore witness to the truth, and the right­eous ones: and how goodly a company are these!",
+      "urdu": "جو اللہ اور رسول کی اطاعت کرے گا وہ ان لوگوں کے ساتھ ہوگا جن پر اللہ نے انعام فرمایا ہے یعنی انبیا٫ اور صدیقین اور شہدا٫ اور صالحین کیسے اچھے ہیں یہ رفیق جو کسی کو میسر آئیں"
+    },
+    {
+      "number": 70,
+      "arabic": "ذَٰلِكَ ٱلْفَضْلُ مِنَ ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ عَلِيمًۭا",
+      "english": "Such is the bounty of God - and none has the knowledge which God has.",
+      "urdu": "یہ حقیقی فضل ہے جو اللہ کی طرف سے ملتا ہے اور حقیقت جاننے کے لیے بس اللہ ہی کا علم کافی ہے"
+    },
+    {
+      "number": 71,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًۭا",
+      "english": "O YOU who have attained to faith! Be fully prepared against danger, whether you go to war in small groups or all together.",
+      "urdu": "اے لوگو جو ایمان لائے ہو، مقابلہ کے لیے ہر وقت تیار رہو، پھر جیسا موقع ہو الگ الگ دستوں کی شکل میں نکلو یا اکٹھے ہو کر"
+    },
+    {
+      "number": 72,
+      "arabic": "وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌۭ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًۭا",
+      "english": "And, behold, there are indeed among you such as would lag behind, and then, if calamity befalls you, say, \"God has bestowed His favour upon me in that I did not accompany them.\"",
+      "urdu": "ہاں، تم میں کوئی آدمی ایسا بھی ہے جو لڑائی سے جی چراتا ہے، ا گر تم پر کوئی مصیبت آئے تو کہتا ہے کہ اللہ نے مجھ پر بڑا فضل کیا کہ میں اِن لوگوں کے ساتھ نہ گیا"
+    },
+    {
+      "number": 73,
+      "arabic": "وَلَئِنْ أَصَٰبَكُمْ فَضْلٌۭ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌۭ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًۭا",
+      "english": "But if good fortune comes to you from God, such a person is sure to say - just as if there had never been any question of love between you and him -: \"Oh, would that I had been with them, and thus had a [share in their] mighty triumph!\"",
+      "urdu": "اور اگر اللہ کی طرف سے تم پر فضل ہو تو کہتا ہے اور اس طرح کہتا ہے کہ گویا تمہارے اور اس کے درمیان محبت کا تو کوئی تعلق تھا ہی نہیں کہ کاش میں بھی ان کے ساتھ ہوتا تو بڑا کام بن جاتا"
+    },
+    {
+      "number": 74,
+      "arabic": "۞ فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ ۚ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا",
+      "english": "Hence, let them fight in God's cause - all who are willing to barter the life of this world for the life to come: for unto him who fights in God's cause, whether he be slain or be victorious, We shall in time grant a mighty reward.",
+      "urdu": "(ایسے لوگوں کو معلوم ہو کہ) اللہ کی راہ میں لڑنا چاہیے اُن لوگوں کو جو آخرت کے بدلے دنیا کی زندگی کو فروخت کر دیں، پھر جو اللہ کی راہ میں لڑے گا اور مارا جائے گا یا غالب رہے گا اُسے ضرور ہم اجر عظیم عطا کریں گے"
+    },
+    {
+      "number": 75,
+      "arabic": "وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّۭا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا",
+      "english": "And how could you refuse to fight in the cause of God and of the utterly helpless men and women and children who are crying, \"O our Sustainer! Lead us forth [to freedom] out of this land whose people are oppressors, and raise for us, out of Thy grace, a protector, and raise for us, out of Thy grace, one who will bring us succour!\"",
+      "urdu": "آخر کیا وجہ ہے کہ تم اللہ کی راہ میں اُن بے بس مردوں، عورتوں اور بچوں کی خاطر نہ لڑو جو کمزور پاکر دبا لیے گئے ہیں اور فریاد کر رہے ہیں کہ خدایا ہم کو اس بستی سے نکال جس کے باشندے ظالم ہیں اور اپنی طرف سے ہمارا کوئی حامی و مدد گار پیدا کر دے"
+    },
+    {
+      "number": 76,
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَٰتِلُونَ فِى سَبِيلِ ٱلطَّٰغُوتِ فَقَٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَٰنِ كَانَ ضَعِيفًا",
+      "english": "Those who have attained to faith fight in the cause of God, whereas those who are bent on denying the truth fight in the cause of the powers of evil. Fight, then, against those friends of Satan: verily, Satan's guile is weak indeed!",
+      "urdu": "جن لوگوں نے ایمان کا راستہ اختیار کیا ہے، وہ اللہ کی راہ میں لڑتے ہیں اور جنہوں نے کفر کا راستہ اختیار کیا ہے، و ہ طاغوت کی راہ میں لڑتے ہیں، پس شیطان کے ساتھیوں سے لڑو اور یقین جانو کہ شیطان کی چالیں حقیقت میں نہایت کمزور ہیں"
+    },
+    {
+      "number": 77,
+      "arabic": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌۭ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةًۭ ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ ۗ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌۭ وَٱلْءَاخِرَةُ خَيْرٌۭ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+      "english": "ART THOU NOT aware of those who have been told, \"Curb your hands, and be constant in prayer, and render the purifying dues\"? But as soon as fighting [in God's cause] is ordained for them, lo, some of them stand in awe of men as one should stand in awe of God - or in even greater awe - and say, \"O our Sustainer! Why hast Thou ordained fighting for us? If only Thou hadst granted us a delay for a little while!\" Say: \"Brief is the enjoyment of this world, whereas the life to come is the best for all who are conscious of God - since none of you shall be wronged by as much as a hair's breadth.",
+      "urdu": "تم نے اُن لوگوں کو بھی دیکھا جن سے کہا گیا تھا کہ اپنے ہاتھ روکے رکھو اور نماز قائم کرو اور زکوٰۃ دو؟ اب جو انہیں لڑائی کا حکم دیا گیا تو ان میں سے ایک فریق کا حال یہ ہے کہ لوگوں سے ایسا ڈر رہے ہیں جیسا خدا سے ڈرنا چاہیے یا کچھ اس سے بھی بڑھ کر کہتے ہیں خدایا! یہ ہم پر لڑائی کا حکم کیوں لکھ دیا؟ کیوں نہ ہمیں ابھی کچھ اور مہلت دی؟ ان سے کہو، دنیا کا سرمایہ زندگی تھوڑا ہے، اور آخرت ایک خدا ترس انسان کے لیے زیادہ بہتر ہے، اور تم پر ظلم ایک شمہ برابر بھی نہ کیا جائے گا"
+    },
+    {
+      "number": 78,
+      "arabic": "أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍۢ مُّشَيَّدَةٍۢ ۗ وَإِن تُصِبْهُمْ حَسَنَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۭ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ ۚ قُلْ كُلٌّۭ مِّنْ عِندِ ٱللَّهِ ۖ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًۭا",
+      "english": "Wherever you may be, death will overtake you - even though you be in towers raised high. \"Yet, when a good thing happens to them, some [people] say, \"This is from God,\" whereas when evil befalls them, they say, \"This is from thee [O fellow­man]!” Say: \"All is from God.\" What, then, is amiss with these people that they are in no wise near to grasping the truth of what they are told?",
+      "urdu": "رہی موت، تو جہاں بھی تم ہو وہ بہرحال تمہیں آکر رہے گی خواہ تم کیسی ہی مضبوط عمارتوں میں ہو اگر انہیں کوئی فائدہ پہنچتا ہے تو کہتے ہیں یہ اللہ کی طرف سے ہے، اور اگر کوئی نقصان پہنچتا ہے تو کہتے ہیں یہ تمہاری بدولت ہے کہو، سب کچھ اللہ ہی کی طرف سے ہے آخر ان لوگوں کو کیا ہو گیا ہے کہ کوئی بات ان کی سمجھ میں نہیں آتی"
+    },
+    {
+      "number": 79,
+      "arabic": "مَّآ أَصَابَكَ مِنْ حَسَنَةٍۢ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍۢ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًۭا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا",
+      "english": "Whatever good happens to thee is from God; and whatever evil befalls thee is from thyself. AND WE have sent thee [O Muhammad] as an apostle unto all mankind: and none can bear witness [thereto] as God does.",
+      "urdu": "اے انسان! تجھے جو بھلائی بھی حاصل ہوتی ہے اللہ کی عنایت سے ہوتی ہے، اور جو مصیبت تجھ پر آتی ہے وہ تیرے اپنے کسب و عمل کی بدولت ہے اے محمدؐ! ہم نے تم کو لوگوں کے لیے رسول بنا کر بھیجا ہے اوراس پر خدا کی گواہی کافی ہے"
+    },
+    {
+      "number": 80,
+      "arabic": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًۭا",
+      "english": "Whoever pays heed unto the Apostle pays heed unto God thereby; and as for those who turn away - We have not sent thee to be their keeper.",
+      "urdu": "جس نے رسول کی اطاعت کی اس نے دراصل خدا کی اطاعت کی اور جو منہ موڑ گیا، تو بہرحال ہم نے تمہیں ان لوگوں پر پاسبان بنا کر تو نہیں بھیجا ہے"
+    },
+    {
+      "number": 81,
+      "arabic": "وَيَقُولُونَ طَاعَةٌۭ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌۭ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ ۖ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "english": "And they say, \"We do pay heed unto thee'' - but when they leave thy presence, some of them devise, in the dark of night, [beliefs] other than thou art voicing; and all the while God records what they thus devise in the dark of night. Leave them, then, alone, and place thy trust in God: for none is as worthy of trust as God.",
+      "urdu": "وہ منہ پر کہتے ہیں کہ ہم مطیع فرمان ہیں مگر جب تمہارے پاس سے نکلتے ہیں تو ان میں سے ایک گروہ راتوں کو جمع ہو کر تمہاری باتوں کے خلاف مشورے کرتا ہے اللہ ان کی یہ ساری سرگوشیاں لکھ رہا ہے تم ان کی پروا نہ کرو اور اللہ پر بھروسہ رکھو، وہی بھروسہ کے لیے کافی ہے"
+    },
+    {
+      "number": 82,
+      "arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًۭا كَثِيرًۭا",
+      "english": "Will they not, then, try to understand this Qur’an? Had it issued from any but God, they would surely have found in it many an inner contradiction!",
+      "urdu": "کیا یہ لوگ قرآن پر غور نہیں کرتے؟ اگر یہ اللہ کے سوا کسی اور کی طرف سے ہوتا تو اِس میں بہت کچھ اختلاف بیانی پائی جاتی"
+    },
+    {
+      "number": 83,
+      "arabic": "وَإِذَا جَآءَهُمْ أَمْرٌۭ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ ۖ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًۭا",
+      "english": "AND IF any [secret] matter pertaining to peace or war comes within their ken, they spread it abroad - whereas, if they would but refer it unto the Apostle and unto those from among the believers who have been entrusted with authority, such of them as are engaged in obtaining intelligence would indeed know [what to do with] it And but for God's bounty towards you, and His grace, all but a few of you would certainly have followed Satan.",
+      "urdu": "یہ لوگ جہاں کوئی اطمینان بخش یا خوفناک خبر سن پاتے ہیں اُسے لے کر پھیلا دیتے ہیں، حالانکہ اگر یہ اُسے رسول اور اپنی جماعت کے ذمہ دار اصحاب تک پہنچائیں تو وہ ایسے لوگوں کے علم میں آ جائے جو اِن کے درمیان اس بات کی صلاحیت رکھتے ہیں کہ اس سے صحیح نتیجہ اخذ کرسکیں تم لوگوں پر اللہ کی مہربانی اور رحمت نہ ہوتی تو (تمہاری کمزوریاں ایسی تھیں کہ) معدودے چند کے سوا تم سب شیطان کے پیچھے لگ گئے ہوتے"
+    },
+    {
+      "number": 84,
+      "arabic": "فَقَٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًۭا وَأَشَدُّ تَنكِيلًۭا",
+      "english": "Fight thou, then, in God's cause - since thou art but responsible for thine own self - and inspire the believers to overcome all fear of death. God may well curb the might of those who are bent on denying the truth: for God is stronger in might, and stronger in ability to deter.",
+      "urdu": "پس اے نبیؐ! تم اللہ کی راہ میں لڑو، تم اپنی ذات کے سوا کسی اور کے لیے ذمہ دار نہیں ہو البتہ اہل ایما ن کو لڑنے کے لیے اکساؤ، بعید نہیں کہ اللہ کافروں کا زور توڑ دے، اللہ کا زور سب سے زیادہ زبردست اور اس کی سزا سب سے زیادہ سخت ہے"
+    },
+    {
+      "number": 85,
+      "arabic": "مَّن يَشْفَعْ شَفَٰعَةً حَسَنَةًۭ يَكُن لَّهُۥ نَصِيبٌۭ مِّنْهَا ۖ وَمَن يَشْفَعْ شَفَٰعَةًۭ سَيِّئَةًۭ يَكُن لَّهُۥ كِفْلٌۭ مِّنْهَا ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقِيتًۭا",
+      "english": "Whoever rallies to a good cause shall have a share in its blessings; and whoever rallies to an evil cause shall be answerable for his part in it: for, indeed, God watches over everything.",
+      "urdu": "جو بھلائی کی سفارش کریگا وہ اس میں سے حصہ پائے گا اور جو برائی کی سفارش کرے گا وہ اس میں سے حصہ پائے گا، اور اللہ ہر چیز پر نظر رکھنے والا ہے"
+    },
+    {
+      "number": 86,
+      "arabic": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍۢ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+      "english": "But when you are greeted with a greeting [of peace], answer with an even better greeting, or [at least] with the like thereof. Verily, God keeps count indeed of all things.",
+      "urdu": "اور جب کوئی احترام کے ساتھ تمہیں سلام کرے تو اس کو اس سے بہتر طریقہ کے ساتھ جواب دو یا کم از کم اُسی طرح، اللہ ہر چیز کا حساب لینے والا ہے"
+    },
+    {
+      "number": 87,
+      "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًۭا",
+      "english": "God - save whom there is no deity - will surely gather you all together on the Day of Resurrection, [the coming of] which is beyond all doubt: and whose word could be truer than God's?",
+      "urdu": "اللہ وہ ہے جس کے سوا کوئی خدا نہیں ہے، وہ تم سب کو اُس قیامت کے دن جمع کرے گا جس کے آنے میں کوئی شبہہ نہیں، اور اللہ کی بات سے بڑھ کر سچی بات اور کس کی ہوسکتی ہے"
+    },
+    {
+      "number": 88,
+      "arabic": "۞ فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًۭا",
+      "english": "How, then, could you be of two minds about the hypocrites, seeing that God [Himself] has disowned them because of their guilt? Do you, perchance, seek to guide those whom God has let go astray - when for him whom God lets go astray thou canst never find any way?",
+      "urdu": "پھر یہ تمہیں کیا ہو گیا ہے کہ منافقین کے بارے میں تمہارے درمیان دو رائیں پائی جاتی ہیں، حالانکہ جو برائیاں اُنہوں نے کمائی ہیں اُن کی بدولت اللہ انہیں الٹا پھیر چکا ہے کیا تم چاہتے ہو کہ جسے اللہ نے ہدایت نہیں بخشی اُسے تم ہدایت بخش دو؟ حالانکہ جس کو اللہ نے راستہ سے ہٹا دیا اُس کے لیے تم کوئی راستہ نہیں پاسکتے"
+    },
+    {
+      "number": 89,
+      "arabic": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءًۭ ۖ فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّۭا وَلَا نَصِيرًا",
+      "english": "They would love to see you deny the truth even as they have denied it, so that you should be like them. Do not, therefore, take them for your allies until they forsake the domain of evil for the sake of God; and if they revert to [open] enmity, seize them and slay them wherever you may find them. And do not take any of them for your ally or giver of succour,",
+      "urdu": "وہ تو یہ چاہتے ہیں کہ جس طرح وہ خود کافر ہیں اسی طرح تم بھی کافر ہو جاؤ تاکہ تم اور وہ سب یکساں ہو جائیں لہٰذا ان میں سے کسی کو اپنا دوست نہ بناؤ جب تک کہ وہ اللہ کی راہ میں ہجرت کر کے نہ آ جائیں، اور اگر وہ ہجرت سے باز رہیں تو جہاں پاؤ انہیں پکڑو اور قتل کرو اور ان میں سے کسی کو اپنا دوست اور مددگار نہ بناؤ"
+    },
+    {
+      "number": 90,
+      "arabic": "إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ ۚ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَٰتَلُوكُمْ ۚ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًۭا",
+      "english": "unless it be such [of them] as have ties with people to whom you yourselves are bound by a covenant, or such as come unto you because their hearts shrink from [the thought of] making war either on you or on their own folk - although, if God had willed to make them stronger than you, they would certainly have made war on you. Thus, if they let you be, and do not make war on you, and offer you peace, God does not allow you to harm them.",
+      "urdu": "البتہ و ہ منافق اس حکم سے مستثنیٰ ہیں جو کسی ایسی قوم سے جا ملیں جس کے ساتھ تمہارا معاہدہ ہے اسی طرح وہ منافق بھی مستثنیٰ ہیں جو تمہارے پاس آتے ہیں اور لڑائی سے دل برداشتہ ہیں، نہ تم سے لڑنا چاہتے ہیں نہ اپنی قوم سے اللہ چاہتا تو ان کو تم پر مسلط کر دیتا اور وہ بھی تم سے لڑتے لہٰذا اگر وہ تم سے کنارہ کش ہو جائیں اور لڑنے سے باز رہیں اور تمہاری طرف صلح و آشتی کا ہاتھ بڑھائیں تو اللہ نے تمہارے لیے ان پر دست درازی کی کوئی سبیل نہیں رکھی ہے"
+    },
+    {
+      "number": 91,
+      "arabic": "سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُو۟لَٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَٰنًۭا مُّبِينًۭا",
+      "english": "You will find [that there are] others who would like to be safe from you as well as safe from their own folk, [but who,] whenever they are faced anew with temptation to evil, plunge into it headlong. Hence, if they do not let you be, and do not offer you peace, and do not stay their hands, seize them and slay them whenever you come upon them: for it is against these that We have clearly empowered you [to make war].",
+      "urdu": "ایک اور قسم کے منافق تمہیں ایسے ملیں گے جو چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی، مگر جب کبھی فتنہ کا موقع پائیں گے اس میں کود پڑیں گے ایسے لوگ اگر تمہارے مقابلہ سے باز نہ رہیں اور صلح و سلامتی تمہارے آگے پیش نہ کریں اور اپنے ہاتھ نہ روکیں تو جہاں وہ ملیں انہیں پکڑو اور مارو، ان پر ہاتھ اٹھانے کے لیے ہم نے تمہیں کھلی حجت دے دی ہے"
+    },
+    {
+      "number": 92,
+      "arabic": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًۭٔا ۚ وَمَن قَتَلَ مُؤْمِنًا خَطَـًۭٔا فَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ وَدِيَةٌۭ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ ۚ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّۢ لَّكُمْ وَهُوَ مُؤْمِنٌۭ فَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ ۖ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌۭ فَدِيَةٌۭ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةًۭ مِّنَ ٱللَّهِ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+      "english": "AND IT IS not conceivable that a believer should slay another believer, unless it be by mistake. And upon him who has slain a believer by mistake there is the duty of freeing a believing soul from bondage and paying an indemnity to the victim's relations, unless they forgo it by way of charity. Now if the slain, while himself a believer, belonged to a people who are at war with you, [the penance shall be confined to] the freeing of a believing soul from bondage; whereas, if he belonged to a people to whom you are bound by a covenant, [it shall consist of] an indemnity to be paid to his relations in ad­dition to the freeing of a believing soul from bon­dage. And he who does not have the wherewithal shall fast [instead] for two consecutive months. (This is) the atonement ordained by God: and God is indeed all-knowing, wise.",
+      "urdu": "کسی مومن کا یہ کام نہیں ہے کہ دوسرے مومن کو قتل کرے، الا یہ کہ اُس سے چوک ہو جائے، اور جو شخص کسی مومن کو غلطی سے قتل کر دے تو اس کا کفارہ یہ ہے کہ ایک مومن کو غلامی سے آزاد کرے اور مقتول کے وارثوں کو خونبہا دے، الا یہ کہ وہ خونبہا معاف کر دیں لیکن اگر وہ مسلمان مقتول کسی ایسی قوم سے تھا جس سے تمہاری دشمنی ہو تو اس کا کفارہ ایک مومن غلام آزاد کرنا ہے اور اگر وہ کسی ایسی غیرمسلم قوم کا فرد تھا جس سے تمہارا معاہدہ ہو تو اس کے وارثوں کو خون بہا دیا جائے گا اور ایک مومن غلام کو آزاد کرنا ہوگا پھر جو غلام نہ پائے وہ پے در پے دو مہینے کے روزے رکھے یہ اِس گناہ پر اللہ سے توبہ کرنے کا طریقہ ہے اور اللہ علیم و دانا ہے"
+    },
+    {
+      "number": 93,
+      "arabic": "وَمَن يَقْتُلْ مُؤْمِنًۭا مُّتَعَمِّدًۭا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًۭا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًۭا",
+      "english": "But whoever deliberately slays another be­liever, his requital shall be hell, therein to abide; and God will condemn him, and will reject him, and will prepare for him awesome suffering.",
+      "urdu": "رہا وہ شخص جو کسی مومن کو جان بوجھ کر قتل کرے تو اُس کی جزا جہنم ہے جس میں وہ ہمیشہ رہے گا اس پر اللہ کا غضب اور اُس کی لعنت ہے اور اللہ نے اس کے لیے سخت عذاب مہیا کر رکھا ہے"
+    },
+    {
+      "number": 94,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًۭا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌۭ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا",
+      "english": "[Hence,] O you who have attained to faith, when you go forth [to war] in God's cause, use your discernment, and do not - out of a desire for the fleeting gains of this worldly life - say unto anyone who offers you the greeting of peace, \"Thou art not a believer\" for with God there are gains abundant. You, too, were once in the same condition - but God has been gracious unto you. Use, therefore, your discernment: verily, God is always aware of what you do.",
+      "urdu": "اے لوگو جو ایما ن لائے ہو، جب تم اللہ کی راہ میں جہاد کے لیے نکلو تو دوست دشمن میں تمیز کرو اور جو تمہاری طرف سلام سے تقدیم کرے اُسے فوراً نہ کہہ دو کہ تو مومن نہیں ہے اگر تم دنیوی فائدہ چاہتے ہو تو اللہ کے پاس تمہارے لیے بہت سے اموال غنیمت ہیں آخر اسی حالت میں تم خود بھی تو اس سے پہلے مبتلا رہ چکے ہو، پھر اللہ نے تم پر احسان کیا، لہٰذا تحقیق سے کام لو، جو کچھ تم کرتے ہو اللہ اُس سے باخبر ہے"
+    },
+    {
+      "number": 95,
+      "arabic": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةًۭ ۚ وَكُلًّۭا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًۭا",
+      "english": "SUCH of the believers as remain passive - other than the disabled - cannot be deemed equal to those who strive hard in God's cause with their possessions and their lives: God has exalted those who strive hard with their possessions and their lives far above those who remain passive. Although God has promised the ultimate good unto all [believers], yet has God exalted those who strive hard above those who remain passive by [promising them] a mighty reward -",
+      "urdu": "مسلمانوں میں سے وہ لوگ جو کسی معذوری کے بغیر گھر بیٹھے رہتے ہیں اور وہ جو اللہ کی راہ میں جان و مال سے جہاد کرتے ہیں، دونوں کی حیثیت یکساں نہیں ہے اللہ نے بیٹھنے والوں کی بہ نسبت جان و مال سے جہاد کرنے والوں کا درجہ بڑا رکھا ہے اگرچہ ہر ایک کے لیے اللہ نے بھلائی ہی کا وعدہ فرمایا ہے، مگر اُس کے ہاں مجاہدوں کی خدمات کا معاوضہ بیٹھنے والوں سے بہت زیادہ ہے"
+    },
+    {
+      "number": 96,
+      "arabic": "دَرَجَٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ وَرَحْمَةًۭ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا",
+      "english": "[many] degrees thereof - and for­giveness of sins, and His grace; for God is indeed much-forgiving, a dispenser of grace.",
+      "urdu": "اُن کے لیے اللہ کی طرف سے بڑے درجے ہیں اور مغفرت اور رحمت ہے، اور اللہ بڑا معاف کرنے والا اور رحم فرمانے والا ہے"
+    },
+    {
+      "number": 97,
+      "arabic": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا",
+      "english": "Behold, those whom the angels gather in death while they are still sinning against themselves, [the angels] will ask, \"What was wrong with you?'' They will answer: \"We were too weak on earth.\" [The angels] will say: \"Was, then, God's earth not wide enough for you to forsake the domain of evil?\" For such, then, the goal is hell - and how evil a journey's end!",
+      "urdu": "جو لوگ اپنے نفس پر ظلم کر رہے تھے اُن کی روحیں جب فرشتوں نے قبض کیں تو ان سے پوچھا کہ یہ تم کس حال میں مبتلا تھے؟ انہوں نے جواب دیا کہ ہم زمین میں کمزور و مجبور تھے فرشتوں نے کہا، کیا خدا کی زمین وسیع نہ تھی کہ تم اس میں ہجرت کرتے؟ یہ وہ لوگ ہیں جن کا ٹھکانا جہنم ہے اور بڑا ہی برا ٹھکانا ہے"
+    },
+    {
+      "number": 98,
+      "arabic": "إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةًۭ وَلَا يَهْتَدُونَ سَبِيلًۭا",
+      "english": "But excepted shall be the truly helpless - be they men or women or children - who cannot bring forth any strength and have not been shown the right way:",
+      "urdu": "ہاں جو مرد، عورتیں اور بچے واقعی بے بس ہیں اور نکلنے کا کوئی راستہ اور ذریعہ نہیں پاتے"
+    },
+    {
+      "number": 99,
+      "arabic": "فَأُو۟لَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ ٱللَّهُ عَفُوًّا غَفُورًۭا",
+      "english": "as for them, God may well efface their sin - for God is indeed an absolver of sins, much-forgiving.",
+      "urdu": "بعید نہیں کہ اللہ انہیں معاف کر دے، اللہ بڑا معاف کرنے والا اور درگزر فرمانے والا ہے"
+    },
+    {
+      "number": 100,
+      "arabic": "۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًۭا كَثِيرًۭا وَسَعَةًۭ ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا",
+      "english": "And he who forsakes the domain of evil for the sake of God shall find on earth many a lonely road, as well as life abundant. And if anyone leaves his home, fleeing from evil unto God and His Apostle, and then death overtakes him - his reward is ready with God: for God iss indeed much-forgiving, a dis­penser of grace.",
+      "urdu": "جو کوئی اللہ کی راہ میں ہجرت کرے گا وہ زمین میں پناہ لینے کے لیے بہت جگہ اوربسر اوقات کے لیے بڑی گنجائش پائے گا، اور جو اپنے گھر سے اللہ اور رسول کی طرف ہجرت کے لیے نکلے، پھر راستہ ہی میں اُسے موت آ جائے اُس کا اجر اللہ کے ذمے واجب ہو گیا، اللہ بہت بخشش فرمانے والا اور رحیم ہے"
+    },
+    {
+      "number": 101,
+      "arabic": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّۭا مُّبِينًۭا",
+      "english": "AND WHEN you go forth [to war] on earth, you will incur no sin by shortening your prayers if you have reason to fear that those who are bent on denying the truth might suddenly fall upon you: for, verily, those who deny the truth are your open foes.",
+      "urdu": "اور جب تم لوگ سفر کے لیے نکلو تو کوئی مضائقہ نہیں اگر نماز میں اختصار کر دو (خصوصاً) جبکہ تمہیں اندیشہ ہو کہ کافر تمہیں ستائیں گے کیونکہ وہ کھلم کھلا تمہاری دشمنی پر تلے ہوئے ہیں"
+    },
+    {
+      "number": 102,
+      "arabic": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌۭ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ ۗ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةًۭ وَٰحِدَةًۭ ۚ وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًۭى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ ۖ وَخُذُوا۟ حِذْرَكُمْ ۗ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًۭا مُّهِينًۭا",
+      "english": "Thus, when thou art among the believers and about to lead them in prayer, let [only] part of them stand up with thee, retaining their arms. Then, after they have finished their prayer, let them provide you cover while another group, who have not yet prayed, shall come forward and pray with thee, being fully prepared against danger and retaining their arms: (for) those who are bent on denying the truth would love to see you oblivious of your arms and your equipment, so that they might fall upon you in a surprise attack. But it shall not be wrong for you to lay down your arms [while you pray] if you are troubled by rain or if you are ill; but [always] be fully prepared against danger. Verily, God has readied shameful suffering for all who deny the truth!",
+      "urdu": "اور اے نبیؐ! جب تم مسلمانوں کے درمیان ہو اور (حالت جنگ میں) انہیں نماز پڑھانے کھڑے ہو تو چاہیے کہ ان میں سے ایک گروہ تمہارے ساتھ کھڑا ہو اور اسلحہ لیے رہے، پھر جب وہ سجدہ کر لے تو پیچھے چلا جائے اور دوسرا گروہ جس نے ابھی نماز نہیں پڑھی ہے آکر تمہارے ساتھ پڑھے اور وہ بھی چوکنا رہے اور اپنے اسلحہ لیے رہے، کیوں کہ کفار اِس تاک میں ہیں کہ تم اپنے ہتھیاروں اور اپنے سامان کی طرف سے ذرا غافل ہو تو وہ تم پر یکبارگی ٹوٹ پڑیں البتہ اگر تم بارش کی وجہ سے تکلیف محسوس کرو یا بیمار ہو تو اسلحہ رکھ دینے میں کوئی مضائقہ نہیں، مگر پھر بھی چوکنے رہو یقین رکھو کہ اللہ نے کافروں کے لیے رسوا کن عذاب مہیا کر رکھا ہے"
+    },
+    {
+      "number": 103,
+      "arabic": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۚ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًۭا مَّوْقُوتًۭا",
+      "english": "And when you have finished your prayer, remember God - standing and sitting and lying down; and when you are once again secure, observe your prayers [fully]. Verily, for all believers prayer is indeed a sacred duty linked to particular times [of day].",
+      "urdu": "پھر جب نماز سے فارغ ہو جاؤ تو کھڑے اور بیٹھے اور لیٹے، ہر حال میں اللہ کو یاد کرتے رہو اور جب اطمینان نصیب ہو جائے تو پوری نماز پڑھو نما ز در حقیقت ایسا فرض ہے جو پابندی وقت کے ساتھ اہل ایمان پر لازم کیا گیا ہے"
+    },
+    {
+      "number": 104,
+      "arabic": "وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "english": "And be not faint of heart when you seek out the [enemy] host. If you happen to suffer pain, behold, they suffer pain even as you suffer it: but you are hoping [to receive] from God what they cannot hope for. And God is indeed all-knowing, wise.",
+      "urdu": "اِس گروہ کے تعاقب میں کمزوری نہ دکھاؤ اگر تم تکلیف اٹھا رہے ہو تو تمہاری طرح وہ بھی تکلیف اٹھا رہے ہیں اور تم اللہ سے اُس چیز کے امیدوار ہو جس کے وہ امیدوار نہیں ہیں اللہ سب کچھ جانتا ہے اور وہ حکیم و دانا ہے"
+    },
+    {
+      "number": 105,
+      "arabic": "إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًۭا",
+      "english": "BEHOLD, We have bestowed upon thee from on high this divine writ, setting forth the truth, so that thou may judge between people in accordance with what God has taught thee. Hence, do not contend with those who are false to their trust,",
+      "urdu": "اے نبیؐ! ہم نے یہ کتاب حق کے ساتھ تمہاری طرف نازل کی ہے تاکہ جو راہ راست اللہ نے تمہیں دکھائی ہے اس کے مطابق لوگوں کے درمیان فیصلہ کرو تم بد دیانت لوگوں کی طرف سے جھگڑنے والے نہ بنو"
+    },
+    {
+      "number": 106,
+      "arabic": "وَٱسْتَغْفِرِ ٱللَّهَ ۖ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا",
+      "english": "but pray God to forgive [them]: behold, God is indeed much-forgiving, a dispenser of grace.",
+      "urdu": "اور اللہ سے در گزر کی درخواست کرو، وہ بڑا درگزر فرمانے والا اور رحیم ہے"
+    },
+    {
+      "number": 107,
+      "arabic": "وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًۭا",
+      "english": "Yet do not argue in behalf of those who are false to their own selves: verily, God does not love those who betray their trust and persist in sinful ways.",
+      "urdu": "جو لو گ اپنے نفس سے خیانت کرتے ہیں تم اُن کی حمایت نہ کرو اللہ کو ایسا شخص پسند نہیں ہے جو خیانت کار اور معصیت پیشہ ہو"
+    },
+    {
+      "number": 108,
+      "arabic": "يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ ۚ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+      "english": "They would conceal their doings from men; but from God they cannot conceal them - for He is with them whenever they devise, in the dark of night, all manner of beliefs which He does not approve. And God indeed encompasses [with His knowledge] whatever they do.",
+      "urdu": "یہ لو گ انسانوں سے اپنی حرکات چھپا سکتے ہیں مگر خدا سے نہیں چھپا سکتے وہ تواُس وقت بھی اُن کے ساتھ ہوتا ہے جب یہ راتوں کو چھپ کر اُس کی مرضی کے خلاف مشورے کرتے ہیں اِن کے سارے اعمال پر اللہ محیط ہے"
+    },
+    {
+      "number": 109,
+      "arabic": "هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ عَنْهُمْ يَوْمَ ٱلْقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيْهِمْ وَكِيلًۭا",
+      "english": "Oh, you might well argue in their behalf in the life of this world: but who will argue in their behalf with God on the Day of Resurrection, or who will be their defender?",
+      "urdu": "ہاں! تم لوگوں نے اِن مجرموں کی طرف سے دنیا کی زندگی میں تو جھگڑا کر لیا، مگر قیامت کے روز ان کی طرف سے کون جھگڑا کرے گا؟آخر وہاں کون اِن کا وکیل ہوگا؟"
+    },
+    {
+      "number": 110,
+      "arabic": "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًۭا رَّحِيمًۭا",
+      "english": "Yet he who does evil or [otherwise] sins against himself, and thereafter prays God to forgive him, shall find God much-forgiving, a dispenser of grace:",
+      "urdu": "اگر کوئی شخص برا فعل کر گزرے یا اپنے نفس پر ظلم کر جائے اور اس کے بعد اللہ سے درگزر کی درخواست کرے تو اللہ کو درگزر کرنے والا اور رحیم پائے گا"
+    },
+    {
+      "number": 111,
+      "arabic": "وَمَن يَكْسِبْ إِثْمًۭا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+      "english": "for he who commits a sin, commits it only to his own hurt; and God is indeed all-knowing, wise.",
+      "urdu": "مگر جو برائی کما لے تو اس کی یہ کمائی اُسی کے لیے وبال ہوگی، اللہ کو سب باتوں کی خبر ہے اور وہ حکیم و دانا ہے"
+    },
+    {
+      "number": 112,
+      "arabic": "وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًۭا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًۭٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًۭا وَإِثْمًۭا مُّبِينًۭا",
+      "english": "But he who commits a fault or a sin and then throws the blame therefore on an innocent person, burdens himself with the guilt of calumny and [yet another] flagrant sin.",
+      "urdu": "پھر جس نے کوئی خطا یا گناہ کر کے اس کا الزام کسی بے گناہ پر تھوپ دیا اُس نے تو بڑے بہتان اور صریح گناہ کا بار سمیٹ لیا"
+    },
+    {
+      "number": 113,
+      "arabic": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌۭ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِن شَىْءٍۢ ۚ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ ۚ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًۭا",
+      "english": "And but for God's favour upon thee and His grace, some of those [who are false to themselves] would indeed endeavour to lead thee astray; yet none but themselves do they lead astray. Nor can they harm thee in any way, since God has bestowed upon thee from on high this divine writ and [given thee] wisdom, and has imparted unto thee the knowledge of what thou didst not know. And God's favour upon thee is tremendous indeed.",
+      "urdu": "اے نبیؐ! اگر اللہ کا فضل تم پر نہ ہوتا اور اس کی رحمت تمہارے شامل حال نہ ہوتی تو ان میں سے ایک گروہ نے تو تمہیں غلط فہمی میں مبتلا کرنے کا فیصلہ کر ہی لیا تھا، حالاں کہ در حقیقت وہ خود اپنے سوا کسی کو غلط فہمی میں مبتلا نہیں کر رہے تھے اور تمہارا کوئی نقصان نہ کرسکتے تھے اللہ نے تم پر کتاب اور حکمت نازل کی ہے اور تم کو وہ کچھ بتایا ہے جو تمہیں معلوم نہ تھا اور اس کا فضل تم پر بہت ہے"
+    },
+    {
+      "number": 114,
+      "arabic": "۞ لَّا خَيْرَ فِى كَثِيرٍۢ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًۭا",
+      "english": "NO GOOD comes, as a rule, out of secret confabulations - saving such as are devoted to en­joining charity, or equitable dealings, or setting things to rights between people: and unto him who does this out of a longing for God's goodly acceptance We shall in time grant a mighty reward.",
+      "urdu": "لوگوں کی خفیہ سرگوشیوں میں اکثر و بیشتر کوئی بھلائی نہیں ہوتی ہاں اگر کوئی پوشیدہ طور پر صدقہ و خیرات کی تلقین کرے یا کسی نیک کام کے لیے یا لوگوں کے معاملات میں اصلاح کرنے کے لیے کسی سے کچھ کہے تو یہ البتہ بھلی بات ہے، اور جو کوئی اللہ کی رضا جوئی کے لیے ایسا کرے گا اُسے ہم بڑا اجر عطا کریں گے"
+    },
+    {
+      "number": 115,
+      "arabic": "وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا",
+      "english": "But as for him who, after guidance has been vouchsafed to him, cuts himself off from the Apostle and follows a path other than that of the believers - him shall We leave unto that which he himself has chosen, and shall cause him to endure hell: and how evil a journey’s end!",
+      "urdu": "مگر جو شخص رسول کی مخالفت پر کمر بستہ ہو اور اہل ایمان کی روش کے سوا کسی اور روش پر چلے، درآں حالیکہ اس پر راہ راست واضح ہو چکی ہو، تو اُس کو ہم اُسی طرف چلائیں گے جدھر وہ خود پھر گیا اور اسے جہنم میں جھونکیں گے جو بد ترین جائے قرار ہے"
+    },
+    {
+      "number": 116,
+      "arabic": "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدْ ضَلَّ ضَلَٰلًۢا بَعِيدًا",
+      "english": "VERILY, God does not forgive the ascribing of divinity to aught beside Him, although He forgives any lesser sin unto whomever He wills: for those who ascribe divinity to aught beside God have indeed gone far astray.",
+      "urdu": "اللہ کے ہاں بس شرک ہی کی بخشش نہیں ہے، اس کے سوا اور سب کچھ معاف ہوسکتا ہے جسے وہ معاف کرنا چاہے جس نے اللہ کے ساتھ کسی کو شریک ٹھیرایا وہ تو گمراہی میں بہت دور نکل گیا"
+    },
+    {
+      "number": 117,
+      "arabic": "إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًۭا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًۭا مَّرِيدًۭا",
+      "english": "In His stead, they invoke only life­less symbols - thus invoking none but a rebellious Satan",
+      "urdu": "وہ اللہ کو چھوڑ کر دیویوں کو معبود بناتے ہیں وہ اُس باغی شیطان کو معبود بناتے ہیں"
+    },
+    {
+      "number": 118,
+      "arabic": "لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًۭا مَّفْرُوضًۭا",
+      "english": "whom God has rejected for having said, \"Verily, of Thy servants I shall most certainly take my due share,",
+      "urdu": "جس کو اللہ نے لعنت زدہ کیا ہے (وہ اُس شیطان کی اطاعت کر رہے ہیں) جس نے اللہ سے کہا تھا کہ \"میں تیرے بندوں سے ایک مقرر حصہ لے کر رہوں گا"
+    },
+    {
+      "number": 119,
+      "arabic": "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّۭا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًۭا مُّبِينًۭا",
+      "english": "and shall lead them astray, and fill them with vain desires; and I shall command them - and they will cut off the ears of cattle [in idolatrous sacrifice]; and I shall command them - and they will corrupt God's creation!\" But all who take Satan rather than God for their master do indeed, most clearly, lose all:",
+      "urdu": "میں انہیں بہکاؤں گا، میں انہیں آرزوؤں میں الجھاؤں گا، میں انہیں حکم دوں گا اور وہ میرے حکم سے جانوروں کے کان پھاڑیں گے اور میں انہیں حکم دوں گا اور وہ میرے حکم سے خدائی ساخت میں رد و بدل کریں گے\" اس شیطان کوجس نے اللہ کے بجائے اپنا ولی و سرپرست بنا لیا وہ صریح نقصان میں پڑ گیا"
+    },
+    {
+      "number": 120,
+      "arabic": "يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا",
+      "english": "he holds out promises to them, and fills them with vain desires: yet whatever Satan promises them is but meant to delude the mind.",
+      "urdu": "وہ اِن لوگوں سے وعدہ کرتا ہے اور انہیں امیدیں دلاتا ہے، مگر شیطان کے سارے وعدے بجز فریب کے اور کچھ نہیں ہیں"
+    },
+    {
+      "number": 121,
+      "arabic": "أُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًۭا",
+      "english": "Such as these have hell for their goal: and they shall find no way to escape therefrom.",
+      "urdu": "اِن لوگوں کا ٹھکانا جہنم ہے جس سے خلاصی کی کوئی صورت یہ نہ پائیں گے"
+    },
+    {
+      "number": 122,
+      "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ قِيلًۭا",
+      "english": "Yet those who attain to faith and do righteous deeds We shall bring into gardens through which running waters flow, therein to abide beyond the count of time: this is, in truth, God's promise - and whose word could be truer than God's?",
+      "urdu": "رہے وہ لوگ جو ایمان لے آئیں اور نیک عمل کریں، توا نہیں ہم ایسے باغوں میں داخل کریں گے جن کے نیچے نہریں بہتی ہوں گی اور وہ وہاں ہمیشہ ہمیشہ رہیں گے یہ اللہ کا سچا وعدہ ہے اور اللہ سے بڑھ کر کون اپنی بات میں سچا ہوگا"
+    },
+    {
+      "number": 123,
+      "arabic": "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ ۗ مَن يَعْمَلْ سُوٓءًۭا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا",
+      "english": "It may not accord with your wishful thinking - nor with the wishful thinking of the fol­lowers of earlier revelation - [that] he who does evil shall be requited for it, and shall find none to protect him from God, and none to bring him succour,",
+      "urdu": "انجام کار نہ تمہاری آرزوؤں پر موقوف ہے نہ اہل کتاب کی آرزوؤں پر جو بھی برائی کرے گا اس کا پھل پائے گا اور اللہ کے مقابلہ میں اپنے لیے کوئی حامی و مدد گار نہ پاسکے گا"
+    },
+    {
+      "number": 124,
+      "arabic": "وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًۭا",
+      "english": "whereas anyone - be it man or woman - who does [whatever he can] of good deeds and is a believer withal, shall enter paradise, and shall not be wronged by as much as [would fill] the groove of a date-stone.",
+      "urdu": "اور جو نیک عمل کرے گا، خواہ مرد ہو یا عورت، بشر طیکہ ہو وہ مومن، تو ایسے ہی لوگ جنت میں داخل ہوں گے اور اُن کی ذرہ برابر حق تلفی نہ ہونے پائے گی"
+    },
+    {
+      "number": 125,
+      "arabic": "وَمَنْ أَحْسَنُ دِينًۭا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًۭا",
+      "english": "And who could be of better faith than he who surrenders his whole being unto God and is a doer of good withal, and follows the creed of Abraham, who turned away from all that is false - seeing that God exalted Abraham with His love?",
+      "urdu": "اُس شخص سے بہتر اور کس کا طریق زندگی ہوسکتا ہے جس نے اللہ کے آگے سر تسلیم خم کر دیا اور اپنا رویہ نیک رکھا اور یکسو ہو کر ابراہیمؑ کے طریقے کی پیروی کی، اُس ابراہیمؑ کے طریقے کی جسے اللہ نے اپنا دوست بنا لیا تھا"
+    },
+    {
+      "number": 126,
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍۢ مُّحِيطًۭا",
+      "english": "For, unto God belongs all that is in the heavens and all that is on earth; and, indeed, God encompasses everything.",
+      "urdu": "آسمانوں اور زمین میں جو کچھ ہے اللہ کا ہے اور اللہ ہر چیز پر محیط ہے"
+    },
+    {
+      "number": 127,
+      "arabic": "وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ ۖ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ ۚ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًۭا",
+      "english": "AND THEY will ask thee to enlighten them about the laws concerning women. Say: \"God [Himself] en­lightens you about the laws concerning them\"- for [His will is shown] in what is being conveyed unto you through this divine writ about orphan women [in your charge], to whom - because you yourselves may be desirous of marrying them - you do not give that which has been ordained for them; and about help­less children; and about your duty to treat orphans with equity. And whatever good you may do - be­hold, God has indeed full knowledge thereof.",
+      "urdu": "لو گ تم سے عورتوں کے معاملہ میں فتویٰ پوچھتے ہیں کہو اللہ تمہیں اُن کے معاملہ میں فتویٰ دیتا ہے، اور ساتھ ہی وہ احکام بھی یاد دلاتا ہے جو پہلے سے تم کو اس کتاب میں سنائے جا رہے ہیں یعنی وہ احکام جو اُن یتیم لڑکیوں کے متعلق ہیں جن کے حق تم ادا نہیں کرتے اور جن کے نکاح کرنے سے تم باز رہتے ہو (یا لالچ کی بنا پر تم خود ان سے نکاح کر لینا چاہتے ہو)، او ر وہ احکام جو اُن بچوں کے متعلق ہیں جو بیچارے کوئی زور نہیں رکھتے اللہ تمہیں ہدایت کرتا ہے کہ یتیموں کے ساتھ انصاف پر قائم رہو، اور جو بھلائی تم کرو گے وہ اللہ کے علم سے چھپی نہ رہ جائے گی"
+    },
+    {
+      "number": 128,
+      "arabic": "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًۭا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًۭا ۚ وَٱلصُّلْحُ خَيْرٌۭ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا",
+      "english": "And if a woman has reason to fear ill-treat­ment from her husband, or that he might turn away from her, it shall not be wrong for the two to set things peacefully to rights between themselves: for peace is best, and selfishness is ever-present in human souls. But if you do good and are conscious of Him - behold, God is indeed aware of all that you do.",
+      "urdu": "جب کسی عورت کو اپنے شوہر سے بدسلوکی یا بے رخی کا خطر ہ ہو تو کوئی مضائقہ نہیں اگر میاں اور بیوی (کچھ حقوق کی کمی بیشی پر) آپس میں صلح کر لیں صلح بہر حال بہتر ہے نفس تنگ دلی کے طرف جلدی مائل ہو جاتے ہیں، لیکن اگر تم لوگ احسان سے پیش آؤ اور خدا ترسی سے کام لو تو یقین رکھو کہ اللہ تمہارے اس طرز عمل سے بے خبر نہ ہوگا"
+    },
+    {
+      "number": 129,
+      "arabic": "وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ ۚ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا",
+      "english": "And it will not be within your power to treat your wives with equal fairness, however much you may desire it; and so, do not allow yourselves to incline towards one to the exclusion of the other, leaving her in a state, as it were, of having and not having a husband. But if you put things to rights and are conscious of Him - behold, God is indeed much-forgiving, a dispenser of grace.",
+      "urdu": "بیویوں کے درمیان پورا پورا عدل کرنا تمہارے بس میں نہیں ہے تم چاہو بھی تو اس پر قادر نہیں ہوسکتے لہٰذا (قانون الٰہی کا منشا پورا کرنے کے لیے یہ کافی ہے کہ) ایک بیوی کی طرف اِس طرح نہ جھک جاؤ کہ دوسری کو ادھر لٹکتا چھوڑ دو اگر تم اپنا طرز عمل درست رکھو اور اللہ سے ڈرتے رہو تو اللہ چشم پوشی کرنے والا اور رحم فرمانے والا ہے"
+    },
+    {
+      "number": 130,
+      "arabic": "وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّۭا مِّن سَعَتِهِۦ ۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمًۭا",
+      "english": "And if husband and wife do separate, God shall provide for each of them out of His abundance: for God is indeed infinite, wise,",
+      "urdu": "لیکن اگر زوجین ایک دوسرے سے الگ ہی ہو جائیں تو اللہ اپنی وسیع قدرت سے ہر ایک کو دوسرے کی محتاجی سے بے نیاز کر دے گا اللہ کا دامن بہت کشادہ ہے اور وہ دانا و بینا ہے"
+    },
+    {
+      "number": 131,
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ غَنِيًّا حَمِيدًۭا",
+      "english": "and unto God belongs all that is in the heavens and all that is on earth. AND, INDEED, We have enjoined upon those who were granted revelation before your time, as well as upon yourselves, to remain conscious of God. And if you deny Him - behold, unto God belongs all that is in the heavens and all that is on earth, and God is indeed self-sufficient, ever to be praised.",
+      "urdu": "آسمانوں اور زمین میں جو کچھ ہے سب اللہ ہی کا ہے تم سے پہلے جن کو ہم نے کتاب دی تھی انہیں بھی یہی ہدایت کی تھی اور اب تم کو بھی یہی ہدایت کرتے ہیں کہ خدا سے ڈرتے ہوئے کام کرو لیکن اگر تم نہیں مانتے تو نہ مانو، آسمان و زمین کی ساری چیزوں کا مالک اللہ ہی ہے اور وہ بے نیاز ہے، ہر تعریف کا مستحق"
+    },
+    {
+      "number": 132,
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "english": "And unto God belongs all that is in the heavens and all that is on earth; and none is as worthy of trust as God.",
+      "urdu": "ہاں اللہ ہی مالک ہے ان سب چیزوں کاجو آسمانوں میں ہیں اور جو زمین میں ہیں، اور کار سازی کے لیے بس و ہی کافی ہے"
+    },
+    {
+      "number": 133,
+      "arabic": "إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا ٱلنَّاسُ وَيَأْتِ بِـَٔاخَرِينَ ۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًۭا",
+      "english": "If He so wills, He can cause you, O mankind, to disappear, and bring forth other beings [in your stead]: for God has indeed the power to do this.",
+      "urdu": "اگر وہ چاہے تو تم لوگوں کو ہٹا کر تمہاری جگہ دوسروں کو لے آئے، اور وہ اِس کی پوری قدرت رکھتا ہے"
+    },
+    {
+      "number": 134,
+      "arabic": "مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۚ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًۭا",
+      "english": "If one desires the rewards of this world, [let him remember that] with God are the rewards of [both] this world and the life to come: and God is indeed all-hearing, all-seeing.",
+      "urdu": "جو شخص محض ثواب دنیا کا طالب ہو اُسے معلوم ہونا چاہیے کہ اللہ کے پاس ثواب دنیا بھی ہے اور ثواب آخرت بھی، اور اللہ سمیع و بصیر ہے"
+    },
+    {
+      "number": 135,
+      "arabic": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًۭا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا",
+      "english": "O YOU who have attained to faith! Be ever steadfast in upholding equity, bearing witness to the truth for the sake of God, even though it be against your own selves or your parents and kinsfolk. Whether the person concerned be rich or poor, God's claim takes precedence over [the claims of] either of them. Do not, then, follow your own desires, lest you swerve from justice: for if you distort [the truth], behold, God is indeed aware of all that you do!",
+      "urdu": "اے لوگو جو ایمان لائے ہو، انصاف کے علمبردار اور خدا واسطے کے گواہ بنو اگرچہ تمہارے انصاف اور تمہاری گواہی کی زد خود تمہاری اپنی ذات پر یا تمہارے والدین اور رشتہ داروں پر ہی کیوں نہ پڑتی ہو فریق معاملہ خواہ مالدار ہو یا غریب، اللہ تم سے زیادہ اُن کا خیر خواہ ہے لہٰذا اپنی خواہش نفس کی پیروی میں عدل سے باز نہ رہو اور اگر تم نے لگی لپٹی بات کہی یا سچائی سے پہلو بچایا تو جان رکھو کہ جو کچھ تم کرتے ہو اللہ کو اس کی خبر ہے"
+    },
+    {
+      "number": 136,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ ۚ وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلْيَوْمِ ٱلْءَاخِرِ فَقَدْ ضَلَّ ضَلَٰلًۢا بَعِيدًا",
+      "english": "O you who have attained to faith! Hold fast unto your belief in God and His Apostle, and in the divine writ which He has bestowed from on high upon His Apostle, step by step, as well as in the revelation which He sent down aforetime: for he who denies God, and His angels, and His revelations, and His apostles, and the Last Day, has indeed gone far astray.",
+      "urdu": "اے لوگو جو ایمان لائے ہو، ایمان لاؤ اللہ پر اور اس کے رسول پر اور اس کتاب پر جو اللہ نے اپنے رسول پر نازل کی ہے اور ہر اُس کتاب پر جو اس سے پہلے وہ نازل کر چکا ہے جس نے اللہ اور اس کے ملائکہ اور اس کی کتابوں اور اس کے رسولوں اور روز آخرت سے کفر کیا وہ گمراہی میں بھٹک کر بہت دور نکل گیا"
+    },
+    {
+      "number": 137,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا",
+      "english": "Behold, as for those who come to believe, and then deny the truth, and again come to believe, and again deny the truth, and thereafter grow stubborn in their denial of the truth - God will not forgive them, nor will He guide them in any way.",
+      "urdu": "رہے وہ لوگ جو ایمان لائے، پھر کفر کیا، پھر ایمان لائے، پھر کفر کیا، پھر اپنے کفر میں بڑھتے چلے گئے، تو اللہ ہرگز ان کو معاف نہ کرے گا اور نہ کبھی اُن کو راہ راست دکھائے گا"
+    },
+    {
+      "number": 138,
+      "arabic": "بَشِّرِ ٱلْمُنَٰفِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا",
+      "english": "Announce thou to such hypocrites that grievous suffering awaits them.",
+      "urdu": "اور جو منافق اہل ایمان کو چھوڑ کر کافروں کو اپنا رفیق بناتے ہیں انہیں یہ مثردہ سنا دو کہ اُن کے لیے دردناک سزا تیار ہے"
+    },
+    {
+      "number": 139,
+      "arabic": "ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًۭا",
+      "english": "As for those who take the deniers of the truth for their allies in preference to the believers - do they hope to be honoured by them when, behold, all honour belongs to God [alone]?",
+      "urdu": "کیا یہ لوگ عزت کی طلب میں اُن کے پاس جاتے ہیں؟ حالانکہ عزت تو ساری کی ساری اللہ ہی کے لیے ہے"
+    },
+    {
+      "number": 140,
+      "arabic": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَٰفِقِينَ وَٱلْكَٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا",
+      "english": "And, indeed, He has enjoined upon you in this divine writ that whenever you hear people deny the truth of God's messages and mock at them, you shall avoid their company until they begin to talk of other things - or else, verily, you will become like them. Behold, together with those who deny the truth God will gather in hell the hypocrites,",
+      "urdu": "اللہ اِس کتاب میں تم کو پہلے ہی حکم دے چکا ہے کہ جہاں تم سنو کہ اللہ کی آیات کے خلاف کفر بکا جا رہا ہے اور ا ن کا مذاق اڑایا جا رہا ہے وہاں نہ بیٹھو جب تک کہ لوگ کسی دوسری بات میں نہ لگ جائیں اب اگر تم ایسا کرتے ہو تو تم بھی انہی کی طرح ہو یقین جانو کہ اللہ منافقوں اور کافروں کو جہنم میں ایک جگہ جمع کرنے والا ہے"
+    },
+    {
+      "number": 141,
+      "arabic": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌۭ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ وَإِن كَانَ لِلْكَٰفِرِينَ نَصِيبٌۭ قَالُوٓا۟ أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِّنَ ٱلْمُؤْمِنِينَ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ وَلَن يَجْعَلَ ٱللَّهُ لِلْكَٰفِرِينَ عَلَى ٱلْمُؤْمِنِينَ سَبِيلًا",
+      "english": "who but wait to see what betides you: thus, if triumph comes to you from God, they say, \"Were we not on your side?\"- whereas if those who deny the truth are in luck, they say [to them], \"Have we not earned your affection by defending you against those be­lievers?'' But God will judge between you all on the Day of Resurrection; and never will God allow those who deny the truth to harm the believers.",
+      "urdu": "یہ منافق تمہارے معاملہ میں انتظار کر رہے ہیں (کہ اونٹ کس کروٹ بیٹھتا ہے) اگر اللہ کی طرف سے فتح تمہاری ہوئی تو آ کر کہیں گے کہ کیا ہم تمہارے ساتھ نہ تھے؟ ا گر کافروں کا پلہ بھاری رہا تو اُن سے کہیں گے کہ کیا ہم تمہارے خلاف لڑنے پر قادر نہ تھے اور پھر بھی ہم نے تم کو مسلمانوں سے بچایا؟ بس اللہ ہی تمہارے اور ان کے معاملہ کا فیصلہ قیامت کے روز کرے گا اور (اس فیصلہ میں) اللہ نے کافروں کے لیے مسلمانوں پر غالب آنے کی ہرگز کوئی سبیل نہیں رکھی ہے"
+    },
+    {
+      "number": 142,
+      "arabic": "إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًۭا",
+      "english": "Behold, the hypocrites seek to deceive God - the while it is He who causes them to be deceived [by themselves] And when they rise to pray, they rise reluctantly, only to be seen and praised by men, remembering God but seldom,",
+      "urdu": "یہ منافق اللہ کے ساتھ دھوکہ بازی کر رہے ہیں حالانکہ در حقیقت اللہ ہی نے انہیں دھوکہ میں ڈال رکھا ہے جب یہ نماز کے لیے اٹھتے ہں تو کسمساتے ہوئے محض لوگوں کو دکھانے کی خاطر اٹھتے ہیں اور خدا کو کم ہی یاد کرتے ہیں"
+    },
+    {
+      "number": 143,
+      "arabic": "مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًۭا",
+      "english": "wavering be­tween this and that, [true] neither to these nor those. But for him whom God lets go astray thou canst never find any way.",
+      "urdu": "کفر و ایمان کے درمیان ڈانوا ڈول ہیں نہ پورے اِس طرف ہیں نہ پورے اُس طرف جسے اللہ نے بھٹکا دیا ہو اس کے لیے تم کوئی راستہ نہیں پاسکتے"
+    },
+    {
+      "number": 144,
+      "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَٰنًۭا مُّبِينًا",
+      "english": "O you who have attained to faith! Do not take the deniers of the truth for your allies in preference to the believers! Do you want to place before God a manifest proof of your guilt?",
+      "urdu": "اے لوگو جو ایمان لائے ہو، مومنوں کو چھوڑ کر کافروں کو اپنا رفیق نہ بناؤ کیا تم چاہتے ہو کہ اللہ کو اپنے خلاف صریح حجت دے دو؟"
+    },
+    {
+      "number": 145,
+      "arabic": "إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا",
+      "english": "Verily, the hypocrites shall be in the lowest depth of the fire, and thou wilt find none who could succour them.",
+      "urdu": "یقین جانو کہ منافق جہنم کے سب سے نیچے طبقے میں جائیں گے اور تم کسی کو اُن کا مدد گار نہ پاؤ گے"
+    },
+    {
+      "number": 146,
+      "arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًۭا",
+      "english": "But excepted shall be they who repent, and live righteously, and hold fast unto God, and grow sincere in their faith in God alone: for these shall be one with the believers - and in time God will grant to all believers a mighty reward.",
+      "urdu": "البتہ جو اُن میں سے تائب ہو جائیں او ر اپنے طرز عمل کی اصلاح کر لیں اور اللہ کا دامن تھام لیں اور اپنے دین کو اللہ کے لیے خالص کر دیں، ایسے لوگ مومنوں کے ساتھ ہیں اور اللہ مومنوں کو ضرور اجر عظیم عطا فرمائے گا"
+    },
+    {
+      "number": 147,
+      "arabic": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ ۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًۭا",
+      "english": "Why would God cause you to suffer [for your past sins] if you are grateful and attain to belief - seeing that God is always responsive to gratitude, all-knowing?",
+      "urdu": "آخر اللہ کو کیا پڑی ہے کہ تمہیں خواہ مخواہ سزا دے اگر تم شکر گزار بندے بنے رہو اور ایمان کی روش پر چلو اللہ بڑا قدر دان ہے اور سب کے حال سے واقف ہے"
+    },
+    {
+      "number": 148,
+      "arabic": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+      "english": "God does not like any evil to be mentioned openly, unless it be by him who has been wronged (thereby) And God is indeed all-hearing, all-knowing,",
+      "urdu": "اللہ اس کو پسند نہیں کرتا کہ آدمی بد گوئی پر زبان کھولے، الا یہ کہ کسی پر ظلم کیا گیا ہو، اور اللہ سب کچھ سننے اور جاننے والا ہے"
+    },
+    {
+      "number": 149,
+      "arabic": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍۢ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّۭا قَدِيرًا",
+      "english": "whether you do good openly or in secret, or pardon others for evil [done unto you]: for, behold, God is indeed an absolver of sins, infinite in His power.",
+      "urdu": "(مظلوم ہونے کی صورت میں اگر چہ تم پر بد گوئی کا حق ہے) لیکن اگر تم ظاہر و باطن میں بھلائی ہی کیے جاؤ، یا کم از کم برائی سے در گزر کرو، تو اللہ کی صفت بھی یہی ہے کہ وہ بڑا معاف کرنے والا ہے حالانکہ سزا دینے پر پوری قدرت رکھتا ہے"
+    },
+    {
+      "number": 150,
+      "arabic": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍۢ وَنَكْفُرُ بِبَعْضٍۢ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا",
+      "english": "VERILY, those who deny God and His apostles by endeavouring to make a distinction between [belief in] God and [belief in] His apostles, and who say, \"We believe in the one but we deny the other,\" and want to pursue a path in-between -",
+      "urdu": "جو لوگ اللہ اور اس کے رسولوں سے کفر کرتے ہیں، اور چاہتے ہیں کہ اللہ اور اس کے رسولوں کے درمیان تفریق کریں، اور کہتے ہیں کہ ہم کسی کو مانیں گے اور کسی کو نہ مانیں گے، اور کفر و ایمان کے بیچ میں ایک راہ نکالنے کا ارادہ رکھتے ہیں"
+    },
+    {
+      "number": 151,
+      "arabic": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ حَقًّۭا ۚ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًۭا مُّهِينًۭا",
+      "english": "it is they, they who are truly denying the truth: and for those who deny the truth We have readied shameful suffering.",
+      "urdu": "وہ سب پکے کافر ہیں اور ایسے کافروں کے لیے ہم نے وہ سزا مہیا کر رکھی ہے جو انہیں ذلیل و خوار کر دینے والی ہوگی"
+    },
+    {
+      "number": 152,
+      "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍۢ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا",
+      "english": "But as for those who believe in God and His apostles and make no distinction between any of them - unto them, in time, will He grant their re­wards [in full]. And God is indeed much-forgiving, a dispenser of grace.",
+      "urdu": "بخلاف اس کے جو لوگ اللہ اور ا س کے تمام رسولوں کو مانیں، اور اُن کے درمیان تفریق نہ کریں، اُن کو ہم ضرور اُن کے اجر عطا کریں گے، اور اللہ بڑا درگزر فرمانے والا اور رحم کرنے والا ہے"
+    },
+    {
+      "number": 153,
+      "arabic": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًۭا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًۭا مُّبِينًۭا",
+      "english": "THE FOLLOWERS of the Old Testament demand of thee [O Prophet] that thou cause a revelation to be sent down to them from heaven. And an even greater thing than this did they demand of Moses when they said, \"Make us see God face to face\" - whereupon the thunderbolt of punishment overtook them for this their wickedness. After that, they took to worshipping the [golden] calf - and this after all evidence of the truth had come unto them! None the less, We effaced this [sin of theirs], and vouchsafed unto Moses a clear proof [of the truth],",
+      "urdu": "یہ اہل کتاب اگر آج تم سے مطالبہ کر رہے ہیں کہ تم آسمان سے کوئی تحریر اُن پر نازل کراؤ تو اِس سے بڑھ چڑھ کر مجرمانہ مطالبے یہ پہلے موسیٰؑ سے کر چکے ہیں اُس سے تو اِنہوں نے کہا تھا کہ ہمیں خدا کو علانیہ دکھا دو اور اِسی سرکشی کی وجہ سے یکایک اِن پر بجلی ٹوٹ پڑی تھی پھر انہوں نے بچھڑے کو اپنا معبود بنا لیا، حالانکہ یہ کھلی کھلی نشانیاں دیکھ چکے تھے اس پر بھی ہم نے اِن سے درگزر کیا ہم نے موسیٰؑ کو صریح فرمان عطا کیا"
+    },
+    {
+      "number": 154,
+      "arabic": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًۭا",
+      "english": "raising Mount Sinai high above them in witness of their solemn pledge. And We said unto them, “Enter the gate humbly”; and We told them, \"Do not break the Sabbath-law\"; and We accepted from them a most solemn pledge.",
+      "urdu": "اور اِن لوگوں پر طور کو اٹھا کر اِن سے (اُس فرمان کی اطاعت کا) عہد لیا ہم نے اِن کو حکم دیا کہ دروازے میں سجدہ ریز ہوتے ہوئے داخل ہوں ہم نے اِن سے کہا کہ سبت کا قانون نہ توڑو اوراس پر اِن سے پختہ عہد لیا"
+    },
+    {
+      "number": 155,
+      "arabic": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ ۚ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا",
+      "english": "And so, [We punished them] for the break­ing of their pledge, and their refusal to acknowledge God's messages, and their slaying of prophets against all right, and their boast, \"Our hearts are already full of knowledge\"- nay, but God has sealed their hearts in result of their denial of the truth, and [now] they believe in but few things -;",
+      "urdu": "آخر کا ر اِن کی عہد شکنی کی وجہ سے، اور اس وجہ سے کہ انہوں نے اللہ کی آیات کو جھٹلایا، اور متعدد پیغمبروں کو نا حق قتل کیا، اور یہاں تک کہا کہ ہمارے دل غلافوں میں محفوظ ہیں حالانکہ در حقیقت اِن کی باطل پرستی کے سبب سے اللہ نے اِن کے دلوں پر ٹھپہ لگا دیا ہے اور اسی وجہ سے یہ بہت کم ایمان لاتے ہیں"
+    },
+    {
+      "number": 156,
+      "arabic": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًۭا",
+      "english": "and for their refusal to acknowledge the truth, and the awesome calumny which they utter against Mary,",
+      "urdu": "پھر اپنے کفر میں اتنے بڑھے کہ مریم پر سخت بہتان لگایا"
+    },
+    {
+      "number": 157,
+      "arabic": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا",
+      "english": "and their boast, \"Behold, we have slain the Christ Jesus, son of Mary, [who claimed to be] an apostle of God!\" However, they did not slay him, and neither did they crucify him, but it only seemed to them [as if it had been] so; and, verily, those who hold conflict­ing views thereon are indeed confused, having no [real] knowledge thereof, and following mere con­jecture. For, of a certainty, they did not slay him:",
+      "urdu": "اور خود کہا کہ ہم نے مسیح، عیسیٰ ابن مریم، رسول اللہ کو قتل کر دیا ہے حالانکہ فی الواقع انہوں نے نہ اس کو قتل کیا نہ صلیب پر چڑھایا بلکہ معاملہ ان کے لیے مشتبہ کر دیا گیا اور جن لوگوں نے اس کے بارے میں اختلاف کیا ہے وہ بھی دراصل شک میں مبتلا ہیں، ان کے پاس اس معاملہ میں کوئی علم نہیں ہے، محض گمان ہی کی پیروی ہے انہوں نے مسیح کو یقین کے ساتھ قتل نہیں کیا"
+    },
+    {
+      "number": 158,
+      "arabic": "بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا",
+      "english": "nay, God exalted him unto Himself - and God is indeed almighty, wise.",
+      "urdu": "بلکہ اللہ نے اس کو اپنی طرف اٹھا لیا، اللہ زبردست طاقت رکھنے والا اور حکیم ہے"
+    },
+    {
+      "number": 159,
+      "arabic": "وَإِن مِّنْ أَهْلِ ٱلْكِتَٰبِ إِلَّا لَيُؤْمِنَنَّ بِهِۦ قَبْلَ مَوْتِهِۦ ۖ وَيَوْمَ ٱلْقِيَٰمَةِ يَكُونُ عَلَيْهِمْ شَهِيدًۭا",
+      "english": "Yet there is not one of the followers of earlier revelation who does not, at the moment of his death, grasp the truth about Jesus; and on the Day of Resurrection he [himself] shall bear witness to the truth against them.",
+      "urdu": "اور اہل کتاب میں سے کوئی ایسا نہ ہوگا جو اُس کی موت سے پہلے اس پر ایمان نہ لے آئے گا اور قیامت کے روز وہ ان پر گواہی دے گا"
+    },
+    {
+      "number": 160,
+      "arabic": "فَبِظُلْمٍۢ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًۭا",
+      "english": "So, then, for the wickedness committed by those who followed the Jewish faith did We deny unto them certain of the good things of life which [aforetime] had been allowed to them; and [We did this] for their having so often turned away from the path of God,",
+      "urdu": "غرض اِن یہودی بن جانے والوں کے اِسی ظالمانہ رویہ کی بنا پر، اور اس بنا پر کہ یہ بکثرت اللہ کے راستے سے روکتے ہیں"
+    },
+    {
+      "number": 161,
+      "arabic": "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ ۚ وَأَعْتَدْنَا لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًۭا",
+      "english": "and [for] their taking usury although it had been forbidden to them, and their wrongful devouring of other people's possessions. And for those from among them who [continue to] deny the truth We have readied grievous suffering.",
+      "urdu": "اور سود لیتے ہیں جس سے انہیں منع کیا گیا تھا، اور لوگوں کے مال ناجائز طریقوں سے کھاتے ہیں، ہم نے بہت سی وہ پاک چیزیں ان پر حرام کر دیں جو پہلے ان کے لیے حلال تھیں، اور جو لوگ اِن میں سے کافر ہیں ان کے لیے ہم نے درد ناک عذاب تیار کر رکھا ہے"
+    },
+    {
+      "number": 162,
+      "arabic": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+      "english": "But as for those from among them who are deeply rooted in knowledge, and the believers who believe in that which has been bestowed upon thee from on high as well as that which was bestowed from on high before thee, and those who are [es­pecially] constant in prayer, and spend in charity, and all who believe in God and the Last Day - these it is unto whom We shall grant a mighty reward.",
+      "urdu": "مگر ان میں جو لوگ پختہ علم رکھنے والے ہیں اور ایماندار ہیں وہ سب اُس تعلیم پر ایمان لاتے ہیں جو تمہاری طرف نازل کی گئی ہے اور جو تم سے پہلے نازل کی گئی تھی اِس طرح کے ایمان لانے والے اور نماز و زکوٰۃ کی پابندی کرنے والے اور اللہ اور روز آخر پر سچا عقیدہ رکھنے والے لوگوں کو ہم ضرور اجر عظیم عطا کریں گے"
+    },
+    {
+      "number": 163,
+      "arabic": "۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍۢ وَٱلنَّبِيِّۦنَ مِنۢ بَعْدِهِۦ ۚ وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيْمَٰنَ ۚ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا",
+      "english": "BEHOLD, We have inspired thee [O Prophet] just as We inspired Noah and all the prophets after him - as We inspired Abraham, and Ishmael, and Isaac, and Jacob, and their descendants, including Jesus and Job, and Jonah, and Aaron, and Solomon; and as We vouchsafed unto David a book of divine wisdom;",
+      "urdu": "اے محمدؐ! ہم نے تمہاری طرف اُسی طرح وحی بھیجی ہے جس طرح نوحؑ اور اس کے بعد کے پیغمبروں کی طرف بھیجی تھی ہم نے ابراہیمؑ، اسماعیلؑ، اسحاقؑ، یعقوبؑ اور اولاد یعقوبؑ، عیسیٰؑ، ایوبؑ، یونسؑ، ہارونؑ اور سلیمانؑ کی طرف وحی بھیجی ہم نے داؤدؑ کو زبور دی"
+    },
+    {
+      "number": 164,
+      "arabic": "وَرُسُلًۭا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًۭا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًۭا",
+      "english": "and as [We inspired other] apostles whom We have mentioned to thee ere this, as well as apostles whom We have not mentioned to thee; and as God spoke His word unto Moses:",
+      "urdu": "ہم نے اُن رسولوں پر بھی وحی نازل کی جن کا ذکر ہم اِس سے پہلے تم سے کر چکے ہیں اور اُن رسولوں پر بھی جن کا ذکر تم سے نہیں کیا ہم نے موسیٰؑ سے اِس طرح گفتگو کی جس طرح گفتگو کی جاتی ہے"
+    },
+    {
+      "number": 165,
+      "arabic": "رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا",
+      "english": "[We sent all these] apostles as heralds of glad tidings and as warners, so that men might have no excuse before God after [the coming of] these apostles: and God is indeed al­mighty, wise.",
+      "urdu": "یہ سارے رسول خوش خبری دینے والے اور ڈرانے والے بنا کر بھیجے گئے تھے تاکہ اُن کو مبعوث کردینے کے بعد لوگوں کے پاس اللہ کے مقابلہ میں کوئی حجت نہ رہے اور اللہ بہرحال غالب رہنے والا اور حکیم و دانا ہے"
+    },
+    {
+      "number": 166,
+      "arabic": "لَّٰكِنِ ٱللَّهُ يَشْهَدُ بِمَآ أَنزَلَ إِلَيْكَ ۖ أَنزَلَهُۥ بِعِلْمِهِۦ ۖ وَٱلْمَلَٰٓئِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+      "english": "However it be, God [Himself] bears witness to the truth of what He has bestowed from on high upon thee: out of His own wisdom has He bestowed it from on high, with the angels bearing witness thereto - although none can bear witness as God does.",
+      "urdu": "(لوگ نہیں مانتے تو نہ مانیں) مگر اللہ گواہی دیتا ہے کہ جو کچھ اُس نے تم پر نازل کیا ہے اپنے علم سے نازل کیا ہے، اور اِس پر ملائکہ بھی گواہ ہیں اگرچہ اللہ کا گواہ ہونا بالکل کفایت کرتا ہے"
+    },
+    {
+      "number": 167,
+      "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا",
+      "english": "Behold, those who are bent on denying the truth and on turning others away from the path of God have indeed gone far astray.",
+      "urdu": "جو لوگ اِس کو ماننے سے خود انکار کرتے ہیں اور دوسروں کو خدا کے راستہ سے روکتے ہیں وہ یقیناً گمرا ہی میں حق سے بہت دور نکل گئے ہیں"
+    },
+    {
+      "number": 168,
+      "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَظَلَمُوا۟ لَمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا",
+      "english": "Behold, those who are bent on denying the truth and on evildoing - God will indeed not forgive them, nor will He guide them onto any road",
+      "urdu": "ا ِس طرح جن لوگوں نے کفر و بغاوت کا طریقہ اختیار کیا اور ظلم وستم پر اتر آئے اللہ ان کو ہرگز معاف نہ کرے گا اور انہیں کوئی راستہ،"
+    },
+    {
+      "number": 169,
+      "arabic": "إِلَّا طَرِيقَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا",
+      "english": "but the road that leads to hell, therein to abide beyond the count of time: and this is indeed easy for God.",
+      "urdu": "بجز جہنم کے راستہ کے نہ دکھائے گا جس میں وہ ہمیشہ رہیں گے اللہ کے لیے یہ کوئی مشکل کام نہیں ہے"
+    },
+    {
+      "number": 170,
+      "arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًۭا لَّكُمْ ۚ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+      "english": "O mankind! The Apostle has now come unto you with the truth from your Sustainer: believe, then, for your own good! And if you deny the truth - behold, unto God belongs all that is in the heavens and all that is on earth, and God is indeed all-knowing, wise!",
+      "urdu": "لوگو! یہ رسول تمہارے پاس تمہارے رب کی طرف سے حق لے کر آگیا ہے، ایمان لے آؤ، تمہارے ہی لیے بہتر ہے، اور اگر انکار کرتے ہو تو جان لو کہ آسمانوں اور زمین میں جو کچھ ہے سب اللہ کا ہے اور اللہ علیم بھی ہے اور حکیم بھی"
+    },
+    {
+      "number": 171,
+      "arabic": "يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌۭ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًۭا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَٰهٌۭ وَٰحِدٌۭ ۖ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌۭ ۘ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا",
+      "english": "O FOLLOWERS of the Gospel! Do not overstep the bounds [of truth] in your religious beliefs, and do not say of God anything but the truth. The Christ Jesus, son of Mary, was but God's Apostle - [the fulfilment of] His promise which He had conveyed unto Mary - and a soul created by Him. Believe, then, in God and His apostles, and do not say, \"[God is] a trinity\". Desist [from this assertion] for your own good. God is but One God; utterly remote is He, in His glory, from having a son: unto Him belongs all that is in the heavens and all that is on earth; and none is as worthy of trust as God.",
+      "urdu": "اے اہل کتاب! اپنے دین میں غلو نہ کرو اور اللہ کی طرف حق کے سوا کوئی بات منسوب نہ کرو مسیح عیسیٰ ابن مریم اس کے سوا کچھ نہ تھا کہ اللہ کا ایک رسول تھا اور ایک فرمان تھا جو اللہ نے مریم کی طرف بھیجا اور ایک روح تھی اللہ کی طرف سے (جس نے مریم کے رحم میں بچہ کی شکل اختیار کی) پس تم اللہ اور اُ س کے رسولوں پر ایمان لاؤ اور نہ کہو کہ \"تین\" ہیں باز آ جاؤ، یہ تمہارے ہی لیے بہتر ہے اللہ تو بس ایک ہی خدا ہے وہ بالا تر ہے اس سے کہ کوئی اس کا بیٹا ہو زمین اور آسمانوں کی ساری چیزیں اس کی مِلک ہیں، اور ان کی کفالت و خبر گیری کے لیے بس وہی کافی ہے"
+    },
+    {
+      "number": 172,
+      "arabic": "لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًۭا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ ۚ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًۭا",
+      "english": "Never did the Christ feel too proud to be God's servant, nor do the angels who are near unto Him. And those who feel too proud to serve Him and glory in their arrogance [should know that on Judgment Day] He will gather them all unto Himself:",
+      "urdu": "مسیح نے کبھی اس بات کو عار نہیں سمجھا کہ وہ اللہ کا بندہ ہو، اور نہ مقرب ترین فرشتے اِس کو اپنے لیے عار سمجھتے ہیں اگر کوئی اللہ کی بندگی کو اپنے لیے عار سمجھتا ہے اور تکبر کرتا ہے تو ایک وقت آئے گا جب اللہ سب کو گھیر کر اپنے سامنے حاضر کرے گا"
+    },
+    {
+      "number": 173,
+      "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۖ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًۭا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا",
+      "english": "whereupon unto those who attained to faith and did good deeds He will grant their just rewards, and give them yet more out of His bounty; whereas those who felt too proud and gloried in their arrogance He will chastise with grievous suffering: and they shall find none to protect them from God, and none to bring them succour.",
+      "urdu": "اُس وقت وہ لوگ جنہوں نے ایمان لا کر نیک طرز عمل اختیار کیا ہے اپنے اجر پورے پورے پائیں گے اور اللہ اپنے فضل سے ان کو مزید اجر عطا فرمائے گا، اور جن لوگوں نے بندگی کو عار سمجھا اور تکبر کیا ہے اُن کو اللہ دردناک سزا دے گا اور اللہ کے سوا جن جن کی سرپرستی و مددگاری پر وہ بھروسہ رکھتے ہیں ان میں سے کسی کو بھی وہ وہاں نہ پائیں گے"
+    },
+    {
+      "number": 174,
+      "arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَٰنٌۭ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًۭا مُّبِينًۭا",
+      "english": "O MANKIND! A manifestation of the truth has now come unto you from your Sustainer, and We have sent down unto you a clear light.",
+      "urdu": "لوگو! تمہارے رب کی طرف سے تمہارے پاس دلیل روشن آ گئی ہے اور ہم نے تمہاری طرف ایسی روشنی بھیج دی ہے جو تمہیں صاف صاف راستہ دکھانے والی ہے"
+    },
+    {
+      "number": 175,
+      "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍۢ مِّنْهُ وَفَضْلٍۢ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًۭا مُّسْتَقِيمًۭا",
+      "english": "And as for those who have attained to faith in God and hold fast unto Him - He will enfold them within His grace and bounty, and guide them unto Himself by a straight way.",
+      "urdu": "اب جو لوگ اللہ کی بات مان لیں گے اور اس کی پناہ ڈھونڈیں گے ان کو اللہ اپنی رحمت اور اپنے فضل و کرم کے دامن میں لے لے گا اور اپنی طرف آنے کا سیدھا راستہ ان کو دکھا دے گا"
+    },
+    {
+      "number": 176,
+      "arabic": "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌۭ وَلَهُۥٓ أُخْتٌۭ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌۭ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةًۭ رِّجَالًۭا وَنِسَآءًۭ فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+      "english": "THEY WILL ASK thee to enlighten them. Say: \"God enlightens you [thus] about the laws concerning [inheritance from] those who leave no heir in the direct line: If a man dies childless and has a sister, she shall inherit one-half of what he has left, just as he shall inherit from her if she dies childless. But if there are two sisters, both [together] shall have two-thirds of what he has left; and if there are brothers and sisters, then the male shall have the equal of two females' share.\" God makes [all this] clear unto you, lest you go astray; and God knows everything.",
+      "urdu": "لوگ تم سے کلالہ کے معاملہ میں فتویٰ پوچھتے ہیں کہو اللہ تمہیں فتویٰ دیتا ہے اگر کوئی شخص بے اولاد مر جائے اور اس کی ایک بہن ہو تو وہ اس کے ترکہ میں سے نصف پائے گی، اور اگر بہن بے اولاد مرے تو بھائی اس کا وارث ہوگا اگر میت کی وارث دو بہنیں ہوں تو وہ ترکے میں سے دو تہائی کی حقدار ہوں گی، اور اگر کئی بھائی بہنیں ہوں تو عورتوں کا اکہرا اور مردوں کا دوہرا حصہ ہوگا اللہ تمہارے لیے احکام کی توضیح کرتا ہے تاکہ تم بھٹکتے نہ پھرو اور اللہ ہر چیز کا علم رکھتا ہے"
+    }
+  ]
+}

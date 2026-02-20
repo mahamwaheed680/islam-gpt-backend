@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "surah_number": 94,
+  "arabic_name": "سُورَةُ الشَّرۡحِ",
+  "english_name": "Ash-Sharh",
+  "verses_count": 8,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "english": "HAVE WE NOT opened up thy heart,",
+      "urdu": "(اے نبیؐ) کیا ہم نے تمہارا سینہ تمہارے لیے کھول نہیں دیا؟"
+    },
+    {
+      "number": 2,
+      "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "english": "and lifted from thee the burden",
+      "urdu": "اور تم پر سے وہ بھاری بوجھ اتار دیا"
+    },
+    {
+      "number": 3,
+      "arabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "english": "that had weighed so heavily on thy back?",
+      "urdu": "جو تمہاری کمر توڑے ڈال رہا تھا"
+    },
+    {
+      "number": 4,
+      "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "english": "And [have We not] raised thee high in dignity?",
+      "urdu": "اور تمہاری خاطر تمہارے ذکر کا آوازہ بلند کر دیا"
+    },
+    {
+      "number": 5,
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "english": "And, behold, with every hardship comes ease:",
+      "urdu": "پس حقیقت یہ ہے کہ تنگی کے ساتھ فراخی بھی ہے"
+    },
+    {
+      "number": 6,
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "english": "verily, with every hardship comes ease!",
+      "urdu": "بے شک تنگی کے ساتھ فراخی بھی ہے"
+    },
+    {
+      "number": 7,
+      "arabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "english": "Hence, when thou art freed [from distress], remain steadfast,",
+      "urdu": "لہٰذا جب تم فارغ ہو تو عبادت کی مشقت میں لگ جاؤ"
+    },
+    {
+      "number": 8,
+      "arabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "english": "and unto thy Sustainer turn with love.",
+      "urdu": "اور اپنے رب ہی کی طرف راغب ہو"
+    }
+  ]
+}

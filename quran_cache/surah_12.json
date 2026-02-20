@@ -1,0 +1,676 @@
+{
+  "success": true,
+  "surah_number": 12,
+  "arabic_name": "سُورَةُ يُوسُفَ",
+  "english_name": "Yusuf",
+  "verses_count": 111,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ",
+      "english": "Alif. Lam. Ra. THESE ARE MESSAGES of a revelation clear in itself and clearly showing the truth:",
+      "urdu": "ا، ل، ر یہ اُس کتاب کی آیات ہیں جو اپنا مدعا صاف صاف بیان کرتی ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّۭا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "english": "behold, We have bestowed it from on high as a discourse in the Arabic tongue, so that you might encompass it with your reason.",
+      "urdu": "ہم نے اسے نازل کیا ہے قرآن بنا کر عربی زبان میں تاکہ تم (اہل عرب) اس کو اچھی طرح سمجھ سکو"
+    },
+    {
+      "number": 3,
+      "arabic": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ",
+      "english": "In the measure that We reveal this Qur'an unto thee, [O Prophet,] We explain it to thee in the best possible way, seeing that ere this thou wert indeed among those who are unaware [of what revelation is].",
+      "urdu": "اے محمدؐ، ہم اس قرآن کو تمہاری طرف وحی کر کے بہترین پیرایہ میں واقعات اور حقائق تم سے بیان کرتے ہیں، ورنہ اس سے پہلے تو (ان چیزو ں سے) تم بالکل ہی بے خبر تھے"
+    },
+    {
+      "number": 4,
+      "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+      "english": "LO! Thus spoke Joseph unto his father: \"O my father! Behold, I saw [in a dream] eleven stars, as well as the sun and the moon: I saw them prostrate themselves before me!\"",
+      "urdu": "یہ اُس وقت کا ذکر ہے جب یوسفؑ نے اپنے باپ سے کہا \"ابا جان، میں نے خواب دیکھا ہے کہ گیارہ ستارے ہیں اور سورج اور چاند ہیں اور وہ مجھے سجدہ کر رہے ہیں\""
+    },
+    {
+      "number": 5,
+      "arabic": "قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّۭ مُّبِينٌۭ",
+      "english": "[Jacob] replied: \"O my dear son! Do not relate thy dream to thy brothers lest [out of envy] they devise an evil scheme against thee; verily, Satan is man's open foe!",
+      "urdu": "جواب میں اس کے باپ نے کہا، \"بیٹا، اپنا یہ خواب اپنے بھائیوں کو نہ سنانا ورنہ وہ تیرے درپے آزار ہو جائیں گے، حقیقت یہ ہے کہ شیطان آدمی کا کھلا دشمن ہے"
+    },
+    {
+      "number": 6,
+      "arabic": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌۭ",
+      "english": "For, [as thou hast been shown in thy dream,] even thus will thy Sustainer elect thee, and will impart unto thee some understanding of the inner meaning of happenings, and will bestow the full measure of His blessings upon thee and upon the House of Jacob -even as, aforetime, He bestowed it in full measure upon thy forefathers Abraham and Isaac. Verily, thy Sustainer is all-knowing, wise!\"",
+      "urdu": "اور ایسا ہی ہوگا (جیسا تو نے خواب میں دیکھا ہے کہ) تیرا رب تجھے (اپنے کام کے لیے) منتخب کرے گا اور تجھے باتوں کی تہ تک پہنچنا سکھائے گا اور تیرے اوپر اور آل یعقوبؑ پر اپنی نعمت اسی طرح پوری کرے گا جس طرح اس سے پہلے وہ تیرے بزرگوں، ابراہیمؑ اور اسحاقؑ پر کر چکا ہے، یقیناً تیرا رب علیم اور حکیم ہے\""
+    },
+    {
+      "number": 7,
+      "arabic": "۞ لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌۭ لِّلسَّآئِلِينَ",
+      "english": "Indeed, in [the story of] Joseph and his brothers there are messages for all who search [after truth].",
+      "urdu": "حقیقت یہ ہے کہ یوسفؑ اور اس کے بھائیوں کے قصہ میں اِن پوچھنے والوں کے لیے بڑی نشانیاں ہیں"
+    },
+    {
+      "number": 8,
+      "arabic": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍۢ مُّبِينٍ",
+      "english": "NOW [Joseph's brothers] spoke [thus to one another:] \"Truly, Joseph and his brother [Benjamin] are dearer to our father than we, even though we are so many. Behold, our father is surely suffering from an aberration!\"",
+      "urdu": "یہ قصہ یوں شروع ہوتا ہے کہ اس کے بھائیوں نے آپس میں کہا \"یہ یوسفؑ اور اس کا بھائی، دونوں ہمارے والد کو ہم سب سے زیادہ محبوب ہیں حالانکہ ہم ایک پورا جتھا ہیں سچی بات یہ ہے کہ ہمارے ابا جان با لکل ہی بہک گئے ہیں"
+    },
+    {
+      "number": 9,
+      "arabic": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًۭا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًۭا صَٰلِحِينَ",
+      "english": "[Said one of them:] \"Slay Joseph, or else drive him away to some [faraway] land, so that your father's regard may be for you alone: and after this is done, you will be [free to repent and to live once again as] righteous people!\"",
+      "urdu": "چلو یوسفؑ کو قتل کر دو یا اسے کہیں پھینک دو تاکہ تمہارے والد کی توجہ صرف تمہاری ہی طرف ہو جائے یہ کام کر لینے کے بعد پھر نیک بن رہنا\""
+    },
+    {
+      "number": 10,
+      "arabic": "قَالَ قَآئِلٌۭ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ",
+      "english": "Another of them said: \"Do not slay Joseph, but -rather - if you must do something - cast him into the dark depths of this well, [whence] some caravan may pick him up.\"",
+      "urdu": "اس پر ان میں سے ایک بولا \"یوسفؑ کو قتل نہ کرو، اگر کچھ کرنا ہی ہے تو اسے کسی اندھے کنویں میں ڈال دو کوئی آتا جاتا قافلہ اسے نکال لے جائے گا\""
+    },
+    {
+      "number": 11,
+      "arabic": "قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ",
+      "english": "[On this they agreed; and thereupon] they spoke [thus to their father]: \"O our father! Wherefore wilt thou not trust us with Joseph, seeing that we are indeed his well-wishers?",
+      "urdu": "اس قرارداد پر انہوں نے جا کر اپنے باپ سے کہا \"ابا جان، کیا بات ہے کہ آپ یوسفؑ کے معاملہ میں ہم پر بھروسہ نہیں کرتے حالانکہ ہم اس کے سچے خیر خواہ ہیں؟"
+    },
+    {
+      "number": 12,
+      "arabic": "أَرْسِلْهُ مَعَنَا غَدًۭا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "english": "Let him go out with us tomorrow, that he may enjoy himself and play: and, verily, we shall guard him well!\"",
+      "urdu": "کل اسے ہمارے ساتھ بھیج د یجیے، کچھ چر چگ لے گا اور کھیل کود سے بھی دل بہلائے گا ہم اس کی حفاظت کو موجود ہیں\""
+    },
+    {
+      "number": 13,
+      "arabic": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "english": "[Jacob] answered: \"Behold, it grieves me indeed [to think] that you might take him with you, for I dread lest the wolf devour him at a moment when you are heedless of him!\"",
+      "urdu": "باپ نے کہا \"تمہارا اسے لے جانا مجھے شاق گزرتا ہے اور مجھ کو اندیشہ ہے کہ کہیں اسے بھیڑیا نہ پھاڑ کھا ئے جبکہ تم اس سے غافل ہو\""
+    },
+    {
+      "number": 14,
+      "arabic": "قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًۭا لَّخَٰسِرُونَ",
+      "english": "Said they: \"Surely, if the wolf were to devour him notwithstanding that we are so many-then, behold, we ought ourselves to perish!\"",
+      "urdu": "انہوں نے جواب دیا \"اگر ہمارے ہوتے اسے بھڑ یے نے کھا لیا، جبکہ ہم ایک جتھا ہیں، تب تو ہم بڑے ہی نکمے ہوں گے\""
+    },
+    {
+      "number": 15,
+      "arabic": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "english": "And so, when they went away with him, they decided to cast him into the dark depths of the well. And We revealed [this] unto him: \"Thou wilt yet remind them of this their deed at a time when they shall not perceive [who thou art]!\"",
+      "urdu": "اِس طرح اصرار کر کے جب وہ اُسے لے گئے اور انہوں نے طے کر لیا کہ اسے ایک اندھے کنویں میں چھوڑ دیں، تو ہم نے یوسفؑ کو وحی کی کہ \"ایک وقت آئے گا جب تو ان لوگوں کو ان کی یہ حرکت جتائے گا، یہ اپنے فعل کے نتائج سے بے خبر ہیں\""
+    },
+    {
+      "number": 16,
+      "arabic": "وَجَآءُوٓ أَبَاهُمْ عِشَآءًۭ يَبْكُونَ",
+      "english": "And at nightfall they came to their father, weeping,",
+      "urdu": "شام کو وہ روتے پیٹتے اپنے باپ کے پاس آئے"
+    },
+    {
+      "number": 17,
+      "arabic": "قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍۢ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ",
+      "english": "[and] said: \"O our father! Behold, we went off racing with one another, and left Joseph behind with our things; and thereupon the wolf devoured him! But [we know that] thou wouldst not believe us even though we speak the truth\" -",
+      "urdu": "اور کہا \"ابا جان، ہم دوڑ کا مقابلہ کرنے میں لگ گئے تھے اور یوسفؑ کو ہم نے اپنے سامان کے پاس چھوڑ دیا تھا کہ اتنے میں بھیڑیا آ کر اُسے کھا گیا آپ ہماری بات کا یقین نہ کریں گے چاہے ہم سچے ہی ہوں\""
+    },
+    {
+      "number": 18,
+      "arabic": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍۢ كَذِبٍۢ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌۭ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "english": "and they produced his tunic with false blood upon it. [But Jacob] exclaimed: \"Nay, but it is your [own] minds that have made [so terrible] a happening seem a matter of little account to you! But [as for myself,] patience in adversity is most goodly [in the sight of God]; and it is to God [alone] that I pray to give me strength to bear the misfortune which you have described to me.\"",
+      "urdu": "اور وہ یوسفؑ کے قمیص پر جھوٹ موٹ کا خون لگا کر آئے تھے یہ سن کر ان کے باپ نے کہا \"بلکہ تمہارے نفس نے تمہارے لیے ایک بڑے کام کو آسان بنا دیا اچھا، صبر کروں گا اور بخوبی کروں گا، جو بات تم بنا رہے ہو اس پر اللہ ہی سے مدد مانگی جا سکتی ہے\""
+    },
+    {
+      "number": 19,
+      "arabic": "وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌۭ ۚ وَأَسَرُّوهُ بِضَٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
+      "english": "AND THERE CAME a caravan; and they sent forth their drawer of water, and he let down his bucket into the well - [and when he saw Joseph] he exclaimed: \"Oh, what a lucky find, this boy!\" And they hid him with a view to selling him: but God had full knowledge of all that they were doing.",
+      "urdu": "ادھر ایک قافلہ آیا اور اُس نے اپنے سقے کو پانی لانے کے لیے بھیجا سقے نے جو کنویں میں ڈول ڈالا تو (یوسفؑ کو دیکھ کر) پکار اٹھا \"مبارک ہو، یہاں تو ایک لڑکا ہے\" ان لوگوں نے اس کو مال تجارت سمجھ کر چھپا لیا، حالانکہ جو کچھ وہ کر رہے تھے خدا اس سے باخبر تھا"
+    },
+    {
+      "number": 20,
+      "arabic": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍۢ دَرَٰهِمَ مَعْدُودَةٍۢ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+      "english": "And they sold him for a paltry price - a mere few silver coins: thus low did they value him.",
+      "urdu": "آخر کار انہوں نے اس کو تھوڑی سی قیمت پر چند درہموں کے عوض بیچ ڈالا اور وہ اس کی قیمت کے معاملہ میں کچھ زیادہ کے امیدوار نہ تھے"
+    },
+    {
+      "number": 21,
+      "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "english": "And the man from Egypt who bought him said to his wife: \"Make his stay [with us] honourable; he may well be of use to us, or we may adopt him as a son. And thus We gave unto Joseph a firm place on earth; and [We did this] so that We might impart unto him some understanding of the inner meaning of happenings. For, God always prevails in whatever be His purpose: but most people know it not.",
+      "urdu": "مصر کے جس شخص نے اسے خریدا اس نے اپنی بیوی سے کہا \"اِس کو اچھی طرح رکھنا، بعید نہیں کہ یہ ہمارے لیے مفید ثابت ہو یا ہم اسے بیٹا بنا لیں\" اس طرح ہم نے یوسفؑ کے لیے اُس سرزمین میں قدم جمانے کی صورت نکالی اور اسے معاملہ فہمی کی تعلیم دینے کا انتظام کیا اللہ اپنا کام کر کے رہتا ہے، مگر اکثر لوگ جانتے نہیں ہیں"
+    },
+    {
+      "number": 22,
+      "arabic": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "english": "And when he reached full manhood, We bestowed upon him the ability to judge [between right and wrong], as well as [innate] knowledge: for thus do We reward the doers of good.",
+      "urdu": "اور جب وہ اپنی پوری جوانی کو پہنچا تو ہم نے اسے قوت فیصلہ اور علم عطا کیا، اِس طرح ہم نیک لوگوں کو جزا دیتے ہیں"
+    },
+    {
+      "number": 23,
+      "arabic": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ",
+      "english": "And [it so happened that] she in whose house he was living [conceived a passion for him and] sought to make him yield himself unto her; and she bolted the doors and said, \"Come thou unto me!\" [But Joseph] answered: \"May God preserve me! Behold, goodly has my master made my stay [in this house]! Verily, to no good end come they that do [such] wrong!\"",
+      "urdu": "جس عورت کے گھر میں وہ تھا وہ اُس پر ڈورے ڈالنے لگی اور ایک روز دروازے بند کر کے بولی \"آ جا\" یوسفؑ نے کہا \"خدا کی پناہ، میرے رب نے تو مجھے اچھی منزلت بخشی (اور میں یہ کام کروں!) ایسے ظالم کبھی فلاح نہیں پایا کرتے\""
+    },
+    {
+      "number": 24,
+      "arabic": "وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ",
+      "english": "And, indeed, she desired him, and he desired her; [and he would have succumbed] had he not seen [in this temptation] an evidence of his Sustainer's truth: thus [We willed it to be] in order that We might avert from him all evil and all deeds of abomination -for, behold, he was truly one of Our servants.",
+      "urdu": "وہ اُس کی طرف بڑھی اور یوسفؑ بھی اس کی طرف بڑھتا اگر اپنے رب کی برہان نہ دیکھ لیتا ایسا ہوا، تاکہ ہم اس سے بدی اور بے حیائی کو دور کر دیں، در حقیقت وہ ہمارے چنے ہوئے بندوں میں سے تھا"
+    },
+    {
+      "number": 25,
+      "arabic": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍۢ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ ۚ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌۭ",
+      "english": "And they both rushed to the door; and she [grasped and] rent his tunic from behind-and [lo!] they met her lord at the door! Said she: \"What ought to be the punishment of one who had evil designs on [the virtue of] thy wife - [what] but imprisonment or a [yet more] grievous chastisement?\"",
+      "urdu": "آخر کار یوسفؑ اور وہ آگے پیچھے دروازے کی طرف بھاگے اور اس نے پیچھے سے یوسفؑ کا قمیص (کھینچ کر) پھاڑ دیا دروازے پر دونوں نے اس کے شوہر کو موجود پایا اسے دیکھتے ہی عورت کہنے لگی، \"کیا سزا ہے اس شخص کی جو تیری گھر والی پر نیت خراب کرے؟ اِس کے سوا اور کیا سزا ہوسکتی ہے کہ وہ قید کیا جائے یا اسے سخت عذاب دیا جائے\""
+    },
+    {
+      "number": 26,
+      "arabic": "قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌۭ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍۢ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ",
+      "english": "[Joseph] exclaimed: \"It was she who sought to make me yield myself unto her!\" Now one of those present, a member of her own household, suggested this: If his tunic has been torn from the front, then she is telling the truth, and he is a liar;",
+      "urdu": "یوسفؑ نے کہا \"یہی مجھے پھانسنے کی کوشش کر رہی تھی\" اس عورت کے اپنے کنبہ والوں میں سے ایک شخص نے (قرینے کی) شہادت پیش کی کہ \"اگر یوسفؑ کا قمیص آگے سے پھٹا ہو تو عورت سچی ہے اور یہ جھوٹا"
+    },
+    {
+      "number": 27,
+      "arabic": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍۢ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ",
+      "english": "but if his tunic has been torn from behind, then she is lying, and he is speaking the truth.\"",
+      "urdu": "اور اگر اس کا قمیص پیچھے سے پھٹا ہو تو عورت جھوٹی ہے اور یہ سچا\""
+    },
+    {
+      "number": 28,
+      "arabic": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍۢ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌۭ",
+      "english": "And when (her husband] saw that his tunic was torn from behind, he said: \"Behold, this is [an instance] of your guile, O womankind! Verily, awesome is your guile!",
+      "urdu": "جب شوہر نے دیکھا کہ یوسفؑ کا قمیص پیچھے سے پھٹا ہے تو اس نے کہا \"یہ تم عورتوں کی چالاکیاں ہیں، واقعی بڑ ے غضب کی ہوتی ہیں تمہاری چالیں"
+    },
+    {
+      "number": 29,
+      "arabic": "يُوسُفُ أَعْرِضْ عَنْ هَٰذَا ۚ وَٱسْتَغْفِرِى لِذَنۢبِكِ ۖ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ",
+      "english": "[But,] Joseph, let this pass! And thou, [O wife,] ask forgiveness for thy sin-for, verily, thou hast been greatly at fault!\"",
+      "urdu": "یوسفؑ، اس معاملے سے درگزر کر اور اے عورت، تو اپنے قصور کی معافی مانگ، تو ہی اصل میں خطا کار تھی\""
+    },
+    {
+      "number": 30,
+      "arabic": "۞ وَقَالَ نِسْوَةٌۭ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+      "english": "NOW the women of the city spoke [thus to one another]: \"The wife of this nobleman is trying to induce her slave-boy to yield himself unto her! Her love for him has pierced her heart; verily, we see that she is undoubtedly suffering from an aberration!",
+      "urdu": "شہر کی عورتیں آپس میں چرچا کرنے لگیں کہ \"عزیز کی بیوی اپنے نوجوان غلام کے پیچھے پڑی ہوئی ہے، محبت نے اس کو بے قابو کر رکھا ہے، ہمارے نزدیک تو وہ صریح غلطی کر رہی ہے\""
+    },
+    {
+      "number": 31,
+      "arabic": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًۭٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍۢ مِّنْهُنَّ سِكِّينًۭا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌۭ كَرِيمٌۭ",
+      "english": "Thereupon, when she heard of their malicious talk, she sent for them, and prepared for them a sumptuous repast, and handed each of them a knife and said [to Joseph]: \"Come out and show thyself to them!\" And when the women saw him, they were greatly amazed at his beauty, and [so flustered were they that] they cut their hands [with their knives], exclaiming, \"God save us! This is no mortal man! This is nought but a noble angel!\"",
+      "urdu": "اس نے جو اُن کی یہ مکارانہ باتیں سنیں تو اُن کو بلاوا بھیج دیا اور ان کے لیے تکیہ دار مجلس آراستہ کی اور ضیافت میں ہر ایک کے آگے ایک چھری رکھ دی (پھر عین اس وقت جبکہ وہ پھل کاٹ کاٹ کر کھا رہی تھیں) اس نے یوسفؑ کو اشارہ کیا کہ ان کے سامنے نکل آ جب ان عورتوں کی نگاہ اس پر پڑی تو وہ دنگ رہ گئیں اور اپنے ہاتھ کاٹ بیٹھیں اور بے ساختہ پکا ر اٹھیں \"حاشاللّٰہ، یہ شخص انسان نہیں ہے، یہ تو کوئی بزرگ فرشتہ ہے\""
+    },
+    {
+      "number": 32,
+      "arabic": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ ۖ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ ۖ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًۭا مِّنَ ٱلصَّٰغِرِينَ",
+      "english": "Said she: \"This, then, is he about whom you have been blaming me! And, indeed, I did try to make him yield himself unto me, but he remained chaste. Now, however, if he does not do what I bid him, he shall most certainly be imprisoned, and shall most certainly find himself among the despised!",
+      "urdu": "عزیز کی بیوی نے کہا \"دیکھ لیا! یہ ہے یہ وہ شخص جس کے معاملہ میں تم مجھ پر باتیں بناتی تھیں بے شک میں نے اِسے رجھانے کی کوشش کی تھی مگر یہ بچ نکلا اگر یہ میرا کہنا نہ مانے گا تو قید کیا جائے گا اور بہت ذلیل و خوار ہوگا"
+    },
+    {
+      "number": 33,
+      "arabic": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ",
+      "english": "Said he: \"O my Sustainer! Prison is more desirable to me than [compliance with] what these women invite me to: for, unless Thou turn away their guile from me, I might yet yield to their allure and become one of those who are unaware [of right and wrong].\"",
+      "urdu": "یوسفؑ نے کہا \"اے میرے رب، قید مجھے منظور ہے بہ نسبت اس کے کہ میں وہ کام کروں جو یہ لوگ مجھ سے چاہتے ہیں اور اگر تو نے ان کی چالوں کو مجھ سے دفع نہ کیا تو میں ان کے دام میں پھنس جاؤں گا اور جاہلوں میں شامل ہو رہوں گا"
+    },
+    {
+      "number": 34,
+      "arabic": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "english": "And his Sustainer responded to his prayer, and freed him from the threat of their guile: verily, He alone is all-hearing, all-knowing.",
+      "urdu": "اس کے رب نے اس کی دعا قبول کی اور اُن عورتوں کی چالیں اس سے دفع کر دیں، بے شک وہی ہے جو سب کی سنتا اور سب کچھ جانتا ہے"
+    },
+    {
+      "number": 35,
+      "arabic": "ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍۢ",
+      "english": "For, presently it occurred to the nobleman and his household _ [even] after they had seen all the signs [of Joseph's innocence] - that they might as well imprison him for a time.",
+      "urdu": "پھر ان لوگوں کو یہ سوجھی کہ ایک مدت کے لیے اسے قید کر دیں حالانکہ وہ (اس کی پاکدامنی اور خود اپنی عورتوں کے برے اطوار کی) صریح نشانیاں دیکھ چکے تھے"
+    },
+    {
+      "number": 36,
+      "arabic": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "english": "NOW two young men happened to go to prison at the same time as Joseph. One of them said: \"Behold, I saw myself [in a dream] pressing wine.\" And the other said: \"Behold, I saw myself [in a dream] carrying bread on my head, and birds were eating thereof.\" [And both entreated Joseph:] \"Let us know the real meaning of this! Verily, we see that thou art one of those who know well [how to interpret dreams].",
+      "urdu": "قید خانہ میں دو غلام اور بھی اس کے ساتھ داخل ہوئے ایک روز اُن میں سے ایک نے اُس سے کہا \"میں نے خواب میں دیکھا ہے کہ میں شراب کشید کر رہا ہوں\" دوسرے نے کہا \"میں نے دیکھا کہ میرے سر پر روٹیاں رکھی ہیں اور پرندے ان کو کھا رہے ہیں\" دونوں نے کہا \"ہمیں اس کی تعبیر بتائیے، ہم دیکھتے ہیں کہ آپ ایک نیک آدمی ہیں\""
+    },
+    {
+      "number": 37,
+      "arabic": "قَالَ لَا يَأْتِيكُمَا طَعَامٌۭ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ ۚ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍۢ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+      "english": "[Joseph] answered: \"Ere there comes unto you the meal which you are [daily] fed, I shall have informed you of the real meaning of your dreams, [so that you might know what is to come] before it comes unto you: for this is [part] of the knowledge which my Sustainer has imparted to me. \"Behold, I have left behind me the ways of people who do not believe in God, and who persistently refuse to acknowledge the truth of the life to come;",
+      "urdu": "یوسفؑ نے کہا: \"یہاں جو کھانا تمہیں ملا کرتا ہے اس کے آنے سے پہلے میں تمہیں اِن خوابوں کی تعبیر بتا دوں گا یہ علم اُن علوم میں سے ہے جو میرے رب نے مجھے عطا کیے ہیں واقعہ یہ ہے کہ میں نے اُن لوگوں کا طریقہ چھوڑ کر جو اللہ پر ایمان نہیں لاتے اور آخرت کا انکار کرتے ہیں"
+    },
+    {
+      "number": 38,
+      "arabic": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "english": "and I follow the creed of my forefathers Abraham, Isaac and Jacob. It is not conceivable that we should [be allowed to] ascribe divinity to aught beside God: this is [an outcome] of God's bounty unto us and unto all mankind -but most people are ungrateful.",
+      "urdu": "اپنے بزرگوں، ابراہیمؑ، اسحاقؑ اور یعقوبؑ کا طریقہ اختیار کیا ہے ہمارا یہ کام نہیں ہے کہ اللہ کے ساتھ کسی کو شریک ٹھیرائیں در حقیقت یہ اللہ کا فضل ہے ہم پر اور تمام انسانوں پر (کہ اس نے اپنے سوا کسی کا بندہ ہمیں نہیں بنایا) مگر اکثر لوگ شکر نہیں کرتے"
+    },
+    {
+      "number": 39,
+      "arabic": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "english": "\"O my companions in imprisonment! Which is more reasonable: [belief in the existence of numerous divine] lords, each of them different from the other\" -or [in] the One God, who holds absolute sway over all that exists?",
+      "urdu": "اے زنداں کے ساتھیو، تم خود ہی سوچو کہ بہت سے متفرق رب بہتر ہیں یا وہ ایک اللہ جو سب غالب ہے؟"
+    },
+    {
+      "number": 40,
+      "arabic": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "english": "\"All that you worship instead of God is nothing but [empty] names which you have invented - you and your forefathers- [and] for which God has bestowed no warrant from on high. Judgment [as to what is right and what is wrong] rests with God alone-[and] He has ordained that you should worship nought but Him: this is the [one] ever-true faith; but most people know it not",
+      "urdu": "اُس کو چھوڑ کر تم جن کی بندگی کر رہے ہو وہ اس کے سوا کچھ نہیں ہیں کہ بس چند نام ہیں جو تم نے اور تمہارے آباؤ اجداد نے رکھ لیے ہیں، اللہ نے ان کے لیے کوئی سند نازل نہیں کی فرماں روائی کا اقتدار اللہ کے سوا کسی کے لیے نہیں ہے اس کا حکم ہے کہ خود اس کے سوا تم کسی کی بندگی نہ کرو یہی ٹھیٹھ سیدھا طریق زندگی ہے، مگر اکثر لوگ جانتے نہیں ہیں"
+    },
+    {
+      "number": 41,
+      "arabic": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+      "english": "\"[And now,] O my companions in imprisonment, [I shall tell you the meaning of your dreams:] as for one of you two, he will [again] give his lord [the King] wine to drink; but as for the other, he will be crucified, and birds will eat off his head. [But whatever be your future,] the matter on which you have asked me to enlighten you has been decided [by God].\"",
+      "urdu": "اے زنداں کے ساتھیو، تمہارے خواب کی تعبیر یہ ہے کہ تم میں سے ایک تو اپنے رب (شاہ مصر) کو شراب پلائے گا، رہا دوسرا تو اسے سولی پر چڑھایا جائے گا اور پرندے اس کا سر نوچ نوچ کر کھائیں گے فیصلہ ہو گیا اُس بات کا جو تم پوچھ رہے تھے\""
+    },
+    {
+      "number": 42,
+      "arabic": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "english": "And [thereupon Joseph] said unto the one of the two whom he considered saved: \"Mention me unto thy lord [when thou art free]!\" But Satan caused him to forget to mention [Joseph] to his lord, and so he remained in prison a few [more] years.",
+      "urdu": "پھر اُن میں سے جس کے متعلق خیال تھا کہ وہ رہا ہو جائے گا اس سے یوسفؑ نے کہا کہ \"اپنے رب (شاہ مصر) سے میرا ذکر کرنا\" مگر شیطان نے اسے ایسا غفلت میں ڈالا کہ وہ اپنے رب (شاہ مصر) سے اس کا ذکر کرنا بھول گیا اور یوسفؑ کئی سال قید خانے میں پڑا رہا"
+    },
+    {
+      "number": 43,
+      "arabic": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ",
+      "english": "AND [one day] the King said: Behold, I saw [in a dream] seven fat cows being devoured by seven emaciated ones, and seven green ears [of wheat] next to [seven] others that were withered. O you nobles! Enlighten me about [the meaning of] my dream, if you are able to interpret dreams!\"",
+      "urdu": "ایک روز بادشاہ نے کہا \"میں نے خواب میں دیکھا ہے کہ سات موٹی گائیں ہیں جن کو سات دبلی گائیں کھا رہی ہیں، اور اناج کی سات بالیں ہری ہیں اور دوسری سات سوکھی اے اہل دربار، مجھے اس خواب کی تعبیر بتاؤ اگر تم خوابوں کا مطلب سمجھتے ہو\""
+    },
+    {
+      "number": 44,
+      "arabic": "قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ",
+      "english": "They answered: \" [This is one of] the most involved and confusing of dreams, and we have no deep knowledge of the real meaning of dreams.\"",
+      "urdu": "لوگوں نے کہا \"یہ تو پریشان خوابوں کی باتیں ہیں اور ہم اس طرح کے خوابوں کا مطلب نہیں جانتے\""
+    },
+    {
+      "number": 45,
+      "arabic": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+      "english": "At that, the one of the two [erstwhile prisoners] who had been saved, and [who suddenly] remembered [Joseph] after all that time, spoke [thus]: \"It is I who can inform you of the real meaning of this [dream]; so let me go [in search of it].\"",
+      "urdu": "اُن دو قیدیوں میں سے جو شخص بچ گیا تھا اور اُسے ایک مدت دراز کے بعد اب بات یاد آئی، اُس نے کہا \"میں آپ حضرات کو اس کی تاویل بتاتا ہوں، مجھے ذرا (قید خانے میں یوسفؑ کے پاس) بھیج دیجیے\""
+    },
+    {
+      "number": 46,
+      "arabic": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+      "english": "[And he went to see Joseph in the prison and said to him:] \"Joseph, O thou truthful one! Enlighten us about [the meaning of a dream in which] seven fat cows were being devoured by seven emaciated ones, and seven green ears [of wheat appeared] next to [seven] others that were withered - so that I may return [with thy explanation] unto the people [of the court, and] that they may come to know [what manner of man thou art]!\"",
+      "urdu": "اس نے جا کر کہا \"یوسفؑ، اے سراپا راستی، مجھے اس خواب کا مطلب بتا کہ سات موٹی گائیں جن کو سات دبلی گائیں کھا رہی ہیں اور سات بالیں ہری ہیں اور سات سوکھی شاید کہ میں اُن لوگوں کے پاس جاؤں اور شاید کہ وہ جان لیں\""
+    },
+    {
+      "number": 47,
+      "arabic": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًۭا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًۭا مِّمَّا تَأْكُلُونَ",
+      "english": "[Joseph] replied: \"You shall sow for seven years as usual; but let all [the grain] that you harvest remain [untouched] in its ear, excepting only a little, whereof you may eat:",
+      "urdu": "یوسفؑ نے کہا \"سات بر س تک لگاتار تم لوگ کھیتی باڑی کرتے رہو گے اس دوران میں جو فصلیں تم کاٹو اُن میں سے بس تھوڑا ساحصہ، جو تمہاری خوراک کے کام آئے، نکالو اور باقی کو اس کی بالوں ہی میں رہنے دو"
+    },
+    {
+      "number": 48,
+      "arabic": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌۭ شِدَادٌۭ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًۭا مِّمَّا تُحْصِنُونَ",
+      "english": "for, after that [period of seven good years] there will come seven hard [years] which will devour all that you shall have laid up for them, excepting only a little of that which you shall have kept in store.",
+      "urdu": "پھر سات برس بہت سخت آئیں گے اُس زمانے میں وہ سب غلہ کھا لیا جائے گا جو تم اُس وقت کے لیے جمع کرو گے اگر کچھ بچے گا تو بس وہی جو تم نے محفوظ کر رکھا ہو"
+    },
+    {
+      "number": 49,
+      "arabic": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌۭ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ",
+      "english": "And after that there will come a year in which the people will be delivered from all distress, and in which they will press [oil and wine as before].\"",
+      "urdu": "اس کے بعد پھر ایک سال ایسا آئے گا جس میں باران رحمت سے لوگوں کی فریاد رسی کی جائے گی اور وہ رس نچوڑیں گے\""
+    },
+    {
+      "number": 50,
+      "arabic": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌۭ",
+      "english": "And [as soon as Joseph's interpretation. was conveyed to him,] the King said: \"Bring him before me!\" But when the [King's] messenger came unto him, [Joseph] said: \"Go back to thy lord and ask him [first to find out the truth] about those women who cut their hands-for, behold, [until now it is] my Sustainer [alone who] has full knowledge of their guile!\"",
+      "urdu": "بادشاہ نے کہا اسے میرے پاس لاؤ مگر جب شاہی فرستادہ یوسفؑ کے پاس پہنچا تو اس نے کہا \"اپنے رب کے پاس واپس جا اور اس سے پوچھ کہ اُن عورتوں کا کیا معاملہ ہے جنہوں نے اپنے ہاتھ کاٹ لیے تھے؟ میرا رب تو ان کی مکاری سے واقف ہی ہے\""
+    },
+    {
+      "number": 51,
+      "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ",
+      "english": "[Thereupon the King sent for those women; and when they came,] he asked: \"What was it that you hoped to achieve when you sought to make Joseph yield himself unto you?\" The women answered: \"God save us! We did not perceive the least evil [intention] on his part!\" [And] the wife of Joseph's former master exclaimed: \"Now has the truth come to light! It was I who sought to make him yield himself unto me - whereas he, behold, was indeed speaking the truth!\"",
+      "urdu": "اس پر بادشاہ نے ان عورتوں سے دریافت کیا \"تمہارا کیا تجربہ ہے اُس وقت کا جب تم نے یوسفؑ کو رجھانے کی کوشش کی تھی؟\" سب نے یک زبان ہو کر کہا \"حاشاللہ، ہم نے تو اُس میں بدی کا شائبہ تک نہ پایا\" عزیز کی بیوی بول اٹھی \"اب حق کھل چکا ہے، وہ میں ہی تھی جس نے اُس کو پھسلانے کی کوشش کی تھی، بے شک وہ بالکل سچا ہے\""
+    },
+    {
+      "number": 52,
+      "arabic": "ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ",
+      "english": "[When Joseph learned what had happened, he said: \"I asked for] this, so that [my former master] might know that I did not betray him behind his back, and that God does not bless with His guidance the artful schemes of those who betray their trust.",
+      "urdu": "(یوسفؑ نے کہا) \"اِس سے میری غرض یہ تھی کہ (عزیز) یہ جان لے کہ میں نے درپردہ اس کی خیانت نہیں کی تھی، اور یہ کہ جو خیانت کرتے ہیں ان کی چالوں کو اللہ کامیابی کی راہ پر نہیں لگاتا"
+    },
+    {
+      "number": 53,
+      "arabic": "۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌۭ رَّحِيمٌۭ",
+      "english": "And yet, I am not trying to absolve myself: for, verily, man's inner self does incite [him] to evil, and saved are only they upon whom my Sustainer bestows His grace. Behold, my Sustainer is much forgiving, a dispenser of grace!\"",
+      "urdu": "میں کچھ اپنے نفس کی براءَت نہیں کر رہا ہوں، نفس تو بدی پر اکساتا ہی ہے الا یہ کہ کسی پر میرے رب کی رحمت ہو، بے شک میرا رب بڑا غفور و رحیم ہے\""
+    },
+    {
+      "number": 54,
+      "arabic": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى ۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌۭ",
+      "english": "And the King said: \"Bring him unto me, so that I may attach him to my own person.\" And when he had spoken with him, [the King] said: \"Behold, [from] this day thou shalt be of high standing with us, invested with all trust!\"",
+      "urdu": "بادشاہ نے کہا \"اُنہیں میرے پاس لاؤ تاکہ میں ان کو اپنے لیے مخصوص کر لوں\" جب یوسفؑ نے اس سے گفتگو کی تو اس نے کہا \"اب آپ ہمارے ہاں قدر و منزلت رکھتے ہیں اور آپ کی امانت پر پورا بھروسا ہے\""
+    },
+    {
+      "number": 55,
+      "arabic": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌۭ",
+      "english": "[Joseph] replied: \"Place in my charge the store-houses of the land; behold, I shall be a good and knowing keeper.",
+      "urdu": "یوسفؑ نے کہا، \"ملک کے خزانے میرے سپرد کیجیے، میں حفاظت کرنے والا بھی ہوں اور علم بھی رکھتا ہوں\""
+    },
+    {
+      "number": 56,
+      "arabic": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "english": "And thus We established Joseph securely in the land [of Egypt]: he had full mastery over it, [doing] whatever he willed. [Thus do] We cause Our grace to alight upon whomever We will; and We do not fail to requite the doers of good.",
+      "urdu": "اِس طرح ہم نے اُس سرزمین میں یوسفؑ کے لیے اقتدار کی راہ ہموار کی وہ مختار تھا کہ اس میں جہاں چاہے اپنی جگہ بنائے ہم اپنی رحمت سے جس کو چاہتے ہیں نوازتے ہیں، نیک لوگوں کا اجر ہمارے ہاں مارا نہیں جاتا"
+    },
+    {
+      "number": 57,
+      "arabic": "وَلَأَجْرُ ٱلْءَاخِرَةِ خَيْرٌۭ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+      "english": "But in the eyes of those who have attained to faith and have always been conscious of Us, a reward in the life to come is a far greater good [than any reward in this world].",
+      "urdu": "اور آخرت کا اجر اُن لوگو ں کے لیے زیادہ بہتر ہے جو ایمان لے آئے اور خدا ترسی کے ساتھ کام کرتے رہے"
+    },
+    {
+      "number": 58,
+      "arabic": "وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ",
+      "english": "AND [after some years,] Joseph's brothers came [to Egypt] and presented themselves before him: and he knew them [at once], whereas they did not recognize him.",
+      "urdu": "یوسفؑ کے بھائی مصر آئے اور اس کے ہاں حاضر ہوئے اس نے انہیں پہچان لیا مگر وہ اس سے نا آشنا تھے"
+    },
+    {
+      "number": 59,
+      "arabic": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍۢ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ",
+      "english": "And when he had provided them with their provisions, he said: \"[When you come here next,] bring unto me that brother of yours from your father's side. Do you not see that I have given [you] full measure and have been the best of hosts?",
+      "urdu": "پھر جب اس نے ان کا سامان تیار کروا دیا تو چلتے وقت ان سے کہا، \"اپنے سوتیلے بھائی کو میرے پاس لانا دیکھتے نہیں ہو کہ میں کس طرح پیمانہ بھر کر دیتا ہوں اور کیسا اچھا مہمان نواز ہوں"
+    },
+    {
+      "number": 60,
+      "arabic": "فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ",
+      "english": "But if you do not bring him unto me, you shall never again receive a single measure [of grain] from me, nor shall you [be allowed to] come near me!\"",
+      "urdu": "اگر تم اسے نہ لاؤ گے تو میرے پاس تمہارے لیے کوئی غلہ نہیں ہے بلکہ تم میرے قریب بھی نہ پھٹکنا\""
+    },
+    {
+      "number": 61,
+      "arabic": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+      "english": "They answered: \"We shall try to persuade his father to part with him, and, verily, we shall do [our utmost]!\"",
+      "urdu": "انہوں نے کہا، \"ہم کوشش کریں گے کہ والد صاحب اسے بھیجنے پر ر اضی ہو جائیں، اور ہم ایسا ضرور کریں گے\""
+    },
+    {
+      "number": 62,
+      "arabic": "وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+      "english": "And [Joseph] said to his servants: \"Place their merchandise in their camel-packs, so that they may find it there when they come home, and hence be the more eager to return.",
+      "urdu": "یوسفؑ نے اپنے غلاموں کو اشارہ کیا کہ \"اِن لوگوں نے غلے کے عوض جو مال دیا ہے وہ چپکے سے ان کے سامان ہی میں رکھ دو\" یہ یوسفؑ نے اِس امید پر کیا کہ گھر پہنچ کر وہ اپنا واپس پایا ہوا مال پہچان جائیں گے (یا اِس فیاضی پر احسان مند ہوں گے) اور عجب نہیں کہ پھر پلٹیں"
+    },
+    {
+      "number": 63,
+      "arabic": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "english": "And so, when they returned to their father, [Joseph's brothers] said: \"O our father! All grain is [to be] withheld from us [in the future unless we bring Benjamin with us]: send, therefore, our brother with us, so that we may obtain our measure (of grain]; and, verily, we shall guard him well!\"",
+      "urdu": "جب وہ اپنے باپ کے پاس گئے تو کہا \"ابا جان، آئندہ ہم کو غلہ دینے سے انکار کر دیا گیا ہے، لہٰذا آپ ہمارے بھائی کو ہمارے ساتھ بھیج دیجیے تاکہ ہم غلہ لے کر آئیں اور اس کی حفاظت کے ہم ذمہ دار ہیں\""
+    },
+    {
+      "number": 64,
+      "arabic": "قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَٰفِظًۭا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "english": "[Jacob] replied: \"Shall I trust you with him in the same way as I trusted you with his brother (Joseph] aforetime? [Nay,] but God's guardianship is better [than yours], for He is the most merciful of the merciful!\"",
+      "urdu": "باپ نے جواب دیا \"کیا میں اُس کے معاملہ میں تم پر ویسا ہی بھروسہ کروں جیسا اِس سے پہلے اُس کے بھائی کے معاملہ میں کر چکا ہوں؟ اللہ ہی بہتر محافظ ہے اور وہ سب سے بڑھ کر رحم فرمانے والا ہے\""
+    },
+    {
+      "number": 65,
+      "arabic": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى ۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ",
+      "english": "Thereupon, when they opened their packs, they discovered that their merchandise had been returned to them; [and] they said: \"O our father! What more could we desire? Here is our merchandise: it has been returned to us! [If thou send Benjamin with us,] we shall (again] be able to bring food for our family, and shall guard our brother [well], and receive in addition another camel-load of grain That [which we have brought the first time] was but a scanty measure.\"",
+      "urdu": "پھر جب انہوں نے اپنا سامان کھولا تو دیکھا کہ ان کا مال بھی انہیں واپس کر دیا گیا ہے یہ دیکھ کر وہ پکار اٹھے \"ابا جان، اور ہمیں کیا چاہیے، دیکھیے یہ ہمارا مال بھی ہمیں واپس دے دیا گیا ہے بس اب ہم جائیں گے اور اپنے اہل و عیال کے لیے رسد لے آئیں گے، اپنے بھائی کی حفاظت بھی کریں گے اور ایک بارشتر اور زیادہ بھی لے آئیں گے، اتنے غلہ کا اضافہ آسانی کے ساتھ ہو جائے گا\""
+    },
+    {
+      "number": 66,
+      "arabic": "قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًۭا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ",
+      "english": "Said [Jacob]: \"I will not send him with you until you give me a solemn pledge, before God, that you will indeed bring him back unto me, unless you yourselves be encompassed [by death]!\" And when they had given him their solemn pledge, [Jacob] said: \"God is witness to all that we say!\"",
+      "urdu": "ان کے باپ نے کہا \"میں اس کو ہرگز تمہارے ساتھ نہ بھیجوں گا جب تک کہ تم اللہ کے نام سے مجھ کو پیمان نہ دے دو کہ اِسے میرے پا س ضرور واپس لے کر آؤ گے الا یہ کہ کہیں تم گھیر ہی لیے جاؤ\" جب انہوں نے اس کو اپنے اپنے پیمان دے دیے تو اس نے کہا \"دیکھو، ہمارے اس قول پر اللہ نگہبان ہے\""
+    },
+    {
+      "number": 67,
+      "arabic": "وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍۢ وَٰحِدٍۢ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍۢ مُّتَفَرِّقَةٍۢ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "english": "And he added: \"O my sons! Do not enter [the city all] by one gate, but enter by different gates. Yet [even so,] I can be of no avail whatever to you against [anything that may be willed by] God: judgment [as to what is to happen] rests with none but God. In Him have I placed my trust: for, all who have trust [in His existence] must place their trust in Him alone.\"",
+      "urdu": "پھر اس نے کہا \"میرے بچو، مصر کے دارالسطنت میں ایک دروازے سے داخل نہ ہونا بلکہ مختلف دروازوں سے جانا مگر میں اللہ کی مشیت سے تم کو نہیں بچا سکتا، حکم اُس کے سوا کسی کا بھی نہیں چلتا، اسی پر میں نے بھروسہ کیا، اور جس کو بھی بھروسہ کرنا ہو اسی پر کرے\""
+    },
+    {
+      "number": 68,
+      "arabic": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةًۭ فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا ۚ وَإِنَّهُۥ لَذُو عِلْمٍۢ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "english": "But although they entered [Joseph's city] in the way their father had bidden them, this proved of no avail whatever to them against [the plan of] God [His request] had served only to satisfy Jacob's heartfelt desire [to protect them]: for, behold, thanks to what We had imparted unto him, he was indeed endowed with the knowledge [that God's will must always prevail]; but most people know it not.",
+      "urdu": "اور واقعہ بھی یہی ہوا کہ جب وہ اپنے باپ کی ہدایت کے مطابق شہر میں (متفرق دروازوں سے) داخل ہوئے تو اس کی یہ احتیاطی تدبیر اللہ کی مشیت کے مقابلے میں کچھ بھی کام نہ آسکی ہاں بس یعقوبؑ کے دل میں جو ایک کھٹک تھی اسے دور کرنے کے لیے اس نے اپنی سی کوشش کر لی بے شک وہ ہماری دی ہوئی تعلیم سے صاحب علم تھا مگر اکثر لوگ معاملہ کی حقیقت کو جانتے نہیں ہیں"
+    },
+    {
+      "number": 69,
+      "arabic": "وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ ۖ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "english": "AND WHEN [the sons of Jacob] presented themselves before Joseph, he drew his brother [Benjamin] unto himself, saying [to him in secret]: \"Behold, I am thy brother! So grieve thou not over their past doings!\"",
+      "urdu": "یہ لوگ یوسفؑ کے حضور پہنچے تو اس نے اپنے بھائی کو اپنے پاس الگ بلا لیا اور اسے بتا دیا کہ \"میں تیرا وہی بھائی ہوں (جو کھویا گیا تھا) اب تو اُن باتوں کا غم نہ کر جو یہ لوگ کرتے رہے ہیں\""
+    },
+    {
+      "number": 70,
+      "arabic": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ",
+      "english": "And [later,] when he had provided them with their provisions, he placed the [King's] drinking-cup in his brother's camel-pack. And [as they were leaving the city,] a herald called out: \"O you people of the caravan! Verily, you are thieves!",
+      "urdu": "جب یوسفؑ ان بھائیوں کا سامان لدوانے لگا تو اس نے اپنے بھائی کے سامان میں اپنا پیالہ رکھ دیا پھر ایک پکارنے والے نے پکار کر کہا \"اے قافلے والو، تم لو گ چور ہو\""
+    },
+    {
+      "number": 71,
+      "arabic": "قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ",
+      "english": "Turning towards the herald and his companions, the brothers asked: \"What is it that you miss?\"",
+      "urdu": "انہوں نے پلٹ کر پوچھا \"تمہاری کیا چیز کھوئی گئی؟ \""
+    },
+    {
+      "number": 72,
+      "arabic": "قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍۢ وَأَنَا۠ بِهِۦ زَعِيمٌۭ",
+      "english": "They answered: \"We miss the King's goblet; and he who produces it shall receive a camel-load [of grain as reward]!\" And [the herald added:] \"I pledge myself to this _ [promise]!\"",
+      "urdu": "سرکاری ملازموں نے کہا \"بادشاہ کا پیمانہ ہم کو نہیں ملتا\" (اور ان کے جمعدار نے کہا) \"جو شخص لا کر دے گا اُس کے لیے ایک بارشتر انعام ہے، اس کا میں ذمہ لیتا ہوں\""
+    },
+    {
+      "number": 73,
+      "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ",
+      "english": "Said [the brothers]: \"By God! Well do you know that we have not come to commit deeds of corruption in this land, and that we have not been thieving!\"",
+      "urdu": "ان بھائیوں نے کہا \"خدا کی قسم، تو لوگ خوب جانتے ہو کہ ہم اس ملک میں فساد کرنے نہیں آئے ہیں اور ہم چوریاں کرنے والے لوگ نہیں ہیں\""
+    },
+    {
+      "number": 74,
+      "arabic": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ",
+      "english": "[The Egyptians] said: \"But what shall be the requital of this [deed] if you are [proved to be] liars?\"",
+      "urdu": "اُنہوں نے کہا \"اچھا، اگر تمہاری بات جھوٹی نکلی تو چور کی کیا سزا ہے؟\""
+    },
+    {
+      "number": 75,
+      "arabic": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "english": "[The brothers] replied: \"Its requital? He in whose camel-pack [the cup] is found-he shall be [enslaved as] a requital thereof! Thus do we [ourselves] requite the doers of [such] wrong.",
+      "urdu": "اُنہوں نے کہا \"اُس کی سزا؟ جس کے سامان میں سے چیز نکلے وہ آپ ہی اپنی سزا میں رکھ لیا جائے، ہمارے ہاں تو ایسے ظالموں کو سزا دینے کا یہی طریقہ ہے\""
+    },
+    {
+      "number": 76,
+      "arabic": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ ۚ كَذَٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ نَرْفَعُ دَرَجَٰتٍۢ مَّن نَّشَآءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌۭ",
+      "english": "Thereupon [they were brought before Joseph to be searched; and] he began with the bags of his half-brothers before the bag of his brother [Benjamin]: and in the end he brought forth the drinking Cups out of his brother's bag. In this way did We contrive for Joseph [the attainment of his heart's desire]: under the King's law, he would [otherwise] not have been able to detain his brother, had not God so willed. We do raise to [high] degrees [of knowledge] whomever We will - but above everyone who is endowed with knowledge there is One who knows all.",
+      "urdu": "تب یوسفؑ نے اپنے بھائی سے پہلے اُن کی خرجیوں کی تلاشی لینی شروع کی، پھر اپنے بھائی کی خرجی سے گم شدہ چیز برآمد کر لی اِس طرح ہم نے یوسفؑ کی تائید اپنی تدبیر سے کی اُس کا یہ کام نہ تھا کہ بادشاہ کے دین (یعنی مصر کے شاہی قانون) میں اپنے بھائی کو پکڑتا الا یہ کہ اللہ ہی ایسا چاہے ہم جس کے درجے چاہتے ہیں بلند کر دیتے ہیں، اور ایک علم رکھنے والا ایسا ہے جو ہر صاحب علم سے بالا تر ہے"
+    },
+    {
+      "number": 77,
+      "arabic": "۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌۭ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّۭ مَّكَانًۭا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "english": "[As soon as the cup came to light out of Benjamin's bag, the brothers] exclaimed: \"If he has stolen-well, a brother of his used to steal afore-time!\" Thereupon Joseph said to himself, without revealing his thought to them: \"You are far worse in this respect, and God is fully aware of what you are saying.",
+      "urdu": "ان بھائیوں نے کہا \"یہ چوری کرے تو کچھ تعجب کی بات بھی نہیں، اس سے پہلے اس کا بھائی (یوسفؑ) بھی چوری کر چکا ہے\" یوسفؑ ان کی یہ بات سن کر پی گیا، حقیقت ان پر نہ کھولی بس (زیر لب) اتنا کہہ کر رہ گیا کہ \"بڑے ہی برے ہو تم لوگ، (میرے منہ در منہ مجھ پر) جو الزام تم لگا رہے ہو اس کی حقیقت خدا خوب جانتا ہے\""
+    },
+    {
+      "number": 78,
+      "arabic": "قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًۭا شَيْخًۭا كَبِيرًۭا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "english": "They said: \"O thou great one! Behold, he has a father, a very old man: detain, therefore, one of us in his stead. Verily, we see that thou art a doer of good!\"",
+      "urdu": "انہوں نے کہا \"اے سردار ذی اقتدار (عزیز)، اس کا باپ بہت بوڑھا آدمی ہے، اس کی جگہ آپ ہم میں سے کسی کو رکھ لیجیے، ہم آپ کو بڑا ہی نیک نفس انسان پاتے ہیں\""
+    },
+    {
+      "number": 79,
+      "arabic": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًۭا لَّظَٰلِمُونَ",
+      "english": "He answered: \"May God preserve us from [the sin of] detaining any other than him with whom we have found our property-for then, behold, we would indeed be evildoers!\"",
+      "urdu": "یوسفؑ نے کہا \"پناہ بخدا، دوسرے کسی شخص کو ہم کیسے رکھ سکتے ہیں جس کے پاس ہم نے اپنا مال پایا ہے اس کو چھوڑ کر دوسرے کو رکھیں گے تو ہم ظالم ہوں گے\""
+    },
+    {
+      "number": 80,
+      "arabic": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّۭا ۖ قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًۭا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى ۖ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "english": "And so, when they lost all hope of [moving] him, they withdrew to take counsel [among themselves]. The eldest of them said: \"Do you not remember that your father has bound you by a solemn pledge before God - and how, before that, you had failed with regard to Joseph? Hence, I shall not depart from this land till my father gives me leave or God passes judgment in my favour: for He is the best of all judges.",
+      "urdu": "جب وہ یوسفؑ سے مایوس ہو گئے تو ایک گوشے میں جا کر آپس میں مشورہ کرنے لگے ان میں جو سب سے بڑا تھا وہ بولا \"تم جانتے نہیں ہو کہ تمہارے والد تم سے خدا کے نام پر کیا عہد و پیمان لے چکے ہیں اور اس سے پہلے یوسفؑ کے معاملہ میں جو زیادتی تم کر چکے ہو وہ بھی تم کو معلوم ہے اب میں تو یہاں سے ہرگز نہ جاؤں گا جب تک کہ میرے والد مجھے اجازت نہ دیں، یا پھر اللہ ہی میرے حق میں کوئی فیصلہ فرما دے کہ وہ سب سے بہتر فیصلہ کرنے والا ہے"
+    },
+    {
+      "number": 81,
+      "arabic": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ",
+      "english": "[And as for you others,] return to your father and say: `O our father! Behold, thy son has stolen-but we [can] bear witness to no more than what has become known to us; and [although we gave you our pledge,] we could not guard against something that [lay hidden in the future and, hence,] was beyond the reach of our perception.",
+      "urdu": "تم جا کر اپنے والد سے کہو کہ \"ابا جان، آپ کے صاحبزادے نے چوری کی ہے ہم نے اسے چوری کرتے ہوئے نہیں دیکھا، جو کچھ ہمیں معلوم ہوا ہے بس وہی ہم بیان کر رہے ہیں، اور غیب کی نگہبانی تو ہم نہ کر سکتے تھے"
+    },
+    {
+      "number": 82,
+      "arabic": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَٰدِقُونَ",
+      "english": "And ask thou in the town in which we were [at the time], and of the people of the caravan with whom we travelled hither, and [thou wilt find that] we, are indeed telling the truth!\"'",
+      "urdu": "آپ اُس بستی کے لوگوں سے پوچھ لیجیے جہاں ہم تھے اُس قافلے سے دریافت کر لیجیے جس کے ساتھ ہم آئے ہیں ہم اپنے بیان میں بالکل سچے ہیں\""
+    },
+    {
+      "number": 83,
+      "arabic": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًۭا ۖ فَصَبْرٌۭ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "english": "[AND WHEN they returned to their father and told him what had happened,] he exclaimed: \"Nay, but it is your [own] minds that have made [so terrible] a happening seem a matter of little account to you! But [as for myself,] patience in adversity is most goodly; God may well bring them all [back] unto me: verily, He alone is all-knowing, truly wise!\"",
+      "urdu": "باپ نے یہ داستان سن کر کہا \"دراصل تمہارے نفس نے تمہارے لیے ایک اور بڑی بات کو سہل بنا دیا اچھا اس پر بھی صبر کروں گا اور بخوبی کروں گا کیا بعید ہے کہ اللہ ان سب کو مجھ سے لا ملا ئے، وہ سب کچھ جانتا ہے اور اس کے سب کام حکمت پر مبنی ہیں\""
+    },
+    {
+      "number": 84,
+      "arabic": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌۭ",
+      "english": "But he turned away from them and said: \"O woe is me for Joseph!\"-and his eyes became dim from the grief with which he was filled.",
+      "urdu": "پھر وہ ان کی طرف سے منہ پھیر کر بیٹھ گیا اور کہنے لگا کہ \"ہا ئے یوسف!\" وہ دل ہی دل میں غم سے گھٹا جا رہا تھا اور اس کی آنکھیں سفید پڑ گئی تھیں"
+    },
+    {
+      "number": 85,
+      "arabic": "قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ",
+      "english": "Said [his sons]: \"By God! Thou wilt never cease to remember, Joseph till thou art broken in body and spirit or art dead!\"",
+      "urdu": "بیٹوں نے کہا \"خدارا! آپ تو بس یوسف ہی کو یاد کیے جاتے ہیں نوبت یہ آ گئی ہے کہ اس کے غم میں اپنے آپ کو گھلا دیں گے یا اپنی جان ہلاک کر ڈالیں گے\""
+    },
+    {
+      "number": 86,
+      "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "english": "He answered: \"It is only to God that I complain of my deep grief and my sorrow: for I know, from God, something that you do not know.",
+      "urdu": "اُس نے کہا \"میں اپنی پریشانی اور اپنے غم کی فریاد اللہ کے سوا کسی سے نہیں کرتا، اور اللہ سے جیسا میں واقف ہوں تم نہیں ہو"
+    },
+    {
+      "number": 87,
+      "arabic": "يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ",
+      "english": "[Hence,] O my sons, go forth and try to obtain some tidings of Joseph and his brother; and do not lose hope of God's life-giving mercy: verily, none but people who deny the truth can ever lose hope of God's life-giving mercy.",
+      "urdu": "میرے بچو، جا کر یوسفؑ اور اس کے بھائی کی کچھ ٹوہ لگاؤ، اللہ کی رحمت سے مایوس نہ ہو، اس کی رحمت سے تو بس کافر ہی مایوس ہوا کرتے ہیں\""
+    },
+    {
+      "number": 88,
+      "arabic": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+      "english": "[AND THE SONS of Jacob went back to Egypt and to Joseph;] and when they presented themselves before him, they said: \"O thou great one! Hardship has visited us and our folk, and so we have brought but scanty merchandise; but give us a full measure [of grain], and be charitable to us: behold, God rewards those who give in charity!\"",
+      "urdu": "جب یہ لوگ مصر جا کر یوسفؑ کی پیشی میں داخل ہوئے تو انہوں نے عرض کیا کہ \"اے سردار با اقتدار، ہم اور ہمارے اہل و عیال سخت مصیبت میں مبتلا ہیں اور ہم کچھ حقیر سی پونجی لے کر آئے ہیں، آپ ہمیں بھر پور غلہ عنایت فرمائیں اور ہم کو خیرات دیں، اللہ خیرات کرنے والوں کو جزا دیتا ہے\""
+    },
+    {
+      "number": 89,
+      "arabic": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ",
+      "english": "Replied he: \"Do you remember what you did to Joseph and his brother when you were still unaware [of right and wrong]?\"",
+      "urdu": "(یہ سن کریوسفؑ سے نہ رہا گیا) اُس نے کہا \"تمہیں کچھ یہ بھی معلوم ہے کہ تم نے یوسفؑ اور اُس کے بھائی کے ساتھ کیا کیا تھا جبکہ تم نادان تھے\""
+    },
+    {
+      "number": 90,
+      "arabic": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "english": "They exclaimed: \"Why - is it indeed thou who art Joseph?\" He answered: \"I am Joseph, and this is my brother. God has indeed been gracious unto us. Verily, if one is conscious of Him and patient in adversity behold, God does not fail to requite the doers of good!\"",
+      "urdu": "وہ چونک کر بولے \"کیا تم یوسفؑ ہو؟\" اُس نے کہا، \"ہاں، میں یوسفؑ ہوں اور یہ میرا بھائی ہے اللہ نے ہم پر احسان فرمایا حقیقت یہ ہے کہ اگر کوئی تقویٰ اور صبر سے کام لے تو اللہ کے ہاں ایسے نیک لوگوں کا اجر مارا نہیں جاتا\""
+    },
+    {
+      "number": 91,
+      "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ",
+      "english": "[The brothers] said: \"By God! Most certainly has God raised thee high above us, and we were indeed but sinners!\"",
+      "urdu": "انہوں نے کہا \"بخدا کہ تم کو اللہ نے ہم پر فضیلت بخشی اور واقعی ہم خطا کار تھے\""
+    },
+    {
+      "number": 92,
+      "arabic": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "english": "Said he: \"No reproach shall be uttered today against you. May God forgive you your sins: for He is the most merciful of the merciful!",
+      "urdu": "اس نے جواب دیا، \"آج تم پر کوئی گرفت نہیں، اللہ تمہیں معاف کرے، وہ سب سے بڑھ کر رحم فرمانے والا ہے"
+    },
+    {
+      "number": 93,
+      "arabic": "ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ",
+      "english": "[And now] go and take this tunic of mine and lay it over my father's face, and he will recover his sight. And thereupon come [back] to me with all your family.\"",
+      "urdu": "جاؤ، میرا یہ قمیص لے جاؤ اور میرے والد کے منہ پر ڈال دو، اُن کی بینائی پلٹ آئے گی، اور اپنے سب اہل و عیال کو میرے پاس لے آؤ\""
+    },
+    {
+      "number": 94,
+      "arabic": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ",
+      "english": "AND AS SOON as the caravan [with which Jacob's sons were travelling] was on its way, their father said [to the people around him]: \"Behold, were it not that you might consider me a dotard, [I would say that] I truly feel the breath of Joseph [in the air]!\"",
+      "urdu": "جب یہ قافلہ (مصر سے) روانہ ہوا تو ان کے باپ نے (کنعان میں) کہا \"میں یوسفؑ کی خوشبو محسوس کر رہا ہوں، تم لوگ کہیں یہ نہ کہنے لگو کہ میں بڑھاپے میں سٹھیا گیا ہوں\""
+    },
+    {
+      "number": 95,
+      "arabic": "قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ",
+      "english": "They answered: \"By God! Thou art indeed still lost in thy old aberration!\"",
+      "urdu": "گھر کے لوگ بولے \"خدا کی قسم آپ ابھی تک اپنے اسی پرانے خبط میں پڑے ہوئے ہیں\""
+    },
+    {
+      "number": 96,
+      "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "english": "But when the bearer of good tidings came [with Joseph's tunic], he laid it over his face; and he regained his sight, [and] exclaimed: \"Did I not tell you, `Verily, I know, from God, something that you do not know'?\"",
+      "urdu": "پھر جب خو ش خبری لانے والا آیا تو اس نے یوسفؑ کا قمیص یعقوبؑ کے منہ پر ڈال دیا اور یکا یک اس کی بینائی عود کر آئی تب اس نے کہا \"میں تم سے کہتا نہ تھا؟ میں اللہ کی طرف سے وہ کچھ جانتا ہوں جو تم نہیں جانتے\""
+    },
+    {
+      "number": 97,
+      "arabic": "قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ",
+      "english": "[His sons] answered: \"O our father! Ask God to forgive us our sins, for, verily, we were sinners.\"",
+      "urdu": "سب بول اٹھے \"ابا جان، آپ ہمارے گناہوں کی بخشش کے لیے دعا کریں، واقعی ہم خطا کار تھے\""
+    },
+    {
+      "number": 98,
+      "arabic": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "english": "He said: \"I shall ask my Sustainer to forgive you: He alone is truly forgiving, a true dispenser of grace!\"",
+      "urdu": "اُس نے کہا \"میں اپنے رب سے تمہارے لیے معافی کی درخواست کروں گا، وہ بڑا معاف کرنے والا اور رحیم ہے\""
+    },
+    {
+      "number": 99,
+      "arabic": "فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+      "english": "AND WHEN they [all arrived in Egypt and] presented themselves before Joseph, he drew his parents unto himself, saying, \"Enter Egypt! If God so wills, you shall be secure [from all evil]!\"",
+      "urdu": "پھر جب یہ لوگ یوسفؑ کے پاس پہنچے تو اُس نے اپنے والدین کو اپنے ساتھ بٹھا لیا اور (اپنے سب کنبے والوں سے) کہا \"چلو، اب شہر میں چلو، اللہ نے چاہا تو امن چین سے رہو گے\""
+    },
+    {
+      "number": 100,
+      "arabic": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًۭا ۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّۭا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌۭ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "english": "And he raised his parents to the highest place of honour; and they [all] fell down before Him, prostrating themselves in adoration. Thereupon [Joseph] said: \"O my father! This is the real meaning of my dream of long ago, which my Sustainer has made come true. And He was indeed good to me when He freed me from the prison, and [when] He brought you [all unto me] from the desert after Satan had sown discord between me and my brothers. Verily, my Sustainer is unfathomable in [the way He brings about] whatever He wills: verily, He alone is all-knowing, truly wise!",
+      "urdu": "(شہر میں داخل ہونے کے بعد) اس نے اپنے والدین کو اٹھا کر اپنے پاس تخت پر بٹھایا اور سب اس کے آگے بے اختیار سجدے میں جھک گئے یوسفؑ نے کہا \"ابا جان، یہ تعبیر ہے میرے اُس خواب کی جو میں نے پہلے دیکھا تھا، میرے رب نے اسے حقیقت بنا دیا اس کا احسان ہے کہ اُس نے مجھے قید خانے سے نکالا، اور آپ لوگوں کو صحرا سے لا کر مجھ سے ملایا حالانکہ شیطان میرے اور میرے بھائیوں کے درمیان فساد ڈال چکا تھا واقعہ یہ ہے کہ میرا رب غیر محسوس تدبیروں سے اپنی مشیت پوری کرتا ہے، بے شک و ہ علیم اور حکیم ہے"
+    },
+    {
+      "number": 101,
+      "arabic": "۞ رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًۭا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ",
+      "english": "\"O my Sustainer! Thou hast indeed bestowed upon me something of power, and hast imparted unto me some knowledge of the inner meaning of happenings. Originator of the heavens and the earth! Thou art near unto me in this world and in the life to come: let me die as one who has surrendered himself unto Thee, and make me one with the righteous!\"",
+      "urdu": "اے میرے رب، تو نے مجھے حکومت بخشی اور مجھ کو باتوں کی تہ تک پہنچنا سکھایا زمین و آسمان کے بنانے والے، تو ہی دنیا اور آخرت میں میرا سرپرست ہے، میرا خاتمہ اسلام پر کر اور انجام کار مجھے صالحین کے ساتھ ملا\""
+    },
+    {
+      "number": 102,
+      "arabic": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "english": "THIS ACCOUNT of something that was beyond the reach of thy perception We [now] reveal unto thee, [O Prophet:] for thou wert not with Joseph's brothers when they resolved upon what they were going to do and wove their schemes [against him].",
+      "urdu": "اے محمدؐ، یہ قصہ غیب کی خبروں میں سے ہے جو ہم تم پر وحی کر رہے ہیں ورنہ تم اُس وقت موجود نہ تھے جب یوسفؑ کے بھائیوں نے آپس میں اتفاق کر کے سازش کی تھی"
+    },
+    {
+      "number": 103,
+      "arabic": "وَمَآ أَكْثَرُ ٱلنَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+      "english": "Yet - however strongly thou mayest desire it -most people will not believe [in this revelation],",
+      "urdu": "مگر تم خواہ کتنا ہی چاہو اِن میں سے اکثر لوگ مان کر دینے والے نہیں ہیں"
+    },
+    {
+      "number": 104,
+      "arabic": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ",
+      "english": "although thou dost not ask of them any reward for it: it is but [God's] reminder unto all mankind.",
+      "urdu": "حالانکہ تم اس خدمت پر ان سے کوئی اجرت بھی نہیں مانگتے ہو یہ تو ایک نصیحت ہے جو دنیا والوں کے لیے عام ہے"
+    },
+    {
+      "number": 105,
+      "arabic": "وَكَأَيِّن مِّنْ ءَايَةٍۢ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+      "english": "But [then] -how many a sign is there in the heavens and on earth which they pass by [unthinkingly], and on which they turn their backs!",
+      "urdu": "زمین اور آسمانوں میں کتنی ہی نشانیاں ہیں جن پر سے یہ لوگ گزرتے رہتے ہیں اور ذرا توجہ نہیں کرتے"
+    },
+    {
+      "number": 106,
+      "arabic": "وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ",
+      "english": "And most of them do not even believe in God without [also] ascribing divine powers to other beings beside Him.",
+      "urdu": "ان میں سے اکثر اللہ کو مانتے ہیں مگر اس طرح کہ اُس کے ساتھ دوسروں کو شر یک ٹھیراتے ہیں"
+    },
+    {
+      "number": 107,
+      "arabic": "أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ",
+      "english": "Do they, then, feel free from the fear that there might fall upon them the overwhelming terror of God's chastisement, or that the Last Hour might come upon them of a sudden, without their being aware [of its approach]?",
+      "urdu": "کیا یہ مطمئن ہیں کہ خدا کے عذاب کی کوئی بلا انہیں دبوچ نہ لے گی یا بے خبری میں قیامت کی گھڑی اچانک ان پر نہ آ جائے گی؟"
+    },
+    {
+      "number": 108,
+      "arabic": "قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "english": "Say [O Prophet]: \"This is my way: Resting upon conscious insight accessible to reason, I am calling [you all] unto God - I and they who follow me.\" And [say:] \"Limitless is God in His glory; and I am not one of those who ascribe divinity to aught beside Him!\"",
+      "urdu": "تم ان سے صاف کہہ دو کہ \"میرا راستہ تو یہ ہے، میں اللہ کی طرف بلاتا ہوں، میں خود بھی پوری روشنی میں اپنا راستہ دیکھ رہا ہوں اور میرے ساتھی بھی، اور اللہ پاک ہے اور شرک کرنے والوں سے میرا کوئی واسطہ نہیں\""
+    },
+    {
+      "number": 109,
+      "arabic": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ",
+      "english": "And [even] before thy time, We never sent [as Our apostles] any but [mortal] men, whom We inspired, [and whom We always chose] from among the people of the [very] communities [to whom the message was to be brought]. Have, then, they [who reject this divine writ] never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before them?-and [do they not know that] to those who are conscious of God the life in the hereafter is indeed better [than this world]? Will they not, then, use their reason?",
+      "urdu": "اے محمدؐ، تم سے پہلے ہم نے جو پیغمبر بھیجے تھے وہ سب بھی انسان ہی تھے، اور انہی بستیوں کے رہنے والوں میں سے تھے، اور اُنہی کی طرف ہم وحی بھیجتے رہے ہیں پھر کیا یہ لوگ زمین میں چلے پھرے نہیں ہیں کہ اُن قوموں کا انجام انہیں نظر نہ آیا جو ان سے پہلے گزر چکی ہیں؟ یقیناً آخرت کا گھر اُن لوگوں کے لیے اور زیادہ بہتر ہے جنہوں نے (پیغمبروں کی بات مان کر) تقویٰ کی روش اختیار کی کیا اب بھی تم لوگ نہ سمجھو گے؟"
+    },
+    {
+      "number": 110,
+      "arabic": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "english": "[All the earlier apostles had to suffer persecution for a long time;] but at last -when those apostles had lost all hope and saw themselves branded as liars - Our succour attained to them: whereupon everyone whom We Milled [to be saved] was saved [and the deniers of the truth were destroyed]: for, never can Our punishment be averted from people who are lost in sin.",
+      "urdu": "(پہلے پیغمبروں کے ساتھ بھی یہی ہوتا رہا ہے کہ وہ مدتوں نصیحت کرتے رہے اور لوگوں نے سن کر نہ دیا) یہاں تک کہ جب پیغمبر لوگوں سے مایوس ہو گئے اور لوگوں نے بھی سمجھ لیا کہ اُن سے جھوٹ بولا گیا تھا، تو یکا یک ہماری مدد پیغمبروں کو پہنچ گئی پھر جب ایسا موقع آ جاتا ہے تو ہمارا قاعدہ یہ ہے کہ جسے ہم چاہتے ہیں بچا لیتے ہیں اور مجرموں پر سے تو ہمارا عذاب ٹالا ہی نہیں جا سکتا"
+    },
+    {
+      "number": 111,
+      "arabic": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌۭ لِّأُو۟لِى ٱلْأَلْبَٰبِ ۗ مَا كَانَ حَدِيثًۭا يُفْتَرَىٰ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+      "english": "Indeed, in the stories of these men there is a lesson for those who are endowed with insight. [As for this revelation,] it could not possibly be a discourse invented [by man]: nay indeed, it is [a divine writ] confirming the truth of whatever there still remains [of earlier revelations], clearly spelling out everything, and [offering] guidance and grace unto people who will believe.",
+      "urdu": "اگلے لوگوں کے ان قصوں میں عقل و ہوش رکھنے والوں کے لیے عبرت ہے یہ جو کچھ قرآن میں بیان کیا جا رہا ہے یہ بناوٹی باتیں نہیں ہیں بلکہ جو کتابیں اس سے پہلے آئی ہوئی ہیں انہی کی تصدیق ہے اور ہر چیز کی تفصیل اور ایمان لانے والوں کے لیے ہدایت اور رحمت"
+    }
+  ]
+}

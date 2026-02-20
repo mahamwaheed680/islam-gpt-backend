@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "surah_number": 99,
+  "arabic_name": "سُورَةُ الزَّلۡزَلَةِ",
+  "english_name": "Az-Zalzala",
+  "verses_count": 8,
+  "revelation_type": "Medinan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "english": "WHEN THE EARTH quakes with her [last] mighty quaking,",
+      "urdu": "جب زمین اپنی پوری شدت کے ساتھ ہلا ڈالی جائے گی"
+    },
+    {
+      "number": 2,
+      "arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "english": "and [when] the earth yields up her burdens,",
+      "urdu": "اور زمین اپنے اندر کے سارے بوجھ نکال کر باہر ڈال دے گی"
+    },
+    {
+      "number": 3,
+      "arabic": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "english": "and man cries out, \"What has happened to her?\" -",
+      "urdu": "اور انسان کہے گا کہ یہ اِس کو کیا ہو رہا ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا",
+      "english": "on that Day will she recount all her tidings,",
+      "urdu": "اُس روز وہ اپنے (اوپر گزرے ہوئے) حالات بیان کرے گی"
+    },
+    {
+      "number": 5,
+      "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "english": "as thy Sustainer will have inspired her to do!",
+      "urdu": "کیونکہ تیرے رب نے اُسے (ایساکرنے کا) حکم دیا ہوگا"
+    },
+    {
+      "number": 6,
+      "arabic": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "english": "On that Day will all men come forward, cut off from one another, to be shown their [past] deeds.",
+      "urdu": "اُس روز لوگ متفرق حالت میں پلٹیں گے تاکہ اُن کے اعمال اُن کو دکھائے جائیں"
+    },
+    {
+      "number": 7,
+      "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ",
+      "english": "And so, he who shall have done an atom's weight of good, shall behold it;",
+      "urdu": "پھر جس نے ذرہ برابر نیکی کی ہوگی وہ اس کو دیکھ لے گا"
+    },
+    {
+      "number": 8,
+      "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+      "english": "and he who shall have done an atom's weight of evil, shall behold it.",
+      "urdu": "اور جس نے ذرہ برابر بدی کی ہوگی وہ اس کو دیکھ لے گا"
+    }
+  ]
+}

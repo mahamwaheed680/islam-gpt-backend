@@ -1,0 +1,124 @@
+{
+  "success": true,
+  "surah_number": 96,
+  "arabic_name": "سُورَةُ العَلَقِ",
+  "english_name": "Al-Alaq",
+  "verses_count": 19,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "english": "READ in the name of thy Sustainer, who has-",
+      "urdu": "پڑھو (اے نبیؐ) اپنے رب کے نام کے ساتھ جس نے پیدا کیا"
+    },
+    {
+      "number": 2,
+      "arabic": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "english": "created man out of a germ-cell",
+      "urdu": "جمے ہوئے خون کے ایک لوتھڑے سے انسان کی تخلیق کی"
+    },
+    {
+      "number": 3,
+      "arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "english": "Read - for thy Sustainer is the Most Bountiful One",
+      "urdu": "پڑھو، اور تمہارا رب بڑا کریم ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "english": "who has taught [man] the use of the pen –",
+      "urdu": "جس نے قلم کے ذریعہ سے علم سکھایا"
+    },
+    {
+      "number": 5,
+      "arabic": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "english": "taught man what he did not know!",
+      "urdu": "انسان کو وہ علم دیا جسے وہ نہ جانتا تھا"
+    },
+    {
+      "number": 6,
+      "arabic": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "english": "Nay, verily, man becomes grossly overweening",
+      "urdu": "ہرگز نہیں، انسان سرکشی کرتا ہے"
+    },
+    {
+      "number": 7,
+      "arabic": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "english": "whenever he believes himself to be self-sufficient:",
+      "urdu": "اِس بنا پر کہ وہ اپنے آپ کو بے نیاز دیکھتا ہے"
+    },
+    {
+      "number": 8,
+      "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "english": "for, behold, unto thy Sustainer all must return.",
+      "urdu": "پلٹنا یقیناً تیرے رب ہی کی طرف ہے"
+    },
+    {
+      "number": 9,
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "english": "HAST THOU ever considered him who tries to prevent",
+      "urdu": "تم نے دیکھا اُس شخص کو"
+    },
+    {
+      "number": 10,
+      "arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "english": "a servant [of God] from praying?",
+      "urdu": "جو ایک بندے کو منع کرتا ہے جبکہ وہ نماز پڑھتا ہو؟"
+    },
+    {
+      "number": 11,
+      "arabic": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "english": "Hast thou considered whether he is on the right way,",
+      "urdu": "تمہارا کیا خیال ہے اگر (وہ بندہ) راہ راست پر ہو"
+    },
+    {
+      "number": 12,
+      "arabic": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "english": "or is concerned with God-consciousness?",
+      "urdu": "یا پرہیزگاری کی تلقین کرتا ہو؟"
+    },
+    {
+      "number": 13,
+      "arabic": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "english": "Hast thou considered whether he may [not] be giving the lie to the truth and turning his back [upon it]?",
+      "urdu": "تمہارا کیا خیال ہے اگر (یہ منع کرنے والا شخص حق کو) جھٹلاتا اور منہ موڑتا ہو؟"
+    },
+    {
+      "number": 14,
+      "arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "english": "Does he, then, not know that God sees [all]?",
+      "urdu": "کیا وہ نہیں جانتا کہ اللہ دیکھ رہا ہے؟"
+    },
+    {
+      "number": 15,
+      "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "english": "Nay, if he desist not, We shall most surely drag him down upon his forehead",
+      "urdu": "ہرگز نہیں، اگر وہ باز نہ آیا تو ہم اس کی پیشانی کے بال پکڑ کر اسے کھینچیں گے"
+    },
+    {
+      "number": 16,
+      "arabic": "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ",
+      "english": "the lying, rebellious forehead! –",
+      "urdu": "اُس پیشانی کو جو جھوٹی اور سخت خطا کار ہے"
+    },
+    {
+      "number": 17,
+      "arabic": "فَلْيَدْعُ نَادِيَهُۥ",
+      "english": "and then let him summon [to his aid] the counsels of his own [spurious] wisdom,",
+      "urdu": "وہ بلا لے اپنے حامیوں کی ٹولی کو"
+    },
+    {
+      "number": 18,
+      "arabic": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "english": "[the while] We shall summon the forces of heavenly chastisement!",
+      "urdu": "ہم بھی عذاب کے فرشتوں کو بلا لیں گے"
+    },
+    {
+      "number": 19,
+      "arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "english": "Nay, pay thou no heed to him, but prostrate thyself [before God] and draw close [unto Him]!",
+      "urdu": "ہرگز نہیں، اُس کی بات نہ مانو اور سجدہ کرو اور (اپنے رب کا) قرب حاصل کرو"
+    }
+  ]
+}

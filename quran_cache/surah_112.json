@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "surah_number": 112,
+  "arabic_name": "سُورَةُ الإِخۡلَاصِ",
+  "english_name": "Al-Ikhlaas",
+  "verses_count": 4,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "english": "SAY: \"He is the One God:",
+      "urdu": "کہو، وہ اللہ ہے، یکتا"
+    },
+    {
+      "number": 2,
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+      "english": "\"God the Eternal, the Uncaused Cause of All Being.",
+      "urdu": "اللہ سب سے بے نیاز ہے اور سب اس کے محتاج ہیں"
+    },
+    {
+      "number": 3,
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "english": "\"He begets not, and neither is He begotten;",
+      "urdu": "نہ اس کی کوئی اولاد ہے اور نہ وہ کسی کی اولاد"
+    },
+    {
+      "number": 4,
+      "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "english": "\"and there is nothing that could be compared with Him.",
+      "urdu": "اور کوئی اس کا ہمسر نہیں ہے"
+    }
+  ]
+}

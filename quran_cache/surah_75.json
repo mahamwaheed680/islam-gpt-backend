@@ -1,0 +1,250 @@
+{
+  "success": true,
+  "surah_number": 75,
+  "arabic_name": "سُورَةُ القِيَامَةِ",
+  "english_name": "Al-Qiyaama",
+  "verses_count": 40,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ",
+      "english": "NAY! I call to witness the Day of Resurrection!",
+      "urdu": "نہیں، میں قسم کھاتا ہوں قیامت کے دن کی"
+    },
+    {
+      "number": 2,
+      "arabic": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+      "english": "But nay! I call to witness the accusing voice of man's own conscience!",
+      "urdu": "اور نہیں، میں قسم کھاتا ہوں ملامت کرنے والے نفس کی"
+    },
+    {
+      "number": 3,
+      "arabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "english": "Does man think that We cannot [resurrect him and] bring his bones together again?",
+      "urdu": "کیا انسان یہ سمجھ رہا ہے کہ ہم اُس کی ہڈیوں کو جمع نہ کر سکیں گے؟"
+    },
+    {
+      "number": 4,
+      "arabic": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "english": "Yea indeed, We are able to make whole his very finger-tips!",
+      "urdu": "ہم تو اس کی انگلیوں کی پور پور تک ٹھیک بنا دینے پر قادر ہیں"
+    },
+    {
+      "number": 5,
+      "arabic": "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "english": "None the less man chooses to deny what lies ahead of him,",
+      "urdu": "مگر انسان چاہتا یہ ہے کہ آگے بھی بد اعمالیاں کرتا رہے"
+    },
+    {
+      "number": 6,
+      "arabic": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ",
+      "english": "asking [derisively], \"When is that Resurrection Day to be?\"",
+      "urdu": "پوچھتا ہے \"آخر کب آنا ہے وہ قیامت کا دن؟\""
+    },
+    {
+      "number": 7,
+      "arabic": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+      "english": "But [on that Day,] when the eyesight is by fear confounded,",
+      "urdu": "پھر جب دیدے پتھرا جائیں گے"
+    },
+    {
+      "number": 8,
+      "arabic": "وَخَسَفَ ٱلْقَمَرُ",
+      "english": "and the moon is darkened,",
+      "urdu": "اور چاند بے نور ہو جائیگا"
+    },
+    {
+      "number": 9,
+      "arabic": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+      "english": "and the sun and the moon are brought together",
+      "urdu": "اور چاند سورج ملا کر ایک کر دیے جائیں گے"
+    },
+    {
+      "number": 10,
+      "arabic": "يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+      "english": "on that Day will man exclaim \"Whither to flee?\"",
+      "urdu": "اُس وقت یہی انسان کہے گا \"کہاں بھاگ کر جاؤں؟\""
+    },
+    {
+      "number": 11,
+      "arabic": "كَلَّا لَا وَزَرَ",
+      "english": "But nay: no refuge [for thee, O man]!",
+      "urdu": "ہرگز نہیں، وہاں کوئی جائے پناہ نہ ہوگی"
+    },
+    {
+      "number": 12,
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+      "english": "With thy Sustainer, on that Day, the journey's end will be!",
+      "urdu": "اُس روز تیرے رب ہی کے سامنے جا کر ٹھیرنا ہوگا"
+    },
+    {
+      "number": 13,
+      "arabic": "يُنَبَّؤُا۟ ٱلْإِنسَٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "english": "Man will be apprised, on that Day, of what he has done and what he has left undone:",
+      "urdu": "اُس روز انسان کو اس کا سب اگلا پچھلا کیا کرایا بتا دیا جائے گا"
+    },
+    {
+      "number": 14,
+      "arabic": "بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌۭ",
+      "english": "nay, but man shall against himself be an eye-witness,",
+      "urdu": "بلکہ انسان خود ہی اپنے آپ کو خوب جانتا ہے"
+    },
+    {
+      "number": 15,
+      "arabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+      "english": "even though he may veil himself in excuses.",
+      "urdu": "چاہے وہ کتنی ہی معذرتیں پیش کرے"
+    },
+    {
+      "number": 16,
+      "arabic": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+      "english": "MOVE NOT thy tongue in haste, [repeating the words of the revelation:]",
+      "urdu": "اے نبیؐ، اِس وحی کو جلدی جلدی یاد کرنے کے لیے اپنی زبان کو حرکت نہ دو"
+    },
+    {
+      "number": 17,
+      "arabic": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "english": "for, behold, it is for Us to gather it [in thy heart,] and to cause it to be read [as it ought to be read].",
+      "urdu": "اِس کو یاد کرا دینا اور پڑھوا دینا ہمارے ذمہ ہے"
+    },
+    {
+      "number": 18,
+      "arabic": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "english": "Thus, when We recite it, follow thou its wording [with all thy mind]:",
+      "urdu": "لہٰذا جب ہم اِسے پڑھ رہے ہوں اُس وقت تم اِس کی قرات کو غور سے سنتے رہو"
+    },
+    {
+      "number": 19,
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+      "english": "and then, behold, it will be for Us to make its meaning clear.",
+      "urdu": "پھر اس کا مطلب سمجھا دینا بھی ہمارے ذمہ ہے"
+    },
+    {
+      "number": 20,
+      "arabic": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "english": "NAY, but [most of] you love this fleeting life,",
+      "urdu": "ہرگز نہیں، اصل بات یہ ہے کہ تم لوگ جلدی حاصل ہونے والی چیز (یعنی دنیا) سے محبت رکھتے ہو"
+    },
+    {
+      "number": 21,
+      "arabic": "وَتَذَرُونَ ٱلْءَاخِرَةَ",
+      "english": "and give no thought to the life to come [and to Judgment Day]!",
+      "urdu": "اور آخرت کو چھوڑ دیتے ہو"
+    },
+    {
+      "number": 22,
+      "arabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاضِرَةٌ",
+      "english": "Some faces will on that Day be bright with happiness,",
+      "urdu": "اُس روز کچھ چہرے تر و تازہ ہونگے"
+    },
+    {
+      "number": 23,
+      "arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌۭ",
+      "english": "looking up to their Sustainer;",
+      "urdu": "اپنے رب کی طرف دیکھ رہے ہونگے"
+    },
+    {
+      "number": 24,
+      "arabic": "وَوُجُوهٌۭ يَوْمَئِذٍۭ بَاسِرَةٌۭ",
+      "english": "and some faces will on that Day be overcast with despair,",
+      "urdu": "اور کچھ چہرے اداس ہوں گے"
+    },
+    {
+      "number": 25,
+      "arabic": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌۭ",
+      "english": "knowing that a crushing calamity is about to befall them.",
+      "urdu": "اور سمجھ رہے ہوں گے کہ اُن کے ساتھ کمر توڑ برتاؤ ہونے والا ہے"
+    },
+    {
+      "number": 26,
+      "arabic": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "english": "NAY, but when [the last breath] comes up to the throat [of a dying man],",
+      "urdu": "ہرگز نہیں، جب جان حلق تک پہنچ جائے گی"
+    },
+    {
+      "number": 27,
+      "arabic": "وَقِيلَ مَنْ ۜ رَاقٍۢ",
+      "english": "and people ask, \"Is there any wizard [that could save him]?\"",
+      "urdu": "اور کہا جائے گا کہ ہے کوئی جھاڑ پھونک کرنے والا"
+    },
+    {
+      "number": 28,
+      "arabic": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "english": "the while he [himself] knows that this is the parting,",
+      "urdu": "اور آدمی سمجھ لے گا کہ یہ دنیا سے جدائی کا وقت ہے"
+    },
+    {
+      "number": 29,
+      "arabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "english": "and is enwrapped in the pangs of death",
+      "urdu": "اور پنڈلی سے پنڈلی جڑ جائے گی"
+    },
+    {
+      "number": 30,
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "english": "at that time towards thy Sustainer does he feel impelled to turn!",
+      "urdu": "وہ دن ہوگا تیرے رب کی طرف روانگی کا"
+    },
+    {
+      "number": 31,
+      "arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "english": "[Useless, though, will be his repentance: for [as long as he was alive] he did not accept the truth, nor did he pray [for enlightenment],",
+      "urdu": "مگر اُس نے نہ سچ مانا، اور نہ نماز پڑھی"
+    },
+    {
+      "number": 32,
+      "arabic": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "english": "but, on the contrary, he gave the lie to the truth and turned away [from it],",
+      "urdu": "بلکہ جھٹلایا اور پلٹ گیا"
+    },
+    {
+      "number": 33,
+      "arabic": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "english": "and then went arrogantly back to what he had come from.",
+      "urdu": "پھر اکڑتا ہوا اپنے گھر والوں کی طرف چل دیا"
+    },
+    {
+      "number": 34,
+      "arabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "english": "[And yet, O man, thine end comes hourly] nearer unto thee, and nearer –",
+      "urdu": "یہ روش تیرے ہی لیے سزاوار ہے اور تجھی کو زیب دیتی ہے"
+    },
+    {
+      "number": 35,
+      "arabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "english": "and ever nearer unto thee, and nearer!",
+      "urdu": "ہاں یہ روش تیرے ہی لیے سزاوار ہے اور تجھی کو زیب دیتی ہے"
+    },
+    {
+      "number": 36,
+      "arabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى",
+      "english": "DOES MAN, then, think that he is to be left to himself to go about at will?",
+      "urdu": "کیا انسان نے یہ سمجھ رکھا ہے کہ وہ یونہی مہمل چھوڑ دیا جائے گا؟"
+    },
+    {
+      "number": 37,
+      "arabic": "أَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ",
+      "english": "Was he not once a [mere] drop of sperm that had been spilt,",
+      "urdu": "کیا وہ ایک حقیر پانی کا نطفہ نہ تھا جو (رحم مادر میں) ٹپکایا جاتا ہے؟"
+    },
+    {
+      "number": 38,
+      "arabic": "ثُمَّ كَانَ عَلَقَةًۭ فَخَلَقَ فَسَوَّىٰ",
+      "english": "and thereafter became a germ-cell - whereupon He created and formed [it] in accordance with what [it] was meant to be,",
+      "urdu": "پھر وہ ایک لوتھڑا بنا، پھر اللہ نے اس کا جسم بنایا اور اس کے اعضا درست کیے"
+    },
+    {
+      "number": 39,
+      "arabic": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "english": "and fashioned out of it the two sexes, the male and the female?",
+      "urdu": "پھر اس سے مرد اور عورت کی دو قسمیں بنائیں"
+    },
+    {
+      "number": 40,
+      "arabic": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ",
+      "english": "Is not He, then; able to bring the dead back to life?",
+      "urdu": "کیا وہ اِس پر قادر نہیں ہے کہ مرنے والوں کو پھر زندہ کر دے؟"
+    }
+  ]
+}

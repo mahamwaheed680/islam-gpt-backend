@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "surah_number": 110,
+  "arabic_name": "سُورَةُ النَّصۡرِ",
+  "english_name": "An-Nasr",
+  "verses_count": 3,
+  "revelation_type": "Medinan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "english": "WHEN GOD'S SUCCOUR comes, and victory,",
+      "urdu": "جب اللہ کی مدد آ جائے اور فتح نصیب ہو جائے"
+    },
+    {
+      "number": 2,
+      "arabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًۭا",
+      "english": "and thou seest people enter God's religion in hosts,",
+      "urdu": "اور (اے نبیؐ) تم دیکھ لو کہ لوگ فوج در فوج اللہ کے دین میں داخل ہو رہے ہیں"
+    },
+    {
+      "number": 3,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "english": "extol thy Sustainer's limitless glory, and praise Him, and seek His forgiveness: for, behold, He is ever an acceptor of repentance.",
+      "urdu": "تو اپنے رب کی حمد کے ساتھ اُس کی تسبیح کرو، اور اُس سے مغفرت کی دعا مانگو، بے شک وہ بڑا توبہ قبول کرنے والا ہے"
+    }
+  ]
+}

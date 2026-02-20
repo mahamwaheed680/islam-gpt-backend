@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "surah_number": 103,
+  "arabic_name": "سُورَةُ العَصۡرِ",
+  "english_name": "Al-Asr",
+  "verses_count": 3,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "english": "CONSIDER the flight of time!",
+      "urdu": "زمانے کی قسم"
+    },
+    {
+      "number": 2,
+      "arabic": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+      "english": "Verily, man is bound to lose himself",
+      "urdu": "انسان درحقیقت بڑے خسارے میں ہے"
+    },
+    {
+      "number": 3,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "english": "unless he be of those who attain to faith, and do good works, and enjoin upon one another the keeping to truth, and enjoin upon one another patience in adversity.",
+      "urdu": "سوائے اُن لوگوں کے جو ایمان لائے، اور نیک اعمال کرتے رہے، اور ایک دوسرے کو حق کی نصیحت اور صبر کی تلقین کرتے رہے"
+    }
+  ]
+}

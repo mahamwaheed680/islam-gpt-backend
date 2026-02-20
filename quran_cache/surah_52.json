@@ -1,0 +1,304 @@
+{
+  "success": true,
+  "surah_number": 52,
+  "arabic_name": "سُورَةُ الطُّورِ",
+  "english_name": "At-Tur",
+  "verses_count": 49,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلطُّورِ",
+      "english": "CONSIDER Mount Sinai!",
+      "urdu": "قسم ہے طور کی"
+    },
+    {
+      "number": 2,
+      "arabic": "وَكِتَٰبٍۢ مَّسْطُورٍۢ",
+      "english": "Consider [God’s] revelation, inscribed",
+      "urdu": "اور ایک ایسی کھلی کتاب کی"
+    },
+    {
+      "number": 3,
+      "arabic": "فِى رَقٍّۢ مَّنشُورٍۢ",
+      "english": "on wide-open scrolls.",
+      "urdu": "جو رقیق جلد میں لکھی ہوئی ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+      "english": "Consider the long-enduring house [of worship]!",
+      "urdu": "اور آباد گھر کی"
+    },
+    {
+      "number": 5,
+      "arabic": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+      "english": "Consider the vault [of heaven] raised high!",
+      "urdu": "اور اونچی چھت کی"
+    },
+    {
+      "number": 6,
+      "arabic": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+      "english": "Consider the surf-swollen sea!",
+      "urdu": "اور موجزن سمندر کی"
+    },
+    {
+      "number": 7,
+      "arabic": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌۭ",
+      "english": "VERILY, [O man,] the suffering decreed by thy Sustainer [for the sinners] will indeed come to pass:",
+      "urdu": "کہ تیرے رب کا عذاب ضرور واقع ہونے والا ہے"
+    },
+    {
+      "number": 8,
+      "arabic": "مَّا لَهُۥ مِن دَافِعٍۢ",
+      "english": "there is none who could avert it.",
+      "urdu": "جسے کوئی دفع کرنے والا نہیں"
+    },
+    {
+      "number": 9,
+      "arabic": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا",
+      "english": "[It will come to pass] on the Day when the skies will be convulsed in [a great] convulsion,",
+      "urdu": "وہ اُس روز واقع ہوگا جب آسمان بری طرح ڈگمگائے گا"
+    },
+    {
+      "number": 10,
+      "arabic": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًۭا",
+      "english": "and the mountains will move with [an awesome] movement.",
+      "urdu": "اور پہاڑ اڑے اڑے پھریں گے"
+    },
+    {
+      "number": 11,
+      "arabic": "فَوَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+      "english": "Woe, then, on that Day to all who give the lie to the truth –",
+      "urdu": "تباہی ہے اُس روز اُن جھٹلانے والوں کے لیے"
+    },
+    {
+      "number": 12,
+      "arabic": "ٱلَّذِينَ هُمْ فِى خَوْضٍۢ يَلْعَبُونَ",
+      "english": "all those who [throughout their lives] but idly played with things vain –",
+      "urdu": "جو آج کھیل کے طور پر اپنی حجت بازیوں میں لگے ہوئے ہیں"
+    },
+    {
+      "number": 13,
+      "arabic": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "english": "on the Day when they shall be thrust into the fire with [an irresistible] thrust, [and will be told:]",
+      "urdu": "جس دن انہیں دھکے مار مار کر نار جہنم کی طرف لے چلا جائے گا"
+    },
+    {
+      "number": 14,
+      "arabic": "هَٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+      "english": "“This is the fire which you were wont to call a lie!",
+      "urdu": "اُس وقت اُن سے کہا جائے گا کہ \"یہ وہی آگ ہے جسے تم جھٹلایا کرتے تھے"
+    },
+    {
+      "number": 15,
+      "arabic": "أَفَسِحْرٌ هَٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ",
+      "english": "Was it, then, a delusion or is it that you failed to see [its truth]?",
+      "urdu": "اب بتاؤ یہ جادو ہے یا تمہیں سوجھ نہیں رہا ہے؟"
+    },
+    {
+      "number": 16,
+      "arabic": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "english": "Endure it [now]! But [whether you] bear yourselves with patience or without patience, it will be the same to you: you are but being requited for what you were wont to do.”",
+      "urdu": "جاؤ اب جھلسو اِس کے اندر، تم خواہ صبر کرو یا نہ کرو، تمہارے لیے یکساں ہے، تمہیں ویسا ہی بدلہ دیا جا رہا ہے جیسے تم عمل کر رہے تھے"
+    },
+    {
+      "number": 17,
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَنَعِيمٍۢ",
+      "english": "[But,] verily, the God-conscious will find themselves [on that Day] in gardens and in bliss,",
+      "urdu": "متقی لوگ وہاں باغوں اور نعمتوں میں ہوں گے"
+    },
+    {
+      "number": 18,
+      "arabic": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ",
+      "english": "rejoicing in all that their Sustainer will have granted them: for their Sustainer will have warded off from them all suffering through the blazing fire.",
+      "urdu": "لطف لے رہے ہوں گے اُن چیزوں سے جو اُن کا رب انہیں دے گا، اور اُن کا رب اُنہیں دوزخ کے عذاب سے بچا لے گا"
+    },
+    {
+      "number": 19,
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "english": "[And they will be told:] “Eat and drink with good cheer as an outcome of what you were wont to do,",
+      "urdu": "(ان سے کہا جائے گا) کھاؤ اور پیو مزے سے اپنے اُن اعمال کے صلے میں جو تم کرتے رہے ہو"
+    },
+    {
+      "number": 20,
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍۢ مَّصْفُوفَةٍۢ ۖ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍۢ",
+      "english": "reclining on couches [of happiness] ranged in rows!” And [in that paradise] We shall mate them with companions pure, most beautiful of eye.",
+      "urdu": "وہ آمنے سامنے بچھے ہوئے تختوں پر تکیے لگائے بیٹھے ہوں گے اور ہم خوبصورت آنکھوں والی حوریں اُن سے بیاہ دیں گے"
+    },
+    {
+      "number": 21,
+      "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌۭ",
+      "english": "And as for those who have attained to faith and whose offspring will have followed them in faith, We shall unite them with their offspring; and We shall not let aught of their deeds go to waste: [but] every human being will be held in pledge for whatever he has earned.",
+      "urdu": "جو لوگ ایمان لائے ہیں اور اُن کی اولاد بھی کسی درجہ ایمان میں ان کے نقش قدم پر چلی ہے ان کی اُس اولاد کو بھی ہم (جنت میں) اُن کے ساتھ ملا دیں گے اور اُن کے عمل میں کوئی گھاٹا ان کو نہ دیں گے ہر شخص اپنے کسب کے عوض رہن ہے"
+    },
+    {
+      "number": 22,
+      "arabic": "وَأَمْدَدْنَٰهُم بِفَٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ",
+      "english": "And We shall bestow on them fruit and meat in abundance - whatever they may desire:",
+      "urdu": "ہم اُن کو ہر طرح کے پھل اور گوشت، جس چیز کو بھی ان کا جی چاہے گا، خوب دیے چلے جائیں گے"
+    },
+    {
+      "number": 23,
+      "arabic": "يَتَنَٰزَعُونَ فِيهَا كَأْسًۭا لَّا لَغْوٌۭ فِيهَا وَلَا تَأْثِيمٌۭ",
+      "english": "and in that [paradise] they shall pass on to one another a cup which will not give rise to empty talk, and neither incite to sin.",
+      "urdu": "وہاں وہ ایک دوسرے سے جام شراب لپک لپک کر لے رہے ہوں گے جس میں نہ یاوہ گوئی ہوگی نہ بد کرداری"
+    },
+    {
+      "number": 24,
+      "arabic": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌۭ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌۭ",
+      "english": "And they will be waited upon by [immortal] youths, [as if they were children] of their own, [as pure] as if they were pearls hidden in their shells.",
+      "urdu": "اور اُن کی خدمت میں وہ لڑکے دوڑتے پھر رہے ہوں گے جو انہی کے لیے مخصوص ہوں گے ایسے خوبصورت جیسے چھپا کر رکھے ہوئے موتی"
+    },
+    {
+      "number": 25,
+      "arabic": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+      "english": "And they [who are thus blest] will turn to one another, asking each other [about their past lives].",
+      "urdu": "یہ لوگ آپس میں ایک دوسرے سے (دنیا میں گزرے ہوئے) حالات پوچھیں گے"
+    },
+    {
+      "number": 26,
+      "arabic": "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ",
+      "english": "They will say: “Behold, aforetime - when we were [still living] in the midst of our kith and kin - we were full of fear [at the thought of God’s dis­pleasure]:",
+      "urdu": "یہ کہیں گے کہ ہم پہلے اپنے گھر والوں میں ڈرتے ہوئے زندگی بسر کرتے تھے"
+    },
+    {
+      "number": 27,
+      "arabic": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+      "english": "and so God has graced us with His favour, and has warded off from us all suffering through the scorching winds [of frustration].",
+      "urdu": "آخر کار اللہ نے ہم پر فضل فرمایا اور ہمیں جھلسا دینے والی ہوا کے عذاب سے بچا لیا"
+    },
+    {
+      "number": 28,
+      "arabic": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+      "english": "Verily, we did invoke Him [alone] ere this: [and now He has shown us] that He alone is truly benign, a true dispenser of grace!”",
+      "urdu": "ہم پچھلی زندگی میں اُسی سے دعائیں مانگتے تھے، وہ واقعی بڑا ہی محسن اور رحیم ہے"
+    },
+    {
+      "number": 29,
+      "arabic": "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَلَا مَجْنُونٍ",
+      "english": "EXHORT, then, [O Prophet, all men:] for, by thy Sustainer’s grace, thou art neither a soothsayer nor a madman.",
+      "urdu": "پس اے نبیؐ، تم نصیحت کیے جاؤ، اپنے رب کے فضل سے نہ تم کاہن ہو اور نہ مجنون"
+    },
+    {
+      "number": 30,
+      "arabic": "أَمْ يَقُولُونَ شَاعِرٌۭ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+      "english": "Or do they say, “[He is but] a poet - let us wait what time will do unto him”?",
+      "urdu": "کیا یہ لوگ کہتے ہیں کہ یہ شخص شاعر ہے جس کے حق میں ہم گردش ایام کا انتظار کر رہے ہیں؟"
+    },
+    {
+      "number": 31,
+      "arabic": "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ",
+      "english": "Say thou: “Wait, [then,] hopefully; behold, I, too, shall hopefully wait with you!”",
+      "urdu": "اِن سے کہو اچھا انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں"
+    },
+    {
+      "number": 32,
+      "arabic": "أَمْ تَأْمُرُهُمْ أَحْلَٰمُهُم بِهَٰذَآ ۚ أَمْ هُمْ قَوْمٌۭ طَاغُونَ",
+      "english": "Is it their minds that bid them [to take] this [attitude] - or are they [simply] people filled with overweening arrogance?",
+      "urdu": "کیا اِن کی عقلیں اِنہیں ایسی ہی باتیں کرنے کے لیے کہتی ہیں؟ یا در حقیقت یہ عناد میں حد سے گزرے ہوئے لوگ ہیں؟"
+    },
+    {
+      "number": 33,
+      "arabic": "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ",
+      "english": "Or do they say, “He himself has composed this [message]”? Nay, but they are not willing to believe!",
+      "urdu": "کیا یہ کہتے ہیں کہ اِس شخص نے یہ قرآن خود گھڑ لیا ہے؟ اصل بات یہ ہے کہ یہ ایمان نہیں لانا چاہتے"
+    },
+    {
+      "number": 34,
+      "arabic": "فَلْيَأْتُوا۟ بِحَدِيثٍۢ مِّثْلِهِۦٓ إِن كَانُوا۟ صَٰدِقِينَ",
+      "english": "But then, [if they deem it the work of a mere mortal,] let them produce another discourse like it - if what they say be true!",
+      "urdu": "اگر یہ اپنے اِس قول میں سچے ہیں تو اِسی شان کا ایک کلام بنا لائیں"
+    },
+    {
+      "number": 35,
+      "arabic": "أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَٰلِقُونَ",
+      "english": "[Or do they deny the existence of God?] Have they themselves been created without anything [that might have caused their creation]? or were they, perchance, their own creators?",
+      "urdu": "کیا یہ کسی خالق کے بغیر خود پیدا ہو گئے ہیں؟ یا یہ خود اپنے خالق ہیں؟"
+    },
+    {
+      "number": 36,
+      "arabic": "أَمْ خَلَقُوا۟ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+      "english": "[And] have they created the heavens and the earth? Nay, but they have no certainty of anything!",
+      "urdu": "یا زمین اور آسمانوں کو اِنہوں نے پیدا کیا ہے؟ اصل بات یہ ہے کہ یہ یقین نہیں رکھتے"
+    },
+    {
+      "number": 37,
+      "arabic": "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ",
+      "english": "[How could they?] Are thy Sustainer’s treasures with them? Or are they in charge [of destiny]?",
+      "urdu": "کیا تیرے رب کے خزانے اِن کے قبضے میں ہیں؟ یا اُن پر اِنہی کا حکم چلتا ہے؟"
+    },
+    {
+      "number": 38,
+      "arabic": "أَمْ لَهُمْ سُلَّمٌۭ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍۢ مُّبِينٍ",
+      "english": "Or have they a ladder by which they could [ascend to ultimate truths and] listen [to what is beyond the reach of human perception]? Let, then, any of them who have listened [to it] produce a manifest proof [of his knowledge]!",
+      "urdu": "کیا اِن کے پاس کوئی سیڑھی ہے جس پر چڑھ کر یہ عالم بالا کی سن گن لیتے ہیں؟ اِن میں سے جس نے سن گن لی ہو وہ لائے کوئی کھلی دلیل"
+    },
+    {
+      "number": 39,
+      "arabic": "أَمْ لَهُ ٱلْبَنَٰتُ وَلَكُمُ ٱلْبَنُونَ",
+      "english": "Or, [if you believe in God, how can you believe that] He has [chosen to have] daughters, whereas you yourselves would have [only] sons?",
+      "urdu": "کیا اللہ کے لیے تو ہیں بیٹیاں اور تم لوگوں کے لیے ہیں بیٹے؟"
+    },
+    {
+      "number": 40,
+      "arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
+      "english": "Or is it that [they who reject thy message, O Muhammad, fear lest] thou ask of them a reward, so that they would be burdened with debt [if they should listen to thee]?",
+      "urdu": "کیا تم اِن سے کوئی اجر مانگتے ہو کہ یہ زبردستی پڑی ہوئی چٹی کے بوجھ تلے دبے جاتے ہیں؟"
+    },
+    {
+      "number": 41,
+      "arabic": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "english": "Or [do they think] that the hidden reality [of all that exists] is almost within their grasp, so that [in time] they can write it down?",
+      "urdu": "کیا اِن کے پاس غیب کے حقائق کا علم ہے کہ اُس کی بنا پر یہ لکھ رہے ہوں؟"
+    },
+    {
+      "number": 42,
+      "arabic": "أَمْ يُرِيدُونَ كَيْدًۭا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ",
+      "english": "Or do they want to entrap [thee in contradic­tions]? But they who are bent on denying the truth - it is they who are truly entrapped!",
+      "urdu": "کیا یہ کوئی چال چلنا چاہتے ہیں؟ (اگر یہ بات ہے) تو کفر کرنے والوں پر ان کی چال الٹی ہی پڑے گی"
+    },
+    {
+      "number": 43,
+      "arabic": "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "english": "Have they, then, any deity other than God? Utterly remote is God, in His limitless glory, from anything to which men may ascribe a share in His divinity!",
+      "urdu": "کیا اللہ کے سوا یہ کوئی اور معبود رکھتے ہیں؟ اللہ پاک ہے اُس شرک سے جو یہ لوگ کر رہے ہیں"
+    },
+    {
+      "number": 44,
+      "arabic": "وَإِن يَرَوْا۟ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُوا۟ سَحَابٌۭ مَّرْكُومٌۭ",
+      "english": "AND YET, if they [who refuse to see the truth] were to see part of the sky falling down, they would [only] say, “[It is but] a mass of clouds!”",
+      "urdu": "یہ لوگ آسمان کے ٹکڑے بھی گرتے ہوئے دیکھ لیں تو کہیں گے یہ بادل ہیں جو امڈے چلے آ رہے ہیں"
+    },
+    {
+      "number": 45,
+      "arabic": "فَذَرْهُمْ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+      "english": "Hence, leave them alone until they face that [Judgment] Day of theirs, when they will be stricken with terror:",
+      "urdu": "پس اے نبیؐ، اِنہیں اِن کے حال پر چھوڑ دو یہاں تک کہ یہ اپنے اُس دن کو پہنچ جائیں جس میں یہ مار گرائے جائیں گے"
+    },
+    {
+      "number": 46,
+      "arabic": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ",
+      "english": "the Day when none of their scheming will be of the least avail to them, and they will receive no succour.",
+      "urdu": "جس دن نہ اِن کی اپنی کوئی چال اِن کے کسی کام آئے گی نہ کوئی اِن کی مدد کو آئے گا"
+    },
+    {
+      "number": 47,
+      "arabic": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًۭا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "english": "But, verily, for those who are bent on doing evil, there is suffering in store [even] closer at hand than that [supreme suffering in the hereafter]: but most of them are not aware of it.",
+      "urdu": "اور اُس وقت کے آنے سے پہلے بھی ظالموں کے لیے ایک عذاب ہے، مگر اِن میں سے اکثر جانتے نہیں ہیں"
+    },
+    {
+      "number": 48,
+      "arabic": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "english": "And so, await in patience thy Sustainer’s judgment, for thou art well within Our sight. And extol thy Sustainer’s limitless glory and praise whenever thou risest up,",
+      "urdu": "اے نبیؐ، اپنے رب کا فیصلہ آنے تک صبر کرو، تم ہماری نگاہ میں ہو تم جب اٹھو تو اپنے رب کی حمد کے ساتھ اس کی تسبیح کرو"
+    },
+    {
+      "number": 49,
+      "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ",
+      "english": "and extol His glory at night, and at the time when the stars retreat.",
+      "urdu": "رات کو بھی اس کی تسبیح کیا کرو اور ستارے جب پلٹتے ہیں اُس وقت بھی"
+    }
+  ]
+}

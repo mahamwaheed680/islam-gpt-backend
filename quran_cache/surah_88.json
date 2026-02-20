@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "surah_number": 88,
+  "arabic_name": "سُورَةُ الغَاشِيَةِ",
+  "english_name": "Al-Ghaashiya",
+  "verses_count": 26,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ",
+      "english": "HAS THERE COME unto thee the tiding of the Overshadowing Event?'",
+      "urdu": "کیا تمہیں اُس چھا جانے والی آفت کی خبر پہنچی ہے؟"
+    },
+    {
+      "number": 2,
+      "arabic": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ",
+      "english": "Some faces will on that Day be downcast,",
+      "urdu": "کچھ چہرے اُس روز خوف زدہ ہونگے"
+    },
+    {
+      "number": 3,
+      "arabic": "عَامِلَةٌۭ نَّاصِبَةٌۭ",
+      "english": "toiling [under burdens of sin], worn out [by fear],",
+      "urdu": "سخت مشقت کر رہے ہونگے"
+    },
+    {
+      "number": 4,
+      "arabic": "تَصْلَىٰ نَارًا حَامِيَةًۭ",
+      "english": "about to enter a glowing fire,",
+      "urdu": "تھکے جاتے ہونگے، شدید آگ میں جھلس رہے ہونگے"
+    },
+    {
+      "number": 5,
+      "arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+      "english": "given to drink from a boiling spring.",
+      "urdu": "کھولتے ہوئے چشمے کا پانی انہیں پینے کو دیا جائے گا"
+    },
+    {
+      "number": 6,
+      "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+      "english": "No food for them save the bitterness of dry thorns,",
+      "urdu": "خار دار سوکھی گھاس کے سوا کوئی کھانا اُن کے لیے نہ ہوگا"
+    },
+    {
+      "number": 7,
+      "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ",
+      "english": "which gives no strength and neither stills hunger.",
+      "urdu": "جو نہ موٹا کرے نہ بھوک مٹائے"
+    },
+    {
+      "number": 8,
+      "arabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+      "english": "[And] some faces will on that Day shine with bliss,",
+      "urdu": "کچھ چہرے اُس روز با رونق ہوں گے"
+    },
+    {
+      "number": 9,
+      "arabic": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+      "english": "well-pleased with [the fruit of] their striving,",
+      "urdu": "اپنی کار گزاری پر خوش ہونگے"
+    },
+    {
+      "number": 10,
+      "arabic": "فِى جَنَّةٍ عَالِيَةٍۢ",
+      "english": "in a garden sublime,",
+      "urdu": "عالی مقام جنت میں ہوں گے"
+    },
+    {
+      "number": 11,
+      "arabic": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ",
+      "english": "wherein thou wilt hear no empty talk.",
+      "urdu": "کوئی بیہودہ بات وہاں نہ سنیں گے"
+    },
+    {
+      "number": 12,
+      "arabic": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ",
+      "english": "Countless springs will flow therein,",
+      "urdu": "اُس میں چشمے رواں ہونگے"
+    },
+    {
+      "number": 13,
+      "arabic": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ",
+      "english": "[and] there will be thrones [of happiness] raised high,",
+      "urdu": "اُس کے اندر اونچی مسندیں ہوں گی"
+    },
+    {
+      "number": 14,
+      "arabic": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ",
+      "english": "and goblets placed ready,",
+      "urdu": "ساغر رکھے ہوئے ہوں گے"
+    },
+    {
+      "number": 15,
+      "arabic": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+      "english": "and cushions ranged,",
+      "urdu": "گاؤ تکیوں کی قطاریں لگی ہوں گی"
+    },
+    {
+      "number": 16,
+      "arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "english": "and carpets spread out…",
+      "urdu": "اور نفیس فرش بچھے ہوئے ہوں گے"
+    },
+    {
+      "number": 17,
+      "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "english": "DO, THEN, they [who deny resurrection] never gaze at the clouds pregnant with water, [and observe] how they are created?",
+      "urdu": "(یہ لوگ نہیں مانتے) تو کیا یہ اونٹوں کو نہیں دیکھتے کہ کیسے بنائے گئے؟"
+    },
+    {
+      "number": 18,
+      "arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "english": "And at the sky, how it is raised aloft?",
+      "urdu": "آسمان کو نہیں دیکھتے کہ کیسے اٹھایا گیا؟"
+    },
+    {
+      "number": 19,
+      "arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "english": "And at the mountains, how firmly they are reared?",
+      "urdu": "پہاڑوں کو نہیں دیکھتے کہ کیسے جمائے گئے؟"
+    },
+    {
+      "number": 20,
+      "arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "english": "And at the earth, how it is spread out?",
+      "urdu": "اور زمین کو نہیں دیکھتے کہ کیسے بچھائی گئی؟"
+    },
+    {
+      "number": 21,
+      "arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ",
+      "english": "And so, [O Prophet,] exhort them; thy task is only to exhort:",
+      "urdu": "اچھا تو (اے نبیؐ) نصیحت کیے جاؤ، تم بس نصیحت ہی کرنے والے ہو"
+    },
+    {
+      "number": 22,
+      "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "english": "thou canst not compel them [to believe].",
+      "urdu": "کچھ ان پر جبر کرنے والے نہیں ہو"
+    },
+    {
+      "number": 23,
+      "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "english": "However, as for him who turns away, being bent on denying the truth,",
+      "urdu": "البتہ جو شخص منہ موڑے گا اور انکار کرے گا"
+    },
+    {
+      "number": 24,
+      "arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "english": "him will God cause to suffer the greatest suffering [in the life to come]:",
+      "urdu": "تو اللہ اس کو بھاری سزا دے گا"
+    },
+    {
+      "number": 25,
+      "arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "english": "for behold, unto Us will be their return,",
+      "urdu": "اِن لوگوں کو پلٹنا ہماری طرف ہی ہے"
+    },
+    {
+      "number": 26,
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "english": "and verily, It is for Us to call them to account.",
+      "urdu": "پھر اِن کا حساب لینا ہمارے ہی ذمہ ہے"
+    }
+  ]
+}

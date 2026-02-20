@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "surah_number": 95,
+  "arabic_name": "سُورَةُ التِّينِ",
+  "english_name": "At-Tin",
+  "verses_count": 8,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "english": "CONSIDER the fig and the olive,",
+      "urdu": "قسم ہے انجیر اور زیتون کی"
+    },
+    {
+      "number": 2,
+      "arabic": "وَطُورِ سِينِينَ",
+      "english": "and Mount Sinai,",
+      "urdu": "اور طور سینا کی"
+    },
+    {
+      "number": 3,
+      "arabic": "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "english": "and this land secure!",
+      "urdu": "اور اِس پرامن شہر (مکہ) کی"
+    },
+    {
+      "number": 4,
+      "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ",
+      "english": "Verily, We create man in the best conformation;",
+      "urdu": "ہم نے انسان کو بہترین ساخت پر پیدا کیا"
+    },
+    {
+      "number": 5,
+      "arabic": "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+      "english": "and thereafter We reduce him to the lowest of low",
+      "urdu": "پھر اُسے الٹا پھیر کر ہم نے سب نیچوں سے نیچ کر دیا"
+    },
+    {
+      "number": 6,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+      "english": "excepting only such as attain to faith and do good works: and theirs shall be a reward unending!",
+      "urdu": "سوائے اُن لوگوں کے جو ایمان لائے اور نیک عمل کرتے رہے کہ ان کے لیے کبھی ختم نہ ہونے والا اجر ہے"
+    },
+    {
+      "number": 7,
+      "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "english": "What, then, [O man,] could henceforth cause thee to give the lie to this moral law?",
+      "urdu": "پس (اے نبیؐ) اس کے بعد کون جزا و سزا کے معاملہ میں تم کو جھٹلا سکتا ہے؟"
+    },
+    {
+      "number": 8,
+      "arabic": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ",
+      "english": "Is not God the most just of judges?",
+      "urdu": "کیا اللہ سب حاکموں سے بڑا حاکم نہیں ہے؟"
+    }
+  ]
+}

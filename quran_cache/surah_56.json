@@ -1,0 +1,586 @@
+{
+  "success": true,
+  "surah_number": 56,
+  "arabic_name": "سُورَةُ الوَاقِعَةِ",
+  "english_name": "Al-Waaqia",
+  "verses_count": 96,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+      "english": "WHEN THAT which must come to pass [at last] comes to pass,",
+      "urdu": "جب وہ ہونے والا واقعہ پیش آ جائے گا"
+    },
+    {
+      "number": 2,
+      "arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "english": "there will be nought that could give the lie to its having come to pass,",
+      "urdu": "تو کوئی اس کے وقوع کو جھٹلانے والا نہ ہوگا"
+    },
+    {
+      "number": 3,
+      "arabic": "خَافِضَةٌۭ رَّافِعَةٌ",
+      "english": "abasing [some], exalting [others]!",
+      "urdu": "وہ تہ و بالا کر دینے والی آفت ہوگی"
+    },
+    {
+      "number": 4,
+      "arabic": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّۭا",
+      "english": "When the earth is shaken with a shaking [severe],",
+      "urdu": "زمین اس وقت یکبارگی ہلا ڈالی جائے گی"
+    },
+    {
+      "number": 5,
+      "arabic": "وَبُسَّتِ ٱلْجِبَالُ بَسًّۭا",
+      "english": "and the mountains are shattered into [countless] shards,",
+      "urdu": "اور پہاڑ اس طرح ریزہ ریزہ کر دیے جائیں گے"
+    },
+    {
+      "number": 6,
+      "arabic": "فَكَانَتْ هَبَآءًۭ مُّنۢبَثًّۭا",
+      "english": "so that they become as scat­tered dust –",
+      "urdu": "کہ پراگندہ غبار بن کر رہ جائیں گے"
+    },
+    {
+      "number": 7,
+      "arabic": "وَكُنتُمْ أَزْوَٰجًۭا ثَلَٰثَةًۭ",
+      "english": "[on that Day,] then, shall you be [divided into] three kinds.",
+      "urdu": "تم لوگ اُس وقت تین گروہوں میں تقسیم ہو جاؤ گے"
+    },
+    {
+      "number": 8,
+      "arabic": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "english": "Thus, there shall be such as will have attained to what is right: oh, how [happy] will be they who have attained to what is right!",
+      "urdu": "دائیں بازو والے، سو دائیں بازو والوں (کی خوش نصیبی) کا کیا کہنا"
+    },
+    {
+      "number": 9,
+      "arabic": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "english": "And there shall be such as will have lost them­selves in evil: oh, how [unhappy] will be they who have lost themselves in evil!",
+      "urdu": "اور بائیں بازو والے، تو بائیں بازو والوں (کی بد نصیبی کا) کا کیا ٹھکانا"
+    },
+    {
+      "number": 10,
+      "arabic": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+      "english": "But the foremost shall be [they who in life were] the foremost [in faith and good works]:",
+      "urdu": "اور آگے والے تو پھر آگے وا لے ہی ہیں"
+    },
+    {
+      "number": 11,
+      "arabic": "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "english": "they who were [always] drawn close unto God!",
+      "urdu": "وہی تو مقرب لوگ ہیں"
+    },
+    {
+      "number": 12,
+      "arabic": "فِى جَنَّٰتِ ٱلنَّعِيمِ",
+      "english": "In gardens of bliss [will they dwell] -",
+      "urdu": "نعمت بھری جنتوں میں رہیں گے"
+    },
+    {
+      "number": 13,
+      "arabic": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+      "english": "a good many of those of olden times,",
+      "urdu": "اگلوں میں سے بہت ہوں گے"
+    },
+    {
+      "number": 14,
+      "arabic": "وَقَلِيلٌۭ مِّنَ ٱلْءَاخِرِينَ",
+      "english": "but [only] a few of later times.",
+      "urdu": "اور پچھلوں میں سے کم"
+    },
+    {
+      "number": 15,
+      "arabic": "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ",
+      "english": "[They will be seated] on gold-encrusted thrones of happiness,",
+      "urdu": "مرصع تختوں پر"
+    },
+    {
+      "number": 16,
+      "arabic": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ",
+      "english": "reclining upon them, facing one another [in love].",
+      "urdu": "تکیے لگا ئے آمنے سامنے بیٹھیں گے"
+    },
+    {
+      "number": 17,
+      "arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ",
+      "english": "Immortal youths will wait upon them",
+      "urdu": "اُن کی مجلسوں میں ابدی لڑکے شراب چشمہ جاری سے"
+    },
+    {
+      "number": 18,
+      "arabic": "بِأَكْوَابٍۢ وَأَبَارِيقَ وَكَأْسٍۢ مِّن مَّعِينٍۢ",
+      "english": "with goblets, and ewers, and cups filled with water from unsullied springs",
+      "urdu": "لبریز پیالے کنٹر اور ساغر لیے دوڑتے پھرتے ہونگے"
+    },
+    {
+      "number": 19,
+      "arabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+      "english": "by which their minds will not be clouded and which will not make them drunk;",
+      "urdu": "جسے پی کر نہ اُن کا سر چکرائے گا نہ ان کی عقل میں فتور آئے گا"
+    },
+    {
+      "number": 20,
+      "arabic": "وَفَٰكِهَةٍۢ مِّمَّا يَتَخَيَّرُونَ",
+      "english": "and with fruit of any kind that they may choose,",
+      "urdu": "اور وہ اُن کے سامنے طرح طرح کے لذیذ پھل پیش کریں گے جسے چاہیں چن لیں"
+    },
+    {
+      "number": 21,
+      "arabic": "وَلَحْمِ طَيْرٍۢ مِّمَّا يَشْتَهُونَ",
+      "english": "and with the flesh of any fowl that they may desire.",
+      "urdu": "اور پرندوں کے گوشت پیش کریں گے کہ جس پرندے کا چاہیں استعمال کریں"
+    },
+    {
+      "number": 22,
+      "arabic": "وَحُورٌ عِينٌۭ",
+      "english": "And [with them will be their] companions pure, most beautiful of eye,",
+      "urdu": "اور ان کے لیے خوبصورت آنکھوں والی حوریں ہونگی"
+    },
+    {
+      "number": 23,
+      "arabic": "كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+      "english": "like unto pearls [still] hidden in their shells.",
+      "urdu": "ایسی حسین جیسے چھپا کر رکھے ہوئے موتی"
+    },
+    {
+      "number": 24,
+      "arabic": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "english": "[And this will be] a reward for what they did [in life].",
+      "urdu": "یہ سب کچھ اُن اعمال کی جزا کے طور پر انہیں ملے گا جو وہ دنیا میں کرتے رہے تھے"
+    },
+    {
+      "number": 25,
+      "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا",
+      "english": "No empty talk will they hear there, nor any call to sin,",
+      "urdu": "وہاں وہ کوئی بیہودہ کلام یا گناہ کی بات نہ سنیں گے"
+    },
+    {
+      "number": 26,
+      "arabic": "إِلَّا قِيلًۭا سَلَٰمًۭا سَلَٰمًۭا",
+      "english": "but only the tiding of inner soundness and peace.",
+      "urdu": "جو بات بھی ہوگی ٹھیک ٹھیک ہوگی"
+    },
+    {
+      "number": 27,
+      "arabic": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ",
+      "english": "NOW AS FOR those who have attained to righteous­ness - what of those who have attained to righteous­ness?",
+      "urdu": "اور دائیں بازو والے، دائیں بازو والوں کی خوش نصیبی کا کیا کہنا"
+    },
+    {
+      "number": 28,
+      "arabic": "فِى سِدْرٍۢ مَّخْضُودٍۢ",
+      "english": "[They, too, will find themselves] amidst fruit- laden lote-trees,",
+      "urdu": "وہ بے خار بیریوں"
+    },
+    {
+      "number": 29,
+      "arabic": "وَطَلْحٍۢ مَّنضُودٍۢ",
+      "english": "and acacias flower-clad,",
+      "urdu": "اور تہ بر تہ چڑھے ہوئے کیلوں"
+    },
+    {
+      "number": 30,
+      "arabic": "وَظِلٍّۢ مَّمْدُودٍۢ",
+      "english": "and shade extended,",
+      "urdu": "اور دور تک پھیلی ہوئی چھاؤں"
+    },
+    {
+      "number": 31,
+      "arabic": "وَمَآءٍۢ مَّسْكُوبٍۢ",
+      "english": "and waters gushing,",
+      "urdu": "اور ہر دم رواں پانی"
+    },
+    {
+      "number": 32,
+      "arabic": "وَفَٰكِهَةٍۢ كَثِيرَةٍۢ",
+      "english": "and fruit abounding,",
+      "urdu": "اور کبھی ختم نہ ہونے والے"
+    },
+    {
+      "number": 33,
+      "arabic": "لَّا مَقْطُوعَةٍۢ وَلَا مَمْنُوعَةٍۢ",
+      "english": "never-failing and never out of reach.",
+      "urdu": "اور بے روک ٹوک ملنے والے بکثرت پھلوں"
+    },
+    {
+      "number": 34,
+      "arabic": "وَفُرُشٍۢ مَّرْفُوعَةٍ",
+      "english": "And [with them will be their] spouses, raised high:",
+      "urdu": "اور اونچی نشست گاہوں میں ہوں گے"
+    },
+    {
+      "number": 35,
+      "arabic": "إِنَّآ أَنشَأْنَٰهُنَّ إِنشَآءًۭ",
+      "english": "for, behold, We shall have brought them into being in a life renewed,",
+      "urdu": "ان کی بیویوں کو ہم خاص طور پر نئے سرے سے پیدا کریں گے"
+    },
+    {
+      "number": 36,
+      "arabic": "فَجَعَلْنَٰهُنَّ أَبْكَارًا",
+      "english": "having resurrected them as virgins,",
+      "urdu": "اور انہیں با کرہ بنا دیں گے"
+    },
+    {
+      "number": 37,
+      "arabic": "عُرُبًا أَتْرَابًۭا",
+      "english": "full of love, well-matched",
+      "urdu": "اپنے شوہروں کی عاشق اور عمر میں ہم سن"
+    },
+    {
+      "number": 38,
+      "arabic": "لِّأَصْحَٰبِ ٱلْيَمِينِ",
+      "english": "with those who have attained to righteousness:",
+      "urdu": "یہ کچھ دائیں بازو والوں کے لیے ہے"
+    },
+    {
+      "number": 39,
+      "arabic": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+      "english": "a good many of olden times,",
+      "urdu": "وہ اگلوں میں سے بہت ہوں گے"
+    },
+    {
+      "number": 40,
+      "arabic": "وَثُلَّةٌۭ مِّنَ ٱلْءَاخِرِينَ",
+      "english": "and a good many of later times.",
+      "urdu": "اور پچھلوں میں سے بھی بہت"
+    },
+    {
+      "number": 41,
+      "arabic": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ",
+      "english": "BUT AS FOR those who have persevered in evil - what of those who have persevered in evil?",
+      "urdu": "اور بائیں بازو والے، بائیں بازو والوں کی بد نصیبی کا کیا پوچھنا"
+    },
+    {
+      "number": 42,
+      "arabic": "فِى سَمُومٍۢ وَحَمِيمٍۢ",
+      "english": "[They will find themselves] in the midst of scorching winds, and burning despair,",
+      "urdu": "وہ لو کی لپٹ اور کھولتے ہوئے پانی"
+    },
+    {
+      "number": 43,
+      "arabic": "وَظِلٍّۢ مِّن يَحْمُومٍۢ",
+      "english": "and the shadows of black smoke -",
+      "urdu": "اور کالے دھوئیں کے سائے میں ہوں گے"
+    },
+    {
+      "number": 44,
+      "arabic": "لَّا بَارِدٍۢ وَلَا كَرِيمٍ",
+      "english": "[shadows] neither cooling nor soothing.",
+      "urdu": "جو نہ ٹھنڈا ہوگا نہ آرام دہ"
+    },
+    {
+      "number": 45,
+      "arabic": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "english": "For, behold, in times gone by they were wont to abandon themselves wholly to the pursuit of pleasures,",
+      "urdu": "یہ وہ لوگ ہوں گے جو اِس انجام کو پہنچنے سے پہلے خوشحال تھے"
+    },
+    {
+      "number": 46,
+      "arabic": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "english": "and would persist in heinous sinning,",
+      "urdu": "اور گناہ عظیم پر اصرار کرتے تھے"
+    },
+    {
+      "number": 47,
+      "arabic": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "english": "and would say, “What! After we have died and become mere dust and bones, shall we, forsooth, be raised from the dead? -",
+      "urdu": "کہتے تھے \"کیا جب ہم مر کر خاک ہو جائیں گے اور ہڈیوں کا پنجر رہ جائیں گے تو پھر اٹھا کھڑے کیے جائیں گے؟"
+    },
+    {
+      "number": 48,
+      "arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "english": "and perhaps, too, our forebears of old?”",
+      "urdu": "اور کیا ہمارے وہ باپ دادا بھی اٹھائے جائیں گے جو پہلے گزر چکے ہیں؟\""
+    },
+    {
+      "number": 49,
+      "arabic": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْءَاخِرِينَ",
+      "english": "Say: “Verily, those of olden times and those of later times",
+      "urdu": "اے نبیؐ، اِن لوگوں سے کہو، یقیناً اگلے اور پچھلے سب"
+    },
+    {
+      "number": 50,
+      "arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَٰتِ يَوْمٍۢ مَّعْلُومٍۢ",
+      "english": "will indeed be gathered together at an appointed time on a Day known [only to God]:",
+      "urdu": "ایک دن ضرور جمع کیے جانے والے ہیں جس کا وقت مقرر کیا جا چکا ہے"
+    },
+    {
+      "number": 51,
+      "arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+      "english": "and then, verily, O you who have gone astray and called the truth a lie,",
+      "urdu": "پھر اے گمراہو اور جھٹلانے والو!"
+    },
+    {
+      "number": 52,
+      "arabic": "لَءَاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+      "english": "you will indeed have to taste of the tree of deadly fruit,",
+      "urdu": "تم شجر زقوم کی غذا کھانے والے ہو"
+    },
+    {
+      "number": 53,
+      "arabic": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "english": "and will have to fill your bellies therewith,",
+      "urdu": "اُسی سے تم پیٹ بھرو گے"
+    },
+    {
+      "number": 54,
+      "arabic": "فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+      "english": "and will thereupon have to drink [many a draught] of burning despair -",
+      "urdu": "اور اوپر سے کھولتا ہوا پانی"
+    },
+    {
+      "number": 55,
+      "arabic": "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+      "english": "drink it as the most insatiably thirsty camels drink!”",
+      "urdu": "تونس لگے ہوئے اونٹ کی طرح پیو گے"
+    },
+    {
+      "number": 56,
+      "arabic": "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+      "english": "Such will be their welcome on Judgment Day!",
+      "urdu": "یہ ہے بائیں والوں کی ضیافت کا سامان روز جزا میں"
+    },
+    {
+      "number": 57,
+      "arabic": "نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "english": "WE who have created you, [O men:] why, then, do you not accept the truth?",
+      "urdu": "ہم نے تمہیں پیدا کیا ہے پھر کیوں تصدیق نہیں کرتے؟"
+    },
+    {
+      "number": 58,
+      "arabic": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+      "english": "Have you ever considered that [seed] which you emit?",
+      "urdu": "کبھی تم نے غور کیا، یہ نطفہ جو تم ڈالتے ہو"
+    },
+    {
+      "number": 59,
+      "arabic": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ",
+      "english": "Is it you who create it - or are We the source of its creation?",
+      "urdu": "اس سے بچہ تم بناتے ہو یا اس کے بنانے والے ہم ہیں؟"
+    },
+    {
+      "number": 60,
+      "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "english": "We have [indeed] decreed that death shall be [ever-present] among you: but there is nothing to prevent Us",
+      "urdu": "ہم نے تمہارے درمیان موت کو تقسیم کیا ہے، اور ہم اِس سے عاجز نہیں ہیں"
+    },
+    {
+      "number": 61,
+      "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+      "english": "from changing the nature of your existence and bringing you into being [anew] in a manner [as yet] unknown to you.",
+      "urdu": "کہ تمہاری شکلیں بدل دیں اور کسی ایسی شکل میں تمہیں پیدا کر دیں جس کو تم نہیں جانتے"
+    },
+    {
+      "number": 62,
+      "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "english": "And [since] you are indeed aware of the [miracle of your] coming into being in the first instance - why, then, do you not bethink yourselves [of Us]?",
+      "urdu": "اپنی پہلی پیدائش کو تو تم جانتے ہو، پھر کیوں سبق نہیں لیتے؟"
+    },
+    {
+      "number": 63,
+      "arabic": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+      "english": "Have you ever considered the seed which you cast upon the soil?",
+      "urdu": "کبھی تم نے سوچا، یہ بیج جو تم بوتے ہو"
+    },
+    {
+      "number": 64,
+      "arabic": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+      "english": "Is it you who cause it to grow - or are We the cause of its growth?",
+      "urdu": "اِن سے کھیتیاں تم اگاتے ہو یا اُن کے اگانے والے ہم ہیں؟"
+    },
+    {
+      "number": 65,
+      "arabic": "لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ",
+      "english": "[For,] were it Our will, We could indeed turn it into chaff, and you would be left to wonder [and to lament],",
+      "urdu": "ہم چاہیں تو ان کھیتیوں کو بھس بنا کر رکھ دیں اور تم طرح طرح کی باتیں بناتے رہ جاؤ"
+    },
+    {
+      "number": 66,
+      "arabic": "إِنَّا لَمُغْرَمُونَ",
+      "english": "“Verily, we are ruined!",
+      "urdu": "کہ ہم پر تو الٹی چٹی پڑ گئی"
+    },
+    {
+      "number": 67,
+      "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "english": "Nay, but we have been deprived [of our livelihood]!”",
+      "urdu": "بلکہ ہمارے تو نصیب ہی پھوٹے ہوئے ہیں"
+    },
+    {
+      "number": 68,
+      "arabic": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+      "english": "Have you ever considered the water which you drink?",
+      "urdu": "کبھی تم نے آنکھیں کھول کر دیکھا، یہ پانی جو تم پیتے ہو"
+    },
+    {
+      "number": 69,
+      "arabic": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+      "english": "Is it you who cause it to come down from the clouds - or are We the cause of its coming down?",
+      "urdu": "اِسے تم نے بادل سے برسایا ہے یا اِس کے برسانے والے ہم ہیں؟"
+    },
+    {
+      "number": 70,
+      "arabic": "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ",
+      "english": "[It comes down sweet - but] were it Our will, We could make it burningly salty and bitter: why, then, do you not give thanks [unto Us]?",
+      "urdu": "ہم چاہیں تو اسے سخت کھاری بنا کر رکھ دیں، پھر کیوں تم شکر گزار نہیں ہوتے؟"
+    },
+    {
+      "number": 71,
+      "arabic": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+      "english": "Have you ever considered the fire which you kindle?",
+      "urdu": "کبھی تم نے خیال کیا، یہ آگ جو تم سلگاتے ہو"
+    },
+    {
+      "number": 72,
+      "arabic": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "english": "Is it you who have brought into being the tree that serves as its fuel - or are We the cause of its coming into being?",
+      "urdu": "اِس کا درخت تم نے پیدا کیا ہے، یا اس کے پیدا کرنے والے ہم ہیں؟"
+    },
+    {
+      "number": 73,
+      "arabic": "نَحْنُ جَعَلْنَٰهَا تَذْكِرَةًۭ وَمَتَٰعًۭا لِّلْمُقْوِينَ",
+      "english": "It is We who have made it a means to remind [you of Us], and a comfort for all who are lost and hungry in the wilderness [of their lives].",
+      "urdu": "ہم نے اُس کو یاد دہانی کا ذریعہ اور حاجت مندوں کے لیے سامان زیست بنایا ہے"
+    },
+    {
+      "number": 74,
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "english": "Extol, then, the limitless glory of thy Sus­tainer’s mighty name!",
+      "urdu": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو"
+    },
+    {
+      "number": 75,
+      "arabic": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "english": "NAY, I call to witness the coming-down in parts [of this Qur’an]",
+      "urdu": "پس نہیں، میں قسم کھاتا ہوں تاروں کے مواقع کی"
+    },
+    {
+      "number": 76,
+      "arabic": "وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "english": "and, behold, this is indeed a most solemn affirmation, if you but knew it!",
+      "urdu": "اور اگر تم سمجھو تو یہ بہت بڑی قسم ہے"
+    },
+    {
+      "number": 77,
+      "arabic": "إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ",
+      "english": "Behold, it is a truly noble discourse,",
+      "urdu": "کہ یہ ایک بلند پایہ قرآن ہے"
+    },
+    {
+      "number": 78,
+      "arabic": "فِى كِتَٰبٍۢ مَّكْنُونٍۢ",
+      "english": "[conveyed unto man] in a well-guarded divine writ",
+      "urdu": "ایک محفوظ کتاب میں ثبت"
+    },
+    {
+      "number": 79,
+      "arabic": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "english": "which none but the pure [of heart] can touch:",
+      "urdu": "جسے مطہرین کے سوا کوئی چھو نہیں سکتا"
+    },
+    {
+      "number": 80,
+      "arabic": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+      "english": "a revelation from the Sustainer of all the worlds!",
+      "urdu": "یہ رب العالمین کا نازل کردہ ہے"
+    },
+    {
+      "number": 81,
+      "arabic": "أَفَبِهَٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+      "english": "Would you, now, look down with disdain on a tiding like this,",
+      "urdu": "پھر کیا اس کلام کے ساتھ تم بے اعتنائی برتتے ہو"
+    },
+    {
+      "number": 82,
+      "arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "english": "and make it your daily bread [as it were] to call the truth a lie?",
+      "urdu": "اور اِس نعمت میں اپنا حصہ تم نے یہ رکھا ہے کہ اِسے جھٹلاتے ہو؟"
+    },
+    {
+      "number": 83,
+      "arabic": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+      "english": "Why, then, when [the last breath] comes up to the throat [of a dying man],",
+      "urdu": "تو جب مرنے والے کی جان حلق تک پہنچ چکی ہوتی ہے"
+    },
+    {
+      "number": 84,
+      "arabic": "وَأَنتُمْ حِينَئِذٍۢ تَنظُرُونَ",
+      "english": "the while you are [helplessly] looking on -",
+      "urdu": "اور تم آنکھوں سے دیکھ رہے ہوتے ہو کہ وہ مر رہا ہے،"
+    },
+    {
+      "number": 85,
+      "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ",
+      "english": "and while We are closer to him than you, although you see [Us] not -:",
+      "urdu": "اُس وقت تمہاری بہ نسبت ہم اُس کے زیادہ قریب ہوتے ہیں مگر تم کو نظر نہیں آتے"
+    },
+    {
+      "number": 86,
+      "arabic": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+      "english": "why, then, if [you think that] you are not truly dependent [on Us],",
+      "urdu": "اب اگر تم کسی کے محکوم نہیں ہو اور اپنے اِس خیال میں سچے ہو،"
+    },
+    {
+      "number": 87,
+      "arabic": "تَرْجِعُونَهَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "english": "can you not cause that [ebbing life] to return - if what you claim is true?",
+      "urdu": "اُس وقت اُس کی نکلتی ہوئی جان کو واپس کیوں نہیں لے آتے؟"
+    },
+    {
+      "number": 88,
+      "arabic": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "english": "[ALL OF YOU are destined to die.] Now if one happens to be of those who are drawn close unto God,",
+      "urdu": "پھر وہ مرنے والا اگر مقربین میں سے ہو"
+    },
+    {
+      "number": 89,
+      "arabic": "فَرَوْحٌۭ وَرَيْحَانٌۭ وَجَنَّتُ نَعِيمٍۢ",
+      "english": "happiness [awaits him in the life to come], and inner fulfillment, and a garden of bliss.",
+      "urdu": "تو اس کے لیے راحت اور عمدہ رزق اور نعمت بھری جنت ہے"
+    },
+    {
+      "number": 90,
+      "arabic": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "english": "And if one happens to be of those who have attained to righteousness,",
+      "urdu": "اور اگر وہ اصحاب یمین میں سے ہو"
+    },
+    {
+      "number": 91,
+      "arabic": "فَسَلَٰمٌۭ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "english": "[he, too, will be wel­comed into paradise with the words,] “Peace be unto thee [that art] of those who have attained to right­eousness!”",
+      "urdu": "تو اس کا استقبال یوں ہوتا ہے کہ سلام ہے تجھے، تو اصحاب الیمین میں سے ہے"
+    },
+    {
+      "number": 92,
+      "arabic": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "english": "But if one happens to be of those who are wont to call the truth a lie, and [thus] go astray,",
+      "urdu": "اور اگر وہ جھٹلانے والے گمراہ لوگوں میں سے ہو"
+    },
+    {
+      "number": 93,
+      "arabic": "فَنُزُلٌۭ مِّنْ حَمِيمٍۢ",
+      "english": "a welcome of burning despair [awaits him in the life to come,]",
+      "urdu": "تو اس کی تواضع کے لیے کھولتا ہوا پانی ہے"
+    },
+    {
+      "number": 94,
+      "arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+      "english": "and the heat of a blazing fire!",
+      "urdu": "اور جہنم میں جھونکا جانا"
+    },
+    {
+      "number": 95,
+      "arabic": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+      "english": "Verily, this is indeed the truth of truths!",
+      "urdu": "یہ سب کچھ قطعی حق ہے"
+    },
+    {
+      "number": 96,
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "english": "Extol, then, the limitless glory of thy Sus­tainer’s mighty name!",
+      "urdu": "پس اے نبیؐ، اپنے رب عظیم کے نام کی تسبیح کرو"
+    }
+  ]
+}

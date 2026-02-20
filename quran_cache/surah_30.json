@@ -1,0 +1,370 @@
+{
+  "success": true,
+  "surah_number": 30,
+  "arabic_name": "سُورَةُ الرُّومِ",
+  "english_name": "Ar-Room",
+  "verses_count": 60,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+      "english": "Alif. Lam. Mim.",
+      "urdu": "ا ل م"
+    },
+    {
+      "number": 2,
+      "arabic": "غُلِبَتِ ٱلرُّومُ",
+      "english": "Defeated have been the Byzantines",
+      "urdu": "رومی قریب کی سرزمین میں مغلوب ہو گئے ہیں"
+    },
+    {
+      "number": 3,
+      "arabic": "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+      "english": "in the lands close-by; yet it is they who, notwithstanding this their defeat, shall be victorious",
+      "urdu": "اور اپنی اِس مغلوبیت کے بعد چند سال کے اندر وہ غالب ہو جائیں گے"
+    },
+    {
+      "number": 4,
+      "arabic": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ",
+      "english": "within a few years: [for] with God rests all power of decision, first and last. And on that day will the believers [too, have cause to] rejoice",
+      "urdu": "اللہ ہی کا اختیار ہے پہلے بھی اور بعد میں بھی اور وہ دن وہ ہو گا جبکہ اللہ کی بخشی ہوئی فتح پر مسلمان خوشیاں منائیں گے"
+    },
+    {
+      "number": 5,
+      "arabic": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "english": "in God’s succour: [for] He gives suc­cour to whomever He wills, since He alone is almighty, a dispenser of grace.",
+      "urdu": "اللہ نصرت عطا فرماتا ہے جسے چاہتا ہے، اور وہ زبردست اور رحیم ہے"
+    },
+    {
+      "number": 6,
+      "arabic": "وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "english": "[This is] God’s promise. Never does God fail to fulfill His promise - but most people know [it] not:",
+      "urdu": "یہ وعدہ اللہ نے کیا ہے، اللہ کبھی اپنے وعدے کی خلاف ورزی نہیں کرتا، مگر اکثر لوگ نہیں جانتے ہیں"
+    },
+    {
+      "number": 7,
+      "arabic": "يَعْلَمُونَ ظَٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ",
+      "english": "they know but the outer surface of this world’s life, whereas of the ultimate things they are utterly un­aware.",
+      "urdu": "لوگ دُنیا کی زندگی کا بس ظاہری پہلو جانتے ہیں اور آخرت سے وہ خود ہی غافل ہیں"
+    },
+    {
+      "number": 8,
+      "arabic": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ أَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَٰفِرُونَ",
+      "english": "Have they never learned to think for them­selves? God has not created the heavens and the earth and all that is between them without [an inner] truth and a term set [by Him]: and yet, behold, there are many people who stubbornly deny the truth that they are destined to meet their Sustainer!",
+      "urdu": "کیا انہوں نے کبھی اپنے آپ میں غور و فکر نہیں کیا؟ اللہ نے زمین اور آسمانوں کو اور اُن ساری چیزوں کو جو اُن کے درمیان ہیں برحق اور ایک مقرّر مدت ہی کے لیے پیدا کیا ہے مگر بہت سے لوگ اپنے رب کی ملاقات کے منکر ہیں"
+    },
+    {
+      "number": 9,
+      "arabic": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۭ وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "english": "Have they, then, never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before their time? Greater were they in power than they are; and they left a stronger impact on the earth, and built it up even better than these [are doing]; and to them [too] came their apostles with all evidence of the truth: and so, [when they rejected the truth and thereupon perished,] it was not God who wronged them, but it was they who had wronged themselves.",
+      "urdu": "اور کیا یہ لوگ کبھی زمین میں چلے پھرے نہیں ہیں کہ اِنہیں اُن لوگوں کا انجام نظر آتا جو اِن سے پہلے گزر چکے ہیں؟ وہ اِن سے زیادہ طاقت رکھتے تھے، اُنہوں نے زمین کو خوب ادھیڑا تھا اور اُسے اتنا آباد کیا تھا جتنا اِنہوں نے نہیں کیا ہے اُن کے پاس ان کے رسول روشن نشانیاں لے کر آئے پھر اللہ ان پر ظلم کرنے والا نہ تھا، مگر وہ خود ہی اپنے اوپر ظلم کر رہے تھے"
+    },
+    {
+      "number": 10,
+      "arabic": "ثُمَّ كَانَ عَٰقِبَةَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ ٱلسُّوٓأَىٰٓ أَن كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ",
+      "english": "And once again: evil is bound to be the end of those who do evil by giving the lie to God’s messages and deriding them.",
+      "urdu": "آ خرکار جن لوگوں نے بُرائیاں کی تھیں ان کا انجام بہت برا ہوا، اس لیے کہ انہوں نے اللہ کی آیات کو جھٹلایا تھا اور وہ ان کا مذاق اڑاتے تھے"
+    },
+    {
+      "number": 11,
+      "arabic": "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+      "english": "GOD CREATES [man] in the first instance, and then brings him forth anew: and, in the end, unto Him you all will be brought back.",
+      "urdu": "اللہ ہی خلق کی ابتدا کرتا ہے، پھر وہی اس کا اعادہ کرے گا، پھر اسی کی طرف تم پلٹائے جاؤ گے"
+    },
+    {
+      "number": 12,
+      "arabic": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ",
+      "english": "And when the last Hour dawns, those who were lost in sin will be broken in spirit",
+      "urdu": "اور جب وہ ساعت برپا ہو گی اس دن مجرم ہَک دَک رہ جائیں گے"
+    },
+    {
+      "number": 13,
+      "arabic": "وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَٰفِرِينَ",
+      "english": "for they will have no intercessors in the beings to whom they were wont to ascribe a share in God’s divinity, seeing that [by then] they themselves will have ceased to believe in their erstwhile blasphemous fancies.",
+      "urdu": "ان کے ٹھیرائے ہوئے شریکوں میں کوئی ان کا سفارشی نہ ہو گا اور وہ اپنے شریکوں کے منکر ہو جائیں گے"
+    },
+    {
+      "number": 14,
+      "arabic": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَتَفَرَّقُونَ",
+      "english": "And when the Last Hour dawns - on that Day will all [men] be sorted out:",
+      "urdu": "جس روز وہ ساعت برپا ہو گی، اس دن (سب انسان) الگ گروہوں میں بٹ جائیں گے"
+    },
+    {
+      "number": 15,
+      "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَهُمْ فِى رَوْضَةٍۢ يُحْبَرُونَ",
+      "english": "as for those who attained to faith and did righteous deeds, they shall be made happy in a garden of delight;",
+      "urdu": "جو لوگ ایمان لائے ہیں اور جنہوں نے نیک عمل کیے ہیں وہ ایک باغ میں شاداں و فرحاں رکھے جائیں گے"
+    },
+    {
+      "number": 16,
+      "arabic": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَا وَلِقَآئِ ٱلْءَاخِرَةِ فَأُو۟لَٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+      "english": "but as for those who refused to acknowledge the truth and gave the lie to Our messages - and (thus) to the announce­ment of a life to come - they will be given over to suffering.",
+      "urdu": "اور جنہوں نے کفر کیا ہے اور ہماری آیات کو اور آخرت کی ملاقات کو جھٹلایا ہے وہ عذاب میں حاضر رکھے جائیں گے"
+    },
+    {
+      "number": 17,
+      "arabic": "فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "english": "EXTOL, then, God’s limitless glory when you enter upon the evening hours, and when you rise at morn;",
+      "urdu": "پس تسبیح کرو اللہ کی جبکہ تم شام کرتے ہو اور جب صبح کرتے ہو"
+    },
+    {
+      "number": 18,
+      "arabic": "وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّۭا وَحِينَ تُظْهِرُونَ",
+      "english": "and [seeing that] unto Him is due all praise in the heavens and on earth, [glorify Him] in the afternoon as well, and when you enter upon the hour of noon.",
+      "urdu": "آسمانوں اور زمین میں اُسی کے لیے حمد ہے اور (تسبیح کرو اس کی) تیسرے پہر اور جبکہ تم پر ظہر کا وقت آتا ہے"
+    },
+    {
+      "number": 19,
+      "arabic": "يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ",
+      "english": "He [it is who] brings forth the living out of that which is dead, and brings forth the dead out of that which is alive, and gives life to the earth after it had been lifeless: and even thus will you be brought forth [from death to life]",
+      "urdu": "وہ زندہ میں سے مُردے کو نکالتا ہے اور مُردے میں سے زندہ کو نکالتا ہے اور زمین کو اس کی موت کے بعد زندگی بخشتا ہے اسی طرح تم لوگ بھی (حالت موت سے) نکال لیے جاؤ گے"
+    },
+    {
+      "number": 20,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ",
+      "english": "And among His wonders is this: He creates you out of dust – and then, lo! you become human beings ranging far and wide!",
+      "urdu": "اُس کی نشانیوں میں سے یہ ہے کہ اس نے تم کو مٹی سے پیدا کیا پھر یکایک تم بشر ہو کہ (زمین میں) پھیلتے چلے جا رہے ہو"
+    },
+    {
+      "number": 21,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+      "english": "And among His wonders is this: He creates for you mates out of your own kind. so that you might incline towards them, and He engenders love and tenderness between you: in this, behold, there are messages indeed for people who think!",
+      "urdu": "اور اس کی نشانیوں میں سے یہ ہے کہ اس نے تمہارے لیے تمہاری ہی جنس سے بیویاں بنائیں تاکہ تم ان کے پاس سکون حاصل کرو اور تمہارے درمیان محبّت اور رحمت پیدا کر دی یقیناً اس میں بہت سی نشانیاں ہے اُن لوگوں کے لیے جو غور و فکر کرتے ہیں"
+    },
+    {
+      "number": 22,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّلْعَٰلِمِينَ",
+      "english": "And among his wonders is the creation of the heavens and the earth, and the diversity of your tongues and colours: for in this, behold, there are messages indeed for all who are possessed of [innate] knowledge!",
+      "urdu": "اور اس کی نشانیوں میں سے آسمانوں اور زمین کی پیدائش، اور تمہاری زبانوں اور تمہارے رنگوں کا اختلاف ہے یقیناً اس میں بہت سی نشانیاں ہیں دانشمند لوگوں کے لیے"
+    },
+    {
+      "number": 23,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ",
+      "english": "And among His wonders is your sleep, at night or in daytime, as well as your [ability to go about in] quest of some of His bounties: in this, behold, there are messages indeed for people who [are willing to] listen!",
+      "urdu": "اور اُس کی نشانیوں میں سے تمہارا رات اور دن کو سونا اور تمہارا اس کے فضل کو تلاش کرنا ہے یقیناً اِس میں بہت سی نشانیاں ہیں اُن لوگوں کے لیے جو (غور سے) سُنتے ہیں"
+    },
+    {
+      "number": 24,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًۭا وَطَمَعًۭا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءًۭ فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
+      "english": "And among His wonders is this: He displays before you the lightning, giving rise to [both] fear and hope, and sends down water from the skies, giving life thereby to the earth after it had been lifeless: in this, behold, there are messages indeed for people who use their reason!",
+      "urdu": "اور اُس کی نشانیوں میں سے یہ ہے کہ وہ تمہیں بجلی کی چمک دکھاتا ہے خوف کے ساتھ بھی اور طمع کے ساتھ بھی اور آسمان سے پانی برساتا ہے، پھر اس کے ذریعہ سے زمین کو اس کی موت کے بعد زندگی بخشتا ہے یقیناً اِس میں بہت سی نشانیاں ہیں اُن لوگوں کے لیے جو عقل سے کام لیتے ہیں"
+    },
+    {
+      "number": 25,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلْأَرْضُ بِأَمْرِهِۦ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةًۭ مِّنَ ٱلْأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ",
+      "english": "And among His wonders is this: the skies and the earth stand firm at His behest. [Remember all this: for] in the end, when He will call you forth from the earth with a single call - lo! you will [all] emerge [for judgment].",
+      "urdu": "اور اُس کی نشانیوں میں سے یہ ہے کہ آسمان اور زمین اس کے حکم سے قائم ہیں پھر جونہی کہ اُس نے تمہیں زمین سے پکارا، بس ایک ہی پکار میں اچانک تم نکل آؤ گے"
+    },
+    {
+      "number": 26,
+      "arabic": "وَلَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّۭ لَّهُۥ قَٰنِتُونَ",
+      "english": "For, unto Him belongs every being that is in the heavens and on earth; all things devoutly obey His will.",
+      "urdu": "آسمانوں اور زمین میں جو بھی ہیں اُس کے بندے ہیں، سب کے سب اسی کے تابع فرمان ہیں"
+    },
+    {
+      "number": 27,
+      "arabic": "وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "english": "And He it is who creates [all life] in the first instance, and then brings it forth anew: and most easy is this for Him, since His is the essence of all that is most sublime in the heavens and on earth, and He alone is almighty, truly wise.",
+      "urdu": "وہی ہے جو تخلیق کی ابتدا کرتا ہے، پھر وہی اس کا اعادہ کرے گا اور یہ اس کے لیے آسان تر ہے آسمانوں اور زمین میں اس کی صفت سب سے برتر ہے اور وہ زبردست اور حکیم ہے"
+    },
+    {
+      "number": 28,
+      "arabic": "ضَرَبَ لَكُم مَّثَلًۭا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌۭ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍۢ يَعْقِلُونَ",
+      "english": "He propounds unto you a parable drawn from your own life: Would you [agree to] have some of those whom your right hands possess as [full-fledged] partners in whatever We may have bestowed upon you as sustenance, so that you [and they] would have equal shares in it, and you would fear [to make use of it without consulting] them, just as you might fear [the more powerful of] your equals? Thus clearly do We spell out these messages unto people who use their reason.",
+      "urdu": "وہ تمہیں خود تمہاری اپنی ہی ذات سے ایک مثال دیتا ہے کیا تمہارے اُن غلاموں میں سے جو تمہاری ملکیت میں ہیں کچھ غلام ایسے بھی ہیں جو ہمارے دیے ہوئے مال و دولت میں تمہارے ساتھ برابر کے شریک ہوں اور تم اُن سے اُس طرح ڈرتے ہو جس طرح آپس میں اپنے ہمسروں سے ڈرتے ہو؟ اس طرح ہم آیات کھول کر پیش کرتے ہیں اُن لوگوں کے لیے جو عقل سے کام لیتے ہیں"
+    },
+    {
+      "number": 29,
+      "arabic": "بَلِ ٱتَّبَعَ ٱلَّذِينَ ظَلَمُوٓا۟ أَهْوَآءَهُم بِغَيْرِ عِلْمٍۢ ۖ فَمَن يَهْدِى مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+      "english": "But nay - they who are bent on evildoing fol­low but their own desires, without having any knowl­edge (of the truth). And who could guide those whom God has [thus] let go astray, and who (thereupon) have none to succour them?",
+      "urdu": "مگر یہ ظالم بے سمجھے بوجھے اپنے تخیلات کے پیچھے چل پڑے ہیں اب کون اُس شخص کو راستہ دکھا سکتا ہے جسے اللہ نے بھٹکا دیا ہو ایسے لوگوں کا تو کوئی مدد گار نہیں ہو سکتا"
+    },
+    {
+      "number": 30,
+      "arabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًۭا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "english": "AND SO, set thy face steadfastly towards the [one ever-true] faith, turning away from all that is false, in accordance with the natural disposition which God has instilled into man: [for,] not to allow any change to corrupt what God has thus created this is the [purpose of the one] ever-true faith; but most people know it not.",
+      "urdu": "پس (اے نبیؐ، اور نبیؐ کے پیروؤں) یک سُو ہو کر اپنا رُخ اِس دین کی سمت میں جما دو، قائم ہو جاؤ اُس فطرت پر جس پر اللہ تعالیٰ نے انسانوں کو پیدا کیا ہے، اللہ کی بنائی ہوئی ساخت بدلی نہیں جا سکتی، یہی بالکل راست اور درست دین ہے، مگر اکثر لوگ جانتے نہیں ہیں"
+    },
+    {
+      "number": 31,
+      "arabic": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ",
+      "english": "[Turn, then, away from all that is false,] turn­ing unto Him [alone]; and remain conscious of Him, and be constant in prayer, and be not among those who ascribe divinity to aught beside Him,",
+      "urdu": "(قائم ہو جاؤ اِس بات پر) اللہ کی طرف رجوع کرتے ہوئے، اور ڈرو اُس سے، اور نماز قائم کرو، اور نہ ہو جاؤ اُن مشرکین میں سے"
+    },
+    {
+      "number": 32,
+      "arabic": "مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًۭا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "english": "[or] among those who have broken the unity of their faith and have become sects, each group delighting in but what they themselves hold [by way of tenets].",
+      "urdu": "جنہوں نے اپنا اپنا دین الگ بنا لیا ہے اور گروہوں میں بٹ گئے ہیں، ہر ایک گروہ کے پاس جو کچھ ہے اسی میں وہ مگن ہے"
+    },
+    {
+      "number": 33,
+      "arabic": "وَإِذَا مَسَّ ٱلنَّاسَ ضُرٌّۭ دَعَوْا۟ رَبَّهُم مُّنِيبِينَ إِلَيْهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌۭ مِّنْهُم بِرَبِّهِمْ يُشْرِكُونَ",
+      "english": "NOW [thus it is:] when affliction befalls men, they cry out unto their Sustainer, turning unto Him [for help]; but as soon as He lets them taste of His grace, lo! some of them [begin to] ascribe to other powers a share in their Sustainer’s divinity,",
+      "urdu": "لوگوں کا حال یہ ہے کہ جب انہیں کوئی تکلیف پہنچتی ہے تو اپنے رب کی طرف رجوع کر کے اُسے پکارتے ہیں، پھر جب وہ کچھ اپنی رحمت کا ذائقہ انہیں چکھا دیتا ہے تو یکایک ان میں سے کچھ لوگ شرک کرنے لگتے ہیں"
+    },
+    {
+      "number": 34,
+      "arabic": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ",
+      "english": "[as if] to prove their ingratitude for all that We have granted them! Enjoy, then, your [brief] life: but in time you will come to know [the truth]!",
+      "urdu": "تاکہ ہمارے کیے ہوئے احسان کی ناشکری کریں اچھا، مزے کر لو، عنقریب تمہیں معلوم ہو جائے گا"
+    },
+    {
+      "number": 35,
+      "arabic": "أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَٰنًۭا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ يُشْرِكُونَ",
+      "english": "Have We ever bestowed upon them from on high a divine writ which would speak [with appro­val] of their worshipping aught beside Us?",
+      "urdu": "کیا ہم نے کوئی سند اور دلیل ان پر نازل کی ہے جو شہادت دیتی ہو اس شرک کی صداقت پر جو یہ کر رہے ہیں؟"
+    },
+    {
+      "number": 36,
+      "arabic": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةًۭ فَرِحُوا۟ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
+      "english": "And [thus it is:] when we let men taste [Our] grace, they rejoice in it; but if evil befalls them as an outcome of what their own hands have wrought lo! they lose all hope!",
+      "urdu": "جب ہم لوگوں کو رحمت کا ذائقہ چکھاتے ہیں تو وہ اس پر پھول جاتے ہیں، اور جب ان کے اپنے کیے کرتوتوں سے ان پر کوئی مصیبت آتی ہے تو یکایک وہ مایوس ہونے لگتے ہیں"
+    },
+    {
+      "number": 37,
+      "arabic": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+      "english": "Are they, then, not aware that it is God who grants abundant sustenance, or gives it in scant measure, unto whomever He wills? In this, behold, there are messages indeed for peo­ple who will believe!",
+      "urdu": "کیا یہ لوگ دیکھتے نہیں ہیں کہ اللہ ہی رزق کشادہ کرتا ہے جس کا چاہتا ہے اور تنگ کرتا ہے (جس کا چاہتا ہے) یقیناً اس میں بہت سی نشانیاں ہیں اُن لوگوں کے لیے جو ایمان لاتے ہیں"
+    },
+    {
+      "number": 38,
+      "arabic": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌۭ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "english": "Hence, give his due to the near of kin, as well as to the needy and the wayfarer; this is best for all who seek God’s countenance: for it is they, they that shall attain to a happy state!",
+      "urdu": "پس (اے مومن) رشتہ دار کو اس کا حق دے اور مسکین و مسافر کو (اُس کا حق) یہ طریقہ بہتر ہے اُن لوگوں کے لیے جو اللہ کی خوشنودی چاہتے ہوں، اور وہی فلاح پانے والے ہیں"
+    },
+    {
+      "number": 39,
+      "arabic": "وَمَآ ءَاتَيْتُم مِّن رِّبًۭا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ ۖ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍۢ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ",
+      "english": "And [remember:] whatever you may give out in usury so that it might increase through [other] people’s possessions will bring [you] no increase in the sight of God whereas all that you give out in charity, seeking God’s countenance, [will be blessed by Him:] for it is they, they [who thus seek His countenance] that shall have their recompense mul­tiplied!",
+      "urdu": "جو سُود تم دیتے ہو تاکہ لوگوں کے اموال میں شامل ہو کر وہ بڑھ جائے، اللہ کے نزدیک وہ نہیں بڑھتا، اور جو زکوٰۃ تم اللہ کی خوشنودی حاصل کرنے کے ارادے سے دیتے ہو، اسی کے دینے والے در حقیقت اپنے مال بڑھاتے ہیں"
+    },
+    {
+      "number": 40,
+      "arabic": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍۢ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "english": "IT IS GOD who has created you, and then has provided you with sustenance, and then will cause you to die, and then will bring you to life again. Can any of those beings or powers to whom you ascribe a share in His divinity do any of these things? Limitless is He in His glory, and sublimely exalted above anything to which men may ascribe a share in His divinity!",
+      "urdu": "اللہ ہی ہے جس نے تم کو پیدا کیا، پھر تمہیں رزق دیا، پھر وہ تمہیں موت دیتا ہے، پھر وہ تمہیں زندہ کرے گا کیا تمہارے ٹھیرائے ہوئے شریکوں میں کوئی ایسا ہے جو ان میں سے کوئی کام بھی کرتا ہو؟ پاک ہے وہ اور بہت بالا و برتر ہے اُس شرک سے جو یہ لوگ کرتے ہیں؟"
+    },
+    {
+      "number": 41,
+      "arabic": "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ",
+      "english": "[Since they have become oblivious of God,] corruption has appeared on land and in the sea as an outcome of what men’s hands have wrought: and so He will let them taste [the evil of] some of their doings, so that they might return [to the right path].",
+      "urdu": "خشکی اور تری میں فساد برپا ہو گیا ہے لوگوں کے اپنے ہاتھوں کی کمائی سے تاکہ مزا چکھائے اُن کو ان کے بعض اعمال کا، شاید کہ وہ باز آئیں"
+    },
+    {
+      "number": 42,
+      "arabic": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلُ ۚ كَانَ أَكْثَرُهُم مُّشْرِكِينَ",
+      "english": "Say: “Go all over the earth, and behold what happened in the end to those [sinners] who lived before [you]: most of them were wont to ascribe divine qualities to things or beings other than God.”",
+      "urdu": "(اے نبیؐ) اِن سے کہو کہ زمین میں چل پھر کر دیکھو پہلے گزرے ہوئے لوگوں کا کیا انجام ہو چکا ہے، ان میں سے اکثر مشرک ہی تھے"
+    },
+    {
+      "number": 43,
+      "arabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ ٱلْقَيِّمِ مِن قَبْلِ أَن يَأْتِىَ يَوْمٌۭ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۖ يَوْمَئِذٍۢ يَصَّدَّعُونَ",
+      "english": "Set, then, thy face steadfastly towards the one ever-true faith, ere there come from God a Day [of reckoning - the Day] which cannot be averted. On that Day all will be sundered:",
+      "urdu": "پس (اے نبیؐ) اپنا رُخ مضبوطی کے ساتھ جما دو اِس دین راست کی سمت میں قبل اس کے کہ وہ دن آئے جس کے ٹل جانے کی کوئی صورت اللہ کی طرف سے نہیں ہے اُس دن لوگ پھَٹ کر ایک دُوسرے سے الگ ہو جائیں گے"
+    },
+    {
+      "number": 44,
+      "arabic": "مَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَمَنْ عَمِلَ صَٰلِحًۭا فَلِأَنفُسِهِمْ يَمْهَدُونَ",
+      "english": "he who has denied the truth will have to bear [the burden of] his denial, whereas all who did what is right and just will have made goodly provision for themselves,",
+      "urdu": "جس نے کفر کیا ہے اس کے کفر کا وبال اسی پر ہے اور جن لوگوں نے نیک عمل کیا ہے وہ اپنے ہی لیے فلاح کا راستہ صاف کر رہے ہیں"
+    },
+    {
+      "number": 45,
+      "arabic": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "english": "so that He might reward, out of His bounty, those who have attained to faith and done righteous deeds. Verily, He does not love those who refuse to acknowledge the truth –",
+      "urdu": "تاکہ اللہ ایمان لانے والوں اور عملِ صالح کرنے والوں کو اپنے فضل سے جزا دے یقیناً وہ کافروں کو پسند نہیں کرتا"
+    },
+    {
+      "number": 46,
+      "arabic": "وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍۢ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "english": "for among His wonders is this: He sends forth [His messages as He sends forth] the winds that bear glad tidings, so that He might give you a taste of His grace [through life-giving rains], and that ships might sail at His behest, and that you might go about in quest of some of His bounties, and that you might have cause to be grateful.",
+      "urdu": "اُس کی نشانیوں میں سے یہ ہے کہ وہ ہوائیں بھیجتا ہے بشارت دینے کے لیے اور تمہیں اپنی رحمت سے بہرہ مند کرنے کے لیے اور اس غرض کے لیے کہ کشتیاں اس کے حکم سے چلیں اور تم اس کا فضل تلاش کرو اور اس کے شکر گزار بنو"
+    },
+    {
+      "number": 47,
+      "arabic": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِٱلْبَيِّنَٰتِ فَٱنتَقَمْنَا مِنَ ٱلَّذِينَ أَجْرَمُوا۟ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ ٱلْمُؤْمِنِينَ",
+      "english": "And indeed, [O Muhammad, even] before thee did We send forth apostles - each one unto his own people and they brought them all evidence of the truth: and then, [by causing the believers to triumph,] We inflicted Our retribution upon those who [de­liberately] did evil: for We had willed it upon Our­selves to succour the believers.",
+      "urdu": "اور ہم نے تم سے پہلے رسُولوں کو ان کی قوم کی طرف بھیجا اور وہ ان کے پاس روشن نشانیاں لے کر آئے، پھر جنہوں نے جرم کیا اُن سے ہم نے انتقام لیا اور ہم پر یہ حق تھا کہ ہم مومنوں کی مدد کریں"
+    },
+    {
+      "number": 48,
+      "arabic": "ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًۭا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+      "english": "It is God who sends forth the winds [of hope], so that they raise a cloud - whereupon He spreads it over the skies as He wills, and causes it to break up so that thou seest rain issue from within it: and as soon as He causes it to fall upon whomever He wills of His servants - lo! they rejoice,",
+      "urdu": "اللہ ہی ہے جو ہواؤں کو بھیجتا ہے اور وہ بادل اٹھاتی ہیں، پھر وہ اِن بادلوں کو آسمان میں پھیلا دیتا ہے جس طرح چاہتا ہے اور انہیں ٹکڑیوں میں تقسیم کرتا ہے، پھر تُو دیکھتا ہے کہ بارش کے قطرے بادل سے ٹپکے چلے آتے ہیں یہ بارش جب وہ اپنے بندوں میں سے جن پر چاہتا ہے برساتا ہے"
+    },
+    {
+      "number": 49,
+      "arabic": "وَإِن كَانُوا۟ مِن قَبْلِ أَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِۦ لَمُبْلِسِينَ",
+      "english": "even though a short while ago, [just] before it was sent down upon them, they had abandoned all hope!",
+      "urdu": "تو یکایک وہ خوش و خرم ہو جاتے ہیں حالانکہ اس کے نزول سے پہلے وہ مایوس ہو رہے تھے"
+    },
+    {
+      "number": 50,
+      "arabic": "فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+      "english": "Behold, then, [O man,] these signs of God’s grace - how He gives life to the earth after it had been lifeless! Verily, this Selfsame [God] is indeed the One that can bring the dead back to life: for He has the power to will anything!",
+      "urdu": "دیکھو اللہ کی رحمت کے اثرات کہ مُردہ پڑی ہوئی زمین کو وہ کس طرح جِلا اٹھاتا ہے، یقیناً وہ مُردوں کو زندگی بخشنے والا ہے اور وہ ہر چیز پر قادر ہے"
+    },
+    {
+      "number": 51,
+      "arabic": "وَلَئِنْ أَرْسَلْنَا رِيحًۭا فَرَأَوْهُ مُصْفَرًّۭا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ",
+      "english": "But thus it is: if We send a wind [that scorches their land], and they see it turn yellow, they begin, after that [erstwhile joy], to deny the truth [of Our almightiness and grace]!",
+      "urdu": "اور اگر ہم ایک ایسی ہوا بھیج دیں جس کے اثر سے وہ اپنی کھیتی کو زرد پائیں تو وہ کفر کرتے رہ جاتے ہیں"
+    },
+    {
+      "number": 52,
+      "arabic": "فَإِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+      "english": "And, verily, thou canst not make the dead hear: and [so, too,] thou canst not make the deaf [of heart] hear this call when they turn their backs [on thee] and go away,",
+      "urdu": "(اے نبیؐ) تم مُردوں کو نہیں سنا سکتے، نہ اُن بہروں کو اپنی پکار سنا سکتے ہو جو پیٹھ پھیرے بھاگے چلے جا رہے ہوں"
+    },
+    {
+      "number": 53,
+      "arabic": "وَمَآ أَنتَ بِهَٰدِ ٱلْعُمْىِ عَن ضَلَٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَٰتِنَا فَهُم مُّسْلِمُونَ",
+      "english": "just as thou canst not lead the blind [of heart] out of their error: none canst thou make hear [thy call] save such as [are willing to] believe in Our messages, and thus surrender them­selves unto Us.",
+      "urdu": "اور نہ تم اندھوں کو ان کی گمراہی سے نکال کر راہِ راست دکھا سکتے ہو تم تو صرف انہی کو سنا سکتے ہو جو ہماری آیات پر ایمان لاتے اور سرِ تسلیم خم کر دیتے ہیں"
+    },
+    {
+      "number": 54,
+      "arabic": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍۢ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍۢ قُوَّةًۭ ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍۢ ضَعْفًۭا وَشَيْبَةًۭ ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+      "english": "IT IS GOD who creates you [all in a states of weak­ness, and then, after weakness, ordains strength [for you], and then, after [a period of] strength, ordains [old-age] weakness and grey hair. He creates what He wills; and He alone is all-knowing, infinite in His power.",
+      "urdu": "اللہ ہی تو ہے جس نے ضعف کی حالت میں تمہاری پیدائش کی ابتدا کی، پھر اس ضعف کے بعد تمہیں قوت بخشی، پھر اس قوت کے بعد تمہیں ضعیف اور بوڑھا کر دیا وہ جو کچھ چاہتا ہے پیدا کرتا ہے اور وہ سب کچھ جاننے والا، ہر چیز پر قدرت رکھنے والا ہے"
+    },
+    {
+      "number": 55,
+      "arabic": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍۢ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ",
+      "english": "[He it is who will cause you to die, and in time will resurrect you.] And when the Last Hour dawns, those who had been lost in sin will swear that they had not tarried [on earth] longer than an hour: thus were they wont to delude themselves [all their lives]!",
+      "urdu": "اور جب وہ ساعت برپا ہو گی تو مجرم قسمیں کھا کھا کر کہیں گے کہ ہم ایک گھڑی بھر سے زیادہ نہیں ٹھیرے ہیں، اِسی طرح وہ دنیا کی زندگی میں دھوکا کھایا کرتے تھے"
+    },
+    {
+      "number": 56,
+      "arabic": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَٰذَا يَوْمُ ٱلْبَعْثِ وَلَٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+      "english": "But those who [in their lifetime] were endowed with knowledge and faith will say: “Indeed, you have been tardy in [accepting as true] what God has revealed, [and you have waited] until the Day of Resurrection: this, then, is the Day of Resurrection: but you - you were determined not to know it!",
+      "urdu": "مگر جو علم اور ایمان سے بہرہ مند کیے گئے تھے وہ کہیں گے کہ خدا کے نوشتے میں تو تم روزِ حشر تک پڑے رہے ہو، سو یہ وہی روزِ حشر ہے، لیکن تم جانتے نہ تھے"
+    },
+    {
+      "number": 57,
+      "arabic": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ ٱلَّذِينَ ظَلَمُوا۟ مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "english": "And so, on that Day their excuse will be of no avail to those who were bent on evildoing, nor will they be allowed to make amends.",
+      "urdu": "پس وہ دن ہو گا جس میں ظالموں کو ان کی معذرت کوئی نفع نہ دے گی اور نہ ان سے معافی مانگنے کے لیے کہا جائے گا"
+    },
+    {
+      "number": 58,
+      "arabic": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ ۚ وَلَئِن جِئْتَهُم بِـَٔايَةٍۢ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ",
+      "english": "AND, INDEED, We have propounded unto men all kinds of parables in this Qur’an. But thus it is: if thou approach them with any [such] message, those who are bent on denying the truth are sure to say, “You are but making false claims!”",
+      "urdu": "ہم نے اِس قرآن میں لوگوں کو طرح طرح سے سمجھایا ہے تم خواہ کوئی نشانی لے آؤ، جن لوگوں نے ماننے سے انکار کر دیا ہے وہ یہی کہیں گے کہ تم باطل پر ہو"
+    },
+    {
+      "number": 59,
+      "arabic": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ",
+      "english": "In this way does God seal the hearts of those who do not [want to] know [the truth].",
+      "urdu": "اِس طرح ٹھپہ لگا دیتا ہے اللہ اُن لوگوں کے دلوں پر جو بے علم ہیں"
+    },
+    {
+      "number": 60,
+      "arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "english": "Remain, then, patient in adversity: verily, Gods promise [of resurrection] is true indeed - so let not those who are devoid of all inner certainty disquiet thy mind!",
+      "urdu": "پس (اے نبیؐ) صبر کرو، یقیناً اللہ کا وعدہ سچا ہے، اور ہرگز ہلکا نہ پائیں تم کو وہ لوگ جو یقین نہیں لاتے"
+    }
+  ]
+}

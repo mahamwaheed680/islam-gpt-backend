@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "surah_number": 111,
+  "arabic_name": "سُورَةُ المَسَدِ",
+  "english_name": "Al-Masad",
+  "verses_count": 5,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+      "english": "DOOMED are the hands of him of the glowing countence: and doomed is he!",
+      "urdu": "ٹوٹ گئے ابولہب کے ہاتھ اور نامراد ہو گیا وہ"
+    },
+    {
+      "number": 2,
+      "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "english": "What will his wealth avail him, and all that he has gained?",
+      "urdu": "اُس کا مال اور جو کچھ اس نے کمایا وہ اُس کے کسی کام نہ آیا"
+    },
+    {
+      "number": 3,
+      "arabic": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+      "english": "[In the life to come] he shall have to endure a fire fiercely glowing;",
+      "urdu": "ضرور وہ شعلہ زن آگ میں ڈالا جائے گا"
+    },
+    {
+      "number": 4,
+      "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "english": "together with his wife, that carrier of evil tales,",
+      "urdu": "اور (اُس کے ساتھ) اُس کی جورو بھی، لگائی بجھائی کرنے والی"
+    },
+    {
+      "number": 5,
+      "arabic": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+      "english": "[who bears] around her neck a rope of twisted strands!",
+      "urdu": "اُس کی گردن میں مونجھ کی رسی ہوگی"
+    }
+  ]
+}

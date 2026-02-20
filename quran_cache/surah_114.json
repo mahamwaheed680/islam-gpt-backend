@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "surah_number": 114,
+  "arabic_name": "سُورَةُ النَّاسِ",
+  "english_name": "An-Naas",
+  "verses_count": 6,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "english": "SAY: \"I seek refuge with the Sustainer of men,",
+      "urdu": "کہو، میں پناہ مانگتا ہوں انسانوں کے رب"
+    },
+    {
+      "number": 2,
+      "arabic": "مَلِكِ ٱلنَّاسِ",
+      "english": "\"the Sovereign of men,",
+      "urdu": "انسانوں کے بادشاہ"
+    },
+    {
+      "number": 3,
+      "arabic": "إِلَٰهِ ٱلنَّاسِ",
+      "english": "\"the God of men,",
+      "urdu": "انسانوں کے حقیقی معبود کی"
+    },
+    {
+      "number": 4,
+      "arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "english": "\"from the evil of the whispering, elusive tempter",
+      "urdu": "اُس وسوسہ ڈالنے والے کے شر سے جو بار بار پلٹ کر آتا ہے"
+    },
+    {
+      "number": 5,
+      "arabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "english": "\"who whispers in the hearts of men",
+      "urdu": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے"
+    },
+    {
+      "number": 6,
+      "arabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "english": "\"from all [temptation to evil by] invisible forces as well as men,\"",
+      "urdu": "خواہ وہ جنوں میں سے ہو یا انسانوں میں سے"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "success": true,
+  "surah_number": 86,
+  "arabic_name": "سُورَةُ الطَّارِقِ",
+  "english_name": "At-Taariq",
+  "verses_count": 17,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "english": "CONSIDER the heavens and that which comes in the night!",
+      "urdu": "قسم ہے آسمان کی اور رات کو نمودار ہونے والے کی"
+    },
+    {
+      "number": 2,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "english": "And what could make thee conceive what it is that comes in the night?",
+      "urdu": "اور تم کیا جانو کہ وہ رات کو نمودار ہونے والا کیا ہے؟"
+    },
+    {
+      "number": 3,
+      "arabic": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "english": "It is the star that pierces through [life's] darkness:",
+      "urdu": "چمکتا ہوا تارا"
+    },
+    {
+      "number": 4,
+      "arabic": "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ",
+      "english": "[for] no human being has ever been left unguarded.",
+      "urdu": "کوئی جان ایسی نہیں ہے جس کے اوپر کوئی نگہبان نہ ہو"
+    },
+    {
+      "number": 5,
+      "arabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ",
+      "english": "LET MAN, then, observe out of what he has been created:",
+      "urdu": "پھر ذرا انسان یہی دیکھ لے کہ وہ کس چیز سے پیدا کیا گیا ہے"
+    },
+    {
+      "number": 6,
+      "arabic": "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ",
+      "english": "he has been created out of a seminal fluid",
+      "urdu": "ایک اچھلنے والے پانی سے پیدا کیا گیا ہے"
+    },
+    {
+      "number": 7,
+      "arabic": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "english": "issuing from between the loins [of man] and the pelvic arch [of woman].",
+      "urdu": "جو پیٹھ اور سینے کی ہڈیوں کے درمیان سے نکلتا ہے"
+    },
+    {
+      "number": 8,
+      "arabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ",
+      "english": "Now, verily, He [who thus creates man in the first instance] is well able to bring him back [to life]",
+      "urdu": "یقیناً وہ (خالق) اُسے دوبارہ پیدا کرنے پر قادر ہے"
+    },
+    {
+      "number": 9,
+      "arabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "english": "on the Day when all secrets will be laid bare,",
+      "urdu": "جس روز پوشیدہ اسرار کی جانچ پڑتال ہوگی"
+    },
+    {
+      "number": 10,
+      "arabic": "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ",
+      "english": "and [man] will have neither strength nor helper!",
+      "urdu": "اُس وقت انسان کے پاس نہ خود اپنا کوئی زور ہوگا اور نہ کوئی اس کی مدد کرنے والا ہوگا"
+    },
+    {
+      "number": 11,
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "english": "Consider the heavens, ever-revolving,",
+      "urdu": "قسم ہے بارش برسانے والے آسمان کی"
+    },
+    {
+      "number": 12,
+      "arabic": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "english": "and the earth, bursting forth with plants!",
+      "urdu": "اور (نباتات اگتے وقت) پھٹ جانے والی زمین کی"
+    },
+    {
+      "number": 13,
+      "arabic": "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ",
+      "english": "BEHOLD, this [divine writ] is indeed a word that between truth and falsehood,",
+      "urdu": "یہ ایک جچی تلی بات ہے"
+    },
+    {
+      "number": 14,
+      "arabic": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "english": "and is no idle tale.",
+      "urdu": "ہنسی مذاق نہیں ہے"
+    },
+    {
+      "number": 15,
+      "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا",
+      "english": "Behold, they [who refuse to accept it] devise many a false argument [to disprove its truth];",
+      "urdu": "یہ لوگ چالیں چل رہے ہیں"
+    },
+    {
+      "number": 16,
+      "arabic": "وَأَكِيدُ كَيْدًۭا",
+      "english": "but I shall bring all their scheming to nought.",
+      "urdu": "اور میں بھی ایک چال چل رہا ہوں"
+    },
+    {
+      "number": 17,
+      "arabic": "فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "english": "Let, then, the deniers of the truth have their will: let them have their will for a little while.",
+      "urdu": "پس چھوڑ دو اے نبیؐ، اِن کافروں کو اک ذرا کی ذرا اِن کے حال پر چھوڑ دو"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "success": true,
+  "surah_number": 84,
+  "arabic_name": "سُورَةُ الانشِقَاقِ",
+  "english_name": "Al-Inshiqaaq",
+  "verses_count": 25,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "english": "WHEN THE SKY is split asunder,",
+      "urdu": "جب آسمان پھٹ جائے گا"
+    },
+    {
+      "number": 2,
+      "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "english": "obeying its Sustainer, as in truth it must;",
+      "urdu": "اور اپنے رب کے فرمان کی تعمیل کرے گا اور اُس کے لیے حق یہی ہے (کہ اپنے رب کا حکم مانے)"
+    },
+    {
+      "number": 3,
+      "arabic": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "english": "and when the earth is leveled,",
+      "urdu": "اور جب زمین پھیلا دی جائے گی"
+    },
+    {
+      "number": 4,
+      "arabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "english": "and casts forth whatever is in it, and becomes utterly void,",
+      "urdu": "اور جو کچھ اس کے اندر ہے اُسے باہر پھینک کر خالی ہو جائے گی"
+    },
+    {
+      "number": 5,
+      "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "english": "obeying its Sustainer, as in truth it must -:",
+      "urdu": "اور اپنے رب کے حکم کی تعمیل کرے گی اور اُس کے لیے حق یہی ہے (کہ اس کی تعمیل کرے)"
+    },
+    {
+      "number": 6,
+      "arabic": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا فَمُلَٰقِيهِ",
+      "english": "[then,] O man - thou [that] hast, verily, been toiling towards thy Sustainer in painful toil - then shalt thou meet Him!",
+      "urdu": "اے انسان، تو کشاں کشاں اپنے رب کی طرف چلا جا رہا ہے، اور اُس سے ملنے والا ہے"
+    },
+    {
+      "number": 7,
+      "arabic": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
+      "english": "And as for him whose record shall be placed in his right hand,",
+      "urdu": "پھر جس کا نامہ اعمال اُس کے سیدھے ہاتھ میں دیا گیا"
+    },
+    {
+      "number": 8,
+      "arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًۭا يَسِيرًۭا",
+      "english": "he will in time be called to account with an easy accounting,",
+      "urdu": "اُس سے ہلکا حساب لیا جائے گا"
+    },
+    {
+      "number": 9,
+      "arabic": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًۭا",
+      "english": "and will [be able to] turn joyfully to those of his own kind.",
+      "urdu": "اور وہ اپنے لوگوں کی طرف خوش خوش پلٹے گا"
+    },
+    {
+      "number": 10,
+      "arabic": "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "english": "But as for him whose record shall be given to him behind his back;",
+      "urdu": "رہا وہ شخص جس کا نامہ اعمال اُس کی پیٹھ کے پیچھے دیا جائے گا"
+    },
+    {
+      "number": 11,
+      "arabic": "فَسَوْفَ يَدْعُوا۟ ثُبُورًۭا",
+      "english": "he will in time pray for utter destruction:",
+      "urdu": "تو وہ موت کو پکارے گا"
+    },
+    {
+      "number": 12,
+      "arabic": "وَيَصْلَىٰ سَعِيرًا",
+      "english": "but he will enter the blazing flame.",
+      "urdu": "اور بھڑکتی ہوئی آگ میں جا پڑے گا"
+    },
+    {
+      "number": 13,
+      "arabic": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "english": "Behold, [in his earthly life] he lived joyfully among people of his own kind",
+      "urdu": "وہ اپنے گھر والوں میں مگن تھا"
+    },
+    {
+      "number": 14,
+      "arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "english": "for, behold, he never thought that he would have to return [to God].",
+      "urdu": "اُس نے سمجھا تھا کہ اسے کبھی پلٹنا نہیں ہے"
+    },
+    {
+      "number": 15,
+      "arabic": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًۭا",
+      "english": "Yea indeed! His Sustainer did see all that was in him!",
+      "urdu": "پلٹنا کیسے نہ تھا، اُس کا رب اُس کے کرتوت دیکھ رہا تھا"
+    },
+    {
+      "number": 16,
+      "arabic": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "english": "BUT NAY! I call to witness the sunset's [fleeting] afterglow,",
+      "urdu": "پس نہیں، میں قسم کھاتا ہوں شفق کی"
+    },
+    {
+      "number": 17,
+      "arabic": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "english": "and the night, and what it [step by step] unfolds,",
+      "urdu": "اور رات کی اور جو کچھ وہ سمیٹ لیتی ہے"
+    },
+    {
+      "number": 18,
+      "arabic": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "english": "and the moon, as it grows to its fullness:",
+      "urdu": "اور چاند کی جب کہ وہ ماہ کامل ہو جاتا ہے"
+    },
+    {
+      "number": 19,
+      "arabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍۢ",
+      "english": "[even thus, O men,] are you bound to move; onward from stage to stage.",
+      "urdu": "تم کو ضرور درجہ بدرجہ ایک حالت سے دوسری حالت کی طرف گزرتے چلے جانا ہے"
+    },
+    {
+      "number": 20,
+      "arabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "english": "What, then, is amiss with them that they will not believe [in a life to come]?",
+      "urdu": "پھر اِن لوگوں کو کیا ہو گیا ہے کہ یہ ایمان نہیں لاتے"
+    },
+    {
+      "number": 21,
+      "arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "english": "and [that], when the Qur’an is read unto them, they do not fall down in prostration?",
+      "urdu": "اور جب قرآن اِن کے سامنے پڑھا جاتا ہے تو سجدہ نہیں کرتے؟"
+    },
+    {
+      "number": 22,
+      "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "english": "Nay, but they who are bent on denying the truth give the lie [to this divine writ]!",
+      "urdu": "بلکہ یہ منکرین تو الٹا جھٹلاتے ہیں"
+    },
+    {
+      "number": 23,
+      "arabic": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "english": "Yet God has full knowledge of what they conceal [in their hearts].",
+      "urdu": "حالانکہ جو کچھ یہ (اپنے نامہ اعمال میں) جمع کر رہے ہیں اللہ اُسے خوب جانتا ہے"
+    },
+    {
+      "number": 24,
+      "arabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "english": "Hence, give them the tiding of grievous suffering [in the life to come] –",
+      "urdu": "لہٰذا اِن کو دردناک عذاب کی بشارت دے دو"
+    },
+    {
+      "number": 25,
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "english": "unless it be such [of them] as [repent, and] attain to faith, and do good works: for theirs shall be a reward unending!.",
+      "urdu": "البتہ جو لوگ ایمان لے آئے ہیں اور جنہوں نے نیک عمل کیے ہیں ان کے لیے کبھی ختم نہ ہونے والا اجر ہے"
+    }
+  ]
+}

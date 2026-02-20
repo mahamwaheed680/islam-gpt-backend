@@ -1,0 +1,274 @@
+{
+  "success": true,
+  "surah_number": 70,
+  "arabic_name": "سُورَةُ المَعَارِجِ",
+  "english_name": "Al-Ma'aarij",
+  "verses_count": 44,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍۢ وَاقِعٍۢ",
+      "english": "ONE who is minded to ask might ask about the suffering which [in the hereafter] is bound to befall",
+      "urdu": "مانگنے والے نے عذاب مانگا ہے، (وہ عذاب) جو ضرور واقع ہونے والا ہے"
+    },
+    {
+      "number": 2,
+      "arabic": "لِّلْكَٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌۭ",
+      "english": "those who deny the truth. [Know, then, that] nothing can ward it off,",
+      "urdu": "کافروں کے لیے ہے، کوئی اُسے دفع کرنے والا نہیں"
+    },
+    {
+      "number": 3,
+      "arabic": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+      "english": "[since it will come] from God, unto whom there are many ways of ascent:",
+      "urdu": "اُس خدا کی طرف سے ہے جو عروج کے زینوں کا مالک ہے"
+    },
+    {
+      "number": 4,
+      "arabic": "تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍۢ",
+      "english": "all the angels and all the inspiration [ever granted to man] ascend unto Him [daily,] in a day the length whereof is [like] fifty thousand years…",
+      "urdu": "ملائکہ اور روح اُس کے حضور چڑھ کر جاتے ہیں ایک ایسے دن میں جس کی مقدار پچاس ہزار سال ہے"
+    },
+    {
+      "number": 5,
+      "arabic": "فَٱصْبِرْ صَبْرًۭا جَمِيلًا",
+      "english": "Therefore, [O believer,] endure all adversity with goodly patience:",
+      "urdu": "پس اے نبیؐ، صبر کرو، شائستہ صبر"
+    },
+    {
+      "number": 6,
+      "arabic": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًۭا",
+      "english": "behold, men look upon that [reckoning] as something far away –",
+      "urdu": "یہ لوگ اُسے دور سمجھتے ہیں"
+    },
+    {
+      "number": 7,
+      "arabic": "وَنَرَىٰهُ قَرِيبًۭا",
+      "english": "but, We see it as near!",
+      "urdu": "اور ہم اسے قریب دیکھ رہے ہیں"
+    },
+    {
+      "number": 8,
+      "arabic": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+      "english": "[It will take place] on a Day when the sky will be like molten lead,",
+      "urdu": "(وہ عذاب اُس روز ہوگا) جس روز آسمان پگھلی ہوئی چاندی کی طرح ہو جائے گا"
+    },
+    {
+      "number": 9,
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+      "english": "and the mountains will be like tufts of wool,",
+      "urdu": "اور پہاڑ رنگ برنگ کے دھنکے ہوئے اون جیسے ہو جائیں گے"
+    },
+    {
+      "number": 10,
+      "arabic": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًۭا",
+      "english": "and [when] no friend will ask about his friend,",
+      "urdu": "اور کوئی جگری دوست اپنے جگری دوست کو نہ پوچھے گا"
+    },
+    {
+      "number": 11,
+      "arabic": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+      "english": "though they may be in one another's sight: [for,] everyone who was lost in sin will on that Day but desire to ransom himself from suffering at the price of his own children,",
+      "urdu": "حالانکہ وہ ایک دوسرے کو دکھائے جائیں گے مجرم چاہے گا کہ اس دن کے عذاب سے بچنے کے لیے اپنی اولاد کو"
+    },
+    {
+      "number": 12,
+      "arabic": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "english": "and of his spouse, and of his brother,",
+      "urdu": "اپنی بیوی کو، اپنے بھائی کو"
+    },
+    {
+      "number": 13,
+      "arabic": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+      "english": "and of all the kinsfolk who ever sheltered him,",
+      "urdu": "اپنے قریب ترین خاندان کو جو اسے پناہ دینے والا تھا"
+    },
+    {
+      "number": 14,
+      "arabic": "وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ يُنجِيهِ",
+      "english": "and of whoever [else] lives on earth, all of them - so that he could but save himself.",
+      "urdu": "اور روئے زمین کے سب لوگوں کو فدیہ میں دیدے اور یہ تدبیر اُسے نجات دلا دے"
+    },
+    {
+      "number": 15,
+      "arabic": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+      "english": "But nay! Verily, all [that awaits him] is a raging flame,",
+      "urdu": "ہرگز نہیں وہ تو بھڑکتی ہوئی آگ کی لپٹ ہوگی"
+    },
+    {
+      "number": 16,
+      "arabic": "نَزَّاعَةًۭ لِّلشَّوَىٰ",
+      "english": "tearing away his skin!",
+      "urdu": "جو گوشت پوست کو چاٹ جائے گی"
+    },
+    {
+      "number": 17,
+      "arabic": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+      "english": "It will claim all such as turn their backs [on what is right], and turn away [from the truth],",
+      "urdu": "پکار پکار کر اپنی طرف بلائے گی ہر اُس شخص کو جس نے حق سے منہ موڑا اور پیٹھ پھیری"
+    },
+    {
+      "number": 18,
+      "arabic": "وَجَمَعَ فَأَوْعَىٰٓ",
+      "english": "and amass [wealth] and thereupon withhold [it from their fellow-men].",
+      "urdu": "اور مال جمع کیا اور سینت سینت کر رکھا"
+    },
+    {
+      "number": 19,
+      "arabic": "۞ إِنَّ ٱلْإِنسَٰنَ خُلِقَ هَلُوعًا",
+      "english": "VERILY, man is born with a restless disposition.",
+      "urdu": "انسان تھڑدلا پیدا کیا گیا ہے"
+    },
+    {
+      "number": 20,
+      "arabic": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًۭا",
+      "english": "[As a rule,] whenever misfortune touches him, he is filled with self-pity;",
+      "urdu": "جب اس پر مصیبت آتی ہے تو گھبرا اٹھتا ہے"
+    },
+    {
+      "number": 21,
+      "arabic": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+      "english": "and whenever good fortune comes to him, he selfishly withholds it [from others].",
+      "urdu": "اور جب اسے خوشحالی نصیب ہوتی ہے تو بخل کرنے لگتا ہے"
+    },
+    {
+      "number": 22,
+      "arabic": "إِلَّا ٱلْمُصَلِّينَ",
+      "english": "Not so, however, those who consciously turn towards God in prayer.",
+      "urdu": "مگر وہ لوگ (اِس عیب سے بچے ہوئے ہیں) جو نماز پڑھنے والے ہیں"
+    },
+    {
+      "number": 23,
+      "arabic": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+      "english": "[and] who incessantly persevere in their prayer",
+      "urdu": "جو اپنی نماز کی ہمیشہ پابندی کرتے ہیں"
+    },
+    {
+      "number": 24,
+      "arabic": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
+      "english": "and in whose possessions there is a due share, acknowledged [by them],",
+      "urdu": "جن کے مالوں میں،"
+    },
+    {
+      "number": 25,
+      "arabic": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "english": "for such as ask [for help] and such as are deprived [of what is good in life];",
+      "urdu": "سائل اور محروم کا ایک حق مقرر ہے"
+    },
+    {
+      "number": 26,
+      "arabic": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+      "english": "and who accept as true the [coming of the] Day of Judgment;",
+      "urdu": "جو روز جزا کو برحق مانتے ہیں"
+    },
+    {
+      "number": 27,
+      "arabic": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+      "english": "and who stand in dread of their Sustainer's chastisement –",
+      "urdu": "جو اپنے رب کے عذاب سے ڈرتے ہیں"
+    },
+    {
+      "number": 28,
+      "arabic": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍۢ",
+      "english": "for, behold, of their Sustainer's chastisement none may ever feel [wholly] secure;",
+      "urdu": "کیونکہ اُن کے رب کا عذاب ایسی چیز نہیں ہے جس سے کوئی بے خوف ہو"
+    },
+    {
+      "number": 29,
+      "arabic": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَٰفِظُونَ",
+      "english": "and who are mindful of their chastity,",
+      "urdu": "جو اپنی شرمگاہوں کی حفاظت کرتے ہیں"
+    },
+    {
+      "number": 30,
+      "arabic": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "english": "[not giving way to their desires] with any but their spouses - that is, those whom they rightfully possess [through wedlock] -: for then, behold, they are free of all blame,",
+      "urdu": "بجز اپنی بیویوں یا اپنی مملوکہ عورتوں کے جن سے محفوظ نہ رکھنے میں ان پر کوئی ملامت نہیں"
+    },
+    {
+      "number": 31,
+      "arabic": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "english": "whereas such as seek to go beyond that [limit] are truly transgressors;",
+      "urdu": "البتہ جو اس کے علاوہ کچھ اور چاہیں وہی حد سے تجاوز کرنے والے ہیں"
+    },
+    {
+      "number": 32,
+      "arabic": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "english": "and who are faithful to their trusts and to their pledges:",
+      "urdu": "جو اپنی امانتوں کی حفاظت اور اپنے عہد کا پاس کرتے ہیں"
+    },
+    {
+      "number": 33,
+      "arabic": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمْ قَآئِمُونَ",
+      "english": "and who stand firm whenever they bear witness;",
+      "urdu": "جو اپنی گواہیوں میں راست بازی پر قائم رہتے ہیں"
+    },
+    {
+      "number": 34,
+      "arabic": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "english": "and who guard their prayers [from all worldly intent].",
+      "urdu": "اور جو اپنی نماز کی حفاظت کرتے ہیں"
+    },
+    {
+      "number": 35,
+      "arabic": "أُو۟لَٰٓئِكَ فِى جَنَّٰتٍۢ مُّكْرَمُونَ",
+      "english": "These it is who in the gardens [of paradise] shall be honoured!",
+      "urdu": "یہ لوگ عزت کے ساتھ جنت کے باغوں میں رہیں گے"
+    },
+    {
+      "number": 36,
+      "arabic": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+      "english": "WHAT, THEN, is amiss with such as are bent on denying the truth, that they run about confusedly to and fro before thee,",
+      "urdu": "پس اے نبیؐ، کیا بات ہے کہ یہ منکرین دائیں اور بائیں سے،"
+    },
+    {
+      "number": 37,
+      "arabic": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "english": "[coming upon thee] from the right and from the left, in crowds?",
+      "urdu": "گروہ در گروہ تمہاری طرف دوڑے چلے آ رہے ہیں؟"
+    },
+    {
+      "number": 38,
+      "arabic": "أَيَطْمَعُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍۢ",
+      "english": "Does every one of them hope to enter [by this means] a garden of bliss?",
+      "urdu": "کیا اِن میں سے ہر ایک یہ لالچ رکھتا ہے کہ وہ نعمت بھری جنت میں داخل کر دیا جائے گا؟"
+    },
+    {
+      "number": 39,
+      "arabic": "كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ",
+      "english": "Never! For, behold, We have created them out of something that they know [only too well]!",
+      "urdu": "ہرگز نہیں ہم نے جس چیز سے اِن کو پیدا کیا ہے اُسے یہ خود جانتے ہیں"
+    },
+    {
+      "number": 40,
+      "arabic": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَٰرِقِ وَٱلْمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "english": "But nay! I call to witness [Our being] the Sustainer of all the points of sunrise and sunset: verily, well able are We",
+      "urdu": "پس نہیں، میں قسم کھاتا ہوں مشرقوں اور مغربوں کے مالک کی، ہم اِس پر قادر ہیں"
+    },
+    {
+      "number": 41,
+      "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "english": "to replace them with [people] better than they are; for there is nothing to prevent Us [from doing what We will].",
+      "urdu": "کہ اِن کی جگہ اِن سے بہتر لوگ لے آئیں اور کوئی ہم سے بازی لے جانے والا نہیں ہے"
+    },
+    {
+      "number": 42,
+      "arabic": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+      "english": "Hence, leave them to indulge in idle talk and play [with words] until they face that [Judgment] Day of theirs which they have been promised –",
+      "urdu": "لہٰذا اِنہیں اپنی بیہودہ باتوں اور اپنے کھیل میں پڑا رہنے دو یہاں تک کہ یہ اپنے اُس دن تک پہنچ جائیں جس کا ان سے وعدہ کیا جا رہا ہے"
+    },
+    {
+      "number": 43,
+      "arabic": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًۭا كَأَنَّهُمْ إِلَىٰ نُصُبٍۢ يُوفِضُونَ",
+      "english": "the Day when they shall come forth in haste from their graves, as if racing towards a goal-post,",
+      "urdu": "جب یہ اپنی قبروں سے نکل کر اِس طرح دوڑے جا رہے ہوں گے جیسے اپنے بتوں کے استھانوں کی طرف دوڑ رہے ہوں"
+    },
+    {
+      "number": 44,
+      "arabic": "خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+      "english": "with downcast eyes, with ignominy overwhelming them: that Day which they were promised again and…",
+      "urdu": "اِن کی نگاہیں جھکی ہوئی ہوں گی، ذلت اِن پر چھا رہی ہوگی وہ دن ہے جس کا اِن سے وعدہ کیا جا رہا ہے"
+    }
+  ]
+}
