@@ -1,18 +1,18 @@
 """
 ISLAM-GPT PROFESSIONAL BACKEND
-Now with Semantic Search for Quran Questions
+FIXED VERSION - Prophet Info + Table Formatting
 """
 
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
-from quran_api import QuranAPIClient  # Our professional client
-from quran_search_engine import QuranSearchEngine  # NEW: Semantic search engine
+from quran_api import QuranAPIClient
+from quran_search_engine import QuranSearchEngine
 import os
 import re
 
 # Initialize FastAPI
-app = FastAPI(title="Islam-GPT Professional", version="2.0")
+app = FastAPI(title="Islam-GPT Professional", version="3.9")
 
 # Allow frontend to connect
 app.add_middleware(
@@ -27,11 +27,11 @@ app.add_middleware(
 print("🚀 Starting Islam-GPT Quran QA System...")
 quran_client = QuranAPIClient()
 
-# NEW: Initialize semantic search engine
+# Initialize semantic search engine
 print("🧠 Initializing Quran Semantic Search Engine...")
 search_engine = QuranSearchEngine(quran_client)
 
-# NEW: Check if embeddings already exist
+# Check if embeddings already exist
 EMBEDDINGS_FILE = "quran_embeddings.npz"
 if os.path.exists(EMBEDDINGS_FILE):
     print("📂 Loading pre-computed embeddings...")
@@ -49,72 +49,236 @@ print("✅ System ready! Quran QA engine loaded")
 class QuestionRequest(BaseModel):
     question: str
 
-# Para/Juz metadata (30 Paras/Juz in Quran)
+# Para/Juz metadata
 PARA_BOUNDARIES = {
-    1: (1, 1),    # Al-Fatiha 1:1
-    2: (2, 142),  # Al-Baqarah 2:142
-    3: (2, 253),  # Al-Baqarah 2:253 (Ayat-ul-Kursi is in Para 3)
-    4: (3, 93),   # Al-Imran 3:93
-    5: (4, 24),   # An-Nisa 4:24
-    6: (4, 148),  # An-Nisa 4:148
-    7: (5, 82),   # Al-Ma'idah 5:82
-    8: (6, 111),  # Al-An'am 6:111
-    9: (7, 88),   # Al-A'raf 7:88
-    10: (8, 41),  # Al-Anfal 8:41
-    11: (9, 93),  # At-Tawbah 9:93
-    12: (11, 6),  # Hud 11:6
-    13: (12, 53), # Yusuf 12:53
-    14: (15, 1),  # Al-Hijr 15:1
-    15: (17, 1),  # Al-Isra 17:1
-    16: (18, 75), # Al-Kahf 18:75
-    17: (21, 1),  # Al-Anbiya 21:1
-    18: (23, 1),  # Al-Mu'minun 23:1
-    19: (25, 21), # Al-Furqan 25:21
-    20: (27, 56), # An-Naml 27:56
-    21: (29, 46), # Al-Ankabut 29:46
-    22: (33, 31), # Al-Ahzab 33:31
-    23: (36, 28), # Ya-Sin 36:28
-    24: (39, 32), # Az-Zumar 39:32
-    25: (41, 47), # Fussilat 41:47
-    26: (46, 1),  # Al-Ahqaf 46:1
-    27: (51, 31), # Adh-Dhariyat 51:31
-    28: (58, 1),  # Al-Mujadila 58:1
-    29: (67, 1),  # Al-Mulk 67:1
-    30: (78, 1),  # An-Naba 78:1
+    1: (1, 1), 2: (2, 142), 3: (2, 253), 4: (3, 93), 5: (4, 24),
+    6: (4, 148), 7: (5, 82), 8: (6, 111), 9: (7, 88), 10: (8, 41),
+    11: (9, 93), 12: (11, 6), 13: (12, 53), 14: (15, 1), 15: (17, 1),
+    16: (18, 75), 17: (21, 1), 18: (23, 1), 19: (25, 21), 20: (27, 56),
+    21: (29, 46), 22: (33, 31), 23: (36, 28), 24: (39, 32), 25: (41, 47),
+    26: (46, 1), 27: (51, 31), 28: (58, 1), 29: (67, 1), 30: (78, 1),
 }
 
 PARA_NAMES = {
-    1: "آلَیْت",  # Alif Lam Meem
-    2: "سَيَقُولُ",  # Sayaqool
-    3: "تِلْكَ الرُّسُلُ",  # Tilkar Rusul
-    4: "لَنْ تَنَالُوا",  # Lan Tana Loo
-    5: "وَالْمُحْصَنَاتُ",  # Wal Mohsanat
-    6: "لَا يُحِبُّ اللَّهُ",  # La Yuhibbullah
-    7: "وَإِذَا سَمِعُوا",  # Wa Iza Samiu
-    8: "وَلَوْ أَنَّنَا",  # Wa Lau Annana
-    9: "قَالَ الْمَلَأُ",  # Qalal Malao
-    10: "وَاعْلَمُوا",  # Wa A'lamu
-    11: "يَعْتَذِرُونَ",  # Ya'taziroon
-    12: "وَمَا مِنْ دَابَّةٍ",  # Wa Ma Min Da'abbah
-    13: "وَمَا أُبَرِّئُ",  # Wa Ma Ubri
-    14: "رُبَمَا",  # Rubama
-    15: "سُبْحَانَ الَّذِي",  # Subhanallazi
-    16: "قَالَ أَلَمْ",  # Qal Alam
-    17: "اقْتَرَبَ",  # Iqtaraba
-    18: "قَدْ أَفْلَحَ",  # Qad Aflaha
-    19: "وَقَالَ الَّذِينَ",  # Wa Qalallazina
-    20: "أَمَّنْ خَلَقَ",  # A'man Khalaq
-    21: "اتْلُ مَا أُوحِيَ",  # Utlu Ma Oohi
-    22: "وَمَنْ يَقْنُتْ",  # Wa Manyaqnut
-    23: "وَمَا لِيَ",  # Wa Mali
-    24: "فَمَنْ أَظْلَمُ",  # Faman Azlam
-    25: "إِلَيْهِ يُرَدُّ",  # Elahe Yuruddo
-    26: "حم",  # Ha'a Meem
-    27: "قَالَ فَمَا خَطْبُكُمْ",  # Qala Fama Khatbukum
-    28: "قَدْ سَمِعَ اللَّهُ",  # Qad Sami Allah
-    29: "تَبَارَكَ",  # Tabarak
-    30: "عَمَّ",  # Amma
+    1: "آلَیْت", 2: "سَيَقُولُ", 3: "تِلْكَ الرُّسُلُ", 4: "لَنْ تَنَالُوا",
+    5: "وَالْمُحْصَنَاتُ", 6: "لَا يُحِبُّ اللَّهُ", 7: "وَإِذَا سَمِعُوا",
+    8: "وَلَوْ أَنَّنَا", 9: "قَالَ الْمَلَأُ", 10: "وَاعْلَمُوا",
+    11: "يَعْتَذِرُونَ", 12: "وَمَا مِنْ دَابَّةٍ", 13: "وَمَا أُبَرِّئُ",
+    14: "رُبَمَا", 15: "سُبْحَانَ الَّذِي", 16: "قَالَ أَلَمْ",
+    17: "اقْتَرَبَ", 18: "قَدْ أَفْلَحَ", 19: "وَقَالَ الَّذِينَ",
+    20: "أَمَّنْ خَلَقَ", 21: "اتْلُ مَا أُوحِيَ", 22: "وَمَنْ يَقْنُتْ",
+    23: "وَمَا لِيَ", 24: "فَمَنْ أَظْلَمُ", 25: "إِلَيْهِ يُرَدُّ",
+    26: "حم", 27: "قَالَ فَمَا خَطْبُكُمْ", 28: "قَدْ سَمِعَ اللَّهُ",
+    29: "تَبَارَكَ", 30: "عَمَّ",
 }
+
+# ==================== COMPLETE SURAH MAP ====================
+SURAH_MAP = {
+    # Juz 1-10
+    "fatiha": 1, "الفاتحة": 1,
+    "baqarah": 2, "البقرة": 2,
+    "imran": 3, "عمران": 3,
+    "nisa": 4, "النساء": 4,
+    "maidah": 5, "المائدة": 5,
+    "anaam": 6, "الأنعام": 6,
+    "araf": 7, "الأعراف": 7,
+    "anfal": 8, "الأنفال": 8,
+    "tawbah": 9, "التوبة": 9,
+    "yunus": 10, "يونس": 10,
+    "hud": 11, "هود": 11,
+    "yusuf": 12, "يوسف": 12,
+    "raad": 13, "الرعد": 13,
+    "ibrahim": 14, "إبراهيم": 14,
+    "hijr": 15, "الحجر": 15,
+    "nahl": 16, "النحل": 16,
+    "isra": 17, "الإسراء": 17,
+    "kahf": 18, "الكهف": 18,
+    "maryam": 19, "مريم": 19,
+    "taha": 20, "طه": 20,
+    "anbiya": 21, "الأنبياء": 21,
+    "hajj": 22, "الحج": 22,
+    "muminun": 23, "المؤمنون": 23,
+    "nur": 24, "النور": 24,
+    "furqan": 25, "الفرقان": 25,
+    "shuara": 26, "الشعراء": 26,
+    "naml": 27, "النمل": 27,
+    "qasas": 28, "القصص": 28,
+    "ankabut": 29, "العنكبوت": 29,
+    "rum": 30, "الروم": 30,
+    "luqman": 31, "لقمان": 31,
+    "sajdah": 32, "السجدة": 32,
+    "ahzab": 33, "الأحزاب": 33,
+    "saba": 34, "سبأ": 34,
+    "fatir": 35, "فاطر": 35,
+    "yaseen": 36, "يس": 36, "ya sin": 36, "yasin": 36,
+    "saffat": 37, "الصافات": 37,
+    "sad": 38, "ص": 38,
+    "zumar": 39, "الزمر": 39,
+    "ghafir": 40, "غافر": 40,
+    "fussilat": 41, "فصلت": 41,
+    "shura": 42, "الشورى": 42,
+    "zukhruf": 43, "الزخرف": 43,
+    "dukhan": 44, "الدخان": 44,
+    "jathiyah": 45, "الجاثية": 45,
+    "ahqaf": 46, "الأحقاف": 46,
+    "muhammad": 47, "محمد": 47,
+    "fath": 48, "الفتح": 48,
+    "hujurat": 49, "الحجرات": 49,
+    "qaf": 50, "ق": 50,
+    "dhariyat": 51, "الذاريات": 51,
+    "tur": 52, "الطور": 52,
+    "najm": 53, "النجم": 53,
+    "qamar": 54, "القمر": 54,
+    "rahman": 55, "الرحمن": 55,
+    "waqiah": 56, "الواقعة": 56,
+    "hadid": 57, "الحديد": 57,
+    "mujadila": 58, "المجادلة": 58,
+    "hashr": 59, "الحشر": 59,
+    "mumtahina": 60, "الممتحنة": 60,
+    "saff": 61, "الصف": 61,
+    "jumuah": 62, "الجمعة": 62,
+    "munafiqun": 63, "المنافقون": 63,
+    "taghabun": 64, "التغابن": 64,
+    "talaq": 65, "الطلاق": 65,
+    "tahrim": 66, "التحريم": 66,
+    "mulk": 67, "الملك": 67,
+    "qalam": 68, "القلم": 68,
+    "haqqah": 69, "الحاقة": 69,
+    "maarij": 70, "المعارج": 70,
+    "nuh": 71, "نوح": 71,
+    "jinn": 72, "الجن": 72,
+    "muzzammil": 73, "المزمل": 73,
+    "muddaththir": 74, "المدثر": 74,
+    "qiyamah": 75, "القيامة": 75,
+    "insan": 76, "الإنسان": 76,
+    "mursalat": 77, "المرسلات": 77,
+    "naba": 78, "النبأ": 78,
+    "naziat": 79, "النازعات": 79,
+    "abasa": 80, "عبس": 80,
+    "takwir": 81, "التكوير": 81,
+    "infitar": 82, "الانفطار": 82,
+    "mutaffifin": 83, "المطففين": 83,
+    "inshiqaq": 84, "الانشقاق": 84,
+    "buruj": 85, "البروج": 85,
+    "tariq": 86, "الطارق": 86,
+    "ala": 87, "الأعلى": 87,
+    "ghashiyah": 88, "الغاشية": 88,
+    "fajr": 89, "الفجر": 89,
+    "balad": 90, "البلد": 90,
+    "shams": 91, "الشمس": 91,
+    "layl": 92, "الليل": 92,
+    "duha": 93, "الضحى": 93,
+    "sharh": 94, "الشرح": 94,
+    "tin": 95, "التين": 95,
+    "alaq": 96, "العلق": 96,
+    "qadr": 97, "القدر": 97,
+    "bayyinah": 98, "البينة": 98,
+    "zalzalah": 99, "الزلزلة": 99,
+    "adiyat": 100, "العاديات": 100,
+    "qariah": 101, "القارعة": 101,
+    "takathur": 102, "التكاثر": 102,
+    "asr": 103, "العصر": 103,
+    "humazah": 104, "الهمزة": 104,
+    "fil": 105, "الفيل": 105,
+    "quraish": 106, "قريش": 106,
+    "maun": 107, "الماعون": 107,
+    "kauthar": 108, "kawthar": 108, "kausar": 108, "الكوثر": 108,
+    "kafirun": 109, "الكافرون": 109,
+    "nasr": 110, "النصر": 110,
+    "masad": 111, "المسد": 111, "lahab": 111,
+    "ikhlas": 112, "الإخلاص": 112,
+    "falaq": 113, "الفلق": 113,
+    "nas": 114, "الناس": 114,
+}
+
+# ==================== PROPHET NAMES ====================
+PROPHET_NAMES = {
+    "adam": "آدم", "ادم": "آدم",
+    "idris": "إدريس", "ادریس": "إدريس",
+    "nuh": "نوح", "نوح": "نوح",
+    "hud": "هود", "ہود": "هود",
+    "salih": "صالح", "صالح": "صالح",
+    "ibrahim": "إبراهيم", "ابراہیم": "إبراهيم", "abraham": "إبراهيم",
+    "lut": "لوط", "لوط": "لوط",
+    "ismail": "إسماعيل", "اسماعیل": "إسماعيل", "ishmael": "إسماعيل",
+    "ishaq": "إسحاق", "اسحاق": "إسحاق", "isaac": "إسحاق",
+    "yaqub": "يعقوب", "یعقوب": "يعقوب", "jacob": "يعقوب",
+    "yusuf": "يوسف", "یوسف": "يوسف", "joseph": "يوسف",
+    "ayyub": "أيوب", "ایوب": "أيوب", "job": "أيوب",
+    "shuayb": "شعيب", "شعیب": "شعيب",
+    "musa": "موسى", "موسی": "موسى", "moses": "موسى",
+    "harun": "هارون", "ہارون": "هارون", "aaron": "هارون",
+    "dawud": "داود", "داؤد": "داود", "david": "داود",
+    "sulayman": "سليمان", "سلیمان": "سليمان", "solomon": "سليمان",
+    "ilyas": "إلياس", "الیاس": "إلياس", "elijah": "إلياس",
+    "alyasa": "اليسع", "الیسع": "اليسع", "elisha": "اليسع",
+    "dhul kifl": "ذو الكفل", "ذوالکفل": "ذو الكفل",
+    "yunus": "يونس", "یونس": "يونس", "jonah": "يونس",
+    "zakariyya": "زكريا", "زکریا": "زكريا", "zechariah": "زكريا",
+    "yahya": "يحيى", "یحیی": "يحيى", "john": "يحيى",
+    "isa": "عيسى", "عیسی": "عيسى", "jesus": "عيسى",
+    "muhammad": "محمد", "محمد": "محمد",
+}
+
+# ==================== TOPIC VERSES ====================
+TOPIC_VERSES = {
+    "zakat": [
+        "2:43", "2:83", "2:110", "2:177", "2:254", "2:261", "2:262", "2:263",
+        "2:264", "2:265", "2:266", "2:267", "2:271", "2:274", "2:276", "2:277",
+        "4:77", "4:114", "4:162", "5:12", "5:55", "7:156", "9:5", "9:11",
+        "9:18", "9:34", "9:35", "9:54", "9:58", "9:60", "9:71", "9:99",
+        "9:103", "13:22", "14:31", "18:81", "19:31", "19:55", "21:73",
+        "22:41", "22:78", "23:4", "24:22", "24:33", "24:56", "27:3",
+        "30:38", "30:39", "31:4", "33:33", "41:6", "41:7", "51:19",
+        "58:13", "63:10", "64:16", "70:24", "70:25", "73:20", "92:5",
+        "92:18", "98:5"
+    ],
+    "hajj": [
+        "2:158", "2:189", "2:196", "2:197", "2:198", "2:199", "2:200",
+        "2:201", "2:202", "2:203", "3:97", "5:2", "22:26", "22:27",
+        "22:28", "22:29", "22:30", "22:31", "22:32", "22:33", "22:34",
+        "22:35", "22:36", "22:37", "48:25", "48:27"
+    ],
+    "divorce": [
+        "2:226", "2:227", "2:228", "2:229", "2:230", "2:231", "2:232",
+        "2:233", "2:234", "2:235", "2:236", "2:237", "2:240", "2:241",
+        "4:35", "33:49", "65:1", "65:2", "65:3", "65:4", "65:5", "65:6", "65:7"
+    ],
+    "sacrifice": [
+        "2:173", "2:196", "3:183", "5:3", "5:27", "5:30", "6:145",
+        "16:115", "22:34", "22:36", "22:37", "37:107", "108:2"
+    ],
+    "patience": [
+        "2:45", "2:153", "2:155", "2:156", "2:157", "2:177", "2:250",
+        "3:17", "3:120", "3:146", "3:186", "3:200", "8:46", "8:66",
+        "11:11", "11:115", "12:18", "12:83", "12:90", "13:22", "13:24",
+        "14:12", "16:42", "16:96", "16:110", "16:126", "16:127", "18:28",
+        "19:65", "20:130", "20:132", "21:83", "21:84", "21:85", "22:35",
+        "25:20", "25:63", "25:75", "28:54", "28:80", "29:59", "30:60",
+        "31:17", "32:24", "37:102", "38:17", "38:44", "39:10", "40:55",
+        "40:77", "41:30", "41:35", "42:33", "42:43", "46:13", "46:35",
+        "50:38", "52:48", "68:48", "70:5", "73:10", "74:7", "76:12",
+        "76:24", "103:3"
+    ],
+    "prayer": [
+        "2:3", "2:43", "2:45", "2:83", "2:110", "2:125", "2:153",
+        "2:157", "2:177", "2:238", "2:239", "2:277", "4:43", "4:77",
+        "4:101", "4:102", "4:103", "4:142", "4:162", "5:6", "5:12",
+        "5:55", "5:58", "5:91", "6:72", "6:92", "7:170", "8:3",
+        "9:5", "9:11", "9:18", "9:54", "9:71", "9:99", "9:103",
+        "9:108", "10:87", "11:114", "13:22", "14:31", "14:37", "14:40",
+        "17:78", "17:79", "17:110", "19:31", "19:55", "19:59", "20:14",
+        "20:130", "20:132", "21:73", "22:26", "22:35", "22:41", "23:2",
+        "23:9", "24:37", "24:56", "24:58", "25:64", "26:219", "27:3",
+        "29:45", "30:31", "31:4", "31:17", "33:33", "33:56", "35:29",
+        "38:18", "42:38", "50:39", "50:40", "52:48", "52:49", "62:9",
+        "62:10", "70:22", "70:23", "70:34", "73:1", "73:2", "73:3",
+        "73:4", "73:5", "73:6", "73:7", "73:8", "73:20", "75:31",
+        "75:32", "98:5", "107:4", "107:5", "108:2"
+    ]
+}
+
+# ==================== HELPER FUNCTIONS ====================
 
 def get_para_info(surah_number: int, verse_number: int):
     """Get Para/Juz information for a verse"""
@@ -143,687 +307,721 @@ def get_para_info(surah_number: int, verse_number: int):
         "display": f"Para 1 ({PARA_NAMES.get(1, '')}) • Juz 1"
     }
 
-# Helper functions
 def detect_surah_number(question: str) -> int:
-    """Detect which Surah the user is asking about - FIXED VERSION"""
+    """Detect which Surah the user is asking about"""
     question_lower = question.lower()
     
-    # ===== SPECIAL HANDLING FOR SIMILAR SURAH NAMES =====
-    # Surah An-Nasr (110) - Help/Victory
-    if "nasr" in question_lower or "نصر" in question_lower:
-        # Make sure it's not just "nas"
-        if "nasr" in question_lower or "نصر" in question_lower:
-            print(f"   📍 Detected: Surah An-Nasr (110)")
-            return 110
+    # Fix common typos
+    question_lower = question_lower.replace("baqrah", "baqarah")
+    question_lower = question_lower.replace("bakarah", "baqarah")
+    question_lower = question_lower.replace("baqra", "baqarah")
+    question_lower = question_lower.replace("an naas", "nas")
+    question_lower = question_lower.replace("annaas", "nas")
     
-    # Surah An-Nas (114) - Mankind
-    if "nas" in question_lower or "الناس" in question_lower:
-        # Check if it's NOT "nasr"
-        if "nasr" not in question_lower and "نصر" not in question_lower:
-            print(f"   📍 Detected: Surah An-Nas (114)")
-            return 114
+    # Pattern for "surah 1", "surah 2", etc.
+    patterns = [
+        r'(?:surah|sura|chapter)[\s]*(\d+)',
+        r'(\d+)(?:st|nd|rd|th)?\s*(?:surah|sura|chapter)',
+        r'(?:show|read|get)[\s]*(?:me)?[\s]*(?:surah)[\s]*(\d+)',
+    ]
     
-    # Surah Al-Ikhlas (112)
-    if "ikhlas" in question_lower or "الاخلاص" in question_lower or "sincerity" in question_lower:
-        return 112
+    for pattern in patterns:
+        match = re.search(pattern, question_lower)
+        if match:
+            return int(match.group(1))
     
-    # Surah Al-Falaq (113)
-    if "falaq" in question_lower or "الفلق" in question_lower or "daybreak" in question_lower:
-        return 113
+    # Check for surah name in the question
+    words = question_lower.split()
+    for word in words:
+        if word in SURAH_MAP:
+            print(f"   📖 Detected surah name: {word} -> {SURAH_MAP[word]}")
+            return SURAH_MAP[word]
     
-    # ===== JUZZ 30 SURAHS (Common ones) =====
-    juzz30_surahs = {
-        "kafirun": 109, "الكافرون": 109, "disbelievers": 109,
-        "kauthar": 108, "الكوثر": 108, "abundance": 108,
-        "maun": 107, "الماعون": 107, "small kindness": 107,
-        "quraish": 106, "قريش": 106,
-        "fil": 105, "الفيل": 105, "elephant": 105,
-        "humazah": 104, "الهمزة": 104, "slanderer": 104,
-        "asr": 103, "العصر": 103, "time": 103,
-        "takathur": 102, "التكاثر": 102, "rivalry": 102,
-        "qariah": 101, "القارعة": 101, "calamity": 101,
-        "adiyat": 100, "العاديات": 100, "chargers": 100,
-        "zalzalah": 99, "الزلزلة": 99, "earthquake": 99,
-        "bayyinah": 98, "البينة": 98, "clear evidence": 98,
-        "qadr": 97, "القدر": 97, "power": 97,
-        "alaq": 96, "العلق": 96, "clot": 96,
-        "tin": 95, "التين": 95, "fig": 95,
-        "sharh": 94, "الشرح": 94, "comfort": 94,
-        "duha": 93, "الضحى": 93, "morning light": 93,
-        "layl": 92, "الليل": 92, "night": 92,
-        "shams": 91, "الشمس": 91, "sun": 91,
-        "balad": 90, "البلد": 90, "city": 90,
-        "fajr": 89, "الفجر": 89, "dawn": 89,
-        "ghashiyah": 88, "الغاشية": 88, "overwhelming": 88,
-        "ala": 87, "الأعلى": 87, "most high": 87,
-        "tariq": 86, "الطارق": 86, "nightcomer": 86,
-        "buruj": 85, "البروج": 85, "constellations": 85,
-        "inshiqaq": 84, "الانشقاق": 84, "splitting open": 84,
-        "mutaffifin": 83, "المطففين": 83, "defrauding": 83,
-        "infitar": 82, "الانفطار": 82, "cleaving": 82,
-        "takwir": 81, "التكوير": 81, "wrapping": 81,
-        "abasa": 80, "عبس": 80, "he frowned": 80,
-        "naziat": 79, "النازعات": 79, "those who drag": 79,
-        "naba": 78, "النبأ": 78, "news": 78,
-    }
-    
-    for pattern, surah_num in juzz30_surahs.items():
-        if pattern in question_lower:
-            return surah_num
-    
-    # ===== FAMOUS SURAHS =====
-    famous_surahs = {
-        "fatiha": 1, "الفاتحة": 1, "opening": 1,
-        "baqarah": 2, "البقرة": 2, "cow": 2,
-        "imran": 3, "عمران": 3,
-        "nisa": 4, "النساء": 4, "women": 4,
-        "maidah": 5, "المائدة": 5, "table": 5,
-        "anaam": 6, "الأنعام": 6, "cattle": 6,
-        "araf": 7, "الأعراف": 7,
-        "anfal": 8, "الأنفال": 8,
-        "tawbah": 9, "التوبة": 9, "repentance": 9,
-        "yunus": 10, "يونس": 10,
-        "hud": 11, "هود": 11,
-        "yusuf": 12, "يوسف": 12, "joseph": 12,
-        "raad": 13, "الرعد": 13, "thunder": 13,
-        "ibrahim": 14, "إبراهيم": 14, "abraham": 14,
-        "hijr": 15, "الحجر": 15,
-        "nahl": 16, "النحل": 16, "bee": 16,
-        "isra": 17, "الإسراء": 17, "night journey": 17,
-        "kahf": 18, "الكهف": 18, "cave": 18,
-        "maryam": 19, "مريم": 19, "mary": 19,
-        "taha": 20, "طه": 20,
-        "anbiya": 21, "الأنبياء": 21, "prophets": 21,
-        "hajj": 22, "الحج": 22, "pilgrimage": 22,
-        "muminun": 23, "المؤمنون": 23, "believers": 23,
-        "nur": 24, "النور": 24, "light": 24,
-        "furqan": 25, "الفرقان": 25, "criterion": 25,
-        "shuara": 26, "الشعراء": 26, "poets": 26,
-        "naml": 27, "النمل": 27, "ant": 27,
-        "qasas": 28, "القصص": 28, "story": 28,
-        "ankabut": 29, "العنكبوت": 29, "spider": 29,
-        "rum": 30, "الروم": 30, "romans": 30,
-        "luqman": 31, "لقمان": 31,
-        "sajdah": 32, "السجدة": 32, "prostration": 32,
-        "ahzab": 33, "الأحزاب": 33, "confederates": 33,
-        "saba": 34, "سبأ": 34, "sheba": 34,
-        "fatir": 35, "فاطر": 35, "originator": 35,
-        "yaseen": 36, "يس": 36, "ya sin": 36,
-        "saffat": 37, "الصافات": 37,
-        "sad": 38, "ص": 38,
-        "zumar": 39, "الزمر": 39,
-        "ghafir": 40, "غافر": 40, "forgiver": 40,
-        "fussilat": 41, "فصلت": 41,
-        "shura": 42, "الشورى": 42,
-        "zukhruf": 43, "الزخرف": 43,
-        "dukhan": 44, "الدخان": 44,
-        "jathiyah": 45, "الجاثية": 45,
-        "ahqaf": 46, "الأحقاف": 46,
-        "muhammad": 47, "محمد": 47,
-        "fath": 48, "الفتح": 48, "victory": 48,
-        "hujurat": 49, "الحجرات": 49,
-        "qaf": 50, "ق": 50,
-        "dhariyat": 51, "الذاريات": 51,
-        "tur": 52, "الطور": 52,
-        "najm": 53, "النجم": 53,
-        "qamar": 54, "القمر": 54,
-        "rahman": 55, "الرحمن": 55, "beneficent": 55,
-        "waqiah": 56, "الواقعة": 56, "event": 56,
-        "hadid": 57, "الحديد": 57,
-        "mujadila": 58, "المجادلة": 58,
-        "hashr": 59, "الحشر": 59,
-        "mumtahina": 60, "الممتحنة": 60,
-        "saff": 61, "الصف": 61,
-        "jumuah": 62, "الجمعة": 62,
-        "munafiqun": 63, "المنافقون": 63,
-        "taghabun": 64, "التغابن": 64,
-        "talaq": 65, "الطلاق": 65,
-        "tahrim": 66, "التحريم": 66,
-        "mulk": 67, "الملك": 67, "sovereignty": 67,
-        "qalam": 68, "القلم": 68,
-        "haqqah": 69, "الحاقة": 69,
-        "maarij": 70, "المعارج": 70,
-        "nuh": 71, "نوح": 71,
-        "jinn": 72, "الجن": 72,
-        "muzzammil": 73, "المزمل": 73,
-        "muddaththir": 74, "المدثر": 74,
-        "qiyamah": 75, "القيامة": 75,
-        "insan": 76, "الإنسان": 76,
-        "mursalat": 77, "المرسلات": 77,
-    }
-    
-    for pattern, surah_num in famous_surahs.items():
-        if pattern in question_lower:
-            return surah_num
-    
-    # Try to extract number
-    numbers = re.findall(r'\d+', question)
-    if numbers:
-        num = int(numbers[0])
-        if 1 <= num <= 114:
+    # Check for multi-word surah names
+    for name, num in SURAH_MAP.items():
+        if name in question_lower and len(name) > 2:  # Avoid single letters
+            print(f"   📖 Detected surah name: {name} -> {num}")
             return num
     
     return 0
 
-def extract_verse_range(question: str):
-    """Extract verse range from question"""
+def detect_prophet_name(question: str):
+    """Detect if question is asking about a specific prophet"""
     question_lower = question.lower()
     
-    if "255" in question_lower:
-        return (255, 255)
+    # Check for prophet names
+    for name_key, arabic_name in PROPHET_NAMES.items():
+        if name_key in question_lower:
+            return name_key, arabic_name
     
+    return None, None
+
+def extract_verse_number(question: str):
+    """Extract verse number from question"""
+    question_lower = question.lower()
+    
+    # Special case for Ayat-ul-Kursi
+    if "255" in question_lower or "ayat kursi" in question_lower or "throne verse" in question_lower:
+        return 255
+    
+    # Pattern for "verse 4", "verrse 4", "vers 4", "v 4", etc.
     patterns = [
-        r'verse\s*(\d+)\s*[-–]\s*(\d+)',
-        r'verses\s*(\d+)\s*[-–]\s*(\d+)',
-        r'ayah\s*(\d+)\s*[-–]\s*(\d+)',
-        r'ayat\s*(\d+)\s*[-–]\s*(\d+)',
-        r'(\d+)\s*[-–]\s*(\d+)',
-        r'verse\s*(\d+)\s*to\s*(\d+)',
-        r'verses\s*(\d+)\s*to\s*(\d+)',
+        r'verse\s*(\d+)',
+        r'verses\s*(\d+)',
+        r'verrse\s*(\d+)',
+        r'vers\s*(\d+)',
+        r'v\s*(\d+)',
+        r'ayah\s*(\d+)',
+        r'ayat\s*(\d+)',
+        r'(\d+)(?:st|nd|rd|th)?\s*verse',
+        r'(\d+)(?:st|nd|rd|th)?\s*verrse',
+        r'(\d+)(?:st|nd|rd|th)?\s*ayah',
+        r'verse[:\s]*(\d+)',
+        r'(\d+)\s*(?:only|number|no)',
     ]
     
     for pattern in patterns:
         match = re.search(pattern, question_lower)
         if match:
             try:
-                start = int(match.group(1))
-                end = int(match.group(2))
-                if start > 0 and end >= start:
-                    return (start, end)
-            except:
-                pass
-    
-    single_patterns = [
-        r'verse\s*(\d+)',
-        r'ayah\s*(\d+)',
-        r'ayat\s*(\d+)',
-    ]
-    
-    for pattern in single_patterns:
-        match = re.search(pattern, question_lower)
-        if match:
-            try:
                 verse_num = int(match.group(1))
                 if verse_num > 0:
-                    return (verse_num, verse_num)
+                    print(f"   🔢 Detected verse number: {verse_num}")
+                    return verse_num
             except:
                 pass
+    
+    # Look for standalone numbers at the end of question
+    words = question_lower.split()
+    for word in words:
+        if word.isdigit():
+            num = int(word)
+            if 1 <= num <= 286:
+                print(f"   🔢 Detected standalone number: {num}")
+                return num
     
     return None
 
-def format_surah_response(surah_data, question):
-    """Create a beautiful, professional response"""
-    if not surah_data['success']:
-        return "I couldn't retrieve this Surah at the moment."
+def format_surah_response(surah_data, request_type="info"):
+    """Format surah response from API data"""
     
-    response = f"# 📖 {surah_data['arabic_name']} ({surah_data['english_name']})\n\n"
-    response += f"**Chapter {surah_data['surah_number']}** • "
-    response += f"{surah_data['revelation_type']} Revelation • "
-    response += f"{surah_data['verses_count']} Verses\n\n"
+    para_info = get_para_info(surah_data['surah_number'], 1)
     
-    verse_range = extract_verse_range(question)
-    
-    if verse_range:
-        start_verse, end_verse = verse_range
-        start_verse = max(1, start_verse)
-        end_verse = min(surah_data['verses_count'], end_verse)
-        
-        if start_verse <= end_verse:
-            para_info = get_para_info(surah_data['surah_number'], start_verse)
-            response += f"**📍 {para_info['display']}**\n\n"
-            response += f"## Verses {start_verse}-{end_verse}:\n\n"
-            
-            for verse in surah_data['verses'][start_verse-1:end_verse]:
-                response += f"**{verse['number']}.** {verse['arabic']}\n"
-                response += f"*English:* {verse['english'][:120]}...\n"
-                if verse.get('urdu'):
-                    response += f"*Urdu:* {verse.get('urdu', '')[:100]}...\n"
-                response += "\n"
-        else:
-            para_info = get_para_info(surah_data['surah_number'], 1)
-            response += f"**📍 {para_info['display']}**\n\n"
-            response += "## Opening Verses:\n\n"
-            for verse in surah_data['verses'][:3]:
-                response += f"**{verse['number']}.** {verse['arabic']}\n"
-                response += f"*English:* {verse['english'][:120]}...\n"
-                if verse.get('urdu'):
-                    response += f"*Urdu:* {verse.get('urdu', '')[:100]}...\n"
-                response += "\n"
-    else:
-        para_info = get_para_info(surah_data['surah_number'], 1)
+    if request_type == "info":
+        response = f"# 📖 {surah_data['arabic_name']} ({surah_data['english_name']})\n\n"
+        response += f"**Chapter {surah_data['surah_number']}** • {surah_data['revelation_type']} Revelation • {surah_data['verses_count']} Verses\n\n"
         response += f"**📍 {para_info['display']}**\n\n"
-        response += "## Preview (First 3 verses):\n\n"
+        
+        response += "## 📖 Opening Verses\n\n"
         for verse in surah_data['verses'][:3]:
-            response += f"**{verse['number']}.** {verse['arabic']}\n"
-            response += f"*English:* {verse['english'][:120]}...\n"
-            if verse.get('urdu'):
-                response += f"*Urdu:* {verse.get('urdu', '')[:100]}...\n"
-            response += "\n"
+            response += f"**{verse['number']}.** {verse['arabic']}\n\n"
+            response += f"   *{verse['english']}*\n\n"
+            if verse.get('urdu') and verse['urdu'] != "اردو ترجمہ دستیاب نہیں":
+                response += f"   *{verse['urdu']}*\n\n"
         
         if surah_data['verses_count'] > 3:
-            response += f"*This Surah has {surah_data['verses_count']} verses total.*\n"
-            response += "*To see more, ask for specific verses.*\n"
+            response += f"*This Surah has {surah_data['verses_count']} verses. Ask 'show me Surah {surah_data['english_name']}' to see more.*\n"
     
-    response += "---\n"
-    response += "*Powered by Alquran.cloud API • Data cached for fast response*"
+    elif request_type == "full":
+        response = f"# 📖 سُورَةُ {surah_data['arabic_name']} ({surah_data['english_name']})\n\n"
+        response += f"**Chapter {surah_data['surah_number']}** • {surah_data['revelation_type']} Revelation • {surah_data['verses_count']} Verses\n\n"
+        response += f"**📍 {para_info['display']}**\n\n"
+        
+        if surah_data['surah_number'] != 9:
+            response += "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\n"
+            response += "*In the name of Allah, the Entirely Merciful, the Especially Merciful*\n\n"
+        
+        max_verses = min(20, surah_data['verses_count'])
+        for verse in surah_data['verses'][:max_verses]:
+            response += f"**{verse['number']}.** {verse['arabic']}\n\n"
+            response += f"   *{verse['english']}*\n\n"
+            if verse.get('urdu') and verse['urdu'] != "اردو ترجمہ دستیاب نہیں":
+                response += f"   *{verse['urdu']}*\n\n"
+        
+        if surah_data['verses_count'] > max_verses:
+            response += f"*Showing first {max_verses} of {surah_data['verses_count']} verses.*\n"
     
     return response
 
-def format_semantic_response(question: str, results: list, confidence_threshold: float = 0.3):
-    """Format semantic search results - SIMPLE CLEAN FORMAT"""
+def format_verse_response(verse_data):
+    """Format single verse response"""
+    para_info = get_para_info(verse_data['surah_number'], verse_data['verse_number'])
     
-    # Show top 5 results
-    display_results = results[:5] if results else []
+    response = f"# 📖 {verse_data['surah_name_arabic']} ({verse_data['surah_name']})\n\n"
+    response += f"**Verse {verse_data['verse_number']}**\n"
+    response += f"**📍 {para_info['display']}**\n\n"
+    response += f"**Arabic:**\n{verse_data['arabic']}\n\n"
+    response += f"**English:**\n{verse_data['english']}\n\n"
     
-    if not display_results:
-        return f"No verses found for: '{question}'"
-    
-    response = f"Results for: '{question}'\n\n"
-    response += "=" * 50 + "\n\n"
-    
-    for i, result in enumerate(display_results, 1):
-        response += f"{i}. {result['reference']} (Relevance: {result['confidence_percent']})\n"
-        response += f"   Arabic: {result['arabic']}\n"
-        response += f"   English: {result['english'][:150]}...\n"
-        
-        if result.get('urdu') and result['urdu'] != "اردو ترجمہ دستیاب نہیں":
-            response += f"   Urdu: {result['urdu'][:100]}...\n"
-        
-        response += "\n"
-    
-    response += "=" * 50 + "\n"
-    response += f"Found {len(results)} relevant verses"
-    
-    return response
-def format_low_confidence_preview(question: str, results):
-    """Show preview even for low-confidence results"""
-    if not results:
-        return f"## 📖 About '{question}'\n\nNo related verses found in the Quran."
-    
-    response = f"## 📖 About '{question}'\n\n"
-    response += "*The Quran doesn't contain explanatory verses like 'Surah X is...'. Here are some related verses:*\n\n"
-    
-    for i, result in enumerate(results[:3], 1):
-        para_info = get_para_info(result['surah'], result['ayah'])
-        
-        response += f"**{i}. {result['reference']}** (Similarity: {result['confidence_percent']})\n"
-        response += f"   *Location:* {para_info['display']}\n"
-        response += f"   *Arabic:* {result['arabic'][:60]}...\n"
-        response += f"   *English:* {result['english'][:80]}...\n\n"
-    
-    response += "---\n"
-    response += f"*Showing top {len(results)} related verses (low confidence match)*\n"
-    response += "*For specific verses, ask 'Show me Surah [name] verse [number]'*"
+    if verse_data.get('urdu') and verse_data['urdu'] != "اردو ترجمہ دستیاب نہیں":
+        response += f"**Urdu:**\n{verse_data['urdu']}\n\n"
     
     return response
 
-def format_keyword_response(question: str, results: list):
-    """Fallback response for keyword search"""
-    if not results:
-        return "I couldn't find specific verses for your question. Try asking about a specific Surah or topic."
+def get_topic_verses_response(topic):
+    """Get formatted response for topic"""
+    if topic not in TOPIC_VERSES:
+        return None
     
-    response = f"## 🔍 Search Results for: '{question}'\n\n"
+    verse_refs = TOPIC_VERSES[topic]
+    response = f"# 📖 Quranic Verses about '{topic.title()}'\n\n"
     
-    for i, result in enumerate(results[:5], 1):
-        verse_key = result.get('verse_key', '')
-        if ':' in verse_key:
-            surah_num, verse_num = verse_key.split(':')
-            try:
-                para_info = get_para_info(int(surah_num), int(verse_num))
-                location = f" ({para_info['display']})"
-            except:
-                location = ""
-        else:
-            location = ""
-        
-        response += f"**{i}. {result.get('surah_name', 'Surah')} {verse_key}{location}**\n"
-        response += f"{result.get('text', '')[:150]}...\n\n"
+    count = 0
+    for ref in verse_refs[:10]:
+        try:
+            surah, verse = map(int, ref.split(':'))
+            verse_data = quran_client.get_specific_verse(surah, verse)
+            if verse_data['success']:
+                count += 1
+                para_info = get_para_info(surah, verse)
+                response += f"**{count}. {ref}** - 📍 {para_info['display']}\n\n"
+                response += f"{verse_data['english']}\n\n"
+                if verse_data.get('urdu') and verse_data['urdu'] != "اردو ترجمہ دستیاب نہیں":
+                    response += f"{verse_data['urdu']}\n\n"
+                response += "---\n\n"
+        except:
+            continue
     
-    response += "---\n"
-    response += "*Search results from Quranic texts*"
+    if count == 0:
+        return None
     
+    response += f"*Found {len(verse_refs)} verses about {topic}. Ask for specific verses to see more.*"
     return response
 
-# ==================== MAIN ASK ENDPOINT ====================
+def get_shortest_surahs_response():
+    """Get response for shortest surahs question"""
+    short_surahs = [108, 103, 110, 112, 113, 114, 97, 99, 100, 105, 106, 107, 111]
+    
+    response = "# 📖 Shortest Surahs in the Quran\n\n"
+    response += "| # | Surah Name | Verses |\n"
+    response += "|---|------------|--------|\n"
+    
+    surahs_data = []
+    for num in short_surahs:
+        surah = quran_client.get_surah(num)
+        if surah['success']:
+            surahs_data.append({
+                "num": num,
+                "name": surah['english_name'],
+                "arabic": surah['arabic_name'],
+                "verses": surah['verses_count']
+            })
+    
+    surahs_data.sort(key=lambda x: x['verses'])
+    
+    for i, s in enumerate(surahs_data[:10], 1):
+        response += f"| {i} | {s['arabic']} ({s['name']}) | {s['verses']} |\n"
+    
+    response += "\n\n**Top 3 Shortest:**\n"
+    for i, s in enumerate(surahs_data[:3], 1):
+        response += f"{i}. {s['arabic']} ({s['name']}) - {s['verses']} verses\n"
+    
+    response += "\n*Ask 'show me Surah [name]' to see any of these in detail.*"
+    return response
+
+def get_longest_surahs_response():
+    """Get response for longest surah question"""
+    longest_surahs = [2, 3, 4, 5, 6, 7, 9, 10, 11, 12]
+    
+    response = "# 📖 Longest Surahs in the Quran\n\n"
+    response += "The longest Surah in the Quran is **Surah Al-Baqarah (Chapter 2)** with **286 verses**.\n\n"
+    response += "## Top 10 Longest Surahs:\n\n"
+    response += "| # | Surah | Verses |\n"
+    response += "|---|-------|--------|\n"
+    
+    surahs_data = []
+    for num in longest_surahs:
+        surah = quran_client.get_surah(num)
+        if surah['success']:
+            surahs_data.append({
+                "num": num,
+                "name": surah['english_name'],
+                "arabic": surah['arabic_name'],
+                "verses": surah['verses_count']
+            })
+    
+    surahs_data.sort(key=lambda x: x['verses'], reverse=True)
+    
+    for i, s in enumerate(surahs_data[:10], 1):
+        response += f"| {i} | {s['arabic']} ({s['name']}) | {s['verses']} |\n"
+    
+    response += "\n*Ask 'show me Surah [name]' to see any of these in detail.*"
+    return response
+
+def get_total_prophets_response():
+    """Get response for total prophets question - FIXED TABLE FORMATTING"""
+    return """# 👑 Total Prophets in Islam
+
+## Prophets Mentioned in Quran
+The Quran mentions **25 prophets by name**.
+
+| # | Prophet Name (Arabic) | Prophet Name (English) |
+|---|----------------------|------------------------|
+| 1 | آدم | Adam (AS) |
+| 2 | إدريس | Idris (AS) |
+| 3 | نوح | Nuh (AS) |
+| 4 | هود | Hud (AS) |
+| 5 | صالح | Salih (AS) |
+| 6 | إبراهيم | Ibrahim (AS) |
+| 7 | لوط | Lut (AS) |
+| 8 | إسماعيل | Ismail (AS) |
+| 9 | إسحاق | Ishaq (AS) |
+| 10 | يعقوب | Yaqub (AS) |
+| 11 | يوسف | Yusuf (AS) |
+| 12 | أيوب | Ayyub (AS) |
+| 13 | شعيب | Shu'ayb (AS) |
+| 14 | موسى | Musa (AS) |
+| 15 | هارون | Harun (AS) |
+| 16 | داود | Dawud (AS) |
+| 17 | سليمان | Sulayman (AS) |
+| 18 | إلياس | Ilyas (AS) |
+| 19 | اليسع | Al-Yasa (AS) |
+| 20 | ذو الكفل | Dhul-Kifl (AS) |
+| 21 | يونس | Yunus (AS) |
+| 22 | زكريا | Zakariyya (AS) |
+| 23 | يحيى | Yahya (AS) |
+| 24 | عيسى | Isa (AS) |
+| 25 | محمد | Muhammad (ﷺ) |
+
+## Quick Facts:
+- **Total prophets:** According to authentic hadith, there were **124,000+ prophets**
+- **Total messengers:** Approximately **313 messengers**
+- **First prophet:** Adam (AS)
+- **Last prophet:** Muhammad (ﷺ)
+- **Prophets mentioned in Quran:** 25 by name
+
+## Quranic Evidence:
+> "And We have already sent messengers before you. Of them are some We have related to you, and of them are some We have not related to you." (Surah Ghafir 40:78)
+
+Would you like to know about any specific prophet?"""
+
+def get_total_verses_response():
+    """Get response for total verses question"""
+    return """# 📖 Total Verses in the Quran
+
+The Holy Quran contains **6,236 verses** (ayah) according to the standard Hafs count.
+
+## Verse Count by Different Qira'at:
+| Qira'at (Recitation) | Verse Count |
+|----------------------|--------------|
+| Hafs (عاصم) | 6,236 |
+| Warsh (ورش) | 6,214 |
+| Qalun (قالون) | 6,225 |
+| Al-Duri (الدوري) | 6,218 |
+
+## Quick Facts:
+- **Total verses:** 6,236 (Hafs count)
+- **Longest verse:** Ayat-ul-Kursi (Surah Al-Baqarah 2:255)
+- **Shortest verses:** Single-letter verses like "ق" (Qaf 50:1)
+- **Surah with most verses:** Al-Baqarah (286 verses)
+- **Surah with fewest verses:** Al-Kawthar, Al-Asr, An-Nasr (3 verses each)
+- **Total words:** Approximately 77,430 words
+- **Total letters:** Approximately 323,670 letters
+
+## Distribution:
+- **Meccan verses:** ~4,780 verses
+- **Medinan verses:** ~1,456 verses
+
+Ask for specific verses like 'Surah Baqarah verse 255' to see them in detail!"""
+
+def get_prophet_info_response(prophet_name, arabic_name):
+    """Get information about a specific prophet"""
+    
+    prophet_info = {
+        "adam": {
+            "title": "👤 Prophet Adam (AS) - آدم",
+            "info": """Prophet Adam (AS) was the first human being and the first prophet of Allah.
+
+## Key Information:
+- **First prophet** and first human
+- **Created** from clay by Allah
+- **Wife:** Hawwa (Eve)
+- **Story in Quran:** Surah Al-Baqarah (2:30-39), Surah Al-A'raf (7:19-25)
+- **Place:** Jannah (Paradise), later sent to Earth
+- **Children:** Qabil, Habil, Seth, and others
+
+## Quranic Verses:
+> "And We said, 'O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.'" (Surah Al-Baqarah 2:35)"""
+        },
+        "muhammad": {
+            "title": "👑 Prophet Muhammad (ﷺ) - محمد",
+            "info": """Prophet Muhammad (ﷺ) is the last and final messenger of Allah.
+
+## Key Information:
+- **Last prophet** (Seal of the Prophets)
+- **Born:** 570 CE in Mecca
+- **Father:** Abdullah
+- **Mother:** Aminah
+- **First revelation:** At age 40 in Cave Hira
+- **Wife:** Khadijah (RA)
+- **Children:** Qasim, Abdullah, Ibrahim, Fatimah, Zainab, Ruqayyah, Umm Kulthum
+- **Migration (Hijrah):** 622 CE to Medina
+- **Died:** 632 CE in Medina
+
+## Quranic Verses:
+> "Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets." (Surah Al-Ahzab 33:40)
+
+> "And We have not sent you, [O Muhammad], except as a mercy to the worlds." (Surah Al-Anbiya 21:107)
+
+> "And indeed, you are of a great moral character." (Surah Al-Qalam 68:4)"""
+        },
+        "ibrahim": {
+            "title": "👤 Prophet Ibrahim (AS) - إبراهيم",
+            "info": """Prophet Ibrahim (AS) is known as the Khalilullah (Friend of Allah).
+
+## Key Information:
+- **Title:** Khalilullah (Friend of Allah)
+- **Father:** Aazar (idol worshipper)
+- **Sons:** Ismail (AS) and Ishaq (AS)
+- **Built:** The Kaaba with Ismail (AS)
+- **Test:** Commanded to sacrifice his son
+- **Place:** Ur (Iraq), later settled in Palestine
+
+## Quranic Verses:
+> "And who is better in religion than one who submits himself to Allah while being a doer of good and follows the religion of Abraham, inclining toward truth?" (Surah An-Nisa 4:125)
+
+> "And We gave to Abraham, Isaac and Jacob - all [of them] We guided." (Surah Al-An'am 6:84)"""
+        },
+        "musa": {
+            "title": "👤 Prophet Musa (AS) - موسى",
+            "info": """Prophet Musa (AS) is one of the greatest prophets and messengers.
+
+## Key Information:
+- **Title:** Kalimullah (One who spoke to Allah)
+- **Brother:** Harun (AS) - appointed as his helper
+- **Enemy:** Pharaoh (Firaun)
+- **Miracle:** Staff turning into a snake
+- **Miracle:** Hand shining white
+- **Received:** Torah (Tawrat)
+- **Event:** Parting of the Red Sea
+
+## Quranic Verses:
+> "And We certainly sent Moses with Our signs, [saying], 'Bring out your people from darknesses into the light and remind them of the days of Allah.'" (Surah Ibrahim 14:5)
+
+> "And We gave Moses the Scripture and made it a guidance for the Children of Israel." (Surah Al-Isra 17:2)"""
+        },
+        "isa": {
+            "title": "👤 Prophet Isa (AS) - عيسى",
+            "info": """Prophet Isa (AS) (Jesus) is a great messenger of Allah.
+
+## Key Information:
+- **Mother:** Maryam (AS) - pious virgin
+- **Born:** Miraculously without a father
+- **Miracle:** Speaking as an infant
+- **Miracle:** Healing the blind and leprous
+- **Miracle:** Raising the dead by Allah's permission
+- **Miracle:** Creating birds from clay
+- **Received:** Injil (Gospel)
+- **Status:** Not son of God, but a respected prophet
+- **Ascension:** Raised to heavens by Allah
+
+## Quranic Verses:
+> "The Messiah, Jesus, the son of Mary, was but a messenger of Allah." (Surah An-Nisa 4:171)
+
+> "And We gave Jesus, the son of Mary, clear proofs and supported him with the Holy Spirit." (Surah Al-Baqarah 2:87)"""
+        }
+    }
+    
+    # Default response for other prophets
+    if prophet_name not in prophet_info:
+        return f"""# 👤 Prophet {prophet_name.title()} (AS)
+
+Prophet {prophet_name.title()} (AS) is one of the prophets mentioned in the Quran.
+
+## Quick Facts:
+- Mentioned in the list of 25 prophets
+- His story appears in various Quranic verses
+- He was sent to guide his people to the worship of One Allah
+
+## Quranic Reference:
+For specific information about Prophet {prophet_name.title()} (AS), you can ask:
+- "Tell me the story of {prophet_name.title()}"
+- "Show me verses about {prophet_name.title()}"
+
+Would you like to know about any other prophet?"""
+    
+    return f"{prophet_info[prophet_name]['title']}\n\n{prophet_info[prophet_name]['info']}"
+
 # ==================== MAIN ASK ENDPOINT ====================
 @app.post("/ask")
-def ask_question(request: QuestionRequest, confidence_threshold: float = 0.3):
+def ask_question(request: QuestionRequest):
     # Clean the question
     cleaned_question = request.question.strip().strip('"').strip("'")
     question_lower = cleaned_question.lower()
     
     print(f"\n📥 Question: '{cleaned_question}'")
     
-    # ============ STEP 1: AYAT-UL-KURSI ============
-    if ("ayat" in question_lower and "kursi" in question_lower) or \
-       ("255" in question_lower and "baqarah" in question_lower) or \
-       ("throne" in question_lower) or \
-       ("ayatul" in question_lower):
-        
-        print(f"   🕌 SPECIAL: Ayat-ul-Kursi")
+    # ============ STEP 1: CHECK FOR PROPHET NAME ============
+    prophet_key, prophet_arabic = detect_prophet_name(cleaned_question)
+    
+    # If prophet detected and not asking for surah
+    if prophet_key and not any(word in question_lower for word in ["surah", "chapter"]):
+        print(f"   👤 Prophet detected: {prophet_key}")
+        return {
+            "question": cleaned_question,
+            "answer": get_prophet_info_response(prophet_key, prophet_arabic),
+            "type": "prophet_info"
+        }
+    
+    # ============ STEP 2: EXTRACT SURAH AND VERSE ============
+    surah_number = detect_surah_number(cleaned_question)
+    verse_number = extract_verse_number(cleaned_question)
+    
+    print(f"   📊 Detected: Surah={surah_number}, Verse={verse_number}")
+    
+    # ============ STEP 3: EXACT VERSE (X:Y format) ============
+    pattern = re.search(r'(?:surah\s*)?(\d+)[:\s](\d+)', question_lower)
+    if pattern:
+        s_num = int(pattern.group(1))
+        v_num = int(pattern.group(2))
+        print(f"   🎯 Exact verse: {s_num}:{v_num}")
+        verse_data = quran_client.get_specific_verse(s_num, v_num)
+        if verse_data['success']:
+            return {
+                "question": cleaned_question,
+                "answer": format_verse_response(verse_data),
+                "type": "exact_verse"
+            }
+    
+    # ============ STEP 4: AYAT-UL-KURSI ============
+    if any(phrase in question_lower for phrase in ["ayat kursi", "ayatul kursi", "throne verse"]):
+        print(f"   🕌 Ayat-ul-Kursi")
         verse_data = quran_client.get_specific_verse(2, 255)
         if verse_data['success']:
             para_info = get_para_info(2, 255)
-            response = f"# 🕌 Ayat-ul-Kursi (The Throne Verse)\n\n**Surah Al-Baqarah (2), Verse 255**\n**📍 {para_info['display']}**\n\n**Arabic:**\n{verse_data['arabic']}\n\n**English:**\n{verse_data['english']}\n\n"
-            if verse_data.get('urdu'):
-                response += f"**Urdu:**\n{verse_data['urdu']}\n\n"
-            response += "---\n*The greatest verse in the Quran*"
-            return {
-                "question": cleaned_question,
-                "answer": response,
-                "type": "special",
-                "surah_number": 2,
-                "verse_number": 255,
-                "timestamp": "2024"
-            }
-    
-    # ============ RAMADAN SPECIAL ============
-    if "ramadan" in question_lower or "fast" in question_lower or "صيام" in question_lower:
-        verse_data = quran_client.get_specific_verse(2, 185)
-        if verse_data['success']:
-            para_info = get_para_info(2, 185)
-            response = f"# 🌙 Ramadan in Islam\n\n"
-            response += f"**Surah Al-Baqarah (2), Verse 185**\n"
+            response = f"# 🕌 Ayat-ul-Kursi (The Throne Verse)\n\n"
+            response += f"**Surah Al-Baqarah (2), Verse 255**\n"
             response += f"**📍 {para_info['display']}**\n\n"
             response += f"**Arabic:**\n{verse_data['arabic']}\n\n"
             response += f"**English:**\n{verse_data['english']}\n\n"
+            if verse_data.get('urdu') and verse_data['urdu'] != "اردو ترجمہ دستیاب نہیں":
+                response += f"**Urdu:**\n{verse_data['urdu']}\n\n"
+            response += "---\n*The greatest verse in the Quran*"
+            
             return {
                 "question": cleaned_question,
                 "answer": response,
-                "type": "topic_special",
-                "timestamp": "2024"
+                "type": "special"
             }
     
-    # ============ STEP 2: SURAH DETECTION ============
-    surah_number = detect_surah_number(cleaned_question)
+    # ============ STEP 5: SURAH + VERSE ============
+    if surah_number > 0 and verse_number:
+        print(f"   🎯 Surah {surah_number} verse {verse_number}")
+        verse_data = quran_client.get_specific_verse(surah_number, verse_number)
+        if verse_data['success']:
+            return {
+                "question": cleaned_question,
+                "answer": format_verse_response(verse_data),
+                "type": "exact_verse"
+            }
     
-    # ============ STEP 3: WHAT IS SURAH X? ============
-    if surah_number > 0 and ("what is surah" in question_lower or "tell me about surah" in question_lower or "explain surah" in question_lower):
-        print(f"   📖 Showing Surah {surah_number} (What is Surah request)")
+    # ============ STEP 6: SURAH NAME DETECTED ============
+    if surah_number > 0:
+        print(f"   📖 Surah detected: {surah_number}")
         surah_data = quran_client.get_surah(surah_number)
         if surah_data['success']:
-            response = f"# 📖 {surah_data['arabic_name']} ({surah_data['english_name']})\n\n"
-            response += f"**Chapter {surah_data['surah_number']}** • {surah_data['revelation_type']} Revelation • {surah_data['verses_count']} Verses\n\n"
-            
-            para_info = get_para_info(surah_number, 1)
-            response += f"**📍 {para_info['display']}**\n\n"
-            response += f"## Full Surah: {surah_data['english_name']}\n\n"
-            
-            for verse in surah_data['verses']:
-                response += f"**{verse['number']}.** {verse['arabic']}\n"
-                response += f"*English:* {verse['english']}\n"
-                if verse.get('urdu'):
-                    response += f"*Urdu:* {verse['urdu']}\n"
-                response += "\n"
-            
             return {
                 "question": cleaned_question,
-                "answer": response,
-                "type": "surah_explanation",
-                "surah_number": surah_number,
-                "timestamp": "2024"
+                "answer": format_surah_response(surah_data, "info"),
+                "type": "surah_info"
             }
     
-    # ============ STEP 4: SHOW ME SURAH X ============
-    wants_to_see = any(word in question_lower for word in ["show me", "display", "view", "see", "verses"])
-    if surah_number > 0 and wants_to_see:
-        print(f"   📖 Showing Surah {surah_number} (full)")
-        surah_data = quran_client.get_surah(surah_number)
+    # ============ STEP 7: FACTUAL QUESTIONS ============
+    
+    # Total Prophets
+    if any(phrase in question_lower for phrase in ["total prophet", "how many prophet", "kitne nabi", "prophets in islam"]):
+        print(f"   👑 Total Prophets")
+        return {
+            "question": cleaned_question,
+            "answer": get_total_prophets_response(),
+            "type": "factual"
+        }
+    
+    # Total Verses
+    if any(phrase in question_lower for phrase in ["total verses", "how many verses", "kitni ayaten", "total ayat"]):
+        print(f"   📖 Total Verses")
+        return {
+            "question": cleaned_question,
+            "answer": get_total_verses_response(),
+            "type": "factual"
+        }
+    
+    # Last Surah
+    if any(phrase in question_lower for phrase in ["last surah", "akhri surah", "final surah"]):
+        print(f"   📖 Last Surah")
+        surah_data = quran_client.get_surah(114)
         if surah_data['success']:
-            # Get Para/Juz information
-            para_info = get_para_info(surah_number, 1)
-            
-            # Build the response header
-            response = f"""📖 سُورَةُ {surah_data['arabic_name']} ({surah_data['english_name']})
-Chapter {surah_data['surah_number']} • {surah_data['revelation_type']} Revelation • {surah_data['verses_count']} Verses
+            return {
+                "question": cleaned_question,
+                "answer": format_surah_response(surah_data, "info"),
+                "type": "surah_info"
+            }
+    
+    # First Surah
+    if any(phrase in question_lower for phrase in ["first surah", "pehla surah"]):
+        print(f"   📖 First Surah")
+        surah_data = quran_client.get_surah(1)
+        if surah_data['success']:
+            return {
+                "question": cleaned_question,
+                "answer": format_surah_response(surah_data, "info"),
+                "type": "surah_info"
+            }
+    
+    # Longest Surah
+    if any(phrase in question_lower for phrase in ["longest surah", "badi surah", "sabse lambi surah"]):
+        print(f"   📖 Longest Surah")
+        response = get_longest_surahs_response()
+        if response:
+            return {
+                "question": cleaned_question,
+                "answer": response,
+                "type": "factual"
+            }
+    
+    # Shortest Surah
+    if any(phrase in question_lower for phrase in ["shortest surah", "choti surah", "smallest surah", "sabse choti surah"]):
+        print(f"   📖 Shortest Surahs")
+        response = get_shortest_surahs_response()
+        if response:
+            return {
+                "question": cleaned_question,
+                "answer": response,
+                "type": "factual"
+            }
+    
+    # Total Surahs
+    if any(phrase in question_lower for phrase in ["total surah", "how many surah", "kitni surah"]):
+        print(f"   📚 Total Surahs")
+        
+        response = f"""# 📚 Total Surahs in the Quran
 
-📍 {para_info['display']}
+The Holy Quran contains **114 Surahs** (chapters).
 
-"""
-            # Add Bismillah on separate line with translation (for all Surahs except At-Tawbah 9)
-            if surah_number != 9:
-                response += """بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-In the name of Allah, the Entirely Merciful, the Especially Merciful
+## Quick Facts:
+- **Total Surahs:** 114
+- **Meccan Surahs:** 86 (revealed in Mecca)
+- **Medinan Surahs:** 28 (revealed in Medina)
+- **Longest Surah:** Al-Baqarah (2) - 286 verses
+- **Shortest Surah:** Al-Kawthar (108) - 3 verses
 
-"""
-            # Loop through ALL verses with complete text (no truncation)
-            for verse in surah_data['verses']:
-                response += f"{verse['number']}. {verse['arabic']}\n"
-                response += f"English: {verse['english']}\n"
-                if verse.get('urdu') and verse['urdu'] != "اردو ترجمہ دستیاب نہیں":
-                    response += f"Urdu: {verse['urdu']}\n"
-                response += "\n"
-            
-            # Add footer
-            response += "---\n"
-            response += "*Powered by Alquran.cloud API*"
-            
-            return {
-                "question": cleaned_question,
-                "answer": response,
-                "type": "full_surah",
-                "surah_number": surah_number,
-                "timestamp": "2024"
-            }
-    
-    # ============ STEP 5: SPECIFIC VERSE (X:Y) ============
-    pattern1 = re.search(r'(?:surah\s*)?(\d+)[:\s](\d+)', question_lower)
-    if pattern1:
-        s_num = int(pattern1.group(1))
-        v_num = int(pattern1.group(2))
-        print(f"   🎯 Verse: {s_num}:{v_num}")
-        verse_data = quran_client.get_specific_verse(s_num, v_num)
-        if verse_data['success']:
-            response = f"# 📖 {verse_data['surah_name_arabic']} ({verse_data['surah_name']})\n\n**Verse {verse_data['verse_number']}**\n\n**Arabic:**\n{verse_data['arabic']}\n\n**English:**\n{verse_data['english']}\n\n"
-            if verse_data.get('urdu'):
-                response += f"**Urdu:**\n{verse_data['urdu']}\n\n"
-            response += "---\n*Exact verse*"
-            return {
-                "question": cleaned_question,
-                "answer": response,
-                "type": "exact_verse",
-                "surah_number": s_num,
-                "verse_number": v_num,
-                "timestamp": "2024"
-            }
-    
-    # ============ STEP 6: VERSE FROM SURAH NAME ============
-    verse_range = extract_verse_range(cleaned_question)
-    if surah_number > 0 and verse_range and verse_range[0] == verse_range[1]:
-        v_num = verse_range[0]
-        print(f"   🎯 Verse: {surah_number}:{v_num}")
-        verse_data = quran_client.get_specific_verse(surah_number, v_num)
-        if verse_data['success']:
-            response = f"# 📖 {verse_data['surah_name_arabic']} ({verse_data['surah_name']})\n\n**Verse {verse_data['verse_number']}**\n\n**Arabic:**\n{verse_data['arabic']}\n\n**English:**\n{verse_data['english']}\n\n"
-            if verse_data.get('urdu'):
-                response += f"**Urdu:**\n{verse_data['urdu']}\n\n"
-            response += "---\n*Exact verse*"
-            return {
-                "question": cleaned_question,
-                "answer": response,
-                "type": "exact_verse",
-                "surah_number": surah_number,
-                "verse_number": v_num,
-                "timestamp": "2024"
-            }
-    
-    # ============ STEP 6.5: LAST PROPHET SPECIAL HANDLING ============
-    if "last prophet" in question_lower or "final prophet" in question_lower or "seal of prophets" in question_lower:
-        print(f"   🕌 SPECIAL: Last Prophet query")
-        verse_data = quran_client.get_specific_verse(33, 40)
-        if verse_data['success']:
-            response = f"## The Last Prophet in Quran\n\n"
-            response += f"**Surah Al-Ahzab (33), Verse 40**\n\n"
-            response += f"Arabic: {verse_data['arabic']}\n\n"
-            response += f"English: {verse_data['english']}\n\n"
-            if verse_data.get('urdu'):
-                response += f"Urdu: {verse_data['urdu']}\n\n"
-            response += "This verse clearly states that Prophet Muhammad (ﷺ) is the last and final prophet."
-            return {
-                "question": cleaned_question,
-                "answer": response,
-                "type": "last_prophet",
-                "timestamp": "2024"
-            }
-    
-    # ============ STEP 7: SEMANTIC SEARCH ============
-    print(f"   🔍 Semantic search...")
-    try:
-        semantic_results = search_engine.search(cleaned_question, top_k=20)
-        if semantic_results:
-            formatted = format_semantic_response(
-                cleaned_question,
-                semantic_results,
-                confidence_threshold=0.3
-            )
-            return {
-                "question": cleaned_question,
-                "answer": formatted,
-                "type": "semantic_search",
-                "timestamp": "2024"
-            }
-    except Exception as e:
-        print(f"Semantic search failed: {e}")
-    
-    # ============ STEP 8: KEYWORD SEARCH ============
-    print(f"   🔍 Keyword search...")
-    search_results = quran_client.search_verses(cleaned_question)
-    if search_results:
-        response = f"## 🔍 Search Results for: '{cleaned_question}'\n\n"
-        for i, r in enumerate(search_results[:5], 1):
-            verse_key = r.get('verse_key', '')
-            response += f"**{i}. {r.get('surah_name', 'Surah')} {verse_key}**\n"
-            response += f"{r.get('text', '')}\n\n"
+## First 10 Surahs:
+1. Al-Fatiha (The Opening) - 7 verses
+2. Al-Baqarah (The Cow) - 286 verses
+3. Al-Imran (Family of Imran) - 200 verses
+4. An-Nisa (Women) - 176 verses
+5. Al-Maidah (The Table) - 120 verses
+6. Al-An'am (Cattle) - 165 verses
+7. Al-A'raf (The Heights) - 206 verses
+8. Al-Anfal (Spoils of War) - 75 verses
+9. At-Tawbah (Repentance) - 129 verses
+10. Yunus (Jonah) - 109 verses
+
+Would you like to know about any specific Surah?"""
+        
         return {
             "question": cleaned_question,
             "answer": response,
-            "type": "keyword_search",
-            "timestamp": "2024"
+            "type": "factual"
         }
     
-    # ============ STEP 9: NO RESULTS ============
-    return {
-        "question": cleaned_question,
-        "answer": "No verses found. Try a different question.",
-        "type": "no_results",
-        "timestamp": "2024"
+    # ============ STEP 8: TOPIC VERSES ============
+    topics = {
+        "zakat": ["zakat", "zakah", "charity", "alms", "زكاة"],
+        "hajj": ["hajj", "pilgrimage", "حج"],
+        "divorce": ["divorce", "talaq", "طلاق"],
+        "sacrifice": ["sacrifice", "qurbani", "qurabni", "قربانی"],
+        "patience": ["patience", "sabr", "صبر"],
+        "prayer": ["prayer", "salah", "salat", "namaz", "صلاة"],
+        "fasting": ["fasting", "sawm", "roza", "صوم"],
+        "mercy": ["mercy", "rahmah", "رحمة"],
     }
-@app.get("/")
-def home():
-    """Homepage with system info"""
-    return {
-        "system": "Islam-GPT Professional v2.0",
-        "status": "✅ Operational",
-        "features": [
-            "Quran Semantic Search (AI-powered)",
-            "Arabic text with English & Urdu translations",
-            "Para/Juz information",
-            "Smart Surah detection",
-            "Exact verse lookup"
-        ],
-        "endpoints": {
-            "ask_question": "POST /ask",
-            "api_docs": "http://localhost:8000/docs",
-            "test_surah": "GET /test/{surah_number}",
-            "cache_stats": "GET /cache-stats"
-        },
-        "data_source": "Alquran.cloud API + Semantic AI"
-    }
-
-@app.get("/surah/{surah_number}")
-def get_surah_endpoint(surah_number: int):
-    """Return Surah data"""
-    if 1 <= surah_number <= 114:
-        data = quran_client.get_surah(surah_number)
-        if data.get('success'):
-            para_info = get_para_info(surah_number, 1)
-            data['para_info'] = para_info
-        return data
-    return {"error": "Surah number must be between 1 and 114"}
-
-
-@app.get("/para/{para_number}")
-def get_para_info_endpoint(para_number: int):
-    """Get information about a specific Para/Juz"""
-    if 1 <= para_number <= 30:
-        boundary_surah, boundary_verse = PARA_BOUNDARIES[para_number]
-        next_boundary = PARA_BOUNDARIES.get(para_number + 1, (114, 6))
-        
-        return {
-            "para_number": para_number,
-            "juz_number": para_number,
-            "arabic_name": PARA_NAMES.get(para_number, ""),
-            "starts_at": f"{boundary_surah}:{boundary_verse}",
-            "ends_before": f"{next_boundary[0]}:{next_boundary[1]}",
-            "display": f"Para {para_number} ({PARA_NAMES.get(para_number, '')}) • Juz {para_number}"
-        }
-    return {"error": "Para number must be between 1 and 30"}
-
-@app.get("/cache-stats")
-def cache_stats():
-    """Show cache statistics"""
-    import os
-    import json
     
-    cache_dir = "quran_cache"
-    if not os.path.exists(cache_dir):
-        return {"status": "No cache found"}
+    detected_topic = None
+    for topic, keywords in topics.items():
+        for keyword in keywords:
+            if keyword in question_lower:
+                detected_topic = topic
+                break
+        if detected_topic:
+            break
     
-    surah_files = [f for f in os.listdir(cache_dir) 
-                  if f.startswith('surah_') and f.endswith('.json')]
+    if detected_topic:
+        print(f"   🔍 Topic: {detected_topic}")
+        response = get_topic_verses_response(detected_topic)
+        if response:
+            return {
+                "question": cleaned_question,
+                "answer": response,
+                "type": "topic_verses"
+            }
     
-    total_verses = 0
-    total_size = 0
-    
-    for file in surah_files:
-        filepath = os.path.join(cache_dir, file)
-        total_size += os.path.getsize(filepath)
-        
-        try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                total_verses += data.get('verses_count', 0)
-        except:
-            pass
-    
-    embeddings_info = {}
-    if os.path.exists(EMBEDDINGS_FILE):
-        embeddings_info = {
-            "embeddings_file": "✅ Found",
-            "embeddings_size": f"{os.path.getsize(EMBEDDINGS_FILE)/1024/1024:.1f} MB"
-        }
-    else:
-        embeddings_info = {"embeddings_file": "❌ Not found"}
-    
-    return {
-        **embeddings_info,
-        "cached_surahs": len(surah_files),
-        "total_surahs": 114,
-        "percentage": f"{(len(surah_files)/114)*100:.1f}%",
-        "total_verses": total_verses,
-        "cache_size_mb": f"{total_size/1024/1024:.1f}",
-        "semantic_search": "✅ Ready" if os.path.exists(EMBEDDINGS_FILE) else "⚠️ Needs building"
-    }
-
-@app.get("/test-search/{query}")
-def test_semantic_search(query: str):
-    """Test the semantic search engine"""
-    results = search_engine.search(query, top_k=5)
+    # ============ STEP 9: SEMANTIC SEARCH ============
+    print(f"   🔍 Semantic search...")
+    results = search_engine.search(cleaned_question, top_k=10)
     
     if results:
-        formatted = format_semantic_response(query, results, confidence_threshold=0.25)
-        return {
-            "query": query,
-            "results_count": len(results),
-            "top_result": {
-                "reference": results[0]['reference'],
-                "confidence": results[0]['confidence_percent'],
-                "arabic_preview": results[0]['arabic'][:50] + "..."
-            },
-            "formatted_response": formatted
+        filtered = [r for r in results if not r['arabic'].startswith('حم')]
+        
+        if filtered:
+            response = f"## 📖 Results for: '{cleaned_question}'\n\n"
+            
+            for i, result in enumerate(filtered[:7], 1):
+                para_info = get_para_info(result['surah'], result['ayah'])
+                
+                conf = "Related"
+                if 'confidence_percent' in result:
+                    conf = result['confidence_percent']
+                
+                response += f"**{i}. {result['reference']}** (Relevance: {conf})\n"
+                response += f"*📍 {para_info['display']}*\n\n"
+                response += f"{result['english']}\n\n"
+                if result.get('urdu') and result['urdu'] != "اردو ترجمہ دستیاب نہیں":
+                    response += f"{result['urdu']}\n\n"
+            
+            return {
+                "question": cleaned_question,
+                "answer": response,
+                "type": "semantic_search"
+            }
+    
+    # ============ STEP 10: NO RESULTS ============
+    return {
+        "question": cleaned_question,
+        "answer": """I couldn't find specific verses for your question.
+
+Try asking about:
+• **Prophets:** "tell me about Prophet Muhammad", "who is Prophet Musa"
+• **Specific Surahs:** "surah yasin", "surah rahman", "surah mulk"
+• **Specific verses:** "Surah Baqarah verse 255", "2:255", "ayat kursi"
+• **Topics:** "zakat", "hajj", "divorce", "patience", "prayer"
+• **Facts:** "total surah", "total prophets", "total verses"
+
+Please rephrase and try again.""",
+        "type": "no_results"
+    }
+
+@app.get("/")
+def home():
+    return {
+        "system": "Islam-GPT Professional v3.9",
+        "status": "✅ Operational",
+        "features": [
+            "100% API-based - NO hardcoded content",
+            "✅ Urdu Translation Included",
+            "✅ Proper Formatting (Arabic, English, Urdu on separate lines)",
+            "✅ Factual Answers with Proper Tables",
+            "✅ Prophet Information (Muhammad, Musa, Isa, etc.)",
+            "✅ Better Verse Detection (handles typos like 'verrse')",
+            "Smart Surah detection",
+            "Topic verses (zakat, hajj, divorce, etc.)",
+            "Longest & Shortest surahs",
+            "Ayat-ul-Kursi special"
+        ],
+        "endpoints": {
+            "ask": "POST /ask"
         }
-    else:
-        return {"query": query, "results_count": 0, "message": "No results found"}
+    }
 
 if __name__ == "__main__":
     import uvicorn
